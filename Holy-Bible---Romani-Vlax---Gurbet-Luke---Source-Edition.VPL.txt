@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 04/03/2021 16:12:04
+## File Created: 04/23/2021 09:57:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 04/01/2021 23:02:27
+## Source Date: 04/21/2021 21:07:04
 ## Source Text: unaltered below
 ##
 
@@ -72,7 +72,7 @@ LUK 1:55 sar so vačarda amare kuštikenđe, e Avraamese, thaj lese semese đi k
 LUK 1:56 Thaj i Marija bešli e Jelisavetasa paše trin čhon, thaj pale gova irisajli čhere.
 LUK 1:57 A i Jelisavetaće avilo o časo te bijanol, thaj bijanda čhave.
 LUK 1:58 Thaj kana šunde lače pašutne thaj lačhi familija kaj o Rajo sikada laće baro milost, radujisajle lasa.
-LUK 1:59 Thaj kana o čhavoro sasa ohtoto đive, avile te čeren le suneti, thaj manglje te denle alav-Zaharija.
+LUK 1:59 Thaj kana o čhavoro sasa ohtoto đive, avile te čeren le suneti, thaj manglje te den le alav-Zaharija.
 LUK 1:60 I Jelisaveta vačarda: “Na, leso alav ka avol Jovane!”
 LUK 1:61 Thaj phende lačhe: “Naj tut khoni ani ćiri familija gole alavesa!”
 LUK 1:62 Thaj pučlje e dade e Zaharija vastencar sar bi vov manđola te dol leso alav.
@@ -112,12 +112,12 @@ LUK 2:15 Thaj kana e melekura đele lendar ano nebo, e čobanura phende jekh ave
 LUK 2:16 E čobanura đele sigate, thaj arakhlje e Marija thaj e Josife, thaj e čhave sar pašljol ani balija.
 LUK 2:17 Thaj kana dikhlje le, savorenđe vačarde so o meleko lenđe vačarda taro čhavoro.
 LUK 2:18 Thaj savore save šunde e čobanuren divisajle.
-LUK 2:19 A i Marija dija gođi tar kala lafura, thaj čhuta len ane po ilo.
+LUK 2:19 A i Marija dija gođi tar kala lafura, thaj čuta len ane po ilo.
 LUK 2:20 Thaj irisajle e čobanura thaj slavisade thaj hvalisade e Devle za sa so šunde thaj dikhlje, golese so pherdile sa e lafura sar so sasa lenđe phendo.
-LUK 2:21 Thaj ohtoto đive sar bijandilo o čhavoro avilo o vreme te čeren le suneti, thaj dijele alav Isus, sar so vačarda o meleko angleder so i Marija ačhili khamni.
+LUK 2:21 Thaj ohtoto đive sar bijandilo o čhavoro avilo o vreme te čeren le suneti, thaj dije le alav Isus, sar so vačarda o meleko angleder so i Marija ačhili khamni.
 LUK 2:22 Thaj kana avilo o đive o Josif thaj i Marija te đan palo adeti e thodimaso–e Marijako, palo zakono e Mojsijaso, ande e čhavore ano Jerusalim ano Hram te preden le e Rajose
 LUK 2:23 (sar so si pisimo ano zakon e Rajoso kaj: “Svako čhavo murš savo putrol e dejako por te posvetil pe e Rajose”)
-LUK 2:24 thaj te anen kurbano (sar e Rajoso zakono penol, “duj grlice il duj terne golubura”).
+LUK 2:24 thaj te anen kurbano (sar e Rajoso zakono phenol, “duj grlice il duj terne golubura”).
 LUK 2:25 Thaj dik, sasa ano Jerusalim manuš kaso alav sasa Simeon, thaj gova manuš sasa pravedno, thaj pobožno, savo ađučarda o Mesija te ikalol o Izrael taro ropstvo thaj o Dux Sveti sasa pe leste.
 LUK 2:26 Thaj o Dux Sveti sikada lese but angleder kaj ni ka merol sa đi kaj ni dičhol e Hristo e Rajoso.
 LUK 2:27 Thaj o Duxo vačarda lese te đal ano Hram. O Josif thaj i Marija ande e čhave e Isuse ano Hram te čeren okova so si palo adeti ane Mojsijaso zakono,
@@ -143,7 +143,7 @@ LUK 2:46 O trito đive arakhlje le ano Hram sar bešol maškare učitelja, thaj 
 LUK 2:47 Thaj savore save šunena e Isuse divisajle lese đanglimasa thaj lese irimasa o pučipe.
 LUK 2:48 Thaj kana dikhlje le čudisajle, thaj lesi dej pučlja le: “Čhaveja! So čere amencar kava? Ak me thaj ćo dad daraljam thaj rodijam tut!”
 LUK 2:49 Thaj o Isus vačarda lenđe: “Sose rodijen man? Ni li đanen kaj trubul te avav ano čher me Dadeso?”
-LUK 2:50 Thaj von ni haljarde so vov manglja te penol lenđe.
+LUK 2:50 Thaj von ni haljarde so vov manglja te phenol lenđe.
 LUK 2:51 Thaj lencar avilo ano Nazaret, thaj sa šunola len. Thaj lesi dej sa kala lafura garada ane piro ilo.
 LUK 2:52 Thaj o Isus barola ano butđanglipe thaj ano baripe thaj ano milost ko Dol em ke manuša.
 LUK 3:1 Kana o cezar o Tiberija vladisada po rimsko carstvo dešupanđšto berš, thaj o Pontije o Pilat o upravniko vladisada ani Judeja, thaj o Irod vladisada ani Galileja, thaj o Filip leso phral vladisada ani Itureja thaj ani Trahonitada, thaj o Lisanije vladisada ani Avilina,
@@ -173,7 +173,7 @@ LUK 3:24 O Ilija sasa čhavo e Matataso, O Matata sasa čhavo e Levijaso. O Levi
 LUK 3:25 O Josif sasa čhavo e Matatijaso. O Matatij sasa čhavo e Amoseso. O Amos sasa čhavo e Naumeso. O Naum sasa čhavo e Eslijaso. O Eslija sasa čhavo e Nangejeso.
 LUK 3:26 O Nangej sasa čhavo e Maateso. O Maata sasa čhavo e Matatijaso. O Matatija sasa čhavo e Semeinaso. O Semein sasa čhavo e Josiheso. O Josih sasa čhavo e Jodaso.
 LUK 3:27 O Joda sasa čhavo e Joanaso. O Joanan sasa čhavo e Risaso. O Risa sasa čhavo e Zorovaveleso. O Zorovavel sasa čhavo e Salatiilaso. O Salatiil čhavo e Nirijaso.
-LUK 3:28 O Niri sasa čhavo e Melhijaso. O Melhije sasa čhavo e Adijeso. O Adije sasa čhavo e Kosamaso. O Kosam sasa čhavo e Elmadameso. O Elmadam sasa čhavo e Iroso.
+LUK 3:28 O Niri sasa čhavo e Melhijaso. O Melhije sasa čhavo e Adijeso. O Adija sasa čhavo e Kosamaso. O Kosam sasa čhavo e Elmadameso. O Elmadam sasa čhavo e Iroso.
 LUK 3:29 O Ir sasa čhavo e Isuseso. O Isus sasa čhavo e Elizereso. O Elizer sasa čhavo e Jorimaso. O Jorim sasa čhavo e Matatoso. O Matata sasa čhavo e Leviso,
 LUK 3:30 O Levi sasa čhavo e Simeoneso, O Simeon sasa čhavo e Judaso. O Juda sasa čhavo e Josifeso. O Josif sasa čhavo e Jonameso. O Jonam sasa čhavo e Eliakimeso.
 LUK 3:31 O Eliakim sasa čhavo e Melejeso. O Meleja sasa čhavo e Menineso. O Mena sasa čhavo e Matateso. O Matata čhavo e Nataneso. O Natan sasa čhavo e Davideso.
@@ -223,7 +223,7 @@ LUK 4:36 Thaj ane savorende avili i dar thaj čudisajle, thaj jekh averese vača
 LUK 4:37 Thaj đelo o lafi lestar ane sa e pašutne thana.
 LUK 4:38 O Isus uštilo gothar andari sinagoga thaj avilo ano čher e Simonese, a e Simonese sasuja sasa la bari jag, thaj rodije lestar te vazdol la.
 LUK 4:39 Thaj o Isus ačhilo paše late, pretisada e jagaće, thaj i jag mukhlja la. Sigate uštili thaj kandija len.
-LUK 4:40 Thaj kana pelo o kham, savoren save sesa len nasvale tare sa đi jekh nasvalipe andelen angle leste, a vov pe savorende čhuta pe vasta, thaj sastarda len.
+LUK 4:40 Thaj kana pelo o kham, savoren save sesa len nasvale tare sa đi jekh nasvalipe ande len angle leste, a vov pe savorende čuta pe vasta, thaj sastarda len.
 LUK 4:41 Thaj e benga iklile tare pherdo thaj dije vika thaj vačarena: “Tu san o Čhavo e Devleso!” Thaj darada len te ma vačaren khanikase golese kaj đanglje kaj si vov o Hrist.
 LUK 4:42 Thaj kana iklilo o đive, iklilo thaj đelo ani pustinja, thaj e manuša rodije le, thaj avile leste, thaj manglje te ačhaven le te ma đal lendar.
 LUK 4:43 A o Isus vačarda lenđe: “Trubul ane avera forura te vačarav o Lačho lafi taro carstvo e Devleso, golese sem bičhaldo.”
@@ -355,7 +355,7 @@ LUK 7:36 Jekh fariseji kaso alav sasa Simon dija vika e Isuse te hal mangro ke l
 LUK 7:37 Thaj dik, sasa i đuvli ando foro savače đanglja pe kaj si grešnica, šunda kaj si o Isus pašo astali ano čher e farisejeso, i avili andre. Anda skupo miris ko čaro savo sasa taro alabasteri.
 LUK 7:38 Rojindoj, peli ke pe koča pale lese pingre. Lače asva pele pe lese pingre thaj lija te thovol len pe jasvencar, thaj pe balencar koslja len thaj čumidija lese pingre, thaj makhlja len e mirisesa.
 LUK 7:39 A kana dikhlja o fariseji savo akharda le, vačarda ane peste: “Te avol proroko, bi đanola ko si kaja đuvli savi dolol le golese kaj si grešnica!”
-LUK 7:40 A o Isus phenda lese: “Simone! Isima khanči te vačarav tuče. A vov vačarda: “Učitelju, vačar.”
+LUK 7:40 A o Isus phenda lese: “Simone! Isi man khanči te vačarav tuče. A vov vačarda: “Učitelju, vačar.”
 LUK 7:41 A o Isus vačarda: “Duj đene sesa borči jekhe manušese. Jekh sasa borči panšel rimska dinara a o dujto pinda.
 LUK 7:42 Thaj kana len naj sasa te irin, o manuš ni manglja palal o borči lendar. Vačar tare kala duj savo ka manđol le po but?”
 LUK 7:43 A o Simon vačarda lese: “Pa bi phenava kolese kas sasa pobaro borči.” A o Isus vačarda lese: “Gija si, šukar vačardan.”
@@ -375,15 +375,15 @@ LUK 8:6 Nesavo seme pelo pe bara, barilo thaj šučilo, golese kaj naj sasa paj 
 LUK 8:7 A nesavo seme pelo ke kangre, thaj o seme barilo e kangrencar, thaj e kangre tasade le.
 LUK 8:8 A nesavo seme pelo pi šukar phuv, thaj barilo thaj anda šel droma po but. Kana vačarda kava dija vika: “Šunen šukar so vačarav tumenđe.”
 LUK 8:9 A e sikade lese pučlje e Isuse: “Vačar amenđe savi si kaja paramič?”
-LUK 8:10 A vov vačarda: “O Dol tumenđe dija te đanen o garajpe tare leso Carstvo, a averenđe vačarav ane paramiča, te pherdol okova so ačhol ano Sveto lil: 'Te dikhlje ni ka shvatin, Thaj te šunde ni ka haljaren.'
+LUK 8:10 A vov vačarda: “O Dol tumenđe dija te đanen o garajipe tare leso Carstvo, a averenđe vačarav ane paramiča, te pherdol okova so ačhol ano Sveto lil: 'Te dikhlje ni ka shvatin, Thaj te šunde ni ka haljaren.'
 LUK 8:11 Kaja paramič phenol kava: O seme si sar o Lafi e Devleso.
-LUK 8:12 O seme savo pelo po drom si manuša save šunen o lafi e Devleso, thaj avol o beng, lol o lafi andaro lengo ilo, te ma pačan thaj te ni spasinpe.
+LUK 8:12 O seme savo pelo po drom si manuša save šunen o lafi e Devleso, thaj avol o beng, lol o lafi andaro lengo ilo, te ma pačan thaj te ni spasin pe.
 LUK 8:13 A o seme savo pelo po bar gola si manuša save šunen radosno thaj len o lafi sar luluđa saven naj koreno. Zala vreme pačan, a kana avol o vreme tare iskušenjura, tegani šučon.
 LUK 8:14 A o seme savo si ane kangre golasi kola manuša save šunen o Lačho lafi, al o pharipe, o barvalipe thaj o guglipe kale svetoso tasavol len thaj ni den šukar bijandipe.
 LUK 8:15 A o seme savo si ki šukar phuv gola si manuša save šunen o lafi, thaj gova lafi ičaren ano šukar thaj iskreno ilo, sa đi kaj ni anen šukar bijandipe.”
 LUK 8:16 Khoni ni phabarol i memeli te bi učharola la e čaresa, thaj ni čhuvola talo than e sojimaso. Čhuvol la ke memeljako than te šaj okola save den andre dičhen o svetlo savo phabol.
 LUK 8:17 Sa so si garado ka avol pučardo, thaj so si čerdo garandoj ka ikljol ko dičhipe.
-LUK 8:18 Golese pazin sar šunen, golese kas isi, ka dolpe lese, a kas naj, ka lol pe lestar i kova zala so dol gođi kaj isile.
+LUK 8:18 Golese pazin sar šunen, golese kas isi, ka dolpe lese, a kas naj, ka lol pe lestar i kova zala so dol gođi kaj isi le.
 LUK 8:19 Avile e Isusesi dej thaj lese phrala, thaj naštine tare but manuša te vačaren lesa.
 LUK 8:20 Thaj khoni vačarda e Isusese: “Ći dej thaj će phrala ačhen avri, thaj manđen te dičhen tut.”
 LUK 8:21 A o vov vačarda lenđe: “Mi dej thaj me phrala si kola save šunen o lafi e Devleso thaj ičaren le.”
@@ -396,7 +396,7 @@ LUK 8:27 Thaj kana iklilo o Isus taro čamco, avilo paše leste jekh manuš anda
 LUK 8:28 Thaj kana dikhlja e Isuse, dija vika thaj pelo angle leste thaj vačarda: “So manđe mandar, Isuse Čhaveja embare Devleso? Moliv tut ma mučima.”
 LUK 8:29 Golese so o Isus već vačarda e melale duxose te ikljol andaro manuš, ane kaste sasa o melalo duxo but vreme. E manuša phandena le ane sinđira thaj aračhena le, čhinola e sinđira thaj o beng inđarola le ani pustinja.
 LUK 8:30 A o Isus pučlja le: “Sar si ćo alav?” Vov phenda: “Legija (but đene amen)”, golese kaj but benga sesa ane leste.
-LUK 8:31 Thaj molisade e Isuse e melale duxura te ma bičalol len ano bezdan.
+LUK 8:31 Thaj molisade e Isuse e melale duxura te ma bičhalol len ano bezdan.
 LUK 8:32 Paše gotar sasa jekh brego kaj sesa pherdo bale save xana, a e melale duxura molisade e Isuse te mučhol te đan ane bale. Thaj o Isus mukhlja te đan.
 LUK 8:33 Tegani iklile e melale duxura andaro manuš thaj đele ane bale, a e bale taro brego čhudije pe ano paj thaj tasile.
 LUK 8:34 Kana dikhlje so sasa e manuša save arakhlje e balen, našle thaj đele te vačaren ano foro thaj ane gava.
@@ -407,7 +407,7 @@ LUK 8:38 O manuš kastar o Isus ikalda e melale duxura molisada e Isuse te đal 
 LUK 8:39 “Iri tut ane ćo čher, thaj vačar sa so čerda tuče o Dol.” O manuš đelo thaj vačarda maškaro sa o foro so čerda lese o Isus.
 LUK 8:40 Thaj kana irisajlo o Isus tare aver rig e jezerosi, e manuša sesa bahtale kana dikhlje le, golese kaj savore ađučarde le.
 LUK 8:41 Thaj dik, avilo jekh manuš saveso alav sasa Jair, savo si angluno ani sinagoga, avilo thaj pelo ke koča anglo Isus. Thaj molisada le te avol ane leso čher
-LUK 8:42 Golese kaj sasa le jekhori čhej tare dešuduj berš, thaj voj sasa đi o meripe. Thaj kana pojdisada o Isus e Jairesa ane leso čher, čičidijele e manuša.
+LUK 8:42 Golese kaj sasa le jekhori čhej tare dešuduj berš, thaj voj sasa đi o meripe. Thaj kana pojdisada o Isus e Jairesa ane leso čher, čičidije le e manuša.
 LUK 8:43 Thaj maškare manuša sasa jekh nasvali đuvli tare rateso thavdipe dešuduj berš. I đuvli sa po barvalipe so sasa la dija e sastarutnenđe thaj ni jekh naštine te sastarol la.
 LUK 8:44 Voj avili od palal e Isusese thaj dolda pe tare leso teluno kotor taro fostano, thaj sigate ačhada la o ratvalipe lako.
 LUK 8:45 Thaj vačarda o Isus: “Ko dolda pe gova pe mande?” Đi jekh lendar phende da naj von, a o Petar vačarda: “Rajo! But manuša si paše tute čičidije tut, a tu puče: 'Ko dolda pe pe mande?'”
@@ -451,7 +451,7 @@ LUK 9:26 Golese ko lađal mandar thaj tare me lafura lestar i me o Čhavo e Manu
 LUK 9:27 Čače vačarav tumenđe, nesave tumendar save sen kate ni ka meren dok ni dičhen o carstvo e Devleso.”
 LUK 9:28 Thaj kana nakhle ohto đive pale gova, o Isus lija e Petre e Jovane thaj e Jakove thaj iklilo ko brego te molil pe e Devlese.
 LUK 9:29 Thaj kana molisajlo leso muj čerdilo averčhane, thaj lese šeja čerdile parne thaj sjajna.
-LUK 9:30 Thaj dik, tarjekh drom iklile duj manuša, thaj lije te vačaren e Isusesa. Gola sesa o Mojsije thaj o Ilija.
+LUK 9:30 Thaj dik, tar jekh drom iklile duj manuša, thaj lije te vačaren e Isusesa. Gola sesa o Mojsije thaj o Ilija.
 LUK 9:31 Sikadile ani slava, thaj vačarde tare leso ikljipe savo trubuja te avol ano Jerusalim.
 LUK 9:32 A o Petar thaj kala so sesa lesa von zasute, čim đungadile dikhlje e Isuse ani slava thaj duje manušen sar lesa ačhen.
 LUK 9:33 Thaj kana lije te crden pe o Mojsije em o Ilija, o Petar phenda e Isusese: “Rajo! Šukar kaj sam kate, thaj te čera trin senice: Jekh tuče, jekh e Mojsijase thaj jekh e Ilijase”: Ni đanglja so te vačarol
@@ -504,7 +504,7 @@ LUK 10:17 Kana irisajle kola eftavardeš thaj duj sikade radosno vačarde e Isus
 LUK 10:18 A o Isus vačarda lenđe: “Me dikhljem e Sotona sar pelo taro nebo sar munja.
 LUK 10:19 Ak dijem tumen zor te ačhen pe sapa thaj pe škorpije thaj pe sa o vlast e dušmaneso, thaj khanči ni ka avol tumenđe.
 LUK 10:20 A golese tumen ma aven radosna so e duxura pokorin pe tumenđe, nego aven radosna so tumare alava pisime ko lil e Devleso ano nebo.”
-LUK 10:21 Ane gova časo o Isus pherdilo radost ano Sveto duxo thaj phenda: “Hvaliv tut, Dade, Rajo e phuvako thaj e neboso, so garadan ćo čačipe tare butđangle thaj tare razumna a vačardan e ciknenđe. Va, Dade, golese kaj si gova ćiri volja.”
+LUK 10:21 Ane gova časo o Isus pherdilo radost ano Sveto duxo thaj phenda: “Hvaliv tut, Dade, Rajo e phuvako thaj e neboso, so garadan ćo čačipe tare but đangle thaj tare razumna a vačardan e ciknenđe. Va, Dade, golese kaj si gova ćiri volja.”
 LUK 10:22 Thaj irisajlo o Isus ke pe sikade thaj vačarda: “Sa manđe dija o Dad mingro, thaj khoni ni đanol ko si o Čhavo sem o Dad, ni ko si o Dad sem o Čhavo, thaj okola kase o Čhavo manđol te vačarol.”
 LUK 10:23 Thaj irisajlo e sikadenđe korkore kana sesa thaj vačarda lenđe: “Blagoslovime si e jakha so dičhen so tumen dičhen.
 LUK 10:24 Golese vačarav tumenđe kaj but prorokura thaj carura manglje te dičhen man thaj ni dikhlje, thaj manglje te šunen man thaj ni šunde.”
@@ -524,7 +524,7 @@ LUK 10:37 A učitelji e zakoneso phenda lese: “Okova savo čerda milosrđe.”
 LUK 10:38 A kana đele premalo Jerusalem, o Isus thaj lese sikade avile ane jekh gav, a jekh đuvli, akhardola Marta, dija len vika ane po čher.
 LUK 10:39 Thaj la sasa phen, akhardola Marija, savi bešli paše pingre e Isusese thaj šunda leso vačaripe.
 LUK 10:40 A i Marta dikhlja po but ani buči em sar emlačhe te kandol le, thaj avili pašo Isus thaj vačarda lese: “Rajo! Šukar li si kava so mi phen ačhada ma korkora te kandav tut? Vačar lače te pomožil ma.”
-LUK 10:41 A o Isus vačarda lače: “Marto! Marto! Sikiritu tut thaj trudi tut butese.
+LUK 10:41 A o Isus vačarda lače: “Marto! Marto! Sikiri tut tut thaj trudi tut butese.
 LUK 10:42 A samo jekh trubul. I Marija ći phen birisada khanči šukar, te šunol mo lafi savo ni ka lol pe latar.”
 LUK 11:1 Kana o Isus molisajlo thaj kana ačhilo e molitvasa, jekh tar lese sikade vačarda lese: “Rajo, sikav amen te moliamen, sar o Jovane o Krstitelji so sikada pire sikaden.”
 LUK 11:2 O Isus vačarda lenđe: “Kana molin tumen, vačaren: 'Dade amareja ko nebo, te svetilpe ćo alav, te avol ćo carstvo, te avol ćiro manđipe ki phuv sar ko nebo,
@@ -552,11 +552,11 @@ LUK 11:23 Savo naj manca, protiv mande si, thaj ko manca ni čidol, vov onda čh
 LUK 11:24 Kana o bilačho duxo ikljol andaro manuš, đal ke thana kaj naj khančhi te rodol than kaj šaj odmoril pe, thaj kana ni aračhol than vačarol: “Te irima ano mo manuš kotar ikliljem.”
 LUK 11:25 Thaj kana iril pe o melalo dux aračhol kaj si gova manuš sar čučo čher savo si šulado thaj namestimo andral.
 LUK 11:26 Tegani đal thaj aračhol efta averen duhuren pobilačhe pestar, thaj aven andre te bešen, thaj avol e manušese po bilačhe nego angleder.”
-LUK 11:27 A kana gova vačarda o Isus, jekh đuvli savi šunda le dija vika zurale: “Blagoslovimi i dej savi inđarda tut an po vođi, thaj dijatu čuči!”
+LUK 11:27 A kana gova vačarda o Isus, jekh đuvli savi šunda le dija vika zurale: “Blagoslovimi i dej savi inđarda tut an po vođi, thaj dija tut čuči!”
 LUK 11:28 A o Isus vačarda: “Vađi po blagoslovime si kola save šunen o Lafi e Devleso thaj čeren le.”
 LUK 11:29 Po but manuša lije te čiden pe, a o Isus lija te vačarol lenđe: “Tumen e manuša so živin ke kava vreme sen bilačhe manuša. Tumen roden o znako, thaj ni ka dolpe tumenđe znako sem e čudura so čerde pe e Jonase e prorokose.
 LUK 11:30 Gova so sasa e Jonase, sasa znako kaj o Dol bičhalda le e manušenđe save živisade ani Niniva. Gija mancar so ka avol, ka avol znako kaj me o Čhavo e Manušeso, o Dol bičhalda man kale manušenđe.
-LUK 11:31 Ko đive kana ka avol e Devleso sudo, i carica so angleder vladisada e južnone phuvasa ka uštol thaj ka osudil manušen tar kava bijandipe, golese kaj odural avili tare empalune phuva te šunol e caro e Solomone savo sasa but mudro, a ake, kate si khoni po baro taro Solomon, a tumen ni manđen te šunen le.
+LUK 11:31 Ko đive kana ka avol e Devleso sudo, i carica so angleder vladisada e južnone phuvasa ka uštol thaj ka osudil manušen tar kava bijandipe, golese kaj odural avili tare em palune phuva te šunol e caro e Solomone savo sasa but mudro, a ake, kate si khoni po baro taro Solomon, a tumen ni manđen te šunen le.
 LUK 11:32 Ko đive kana ka avol e Devleso sudo, e manuša so bešle ano purano foro Niniva ka ušten i ka osudin kale manušen tar kava bijandipe, golese kaj kajisajle kana o Jona sikada len, a ake kate si khoni po baro taro Jona, a tumen ni pokajisaljen!”
 LUK 11:33 “Khoni ni phabarol i svetiljka pa te čhuvol la talo garado than, ni talo čaro, nego čhuvol la ko than e svetiljkako te šaj dičhen o svetlost okola so den ano čher.
 LUK 11:34 Ćiri jakh si sar svetiljka e telose. Ako gija ćiri jakh si sasti, sa ćo telo ka avol osvetlimo. Ako si ćiri jakh bilačhi, ćo telo ka avol ani tama.
@@ -566,7 +566,7 @@ LUK 11:37 Thaj kana o Isus vačarola, jekh tare fariseja akharda le te hal mangr
 LUK 11:38 A o farisej čudisajlo kana dikhlja so o Isus bešlo a angleder golestar ni thoda pe vasta anglo hape.
 LUK 11:39 A o Rajo o Isus vačarda lese: “Akana tumen e fariseja thoven od avral o tahtaj thaj o čaro, a andral si pherde pohlepa thaj bilačhipe.
 LUK 11:40 Bigođače! Naj li o Dol kova savo čerda e manuše od andral thaj od avral?
-LUK 11:41 A kava si po šukar: den e čororenđe okova so isi tumen andre, so halaneste garaven ane tahtaja em ane čare, thaj ka aven thode od andral em odavral.
+LUK 11:41 A kava si po šukar: den e čororenđe okova so isi tumen andre, so halaneste garaven ane tahtaja em ane čare, thaj ka aven thode od andral em od avral.
 LUK 11:42 Pharo tumenđe e farisejenđe so den dešto kotor tare začinura thaj taro sa o povrće, a ni marin te čeren averenđe okova so si šukar thaj te manđen e Devle. Trubul te den dešto kotor e Devlese, al ma te bistren te čeren okova so pobut trubul.
 LUK 11:43 Pharo tumenđe e farisejenđe! So volin te bešen ke anglune thana ane sinagoge thaj kana dičhen tumen e manuša, pherde poštujipe premal tumende, te pozdravin tumen ke trgura.
 LUK 11:44 Pharo tumenđe! Tumen sen opasnost sar e neprimetna limora pe save e manuša uštaven a ni đanen kaj uštaven len.”
@@ -597,7 +597,7 @@ LUK 12:14 Thaj o Isus vačarda lese: “Manuša, ko man čuta sudija il delioc p
 LUK 12:15 Thaj vačarda savorenđe o Isus: “Dičhen thaj aračhen tumen tari pohlepa. I sa gači barvalipe te avol manuše, leso đuvdipe ni avol golestar so isi le.”
 LUK 12:16 Thaj o Isus vačarda lenđe jekh paramič: “Nesave barvale manušesi phuv bijanda but bijandipe.
 LUK 12:17 'Thaj dija gođi ane peste vačarindoj: 'So ka čerav? Naj ane soste te čidav e milajeso čidipe.
-LUK 12:18 Thaj vačarda: 'Đanav! Ak kava ka čerav! Ka rumiv me thana taro điv thaj ka čerav pobare, thaj gothe ka čidav mo điv thaj sa mo šukaripe.
+LUK 12:18 Thaj vačarda: 'Đanav! Ak kava ka čerav! Ka rumiv me thana taro điv thaj ka čerav po bare, thaj gothe ka čidav mo điv thaj sa mo šukaripe.
 LUK 12:19 Thaj ka vačarav korkoro manđe kaj isi man baro barvalipe bute beršenđe. Ka šaj odmoriv, ka hav, ka pijav, ka veseli man!'
 LUK 12:20 A o Dol lese vačarda: 'Bigođaleja! Kaja rat ka lav ćo ođi tutar. Thaj kase ka ačhol sa gova so čerdan buči?'
 LUK 12:21 Gija si kolesa savo čidol pese barvalipe ki phuv, a ni čidol barvalipe savo si šukar e Devlese ane jakha.”
@@ -682,7 +682,7 @@ LUK 14:5 Thaj vačarda lenđe: “Savo tumendar ni ćerol bući ko savatno đive
 LUK 14:6 Thaj ni sasa len so te phenen ke lese lafura.
 LUK 14:7 Kana o Isus dikhlja sa e manušen save avile te xan, sar roden pese šukar thana kaj te bešen anglal, vov vačarda lenđe kaja paramič:
 LUK 14:8 “Kana akharen tumen ko abav, ma bešen ke lačhe anglune thana. So ako si akhardo po baro manuš tutar?
-LUK 14:9 Te okova manuš so akharda tut te avol thaj te vačarol: 'De gova than kalese.' Thaj ka lađare tut i ka crdetu ko bilo savo than savo ačhilo savo si em palal.
+LUK 14:9 Te okova manuš so akharda tut te avol thaj te vačarol: 'De gova than kalese.' Thaj ka lađare tut i ka crde tut ko bilo savo than savo ačhilo savo si em palal.
 LUK 14:10 Gija kana khoni akharol tut ko abav, kana ave beš ko poslednjo than, te vačarol tuče kova so akharda tut: “Amala! Arakhljam tuče po šukar than.” Tegani ka aven tusa ko baripe kola save bešen tusa ko astali.
 LUK 14:11 Golese savo pes vazdol, ka peravol pe, a e perade ka aven vazdime.”
 LUK 14:12 Thaj o Isus vačarda okolese so akharda le: “Kana de hamase il račako hape, ma akhar će amalen niti ćire phralen, ni će familija, ni će barvalen pašečerutnen, golese so i von tut ka den vika ko hape.
@@ -716,7 +716,7 @@ LUK 15:4 “Ako e manuše isi šel bakre thaj jekh lendar hasardol, so vov ka ć
 LUK 15:5 Thaj kana aračhol la, čhuvol la radosno ke po piko thaj inđarol la čhere.
 LUK 15:6 Thaj kana avol čhere dol vika pe amalen thaj e pašutnen vačarindoj: 'Aven radosna mancar! Arakhljem me hasarde bakra!'
 LUK 15:7 Vačarav tumenđe kaj savore ano nebo ka radujin pe po but bašo jekh grešniko savo iril pe e Devlese nego baše enjavardeš thaj enja čačutne savenđe ni trubul pokajipe.'
-LUK 15:8 O Isus vačharda thaj kava: “Savi goja đuvli sava isila deš rupune pare, i kana hasarol jekh rupuni parava, ni phabarol memeli, thaj ni šulavol o čher, thaj ni rodol šukar sa dok ni aračhol la?
+LUK 15:8 O Isus vačharda thaj kava: “Savi goja đuvli sava isi la deš rupune pare, i kana hasarol jekh rupuni parava, ni phabarol memeli, thaj ni šulavol o čher, thaj ni rodol šukar sa dok ni aračhol la?
 LUK 15:9 Thaj kana aračhol la, akharol pe amalinjen thaj e pašečerutnjen: I phenol lenđe 'Radujin tumen mancar! Me arakhljem i rupuni parava so hasardem!'
 LUK 15:10 Gija, vačarav tumenđe kaj i e melekura e Devlese ano nebo ka radujin pe jekhe grešnikose savo iril pe ko Dol.”
 LUK 15:11 Thaj o Isus vačarol: “Jekhe manuše sesa duj čhave.
@@ -725,14 +725,14 @@ LUK 15:13 Thaj pale nesavo đive, čidija o cikneder čhavo sa piro, đelo ani d
 LUK 15:14 Thaj kana xalja sa e pare, sasa but baro bukhalipe ane goja phuv, thaj ni sasa le so te xal.
 LUK 15:15 Thaj đelo ke jekh manuš thaj rodija bući, thaj gova manuš bičhalda le ane piro polje te aračhol e balen.
 LUK 15:16 Thaj o čhavo sasa gija bokhalo kaj bi xala i gova so xan e bale, al khoni ni dija le ni gova.
-LUK 15:17 Thaj kana avilo ane peste, vačarda: 'Kobor e bučarne ke mo dad isilen so te xan, a me kate merav bukhalo!
+LUK 15:17 Thaj kana avilo ane peste, vačarda: 'Kobor e bučarne ke mo dad isi len so te xan, a me kate merav bukhalo!
 LUK 15:18 Ka đav manđe čhere, ke mo dad, pa ka vačarav lese: 'Dade, grešisadem angle tute thaj anglo Dol.
 LUK 15:19 Našti te akhardivav ćiro čhavo. Lema sar jekhe tar ćire bučarne.”
 LUK 15:20 Tegani uštilo em đelo ke po dad. A kana sasa po dur tar po čher, dikhlja le leso dad, thaj pelo lese žal, thaj prastija lija le ani angali thaj čhumidija le.
 LUK 15:21 A o čhavo vačarda lese: 'Dade, grešisadem angle tute thaj anglo Dol! Našti te akhardivav ćiro čhavo.'
 LUK 15:22 A o dad phenda e slugenđe pirenđe: 'Ikalen emšukar fostano thaj uraven le, thaj den le angrustik ko va thaj pođipe ke pingre!
 LUK 15:23 Thaj anen okole terne thule guruve čhinen le, te ha thaj te raduji amen.
-LUK 15:24 Golese kaj mingro čhavo sasa mulo thaj irisajlo ko đuvdipe, sasa hasardo thaj akana arakhadilo!' Thaj lije te raduinpe.
+LUK 15:24 Golese kaj mingro čhavo sasa mulo thaj irisajlo ko đuvdipe, sasa hasardo thaj akana arakhadilo!' Thaj lije te raduin pe.
 LUK 15:25 A leso čhavo o phureder sasa ano polje, thaj kana avilo pašo čher šunda čhelipe thaj bašalipe.
 LUK 15:26 Thaj dija vika jekhe sluga thaj pučlja le: 'Sosi gova?'
 LUK 15:27 A vov vačarda lese: “Ćiro phral avilo, thaj ćo dad čhinda terne thule guruve, so dikhlja le đuvde thaj saste.”
@@ -742,7 +742,7 @@ LUK 15:30 A kana avilo ćo čhavo savo ćo barvalipe čhorda e kurvencar, čhind
 LUK 15:31 A o dad vačarda lese: 'Mo čhavo! Kaj đav manca san, thaj sa mingro ćiro si.
 LUK 15:32 Trubul te ave radosno thaj bahtalo, golese kaj ćo phral sasa mulo thaj irisajlo ko đuvdipe, sasa hasardo thaj arakhadilo.”
 LUK 16:1 O Isus vačarda kaja paramič pe sikadenđe: “Jekhe barvale manuše sasa jekh upravitelji savo vodila leso barvalipe, savese phende kaj xalja leso barvalipe.”
-LUK 16:2 Thaj akharda le o barvalo thaj vačarda e upraviteljese: “So šunav kava tutar? Sikav manđe o đinipe tar ći bučhi pe mo barvalipe, golese kaj našti pe mo barvalipe te ave upravitelji.”
+LUK 16:2 Thaj akharda le o barvalo thaj vačarda e upraviteljese: “So šunav kava tutar? Sikav manđe o đinipe tar ći buči pe mo barvalipe, golese kaj našti pe mo barvalipe te ave upravitelji.”
 LUK 16:3 A o upravitelji vačarda ane peste: 'So ka čerav? O barvalo barutno mingro ka lol mandar i buči. Te honav našti. Te mangav lađo manđe.
 LUK 16:4 Đanav so ka čerav! Kana ka čerav sa gova ka manđen ma savore ane pire čhera kana ka ačhav bizi buči.'
 LUK 16:5 Thaj dija vika sa kolen save sesa lese barutnese borči thaj pučlja e prvone: 'Kobor san borči me barutnese e barvalese?'
@@ -751,8 +751,8 @@ LUK 16:7 A pale gova e dujtone pučlja: 'Kobor san borči?' A vov vačarda: 'Še
 LUK 16:8 Thaj o barvalo hvalisada pe bičačutne upravitelje, kobor si đanglo so gija čerda. Golese kaj e čhave tar kava sveto si po snalažljiva ane buča slična e manušencar save si sar von, nego e čhave e svetlose.
 LUK 16:9 Thaj me vačarav tumenđe: so isi tumen barvalipe kale svetoso den averenđe te čeren tumenđe amalen. Kana ni ka avol tumenđe više korisno o barvalipe kale svetoso, ka aven primime ane čhera sa e đivesenđe ano nebo.
 LUK 16:10 Savo si verno ane cikne buča vov ka avol ke po bare buča verno, thaj ko naj verno ano cikne buča, ane po bare buča ni ka avol verno.
-LUK 16:11 Gijate te naj sen verna ane kale svetoso barvalipe, ko ka doltumen nebesko barvalipe?
-LUK 16:12 Thaj ako ane avereso barvalipe naj san verno, ko ka doltumen tumaro?
+LUK 16:11 Gijate te naj sen verna ane kale svetoso barvalipe, ko ka dol tumen nebesko barvalipe?
+LUK 16:12 Thaj ako ane avereso barvalipe naj san verno, ko ka dol tumen tumaro?
 LUK 16:13 Nisavo sluga našti kandol tar jekh drom dujen barutnen. Il jekhe ni ka manđe, a e dujtone ka manđe, il jekhe ka šune, a e dujtone ni ka šune. Našti kanden e Devle thaj o barvalipe.”
 LUK 16:14 A kava so šunde e fariseja, save sesa pohlepna parenđe, marde muj e Isusesa.
 LUK 16:15 Thaj o Isus phenda lenđe: “Tumen čeren tumen pravedna angle manuša, al o Dol đanol tumare ile. So si baro ane manušenđe jakha, ane Devlese jakha si gadno.
@@ -765,8 +765,8 @@ LUK 16:21 Thaj čeznila te čaljol e troškendar so perena tare barvaleso astali
 LUK 16:22 A kana mulo o čororo, e melekura inđarde le ani angali e Avraamese. Thaj posle thaj i o barvalo mulo, thaj prahosade le.
 LUK 16:23 Thaj o barvalo sasa ano than kaj sesa e mule ane muke thaj vazdija pe jakha thaj odural dikhlja e Lazare ani angali e Avraamese.
 LUK 16:24 Thaj dija vika: 'Dade Avraame! Dik pe mande thaj bičhal e Lazare te čhuvol po naj ano paj, te šudarol mi čhib, golese kaj mučima ane kaja jag.'
-LUK 16:25 O Avraam vačarda lese: “Čhaveja! Detu gođi kaj ane ćo đuvdipe sa sasatu šukar, a e Lazare sa bilačhipe, thaj akana lese kate šukar, a tu mučitu.
-LUK 16:26 Thaj prekale sa gova maškare amende si bari provalija. Kola save manđen te načen katar odoring tumende, našti, ni gothar amende te načhen.”
+LUK 16:25 O Avraam vačarda lese: “Čhaveja! Detu gođi kaj ane ćo đuvdipe sa sasatu šukar, a e Lazare sa bilačhipe, thaj akana lese kate šukar, a tu muči tut.
+LUK 16:26 Thaj prekale sa gova maškare amende si bari provalija. Kola save manđen te načhen katar odoring tumende, našti, ni gothar amende te načhen.”
 LUK 16:27 Tegani vačarda: 'Moliv tut, dade Avraame, te bičhale e Lazare ano čher me dadeso.
 LUK 16:28 Golese kaj isi man panđ phrala. Nek vačarol lenđe te ne bi i von avena ke kava than e mučimaso.'
 LUK 16:29 Thaj vačarda lese o Avraam: 'Len isi okova so pisada o Mojsija thaj e prorokura. Len nek šunen.'
@@ -784,7 +784,7 @@ LUK 17:9 E slugase ni zahvalil pe o barutno, golese so si gova lesi bući.
 LUK 17:10 Gija i tumen kana šunen e Devle vačaren: 'Naj sam vredna hvalaće. Samo sam sluga save čera amari bući.'”
 LUK 17:11 Thaj kana đele ano Jerusalim, o Isus nakhlo maškari granica ki phuv Samarija thaj i phuv Galileja.
 LUK 17:12 Thaj kana dija ane jekh foro, arakhlje le deš phumbale (gubavci), save ačhena dur.
-LUK 17:13 Thaj vazdije po glaso vačarindoj: “Isuse, Rajo! Smilujitu pe amende!”
+LUK 17:13 Thaj vazdije po glaso vačarindoj: “Isuse, Rajo! Smiluji tut pe amende!”
 LUK 17:14 Kana o Isus dikhlja len vačarda: “Đan thaj sikaven tumen e sveštenikurenđe.” I gija phirindoj sastile.
 LUK 17:15 A jekh lendar dikhlja kaj sastilo, irisajlo thaj hvalisada e Devle andaro sa o glaso.
 LUK 17:16 Thaj pelo angle Isusese pingre, thaj zahvalisajlo. Thaj gova sasa Samarićano.
@@ -801,7 +801,7 @@ LUK 17:26 Thaj sar sasa ano vreme e Nojaso gija i ka avol ane đivesa kana me o 
 LUK 17:27 Halje, pilje, lijepe, dijepe đi kova đive đi kana o Noj dija ani barka, thaj avilo o baro paj thaj tasile sa okola save ni sesa ani barka.
 LUK 17:28 Gija sasa i ane Loteso vreme kana sasa vov đuvdo. E manuša ano foro i Sodoma halje pilje, činde, bičinde, sadisade, vazdije čhera.
 LUK 17:29 A o đive kana iklilo o Lot andari Sodoma, čalada i jag thaj pele žuta bara save phabon taro nebo thaj mudarda sa okolen so ačhile ano foro.
-LUK 17:30 Gija tarjekh drom kana ka avav me o Čhavo e Manušeso.
+LUK 17:30 Gija tar jekh drom kana ka avav me o Čhavo e Manušeso.
 LUK 17:31 Ane gova đive savo ka avol ko krovo, a lese šeja ano čher andre, ma te uljol te lol len! Savo si ano polje, ma te iril pe ano foro pal pe šeja.
 LUK 17:32 Den tumen gođi sar muli e Lotesi romni!
 LUK 17:33 Golese savo dičhol te aračhol po đuvdipe, ka hasarol le, a ko hasarol po đuvdipe, ka aračhol le.
@@ -820,14 +820,14 @@ LUK 18:8 Vačarav tumenđe, kaj ka aračhol len. Al me o Čhavo e Manušeso kana
 LUK 18:9 Teg o Isus vačarda jekh paramič okolenđe save dije gođi pese kaj si čačutne, thaj korkore pes dikhlje po baren averendar:
 LUK 18:10 “Duj manuša đele ano Hram te molin pe e Devlese: jekh fariseji, a dujto carinco.
 LUK 18:11 O farisejo ačhilo thaj molisada pestar: 'Devla! Hvaliv tut kaj najsem sar kala avera manuša: čora, bičačutne, preljubnikura il sar kava o carinco.
-LUK 18:12 Postiv duj droma ko kurko, dav tu dešto kotor tare sa so isima.”
-LUK 18:13 A o carinco odural ačhilo, ni manglja ni pe jakha te vazdol ano nebo, thaj čaladape ano kolin te sikavol kobor lese pharo thaj vačarda: 'Devla, av milostivno pe mande grešnikose!'
+LUK 18:12 Postiv duj droma ko kurko, dav tu dešto kotor tare sa so isi man.”
+LUK 18:13 A o carinco odural ačhilo, ni manglja ni pe jakha te vazdol ano nebo, thaj čalada pe ano kolin te sikavol kobor lese pharo thaj vačarda: 'Devla, av milostivno pe mande grešnikose!'
 LUK 18:14 Vačarav tumenđe: o carinco đelo čhere opravdimo anglo Dol, a na kava o farisejo. Golese savo pes vazdol, ka peravol pe, a e perade ka aven vazdime.”
 LUK 18:15 Ande anglo Isus thaj e cikne čhavoren te čhuvol pe vasta pe lende thaj te blagoslovil len. A kana dikhlje gova e sikade vačarde lenđe te ni čeren gova.
 LUK 18:16 A o Isus vačarda pe sikadenđe: “Mučhen e čhavoren ke mande thaj ma ačhaven len, golese so gasavenđe preperol o carstvo e Devleso!
 LUK 18:17 Čače vačarav tumenđe, savo ni primil o carstvo e Devleso sar čhavoro, ni ka dol ane leste!”
 LUK 18:18 Thaj pučlja e Isuse jekh šerutno: “Učitelju šukareja, so te čerav te avol ma đuvdipe bizo meripe?”
-LUK 18:19 A o Isus phenda lese: “Sose akharema šukareja? Khoni naj šukar samo o Dol.
+LUK 18:19 A o Isus phenda lese: “Sose akhare man šukareja? Khoni naj šukar samo o Dol.
 LUK 18:20 E Devlese zapovestura đane: 'Ma čher preljuba', 'Ma mudar', 'Ma čor', 'Ma svedoči hohavne', 'Poštuji će dade thaj će da!'”
 LUK 18:21 A o šerutno vačarda: “Sa kava čerdem taro mo ternipe.”
 LUK 18:22 A kana šunda kava o Isus vačarda lese: “Vađi jekh trubul tut: bičin sa so isi tut thaj de e čororenđe, thaj ka avol tu blago ko nebo. Thaj posle ava pale mande!”
@@ -846,8 +846,8 @@ LUK 18:34 Thaj e sikade khanči ni haljarde tar gova so vačarda o Isus. O znač
 LUK 18:35 A kana o Isus reslo pašo foro Jerihon, jekh koro manuš savo bešindoj mangljarola ko drom.
 LUK 18:36 Thaj kana o koro šunda kaj pherdo manuša načhen, pučlja: “So si gova?”
 LUK 18:37 Thaj vačarde lese kaj načhol o Isus taro foro Nazaret.
-LUK 18:38 Thaj o koro dija vika: “Isuse, Čhaveja e Davideso, smilujitu pe mande.”
-LUK 18:39 Thaj nesave manuša save đele anglo Isus phende lese te na dol vika gači, thaj vov pozurale dija vika: “Čhaveja e Davideso, smilujitu pe mande!”
+LUK 18:38 Thaj o koro dija vika: “Isuse, Čhaveja e Davideso, smiluji tut pe mande.”
+LUK 18:39 Thaj nesave manuša save đele anglo Isus phende lese te na dol vika gači, thaj vov pozurale dija vika: “Čhaveja e Davideso, smiluji tut pe mande!”
 LUK 18:40 O Isus šunda le thaj ačhilo thaj vačarda te anen e kore manuše paše leste. Kana ande le pučlja le o Isus:
 LUK 18:41 “So manđe te čerav tuče?” A vov vačarda: “Rajo! Mangav te dikhav!”
 LUK 18:42 A o Isus phenda lese: “Ćo pačaipe sastarda tut. Ake, dikh!”
@@ -868,14 +868,14 @@ LUK 19:13 Angleder so đelo akharda dešen piren slugen thaj dija len po opaši 
 LUK 19:14 A e manuša tar lesi phuv mrzisade le thaj bičhalde pe manušen te vačaren e po bare carose: 'Ni manga vov te caruil pe amende.'
 LUK 19:15 Thaj kana irisajlo sar caro, vačarda te akharen okolen slugen kase dija e rupune, te dičhol so čerde.
 LUK 19:16 Tegani avilo o angluno thaj vačarda: 'Barutneja! Čerdem deš droma po but nego so dijan ma.'
-LUK 19:17 Thaj vačarda lese o caro: 'But šukar. Tu san šukar sluga! Kana sana manđe šukar ko cikno ak davtu te ave pe deš forura embaro.'
+LUK 19:17 Thaj vačarda lese o caro: 'But šukar. Tu san šukar sluga! Kana sana manđe šukar ko cikno ak dav tut te ave pe deš forura embaro.'
 LUK 19:18 Thaj avilo o dujto thaj vačarda: 'Barutneja! Čerdem panđ droma po but nego so dijan ma.'
 LUK 19:19 O caro vačarda: 'Šukar! Tu av embaro pe panđ forura.'
 LUK 19:20 O trito avilo thaj vačarda: 'Barutneja! Ake ćo rupunipe. Garadem le ano kotor e šejengo
 LUK 19:21 golese kaj daraljem tutar. Golese kaj san zuralo manuš. Le so naj ćiro, thaj čide so ni sejisadan.'
 LUK 19:22 A o caro vačarda lese: 'Pal će lafura ka sudiv tut, bilačheja slugo! Đangljan kaj sem zuralo manuš, kaj lav okova so naj mingro, thaj čidav so ni sijisadem?
 LUK 19:23 Pa sose ni dijan mo rupuno e trgovcurenđe, thaj me kana ka avav ka čidav gova kamatencar?'
-LUK 19:24 Thaj vačarda averenđe so ačhile angle leste: 'Len gova rupunipe lestar thaj den le okolese so isile panđ kile rupune.'
+LUK 19:24 Thaj vačarda averenđe so ačhile angle leste: 'Len gova rupunipe lestar thaj den le okolese so isi le panđ kile rupune.'
 LUK 19:25 Thaj vačarde lese: 'Barutneja! Le isi le panđ kile rupuno.'
 LUK 19:26 A o caro vačarda lenđe: 'Golese kaj vačarav tumenđe kole so isi ka dolpe lese, a kole so naj ka lol pe lestar i okova zala so isi le.
 LUK 19:27 A kolen me dušmajen, save ni manglje te avav lengo caro pe lende, anen len akari, thaj čhinen len angle mande.”'
@@ -901,7 +901,7 @@ LUK 19:46 Vačarda: “Ano Sveto Lil ačhol: 'Mo čher ka avol čher e molitvako
 LUK 19:47 Thaj o Isus sikada ano Hram sa jekh đive. Thaj e šerutne e sveštenikurenđe, e učitelja tare Mojsijaso zakono katane e manušenđe šerutnencar dikhlje sar te mudaren e Isuse.
 LUK 19:48 Al ni arakhlje so te čeren lese, golese kaj sa e manuša đana pale leste, thaj šunde sa lese lafura.
 LUK 20:1 Jekh đive kana o Isus ano Hramo sikada e manušen thaj vačarda o Lačho Lafi, avile e šerutne sveštenikura, e učitelja tare Mojsijaso zakono, thaj e phuredera.
-LUK 20:2 Thaj pučlje le: “Vačar amenđe kotar tuće pravo kava te čere? Ko dijatu kava pravo?”
+LUK 20:2 Thaj pučlje le: “Vačar amenđe kotar tuće pravo kava te čere? Ko dija tut kava pravo?”
 LUK 20:3 A o Isus vačarda lenđe: “I me tumen ka pučav. Vačaren manđe:
 LUK 20:4 O Dol li vačarda e Jovanese te krstil e manušen, il e manuša vačarde lese gova te čerol?”
 LUK 20:5 Thaj von vačarde maškar peste: “Te vačardam kaj si taro Dol, ka vačarol sose ni pačajam e Jovane.
@@ -949,7 +949,7 @@ LUK 20:46 “Aračhen tumen tare učitelja tare Mojsijaso zakono save manđen te
 LUK 20:47 save ko hohajpe len o imanje e udovicengo, hohavne thaj dugačko molin pe e Devlese. Von ka aven but osudime.”
 LUK 21:1 Thaj ano Hramo o Isus dičhola sa e barvalen sar čhuven daro e Devlese ani hramsko riznica.
 LUK 21:2 Thaj dikhlja jekha čora udovica sar čuta duj em cikne pare.
-LUK 21:3 Thaj vačarda: “Čače, vačarav tumenđe, kaja čorori udovica čhuta po but e Devlese savorendar!
+LUK 21:3 Thaj vačarda: “Čače, vačarav tumenđe, kaja čorori udovica čuta po but e Devlese savorendar!
 LUK 21:4 Golese kaj savore lendar čute so sasa len pobut, a voj gija čorori, sa dija so sasa la.”
 LUK 21:5 Thaj kana nesave sikade lije te vačaren taro Hramo kaj si lačhardo lačhe barencar thaj ukrasurencar save e manuša dije e Devlese, a o Isus vačarda:
 LUK 21:6 “Ka avol o đive tare sa kava so dičhen ni ka ačhol ni bar po bar. Sa ka avol crdimo.”
@@ -1009,7 +1009,7 @@ LUK 22:21 A ak mo izdajniko bešol mancar kate ki sinija.
 LUK 22:22 Thaj me o Čhavo e Manušeso mora te merav sar so si phendo, al pharo e manušese savo ka izdol man!”
 LUK 22:23 Thaj e sikade lije maškar peste te pučen pe ko bi čerola gova lendar.
 LUK 22:24 Thaj lije te čeren čingara maškare peste ko lendar bi avola em baro.
-LUK 22:25 A o Isus vačarda lenđe: “E carura tar kaja phuv gospodarin pe pire manuša thaj isilen vlast pe lende. Von korkore pese vačaren kaj si 'manuša save but den šukaripe'.
+LUK 22:25 A o Isus vačarda lenđe: “E carura tar kaja phuv gospodarin pe pire manuša thaj isi len vlast pe lende. Von korkore pese vačaren kaj si 'manuša save but den šukaripe'.
 LUK 22:26 A tumen ma čeren gijate! Nego ko si tumendar em baro te avol em cikno, thaj savo si vođa nek avol kova savo kandol.
 LUK 22:27 Golese ko si embaro? Kova savo bešol ko astali il savo kandol? Naj li kova savo bešol ko astali? A me sem maškar tumende okova so kandol.
 LUK 22:28 A tumen sen gola save ačhile mancar ane mo bilačhipe.
@@ -1028,7 +1028,7 @@ LUK 22:40 Thaj kana resle o Isus vačarda lenđe: “Molin tumen te ma peren ano
 LUK 22:41 Thaj crdijape lendar gači kobor šaj te čhudol pe bar, thaj pelo ke pe koča em molisajlo e Devlese:
 LUK 22:42 “Dade! Te mangljan le mandar te ma pijav tar kava tahtaj e bilačhimaso. Al nek avol sar tu so manđe, a na sar so me mangav.”
 LUK 22:43 Teg sikadilo lese o meleko taro nebo thaj zurada le.
-LUK 22:44 A kana doldale bari muka, but pozurale molisajlo, a znoj leso sasa sar kaplje taro rat save perena ki phuv.
+LUK 22:44 A kana dolda le bari muka, but pozurale molisajlo, a znoj leso sasa sar kaplje taro rat save perena ki phuv.
 LUK 22:45 Pali molitva uštilo thaj avilo ke pe sikade, thaj arakhlja len sar soven taro pharipe kobor sasa lenđe.
 LUK 22:46 Thaj o Isus vačarda lenđe: “Sose soven? Ušten, molin tumen e Devlese te ma peren ano iskušenje!”
 LUK 22:47 Thaj dok o Isus vačarda, e manuša, thaj o Juda, jekh tare dešuduj sikade, avena kare leste. Avilo o Juda pašo Isus thaj čumidija le.
@@ -1078,7 +1078,7 @@ LUK 23:19 (O Varnava sasa čhudimo ano phanglipe golese so čerda pobuna ano Jer
 LUK 23:20 A o Pilat vađi jekh drom vačarda kaj bi vov mučhola e Isuse.
 LUK 23:21 A von dije vika: “Čhu le ko krsto, čhu le ko krsto!”
 LUK 23:22 Thaj o Pilat trito drom vačarda: “Savo bilačhipe vov čerda? Me khanči ni dikhav sose bi mudardol, gija ka šibiv le thaj ka mukhav le.”
-LUK 23:23 A e manuša ni ačhile te vazden po glaso thaj manglje te čhuven e Isuse ko krsto. I lendji vika sasa po zurali thaj po zurali.
+LUK 23:23 A e manuša ni ačhile te vazden po glaso thaj manglje te čhuven e Isuse ko krsto. I lenđi vika sasa po zurali thaj po zurali.
 LUK 23:24 Thaj golese o Pilat vačarda te avol sar so e manuša manđen.
 LUK 23:25 Thaj mukhlja e Varnava, savo sasa ano phanglipe paši pobuna thaj bašo mudaripe, a e Isuse dija lenđe sar so manglje.
 LUK 23:26 Thaj kana inđarde e vojnikura e Isuse, dolde nesave Simone tari Kirina savo avola taro polje, thaj čute pe leste o krsto te phiravol le palo Isus.
@@ -1091,7 +1091,7 @@ LUK 23:32 Inđarde duje bilačhe manušen katane e Isusesa te aven mudare.
 LUK 23:33 Thaj kana avile ke kova than savo akhardola kokalo e šoreso, gothe čute ko krsto e Isuse thaj e duje bilačhe manušen, jekhe tari desno rig e Isusesi a avere ki levo rig.
 LUK 23:34 A o Isus vačarda: “Dade! Oprosti lenđe, golese kaj ni đanen so čeren.” Thaj e vojnikura čhudije o barbuto thaj ulade maškar peste leso fostano.
 LUK 23:35 But manuša ačhile thaj dikhlje sa gova, a e barutne marde muj thaj vačarde: “Averen spasisada, so ni spasil korkoro pes akana, te si vov o Hristo, birimo e Devleso.”
-LUK 23:36 A e vojnikura marde muj lesa, thaj avile paše leste thaj dijele šut.
+LUK 23:36 A e vojnikura marde muj lesa, thaj avile paše leste thaj dije le šut.
 LUK 23:37 Thaj vačarde e Isusese: “Te san tu caro e Judejako, spasi korkoro tut.”
 LUK 23:38 A sasa pe leste upre pisimo kala lafura: “Kava si caro e Jevrejengo.”
 LUK 23:39 A jekh tare bilačhe manuša so sesa ko krsto e Isusesa marda muj thaj vačarda lese: “Te san tu o Hristo spasi tut thaj amen!”
@@ -1153,7 +1153,7 @@ LUK 24:38 Thaj vačarda lenđe: “Sose daran? Thaj sose ni pačan?
 LUK 24:39 Dičhen me vasta thaj me pingre! Me sem gova! Dolen man thaj ka dičhen! Golese kaj e duxo naj telo thaj kokala sar so dičhen man isi!”
 LUK 24:40 Thaj dok vačarola sa gova sikada pe vasta thaj pe pingre save sesa kovime ko krsto.
 LUK 24:41 Sesa gija začudime em radosna kaj naštine pačan thaj pučlja len: “Isi li tumen khanči hamase?”
-LUK 24:42 A von dijele kotor peće mačhe.
+LUK 24:42 A von dije le kotor peće mačhe.
 LUK 24:43 Thaj lija o Isus em xalja angle lende.
 LUK 24:44 Thaj vačarda lenđe: “Kava si okova sostar vačardem tumenđe kana sema tumencar, kaj trubul te avol sa so pisime mandar ano zakono e Mojsijaso thaj ane Lila save pisade e prorokura thaj ane psalmura.”
 LUK 24:45 Tegani putarda lenđe jakha te haljaren o Sveto Lil.

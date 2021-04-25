@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 04/03/2021 16:12:04
+## File Created: 04/23/2021 09:57:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 04/01/2021 23:03:16
+## Source Date: 04/21/2021 21:07:06
 ## Source Text: unaltered below
 ##
 
@@ -640,7 +640,7 @@ LUK 12:57 Tumen korkoro trubuinesas te pindžaren so si ispravno!”
 LUK 12:58 Sago vi ako vareko prl tumen zbog o dugo savo či poćindine thaj kamel te inđarel tumen po sudo, još dromesa den sa tumendar te nagodbasa rešin tumen lestar, te či inkalel tut anglo sudo. O sudco delatut ko stražari, a o stražari čhudelatu ande tamnica.
 LUK 12:59 Phenav tuće: 'Či inkljeja okotar dok či poćines dži ke posljedno lovoro.'”
 LUK 13:1 Askal aviline varesave manuša thaj phendine e Isusešće kaj o Pilato savo sas rimsko upravniko dijas naredba te mudarenpes varesave manuša andar e Galileja. Thaj sas mudarde ando jerusalimsko Hramo dok anenas e žrtve.
-LUK 13:2 O Isus phendas lenđe: “Dali si godova dokaz kaj godola Galilejcurja save nastradisardine sas majbut bezehale katar aver Galilejcurja.
+LUK 13:2 O Isus phendas lenđe: “Dali si godova dokaz kaj godola Galilejcurja save nastradisardine sas majbut bezehale katar aver Galilejcurja?
 LUK 13:3 Nisar! Phenav tumenđe: vi tumen gajda avena duhovno hasarde ako či obratintumen ko Del!
 LUK 13:4 Ili gndin kaj okola dešuohto, pe save haradili e Siloamsko kula thaj mudardalen sas majbut bezehale katar sa e manuša save trainas ando Jerusalim?
 LUK 13:5 Nisar! Phenav tumenđe: vi tumen gajda avena duhovno hasarde ako či obratin tumen ko Del.”

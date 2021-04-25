@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Bayash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Bayash-Luke
-## File Created: 04/03/2021 16:12:04
+## File Created: 04/23/2021 09:57:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/ronBayash_vpl.zip
-## Source Date: 04/01/2021 23:02:29
+## Source Date: 04/21/2021 21:06:16
 ## Source Text: unaltered below
 ##
 
@@ -707,7 +707,7 @@ LUK 14:30 Jej ur zăšji: 'Asta om su apukat să gradalaskă ali no putut să za
 LUK 14:31 “Ili ka kum kralju su spremili să mergă ăm bătajă ku altu kralj. Šă să nu šadă elši šă să gănđaskă dakă ku zešji (10) hiljada dă kătănj poći să ăl savladalaskă ku protivnikuš kari ari doj spešj (20) hiljada?
 LUK 14:32 Atunšje dakă nu poći să ăl savladalaskă u măna pă pregovarać kită ăj inka neprijatelju dă parći să ăntrebi dă uvjetur dă putuljală.
 LUK 14:33 Šă aša toc dăm voj dakă nu vic lăsa kutotu šje avec, nu poči să fijă učeniku amnjov.”
-LUK 14:34 Isu u zăs: sari ăj bună stvar ali dăkă perđi izu, ku šje poc ăntoršji bălureme?
+LUK 14:34 Isus u zăs: sari ăj bună stvar ali dăkă perđi izu, ku šje poc ăntoršji bălureme?
 LUK 14:35 Nuj bună atunšje njiš dă pămănt njiš dă šrot. Lume numa u vărlješći ăndărăt. Punjec ureći voj kari avec ureć să auzăc!”
 LUK 15:1 Pălăngă Isus su okupulit tari mulc poreznici šă tari mari grešnici să pujă ureći la vorba aluj.
 LUK 15:2 Farizeji šă učitelji dă zakonu alu Mojsije sur apukat să ăl gumunjaskă, šă jej zăšje: “Asta om să družulešći ku grešniš, šă mănănkă ku jej.”
