@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 04/23/2021 09:57:46
+## File Created: 05/05/2021 13:25:33
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 04/21/2021 21:07:52
+## Source Date: 05/03/2021 09:48:18
 ## Source Text: unaltered below
 ##
 
@@ -149,7 +149,7 @@ LUK 2:52 A o Isus ulo po mudro hem barjola ine. Sa više barjola ine ano jaćha 
 LUK 3:1 Ked o caro o Tiberija vladinđa upro e Rimesoro carstvo dešupandžto berš, o Pontije Pilat vladinđa ani Judeja, o Irod vladinđa ani Galileja, a lesoro phral o Filip vladinđa ani Itureja hem ani Trahonitada, o Lisanije vladinđa ani Avilina,
 LUK 3:2 hem o Ana hem o Kajafa inele šerutne sveštenici, o lafi e Devlesoro alo e Zaharijasere čhavese e Jovanese ki pustinja.
 LUK 3:3 I o Jovan dželo ko sa o krajo e lenjakoro Jordan te propovedini e manušenđe da valjani te pokajinen pe zako pumare greja hem te oven krstime sar te mothoven dai lenđe oprostime o greja.
-LUK 3:4 Sar so angleder pisinđa o proroko o Isaija, o Jovan inele “o glaso so vičini ani pustinja: ‘Ćeren o drom e Gospodese ravnonen lese o droma!
+LUK 3:4 Sar so angleder pisinđa o proroko o Isaija, o Jovan inele “o glaso so vičini ani pustinja: ‘Ćeren o drom e Gospodese, ravnonen lese o droma!
 LUK 3:5 Đijekh dolina te pherđol a đijekh planina hem brego te peren! O bange droma te oven ispravime a o hrapava droma te oven ravnome!
 LUK 3:6 I sa o manuša ka dikhen o spasenje savo avela taro Devel.’”
 LUK 3:7 Akava o Jovan vaćerđa butenđe kola iklile te krstini len: “E sapengere čhavalen! Ko vaćerđa tumenđe da šaj te našen tari e Devlesiri xoli savi avela?
@@ -161,7 +161,7 @@ LUK 3:12 Nesave carinicija da ale te krstini len o Jovan, i phende lese: “Uči
 LUK 3:13 A ov phenđa lenđe: “Ma roden buderi porez okolestar so o zakoni phenela tumenđe te roden.”
 LUK 3:14 I nesave vojnici da pučle e Jovane: “A so amen te ćera?” A ov phenđa lenđe: “Nikastar ma len love ađahar so ka mothoven lenđe zoralipe ili so ka tužinen len xovavne hem oven zadovoljna tumara plataja.”
 LUK 3:15 A o narodo adžićerđa e Mesija hem sare pučle pe nane li o Jovan o Mesija.
-LUK 3:16 Adalese o Jovan phenđa sarijenđe: “Me krstinava tumen panjeja, ali avela o po baro mandar, kase na injum dostojno o dorikha oti obuća te phravav. Ov ka krstini tumen e Svetone Duhoja hem jagaja.
+LUK 3:16 Adalese o Jovan phenđa sarijenđe: “Me krstinava tumen panjeja, ali avela o po baro mandar, kase na injum dostojno ni o dorikha oti obuća te phravav. Ov ka krstini tumen e Svetone Duhoja hem jagaja.
 LUK 3:17 Ka šulaj o gumno plo hem ka odvojini o điv tari pleva. O điv ka čhivel pese ki šupa, a i pleva ka tharel jagaja savi na mudarđola.”
 LUK 3:18 Esavke da but avera lafija o Jovan phenđa e narodose sar te terini len te pokajinen pe hem vaćerđa lenđe o Šukar lafi.
 LUK 3:19 A e vladare e Irode o Jovan ukorinđa adalese so lelja romnjaće ple phralesere romnja e Irodijada hem zako but avera bišukar buća so ćerđa.
@@ -293,7 +293,7 @@ LUK 6:23 Tegani radujinen tumen hem ripinen oto bahtalipe, adalese so adžićeri
 LUK 6:24 Ali jao tumenđe e barvalenđe, adalese so već leljen tumari uteha!
 LUK 6:25 Jao tumenđe kola akana injen čaljarde, adalese so ka oven bokhale! Jao tumenđe kola akana asana, adalese so ka tugujinen hem ka roven!
 LUK 6:26 Jao tumenđe ked sa o manuša vaćerena šukar tumendar! Adalese so ađahar vaćerena ine lengere pradada e xovavne prorokonendar ano lengoro vreme!”
-LUK 6:27 “A vaćerava tumenđe so šunena: ‘Mangen tumare dušmanjen! Ćeren šukaripe okolenđe so mrzinena tumen!
+LUK 6:27 “A vaćerava tumenđe so šunena: Mangen tumare dušmanjen! Ćeren šukaripe okolenđe so mrzinena tumen!
 LUK 6:28 Vaćeren šukaripe okolenđe so dena tumen armanja! Molinen e Devle okolenđe so ćerena tumenđe bišukaripe!
 LUK 6:29 Okolese kova khuvela tut ki čham, irin hem aver čham. Okolese kova lela to fostani, ma zabranin hem o gad.
 LUK 6:30 De đijekhese kova rodela tutar, hem ma rode palal okolestar kova lela tutar.
@@ -444,7 +444,7 @@ LUK 9:19 A on phende: “Nesave manuša phenena da tu injan o Jovan o Krstitelj,
 LUK 9:20 Tegani o Isus pučlja e učenikonen: “A so tumen phenena, kova injum me?” O Petar phenđa: “Tu injan o Hrist, kole o Devel bičhalđa!”
 LUK 9:21 A o Isus naredinđa e učenikonenđe te na vaćeren nikase dai ov o Hrist.
 LUK 9:22 I phenđa: “Me, o Čhavo e Manušesoro, valjani but te patinav. O starešine, o šerutne sveštenici hem o učitelja e Mojsijasere zakonestar na ka prihvatinen man. O manuša ka mudaren man, ali o trito dive o Devel ka vazdel man taro mule.”
-LUK 9:23 I o Isus vaćerđa ple učenikonenđe hem sa e narodose so inele adari: “Kova mangela te ovel mlo učeniko, nek ačhaj plo dživdipe, nek lel plo krsto 3. Soduj uprune opcije. Taro dive ko dive hem nek phirel pala mande.
+LUK 9:23 I o Isus vaćerđa ple učenikonenđe hem sa e narodose so inele adari: “Kova mangela te ovel mlo učeniko, nek ačhaj plo dživdipe, nek lel plo krsto. Taro dive ko dive hem nek phirel pala mande.
 LUK 9:24 Adalese so đijekh kova mangela plo dživdipe te arakhi, ka našali le, a kova dela plo dživdipe zbog mande, ka ovel le čačikano dživdipe.
 LUK 9:25 Na vredini ništa e manušese hem sa i phuv te ovel ine olesiri te na lelja o dživdipe savoi čačikano.
 LUK 9:26 Adalese kova lađala mandar hem mle lafonendar, hem me, o Čhavo e Manušesoro, ka lađav olestar ked ka irinav ki phuv ano sjaj savo ka ovel sar o sjaj mle Dadesoro hem e svetone anđelengoro.
@@ -761,7 +761,7 @@ LUK 16:18 Jekh primer: Kova tumendar mukela pla romnja hem lela avera, ćerela p
 LUK 16:19 O Isus phenđa: “Inele nesavo barvalo manuš kova hurjela pe ine sa ano najšuže šeja hem taro dive ko dive xala ine najšukar xabinja.
 LUK 16:20 Angli lesiri kapija sa ano čirevija pašljola ine nesavo čororo manuš palo anav Lazar.
 LUK 16:21 Ov but manglja te čaljari pe okolestar so ačhola ine palo xajba e barvalesoro. I ko sa adava, sar pašljola ine angli kapija, đi o diline đukle avena ine hem ližinena lesere čirevija.
-LUK 16:22 Ked mulo o čororo, o anđelja legarde le e Avraamese ani angali. I o barvalo da mulo hem inele parume.
+LUK 16:22 Ked mulo o čororo, o anđelja legarde le e Avraamese ki angali. I o barvalo da mulo hem inele parume.
 LUK 16:23 I ano than e mulengoro, ano bare muke, o barvalo vazdinđa ple jaćha hem odural dikhlja e Avraame hem e Lazare lese ani angali.
 LUK 16:24 Tegani vičinđa: 'Pradade Avraame, smilujin tut maje hem bičhal e Lazare te čhivel plo upruno kotor e najestar ano pani hem te avel te šudrari mli čhib, adalese so but injum mučime ani akaja jag.'
 LUK 16:25 A o Avraam phenđa: 'Mlo čhavo, setin tut da priminđan to šukaripe tuće ko dživdipe, a o Lazar plo bišukaripe. A akanai e Lazarese šukar akate, a tu mučineja tut.
