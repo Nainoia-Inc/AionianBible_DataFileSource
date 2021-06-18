@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 05/05/2021 13:25:33
+## File Created: 06/04/2021 11:21:48
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 05/03/2021 09:46:42
+## Source Date: 06/01/2021 13:59:33
 ## Source Text: unaltered below
 ##
 
@@ -30,7 +30,7 @@ LUK 1:13 A o anđeo phendas lešće: “Na dara, Zaharija! Kaj si ašundi ćiri 
 LUK 1:14 Zbog leste aveja bahtalo thaj radosno, thaj e buten raduila lesko bijandipe.
 LUK 1:15 Kaj avela baro anglo Del. Či pijela mol niti pimo savo matarel. Pherdola e Sveto Duhosa još ando đi pire dejako.
 LUK 1:16 Vo boldela e but Izraelconen e Gospodešće lenđe Devlešće.
-LUK 1:17 Džala anglo Gospod sago glasniko pherdo duho thaj sila, sago o proroko Ilija. Pomirila e dades lešće čhavenca a e nepokorne umurja boldela gajda te prihvatin o razumnost okolengo save si pravedne. Pripremila o theme pale e vrjama kana o Gospod avela.
+LUK 1:17 Džala anglo Gospod sago glasniko pherdo duho thaj sila, sago o proroko Ilija. Pomirila e dades lešće čhavenca a e nepokorne umurja boldela gajda te prihvatin o razumnost okolengo save si pravedne. Pripremila e theme pale e vrjama kana o Gospod avela.
 LUK 1:18 A o Zaharija phendas e anđelošće: “Sar me džanava kaj godova avela čače? Kaj sem me purano thaj e romnji mungri dija ande pire purane brš.”
 LUK 1:19 A o anđeo phendas lešće: “Me sem o anđeo Gavrilo, savo ačhav anglo Del te služiv, thaj bičhaldo sem te ćerav svato tuva thaj te javiv tuće akaja bahtali nevimata.
 LUK 1:20 Zato kaj či paćajan akana zanemija thaj naštik ćereja svato džiko đes dok či avel e vrjama pale godova thaj mungre alava či pherdonpe.”

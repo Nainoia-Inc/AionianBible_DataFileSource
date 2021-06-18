@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Ludari-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Ludari-Luke
-## File Created: 05/05/2021 13:25:33
+## File Created: 06/04/2021 11:21:48
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,50 +10,50 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/ronludari_vpl.zip
-## Source Date: 05/03/2021 09:47:29
+## Source Date: 06/01/2021 14:01:43
 ## Source Text: unaltered below
 ##
 
 LUK 1:1 Poštovani Teofile: Mulc inš apokušă s s skrije izvješće d događaj d karje s sa isponit ătru noj.
-LUK 1:2 Kum na rubit kănd počinit afost svjedokurj š argacă karje služa alu Dimizov–
-LUK 1:3 daja jo cije glavni Teofile po redu skriuv d kraj, š ăn ćet akătat
+LUK 1:2 Kum na rubit kănd počinit afost svjedokurj š argacă karje služa alu Dimizov.
+LUK 1:3 Daja jo cije Teofile po redu skriuv d kraj, š ăn ćet akătat.
 LUK 1:4 S aša s fi siguran k aja će ta văcat je istina.
-LUK 1:5 Ăn zuvilje alu Herod, caru p toc Židovurj, afost neki pop karje sakima Zaharija d grupă Abijina., Mujara aluj irja fata dăla Aronoviha sikima Elizabeta.
+LUK 1:5 Ăn zuvilje alu Herod, caru p toc Židovurj, afost neki pop karje sakima Zaharija d grupă Abija. Mujarja aluj irja fata dăla Aron karje sakima Elizabeta.
 LUK 1:6 Amiždoj irja pravedni la Dimizov daja će živja frzdă mană p tot zakonu š pravila alu Dimizov.
-LUK 1:7 No navut kupil daje će Elizabeta afot šćarpje, a amiždoj irja mult bătrnj.
+LUK 1:7 Aki navut kupil daje će Elizabeta afost šćarpje, a amiždoj irja mult bătrnj.
 LUK 1:8 Kănd Zaharija aslužăt alu Dimizov ăn Hram daja će irja redu aluj.
 LUK 1:9 Kum irja običaju alu populor d zapad s utră ăn Svetište s prenisaskă tmăja.
-LUK 1:10 D vrijamje kănd aprins tmăja mul lumje afar s molja.
-LUK 1:11 Alu Zaharije saukazăt anđeo alu Dimizov. Astat p partja alu diraptej la Žrtvenik.
+LUK 1:10 D vrijamje kănd aprins tmăja mult lumje afar s molja.
+LUK 1:11 Alu Zaharija saukazăt anđeo alu Dimizov. Astat p partja alu diraptej la žrtvenik.
 LUK 1:12 Kănd Zaharija avuzut p anđeo jel mult sa spirjat.
-LUK 1:13 A anđeo ji zăće “Na vja frikă, Zaharija! Dimizov avuzut će akătat dăla jel: mujarja c s fakă bijat. Š ji puj lumje Ivan.
+LUK 1:13 A anđeo ji zăs: “Na vja frikă, Zaharija! Dimizov avuzut će akătat dăla jel: Elizabeta, mujarja c, s fakă bijat. Š ji puj lumje Ivan.
 LUK 1:14 C s fije drag š t veselješt š mulcă s s radujaskă kănd s fićja jel.
-LUK 1:15 Jel s fije marje ăn vojki alu Dimizov, Nu s bja nit vin nić altje bjarje. S fije plin d Sufljetu alu Dimizov š s l vudjaskă još kănd fi ăn burtă
+LUK 1:15 Jel s fije marje ăn vojki alu Dimizov. Nu s bja nit vin nić altje bjarje. S fije plin d Sufljetu alu Dimizov š s l vudjaskă još kănd fi ăn burtă
 LUK 1:16 P mulc inš d kupi alu Izrael s navadjaskă s s okrinjaskă la Dimizov.
-LUK 1:17 S plaće pănglă Domnu plin ku sufljetu š ku săla kao kum afost proroku Ilija s uvirjaskă p tatilje s obnovaskă odnosu ku kupi alor š lumja karje na skultă s lji priprimjaskă sa skultje p Domnu.”
-LUK 1:18 Zaharuaj zăće alu anđeo “Kum s štiuv k s dugudjaštje aja. Več sănt bătărn š mujarja mja je več bătărnă.
-LUK 1:19 Anđeo ji zăće: “Jo sănt Gabrijel karje stav pănglu Dimizov. Trimjes sănt dăla Dimizov s rubjesk ku tinje š s caduk asta radosna porukă.
-LUK 1:20 Š jakă, budući k nakrizut ăn vorbilje alji mjalje, karje s ispunjaskă d alor vrijamje, usu rămij njem nu s poc s rubjaštje kănd nu vinja vrijamja d aja š vorbilje ali mjalje s ispunjaskă daja će nu majkrizut.
+LUK 1:17 S plaće pănglă Domnu, plin ku sufljetu š ku săla kao kum afost proroku Ilija, s okrinjaskă p tatilje s obnovaskă odnosu ku kupi alor š p lumja karje na skultă s lji priprimjaskă sa skultje p Domnu.”
+LUK 1:18 Zaharija azăs alu anđeo “Kum s štiuv k s dugudjaštje aja? Več sănt bătărn š mujarja mja je več bătărnă.
+LUK 1:19 Anđeo ji zăs: “Jo sănt Gabrijel karje stav pănglu Dimizov. Trimjes sănt dăla Dimizov s rubjesk ku tinje š s caduk asta bună vorbă.
+LUK 1:20 Š jakă, budući k nakrizut ăn vorbilje alji mjalje, karje s ispunjaskă d alor vrijamje, usu rămij njem š nu s poc s rubjaštje kănd nu vinja vrijamja d aja š vorbilje alji mjalje s ispunjaskă.
 LUK 1:21 Narodu aštiptat p Zahariju š s ćudit kăt atăta sa zadržăt ăn Svetište.
-LUK 1:22 Kănd napokon ajišăt, na putut nimik s lji zăće lumja ashvatit k ăn Svetište avut vizije. Zaharija pokušăt ku mănilje ali arămas njem.
+LUK 1:22 Kănd napokon ajišăt, na putut nimik s lji zăće š lumja ashvatit k ăn Svetište avut vizije. Zaharija pokušăt ku mănilje ali arămas njem.
 LUK 1:23 Armas ăn Hram păn god na isteknit vrijamja aluj š atunča sators akas.
-LUK 1:24 D vrijamaja kănd Zaharija sators a kas mujarja aluj Elizabeta arămas grja. Ćinć (5) lunj saskuns:
-LUK 1:25 Domnu mafukut s rămij grja š askinit rušunja dăpă minje ătru lumje.
-LUK 1:26 Kănd Elizabeta irja grja šašă (6) lunj Dimizov atrimjes p anđeo Gabrijel ăn gallilejski sat Nazaret
-LUK 1:27 la djevică karje zarućită dăpă om karje sakima Josip jel irja d sămăncă alu David; a djevica sakima Marija.
-LUK 1:28 Gabrijel s ukazăt š ja zăs: “Radujaštitje! Dimizov ku tinje!”
-LUK 1:29 P aja Marija sa uznemirit š astat s razmisljaskă će znaćaštje pozdravulj
-LUK 1:30 Na vja frikă Marija: “izăće anđeo Gabrijel! Dimizov odloćit s dja milă aluj.
-LUK 1:31 S rămăj graj š fać bijat š ipuj imilje Isusu Majmarje.
-LUK 1:32 Jel s fije marje š lumja s l kjamje Bijatu alu Dimizov Majmarje. Aluj Domnu Dimizov idă autoritet vladjaskă ka car kum predaku David afukut
-LUK 1:33 Š vladjašte ku kasa alu Jakov zauvjek š aluj cara nikad nu s prestanjaskă.”
+LUK 1:24 D vrijamaja kănd Zaharija sators a kas mujarja aluj Elizabeta arămas grja. Ćinć (5) lunj saskuns. :
+LUK 1:25 “Domnu mafukut s rămij grja š askinit rušunja dăpă minje ătru lumje.”
+LUK 1:26 Kănd Elizabeta irja grja šašă (6) lunj Dimizov atrimjes p anđeo Gabrijel ăn gallilejski sat Nazaret,
+LUK 1:27 la djevică karje zarućită dăpă om karje sakima Josip. Jel irja d sămăncă alu David, a djevica sakima Marija.
+LUK 1:28 Gabrijel s ukazăt š ja zăs: “Radujaštitje! Domnu ku tinje!”
+LUK 1:29 P aja Marija sa uznemirit š astat s razmisljaskă će znaćaštje pozdravulj.
+LUK 1:30 Anđeo azăs: “Na vja frikă, Marija, k Dimizov odloćit s dja milă aluj!
+LUK 1:31 S rămăj grja š fać bijat š ipuj imilje Isusu Majmarje.
+LUK 1:32 Jel s fije marje š lumja s l kjamje Bijatu alu Dimizov Majmarje. Domnu Dimizov idă autoritet vladjaskă ka car kum predaku David afukut.
+LUK 1:33 Vladjaštje ku kasa alu Jakov zauvjek š aluj cara nikad nu s prestanjaskă.”
 LUK 1:34 Marija trijabă p slubutuarj: “Ali kum? Jo još na fost ku om.”
-LUK 1:35 Anđeo Gabrijel ja odgovorit: “S rămij grja ku sufljetu alu svăntuluj š p săla alu Majmarje Dimizov t prekrijaštje. Daja kupilu kare s fać s fije svănt s kjamje Bijatu alu Dimizov.
-LUK 1:36 Jakă ata sestrićna Elizabeta š ako irja bătărnă arămas grja. Akimao šćarpje a grja je d šasă (6) lunj
+LUK 1:35 Anđeo Gabrijel ja odgovorit: “S rămij grja ku Sufljetu alu Svăntuluj š săla alu Majmarje Dimizov t prekrijaštje. Daja kupilu karje s fać s fije svănt s kjamje Bijatu alu Dimizov.
+LUK 1:36 Jakă, ata sestrićna Elizabeta š ako irja bătărnă arămas grja. Akimao šćarpje a grja je d šasă (6) lunj.
 LUK 1:37 Alu Dimizov nimika nuje nemoguće!”
-LUK 1:38 Marija zăće alu Gabrijelu: “argatu sănt alu Dimizov. S fije kum tu zăć!” Š gabrjel apikat dăla ja.
-LUK 1:39 D zuviljalja Marija apikată regija ăn Judeja undje irja djalurj.
-LUK 1:40 Autrat ăn kasa alu Zaharije š apozdravit p Elizabeta.
+LUK 1:38 Marija azăs alu Gabrijelu: “Jaka, argatu sănt alu Dimizov. S fije kum tu zăć!” Š Gabrijel apikat dăla ja.
+LUK 1:39 D zuviljalja Marija apikată ăn regija Judeja undje irja djalurj.
+LUK 1:40 Autrat ăn kasa alu Zaharija š apozdravit p Elizabeta.
 LUK 1:41 Kănd Elizabeta auzăt pozdravu alu Marije kupilu ăn burtă naglo samiškat š Elizabeta sa napunit ku sufljetu alu svntuluj.
 LUK 1:42 Elizabetaă tarje astrigat: “Majmult ješt blagoslovită d tuatje mujerj š blagoslovitje kupilu ăn burta ata!
 LUK 1:43 Će ćast am s m positjaskă mama alu Domnuluj alimjov!
@@ -68,19 +68,19 @@ LUK 1:51 Ku măna ali capănă faće marje ćuda š apotirit p lumja karje ponos
 LUK 1:52 Jel izbacăt p vladari s nu vladjaskă više, a adrikat p lumje karje je ponizni.
 LUK 1:53 A p lumja karje irja flmănž lja nasitit ku binje, a p lumja karje bogată lja lăsat ku mănilje gualje.
 LUK 1:54 Jel asirit alu argatun aluj Izrael ăn pomoć dajaće obićit alu nuastră sămănca k s fije d milă.
-LUK 1:55 Karje obećit alu nuastră sănănca: k alu Abrahamš aluj s ămănca uvjeka s fije d milă.”
+LUK 1:55 Karje obećit alu nuastră sămănca: k alu Abrahamš aluj sămănca uvjeka s fije d milă.”
 LUK 1:56 Marija ku Elizabeta arămas trj (3) lunj a atunča sators a kas.
 LUK 1:57 Alu Elizabeta avinit vrijamja s fakă š ja afukut bijat.
 LUK 1:58 Kănd ăntră lau Elizabetej komšijiš familija auzăt k Dimizova pokazăt marje milă, saradujit toc zajedno ku ja.
 LUK 1:59 Kănd kupilu napunit opt (8) zălje saskupit la o bred obrezanja. Avurut p kupilu s sl kjamje Zaharijom kum tatusov sakima,
-LUK 1:60 Ali Elizabeta supostravit d kupilu s skjamje Zahirije, nego mora s skjamje Ivan!”
+LUK 1:60 Ali Elizabeta supostravit d kupilu s skjamje Zaharija, nego mora s skjamje Ivan!”
 LUK 1:61 Komšiji š familija zăće: “nimilja la familija ata nu sikjamă Ivan!”
-LUK 1:62 Atunča lumja atribat p Zahirija ku mănilje (daja će irja njemš surd) kum vrjaj s s kjamje.
-LUK 1:63 Zahirija akătat sji dja ploćeš s skrije: “Sikjamă Ivan.” Toc sa začudit,
+LUK 1:62 Atunča lumja atribat p Zaharija ku mănilje (daja će irja njemš surd) kum vrjaj s s kjamje.
+LUK 1:63 Zaharija akătat sji dja ploćeš s skrije: “Sikjamă Ivan.” Toc sa začudit,
 LUK 1:64 Alu Zhirije Dimizov adiškis aluj guera š oslobodit ljimba alujš jel dnuturdată apoćenit s rubjaskă š s slavjask p Dimizov.
-LUK 1:65 Toc karje živja pănglu je afost frikă d Dimizovće afukut alu Zahirije. P tuată regija judeja undje ještje djalurj ljumja rubja d aja će sa dogodit.
+LUK 1:65 Toc karje živja pănglu je afost frikă d Dimizovće afukut alu Zaharija. P tuată regija judeja undje ještje djalurj ljumja rubja d aja će sa dogodit.
 LUK 1:66 Ćinje god auzăt d je, agidja d aje š s striba: “će s fije d bijatusta kănd fi marje? Š săla alu Domnuluj i rja ku jel.”
-LUK 1:67 Sufljetu alu svăntuluj aisponit p Zahirija, tata alu Ivan karje aduće porukă dăla Dimizov:
+LUK 1:67 Sufljetu alu svăntuluj aisponit p Zaharija, tata alu Ivan karje aduće porukă dăla Dimizov:
 LUK 1:68 Slava alu Domnu Dimizov karje vladjaštje p Izrael karje avinit š akuprat p narodu aluj!
 LUK 1:69 Š adrikat nauvă marje Spasitelj d potomakurj alu aluj argatu David,
 LUK 1:70 Kum je davno obećit p vorbă alu luj svăntuluj alu prorokuruj:
@@ -134,26 +134,26 @@ LUK 2:37 Atunča kao udovicad optzăć š patru (84) aj. Na išăt d Hramu več 
 LUK 2:38 Ana avinit š apoćenit s slavjaskă p Dimizov š rubja d Isusu alu toc karje štjaptă p Mesija p karje Dimizov trimjatje s kuprje p Jeruzalem
 LUK 2:39 Kănd Josip š Marija aisponit će Dimizov akătat dăla je ăn zakon alu Mojije, sators ăn Nazaret ăn regija Galileja.
 LUK 2:40 Kupilu Isusu krištja š afost capăn. Apostanit majmult mudar š Dimizov la blagoslavit p Isusu.
-LUK 2:41 Roditelji alu Isusuluj tot anu knd irja prazniku Pashe pljika ăn Jeruzalem.
-LUK 2:42 Knd avut dojsprijačcje (12) d aj, apljikat kaš uvjek la praznik.
+LUK 2:41 Roditelji alu Isusuluj tot anu kănd irja prazniku Pashe pljika ăn Jeruzalem.
+LUK 2:42 Kănd avut dojsprijačcje (12) d aj, apljikat kaš uvjek la praznik.
 LUK 2:43 Dp praznik kupilu Isusu arămas ăn Jeruzalem, a roditelji aluj aja na štijut.
 LUK 2:44 Agidit kije bijatu ăn grupa alor. Aublat una (1) zuvă a tunća apoćenit s l katje ăntră familije š ăntri ortać,
 LUK 2:45 Š nu la găsăt. Sators ăn Jeruzalem š klo l kată.
 LUK 2:46 Dăpă trje (3) zălje lagăsăt ăn Hram ăntră ućiteljurj kum punje urjejkje š postavjaštje alor pitanja.
 LUK 2:47 Š toc karje apus urjejkje la Isusu sa mirat kăt štije d Dimizov š kum binje odgovorja p pitanj.
 LUK 2:48 Kănd Marija š Josip agăsăt p Isusu naštijut će s gidjaskă. Zăće mumusa “Bijatu alu mjov!” nu tribjaj s fać asta? Tatutov š jo mult nja sikirit š pistot ta kătat!”
-LUK 2:49 Isusu rubja alu roditeljulor: “Nu tribjec s vu sikiric d minje” zar voj nu štijic k jo mora s fiuv ăn kasa alu tatimjov?”
+LUK 2:49 Isusu rubja alu roditeljulor: “Nu tribjec s vu sikiric d minje” zar voj nu štijic k jo mora s fiuv ăn kasa alu Tatimjov ăn ćerj?”
 LUK 2:50 Ali Josip š Marija na razumja će Isusu zăće.
 LUK 2:51 Isusu sators akas ku Marija š ku Josip ăn sat Nazaret š askulta tot, a mumusa š maj dăpartje sagidja la aja.
 LUK 2:52 A Isusu krištja š postanit još majmult mudar š Dimizov la blagoslovit majmult š majmult, a lumja la vurut majmult š majmult.
 LUK 3:1 Kănd caru alu Rimuluj Tiberija avladit ćinjćsprjaće (15) d aj ăn cara alu rimuluj, a Poncije Pilat afost upravitelju alu rimuluj p regija Judeja, Herod avladit ăn regija Galileja, a fratusov Filip avladit ăn regija Itureja š ăn regija Trahonitida, Lizanije avladit ăn regija Abilena,
-LUK 3:2 a marj popurlje irja Ana š Kajfa, Dimizov atunča rubja alu Ivan bijatu alu Zahirije ăn lok undje nuje nimjka (pustinja).
-LUK 3:3 Je atunča obiđaštje tuată jordansku regija s rubjaskă alu lumjej k trijebj s bitjază s pokazaskă kum s maknjaskă dăla grješală š s obratjaskă la Dimizov s lji oprostjaskă.
+LUK 3:2 a marj popurlje irja Ana š Kajfa, Dimizov atunča rubja alu Ivan bijatu alu Zaharija ăn lok undje nuje nimjka (pustinja).
+LUK 3:3 Jel atunča obiđaštje tuată jordansku regija s rubjaskă alu lumjej k trijebj s bitjază s pokazaskă kum s okrinjaskă dăla grješală š Dimizov osă lji oprostjaskă grešala.
 LUK 3:4 Kum askris proroku Izaija, Ivan afost “glasu karje strigă ăn lok undje nuje nimik: Preprimic drumu kum puatja s vije Domnu! Poravnic d jel stazilje”
 LUK 3:5 Tuat dolina s ispunjaskă, a tuat djalu š brjegu s slignjaskă! Drumu karje strămb s ispravjaskă, a karje nuje ravne s s ravnjaskă!
 LUK 3:6 A tunća tuată lumja s vjadje spasala alu Dimizovuluj!”
 LUK 3:7 Ivan rubja alu mulc lumje karje vinja s bitjază: “Lumja p voj tribja s izbjegaskă baš kum izbjegaštje d šărpj karje je otrovne! Nu putjec s fuđic alu Dimizov gnjevu samo aša će s fic bitizac?
-LUK 3:8 Fićesc binje karje pokazaštje k vas okrenit dălă grešala alu vuastră š okrenicăvă la Dimizov Nu vu prevarja k je dovoljno s zăć: “Noj ištjem sămănca alu Abraham!” daja vu zăk k Dimizov puatje d bulovanusta s drikă kupi alu Abraham!
+LUK 3:8 Fićec binje karje pokazaštje k vas okrenit dălă grešala vuastră. Nu vu prevarja k je dovoljno s zăć: “Noj ištjem sămănca alu Abraham!” daja vu zăk k Dimizov puatje d bulovanusta s drikă kupi alu Abraham!
 LUK 3:9 Dimizov je kao omu karje apus sjekurja p korejen la ljemn. Tot ljemnu karje nu dă bun rodu usu fije tijat š arukat ăn fok.”
 LUK 3:10 Atribat mulc lumje p Ivan: “Će s trijebje fićem?”
 LUK 3:11 “Ćinje arje doj (2) ogrtaćurj, s dja alu ălja karje narje ni ćuna. A ćinje arje mănkarje, s podiljaskă ku ălja karje narje.”
@@ -206,7 +206,7 @@ LUK 4:19 š s rubjesk k ăsta an ăn karje Domnu pokazaštje aluj binilje.
 LUK 4:20 Atunča Isusu ankis knjiga, utuarće alu pomoćnikuluj š šadje s rubjaskă. Tuată lumja ăn sinagogă sujăta ăn jel š jedva štipta s zăkă nješto.
 LUK 4:21 Š ančiput ku aštja vorbje s lji zăk: “Astăz sa ispunit aštja vorbje d Sveta pismă karje akuma ančitit.”
 LUK 4:22 Š kănd Isusu azavršăt ku vorba, toc karje irja ăn sinagogă rubja d jel š s ćudja d binilje alu Dimizovuluj d karje jel rubja. Je rubja: “Zar nuje ăsta bijatu alu Josip?”
-LUK 4:23 A Isusu lji zăće: “Sigurno osă mi zăćec asta poslovică: ‘Doktorulje, likujaštje săngur p tinje!’ š: ‘Făj š aića ăn trg undje akriskut aja će auzăt će sa dogodit ăn trg Kafarnaum’.”
+LUK 4:23 A Isusu lji zăće: “Sigurno osă mi zăćec asta poslovică: ‘Doktorulje, likujaštje săngur p tinje!’ š: ‘Făj š aića ăn trg undje akriskut aja će auzăt će sa dogodit ăn trg Kafarnaum.’ ”
 LUK 4:24 Š nastavit: “Asta poslovică je istinita: ‘Nimilja nu prihvatjaštje p proroku ăn lok undje jel akriskut’.
 LUK 4:25 Kum š štijec afost multje udovic ăn Izrael kănd proroku Ilija afost viuv. Atunča p trje aj š šasă lunj na fost pluaje š apostanit marje fuamje p tot pămăntu.
 LUK 4:26 Ali Dimizov na trimjes p Ilija alu nićuna udovică ăn Izrael. Njego jel la trimjes s ažutje alu udovicăj karje na fost Židovkă ăn trg Sarfat majuprapje d trg Sidon.
@@ -226,7 +226,7 @@ LUK 4:39 Isusu astat pănglu ja, zapovjedit alu fokuluj s vu lasă š foku alăs
 LUK 4:40 Kănd akăzut nuaptja, toc karje arje bolesnikurj lja dus la Isusu. A Isusu p tot ăla apus mănilje s lji ljikujaštje d tuatje bualje.
 LUK 4:41 Isusu puturja sufljeti alji rovj dăn multje lumje, š sufljeti alji rovj striga kănd iša: “Tu ješt Bijatu alu Dimizovuluj!” Atunča jel alor zapovjedit s nu rubjaskă daja će je aštijut k je jel Kristu (p ăla karje Dimizov atrimjes).
 LUK 4:42 Kănd asvanit zuva, Isusu ajšăt d trgula š apljikat ăn lok undje nuje nimik. Š multă lumje l kată. Kănd la găsăt, je l ruagă s rămăje ku je.
-LUK 4:43 A jel lji zăće: “Trjebje s măduk š ăn alturj trgurj s rubjesk Bună vorbă d Cara alu Dimizov. Daja Dimizov matrimjes.”
+LUK 4:43 A jel lji zăće: “Trjebje s măduk š ăn alturj trgurj s rubjesk Bună vorbă d cara alu Dimizov. Daja Dimizov matrimjes.”
 LUK 4:44 Š Isusu rubja Bună vorbă ăn sinagogje ăn pămănt alu Židovilor.
 LUK 5:1 Una zuvă, kănd Isusu astat pănglă apă Galileja, multă lumje s strănđa pănglă jel s audje vorba alu Dimizov.
 LUK 5:2 Majdată d asta, njeki ribarji več ajšăt dăn ćamacurj š ančiput s čistjaskă mrežilje. A Isusu avuzut alor doj ćamacurj p obală
@@ -259,7 +259,7 @@ LUK 5:28 Š Levi saskulat, alăsat tot, š apljikat dăpă jel.
 LUK 5:29 Atunča Levi aprirdit d Isusu marje veselije ăn kasa aluj. A ku je amănkat mulc lumje š ăntru je irja mulc poreznikurj.
 LUK 5:30 Atunča njeki farizeji, š njeki učiteljurj d zakonu alu Mojsije karje irja d grupa alor š prigovorja alu učenikurlje alu Isusuluj ku vorbilje: “Dăće mănkăc š bjec ku poreznikurlje š ku lumja karje grješaštje?”
 LUK 5:31 A Isusu lja zăs: “Alu lumjej zdravănă nu trjebje doktorjamja, več alu lumjej karje bulnavă trjebje doktorjamja.
-LUK 5:32 Nam vinit s kjem p lumja bună, nego avinjit s kjem p lumja karje grješaštje s s tuarkă la Dimizov.”
+LUK 5:32 Nam vinit s kjem p lumja bună, nego avinjit s kjem p lumja karje grješaštje s s okrinjaskă la Dimizov.”
 LUK 5:33 Njeka lumje ja zăs: “Učenikurlje alu Jovan majmult vorj postjaštje š s ruagă, aša š učenikurlje alu farizeji, ali alji tjej stalno mălănkă š bja.”
 LUK 5:34 Lja ăntribat Isusu: “Dali kutuizăc svatovi alu mladoženjej s natiric s postjaskă pănd mladoženja ku je?
 LUK 5:35 Ali osă vinje vrijamja kănd osă lji ja p mladoženja š atunča s postjaskă.”
@@ -302,7 +302,7 @@ LUK 6:32 Akă vrjec samo p ălja karje p voj vrja, nu zaslužăc nagradă. Š lu
 LUK 6:33 Isto aša akă fićec binje samo alu ălja karje fače vuavă binje, nu zaslužăc nagradă. Š lumja karje rovj faće isto aja.
 LUK 6:34 Ako pozajmic samo alu ălja karje puatje s vu tuarkă ăn drăt, nu zaslužăc nagradă. Š lumja karje rovj pozajmjaštje alu lumjej karje rovj s s tuarkă ăn drăt.
 LUK 6:35 Nego, vrjac isto p dušmani alji voštri. Fićec binje alor š pozajmic alu ălja karje nu puatje s vu tuarkă ăn drăt. Akă aja fićec, osă primic marje nagradă š osă fic kašă Majmarje Dimizov karje bun kărti lumje karje nu zahvaljaštje š karje je rovj.
-LUK 6:36 Fic bunj kărti tuată lumje kum Tata alu vostru ăn ćjer jaštje bun kărti tuată lumje.”
+LUK 6:36 Fic bunj kărti tuată lumje kum Tata alu vostru ăn ćerj jaštje bun kărti tuată lumje.”
 LUK 6:37 Nu sudic š nu s fic sudic. Nu optužăc š nu s fic optužăc. Oprostic š osă vu fije oprostit.
 LUK 6:38 Dăc š Dimizov osă vu dja. Jel osă vu tuarnă marje količină ăn puală, ka omu bun karje punjaštje găvanu aluj d gruv aša če nabijaštje š potresaštje gruvu pănd god nu s napunjaštje, š nastavjaštje s dodajaskă još maj mult pănd gruvu nu s prelijaštje. K kum miric alu alculor, aša Dimizov osă mirjaskă š vuavă.
 LUK 6:39 Isusu azăs alor š još una vorbă: “Zar puatje vorbu s adukă p vorbu? Nu puatje, k amiždoj osă kadă ăn rupă.
@@ -422,16 +422,16 @@ LUK 8:54 Isusu alato d mănă š astrigat: “Kupiljulje, skual!”
 LUK 8:55 Š sufljetu sa sators š odma sa skulat. Isusu azăs s ji dja s mălănće.
 LUK 8:56 Alu je roditelji irja začudic, a Isusu ja naredit s nu zăkă alu nimilja će sa dogodit.
 LUK 9:1 Isusu akimat la jel p duavăsprjače (12) apostolurj š lja dat sălă š autoritet s potirjaskă p sufljeti alji rovj š s puată s ljikujaskă p bulnavi.
-LUK 9:2 Lja trimjes s rubjaskă bună vorbă d cara alu Dimizov š s ljikujaskă p bulnavi.
+LUK 9:2 Lja trimjes s rubjaskă Bună vorbă d cara alu Dimizov š s ljikujaskă p bulnavi.
 LUK 9:3 Isusu lja zăs: “Nimika nu lăc ku voj p drum: nić băcu, nić tašna, nić mălaju, nić banji, nić altje kămăšj!
 LUK 9:4 Ăn karje god kasă utrăc, răminjec ăn ja pănd god nu pljikăc ăn altu trg.
-LUK 9:5 Undje p voj nu v primjaštje, pănd išăc d trgula istrisăc prašăna dăpă pićurje s lji upozoric p kazna alu Dimizov.
+LUK 9:5 Undje p voj nu v primjaštje, pănd išăc d trgula istrisăc prašăna dăpă pićuarje s lji upozoric p kazna alu Dimizov.
 LUK 9:6 Učenikurlje apljikat š obilazăt satu. Aduće bună vorbă alu Dimizov š ljikuja p lumja pistot.
 LUK 9:7 Herod, karje irja vladaru alu židovilor d regija Galileja, auzăt tot će sa dogodit š afost zbunjen daja će njeka lumje rubja: “Isusu je Ivan karje bitiza. Sa skulat dăla morc.”
 LUK 9:8 Altu rubja: “Isusu je Ilija karje trjebje s vije.” A d trje jar azăs: “Isusu je unu d prorokurj karje majdată atrijit. Sa tors dăla morc.”
 LUK 9:9 A Herod azăs: “Jo azăs s taje kapu alu Ivan karje bitjază š nu puatje s fije k jel je mort. Ćinje atunča omusta d karje atăta aud?” Aša akătă prilikă s vjadă p Isusu.
 LUK 9:10 Kănd apostoli sators ăndrăt undje irja Isusu, je arubit aluj tot če afukut. Atunča Isusu lja dus ku jel š apljikat s fije săngur upruapje d trg karje sa kimat Betsaida.
-LUK 9:11 Mulc lumje a saznajit aja š apikat dăpă Isusu. Isusu lja primit š rubja d cara alu Dimizov š ljikuja p toc karje tribja s ozdravjaskă.
+LUK 9:11 Mulc lumje a saznajit aja š apljikat dăpă Isusu. Isusu lja primit š rubja Bună vorbă d cara alu Dimizov š ljikuja p toc karje tribja s ozdravjaskă.
 LUK 9:12 Kănd zuva kidja, avinjit duavăsprjače (12) apostolurj la Isusu š ja zăs: “Las p lumja s pljaće p saturj š p okolică s găsaskă măkarje š undje s s kulčje daja će ištjem aića undje nuje nimika.”
 LUK 9:13 A Isusu zăće: “Voj lji nahranic.” A je zăće: “Avjem samo činjč (5) mălajur š duavă (2) pještj. Zar s pljikăm s kuprăm măkarje d tot narodu?”
 LUK 9:14 A lja fost oko činč mij (5.000) d vujnićj. Isusu p aja azăs alu učenikurj aluj: “Zăćec s šagă ăn grupje oko činzăć (50) d lumjej.”
@@ -452,197 +452,197 @@ LUK 9:28 Otprilike opt zălje dăpă aja če lja zăs aja, adus Isusu ku jel p P
 LUK 9:29 Š pănd Isusu s ruga, lica aluj sa promjenit, a cualjilje ja sajit čisto albă.
 LUK 9:30 Dăturdata, doj omurj sa pojavit š arubit ku Isusu. Ălja afost Mojsije š proroku Ilija.
 LUK 9:31 Sa pojavit ăn marje sjaj š arubit ku Isusu d izlazaku aluj d pămăntusta, karje Isusu uskoro osă fakă ăn Jeruzalem s ispunjaskă volja alu Dimizov.
-LUK 9:32 A Petar š je karje afost ku jel sa kulkat tarje. Kănd sa skulat, avuzut marje svjatlă karje vinje dăla Isusu š doj omurj karje astat pănglu jel.
-LUK 9:33 Š kănd Mojsije š Ilija apljikat dăla Isusu, zăće Petar alu Isusuluj: “Gospodarulje, binje je če ištjem aiča. Fićem trje (3) kolibje: una cije, una alu Mojsije, š una alu Ilije.” Na štijut će rubjaštje.
-LUK 9:34 Kănd Petar aja rubja, sapojavit oblaku š lja prekrijit. Š oblaku lja kružăt, š alor irja frikă.
-LUK 9:35 Dimizov lja rubit d oblak: “Ăsta je Bijatu ali mjov karje jo la kuljes! P jel skultac!”
-LUK 9:36 Š kănd sauzăt glasu, Isusu arămas săngur. Je atukut ăn zuviljalja š alu nimilja na rubit d aja če je avizut.
-LUK 9:37 Kănd alta zuvă sa dat ăn zos dăpă djal, avinit la Isusu multje lumje.
-LUK 9:38 Dunturdată neki om ăntru multje lumje astrigat: “Učiteljulje, m rog d tinje ujtitje la bijatu alu mjov, k je jel jedini kupil alu mjov.
-LUK 9:39 Š jakă, sufljet alu rov l pukă š jel dunturdată căpă rov. L arunkă ăn grćurj š d karje iša pjena p gură. Š nu l lasă pănă god skroz nu l iscrpijaštje.
-LUK 9:40 Ma rugat d ućenikurlje ali tej s l putirjaskă, ali na putut.”
-LUK 9:41 Atunča Isusu azăs: “Lumjo karje trijic ăn vrjamjasta, voj nu kridjec š ištjec strikac! Afost ku voj a tăta d mult š jar nu kridjec. M trjeb kăt mora s vu tripjesk p voj? Duj ănkua p bijatu alu tov!”
-LUK 9:42 Š kănd prilazăt, sufljetu alu rov la duburut š jel ančiput s s gričaskă. A Isusu zapovidit alu sufljetuluj alu rov s jašă š alikujit p bijatu š la dat la tatusov.
-LUK 9:43 Toc sa mirat d moć alu Dimizov. Kănd toc sa mărat će Isusu afukut, zăće Isusu alu ućenikurlje aluj:
-LUK 9:44 “Punjec binje urjajkje če vu zăk k lumja još ucără osă predajaskă p minje, p Bijatu alu Omuluj, ăn vlastu alu dušmanji alji mjej.
-LUK 9:45 Ali nu shvatit d čaja lji rubjaštje daja će značala lja fost skunsă š alor lja fost frikă s l trjabje.
-LUK 9:46 Učenikurlje apoćinit s raspravljaskă ćine d la je majmarje.
-LUK 9:47 Aštijut d čaja raspravljaštje Isusu daja alt p kupilu, š la pus pănglu jel.
-LUK 9:48 Š Isusu lji zăće: “Ćinje god primjaštje p kupilusta daja če krjadje ăn minje, primjaštje š p minje. A ćinje god p minje primjaštje, primjaštje p ăla karje ma trimjes. K ćinje je majmik ăntru voj toc, ăla je marje!”
-LUK 9:49 Ivan odgovorit alu Isusuluj: “Gospodarulje, noj avizut p njeko karje ăn lumje alu tov putirjaštje p nikuracă. Noj a branit daja će nuje učeniku alu tov kašă če ištjem noj.”
-LUK 9:50 Zăće Isusu: “Nu branic! Ako njeko nu ukrjază prătiv d voj, jel atunča ukrjază ku voj!”
-LUK 9:51 Kănd s približa zuvilje kănd s ănturča Isusu p čerj, Isusu tarje odlućit s pljaće ăn Jeruzalem.
-LUK 9:52 Š atrimjes p glasnici la intja aluj. Glasnici apljikat š autrat ăn sat ăn regija Samarija s ji priprimjaskă čije potrebno.
-LUK 9:53 A klo lumja navurut s l primjaskă daje će putuja ăn Jeruzalem
-LUK 9:54 Kănd Jakov š Ivan, karje afost učenikurlje alu Isusuluj, avuzut k lumja ăn Samarija nu la primit, je azăs: “Domnulje, vraj s zapovidim s lja pringă foku alu Dimizov s lji uništjaskă ku foku?”
-LUK 9:55 A Isusu sa okrenit š lja okorit p Jakov š p Ivan s nu fakă aja.
-LUK 9:56 Isusu š učenikurlje aluj apljikat ăn altu sat.
-LUK 9:57 Pănd je apljikat p drum, njeko azăs alu Isusuluj: “Pljek dăpă tine undje god tu plječ.”
-LUK 9:58 Isusu ja zăs: “Lisică arje jamă š puji arje kujb, a jo, Bijatu alu Omuluj, nam loki alu mjov d kulkat.”
-LUK 9:59 Atunča Isusu azăs alu altuluj: “Vină d p minje!” A jel azăs: “Domnulje, lasămă majdată s pljek s gurp p tata ali mjev.”
-LUK 9:60 Isusu ja zăs: “Las p morcă s ugruapje p alor morcă, a tu fuđ š rubjaštje d cara alu Dimizov.”
-LUK 9:61 Š još neko zăće: “Domnulje, viuv dăpă tinje ali lasămă majdată s m oprostjesk ku ukućanji ali mjej.”
-LUK 9:62 Isusu ja zăs: “Činje pučinjaštje s orjaskă, a maj dăpartje s ujtă dăpă jel, nuje d korist ăn cara alu Dimizov.”
-LUK 10:1 Domnu Isusu dăpă aja akuljes još šaptjzăć š doj (72) učenikurj š atrimjes kătje doj s pljaće la intja aluj ăn tot trgu š lok undje atribut s pljaće.
-LUK 10:2 Kănd sa sprimit s pljače lja zăs: “Š akă je berba marje, a radnić je samo ucără. Daja rugăcăvă d aja s trimjatje Dimizov, alu karje pripadjaštje berba, još maj mult radnići će skupljaštje gruvu.
-LUK 10:3 Krinic akuma, ali păzăcăvă k atrimjes p voj ăntru lumje karje vrja s vu naudjaskă kašă kum lupu napadjaštje vojilje.
-LUK 10:4 Nu dućec ku voj nić banj, nić tašna, nić altje sandalje. P drum nu pozdravljic p lumja nić nu rubic ku je š aša nu pridjec vrijamja.
-LUK 10:5 Kănd utrăc ăn bilo karje kasă s prinoćic ăn klo, majdată zăćec: “Njeka Dimizov s dja miru alu toc ăn asta kasă”!”
-LUK 10:6 Akă ăn aja kasă jaštje omu karje vrja miru ku Dimizov, jel osă ajbje miru ku karje la blagoslovit. Akă ănklo nuje om karje vrja miru ku Dimizov, jel nu s primjaskă ăla miru ku karje la blagoslovit.
-LUK 10:7 Nu vu prisilic d kasă ăn kasă! Boravic ăn aja kasă pănă fic ăn trgula, š mănkăc š bjec će god vu ponudjaštje, jer radniku žaslužăt plata aluj.
-LUK 10:8 Kănd utrăc ăn bilo karje trg š klo vu primjaštje, mănkăc aja će vu dă.
-LUK 10:9 Likujic ăn klo p lumja karje bulnavj š zăćec alor: dokazu k Dimizov vladjaštje ătru voj!
+LUK 9:32 Pănd Isusu s ruga, Petar š je karje afost ku jel lja pukat somnu. Kănd sa skulat, avuzut marje svjatlă karje vinje dăla Isusu š doj omurj karje astat pănglu jel.
+LUK 9:33 Pănd Mojsije š Ilija sa sprimit s pljače dăla Isusu, Petar azăs alu Isusuluj, ali jel săngur na štijut če rubjaštje: “Gospodarulje, binje je če ištjem aiča ku voj. Fićem trje (3) kolibje: una cije, una alu Mojsije, š una alu Ilije.”
+LUK 9:34 Pănd Petar aja arubit, sa pojavit oblaku, lja prekrijit š alor irja frikă.
+LUK 9:35 Dimizov lja rubit d oblak: “Ăsta je Bijatu alu mjov karje jo la kuljes s fije caru! P jel skultac!”
+LUK 9:36 Š kănd je auzăt glasu, avizut samo p Isusu. Je atukut ăn zuviljalja š alu nimilja na rubit d aja če je avizut.
+LUK 9:37 Kănd alta zuvă sa dat ăn zos dăpă djal, multje lumje karje irja ačija avinjit la Isusu.
+LUK 9:38 Dunturdată neki om ăntru multje lumje astrigat š sa rugat mult d jel: “Učiteljulje, ujtitje la bijatu alu mjov, k je jel jedini kupil alu mjov.
+LUK 9:39 Jakă, sufljet alu rov mult vorj l pukă š dunturdată jel ăčapje s căpje. La runkă ăn grčurj š ji pljika pjena p gură. Š nu l lasă pănă god skroz nu l iscrpijaštje.
+LUK 9:40 Ma rugat d učenikurlje ali tej s l putirjaskă, ali na putut.”
+LUK 9:41 Atunča Isusu azăs: “Lumjo karje trijic ăn vrijamjasta, voj nu kridjec š ištjec strikac! Jo afost ku voj atăta d mult š jar nu kridjec. M trjeb kăt mora s vu tripjesk p voj? Duj ăkua p bijatu alu tov!”
+LUK 9:42 Š pănd bijatu avinjit la Isusu, sufljetu alu rov la duburăt š jel ančiput s s grčaskă. A Isusu zapovidit alu sufljetuluj alu rov s jašă š aljikujit p bijatu š la dat la tatusov.
+LUK 9:43 Toc karje irja ačija sa mirat d moć alu Dimizov. Kănd toc sa mirat la asta š la tot će Isusu fače, jel azăs alu učenikurlje aluj:
+LUK 9:44 “Punjec binje urjajkje če vu zăk: Još ucără lumja osă predajaskă p minje, p Bijatu alu Omuluj, ăn vlastu la dušmanji alji mjej.
+LUK 9:45 Ali je na štijut če jel avrut s zăkă. Aja značală afost skuns dăla je. Je na putut s razumjaskă š lja fost frikă s l trjabje d aja.
+LUK 9:46 Učenikurlje apoćinit s raspravljaskă ćinje d la je majmarje.
+LUK 9:47 Aštijut d čaja raspravljaštje Isusu daja alat p kupilu, š la pus pănglu jel.
+LUK 9:48 Š Isusu lji azăs: “Ćinje ku drag primjaštje p kupilusta pătruv minje, primjaštje š p minje. A ćinje p minje primjaštje, primjaštje p Dimizov karje ma trimjes. Istina je: ćinje je majmik ăntru voj toc, ăla je marje!”
+LUK 9:49 Ivan p asta azăs alu Isusuluj: “Gospodarulje, noj avizut p njeko karje ăn lumje alu tov zapovidjaštje alu sufljeti alji rovj s jašă d lumje. Noj amzăs aluj s nu fakă aja daja će nuje učeniku alu tov kašă če ištjem noj.”
+LUK 9:50 Isusu azăs: “Nu branic! Ako njeko nu ukrjază pătruv voj, jel atunča ukrjază ku voj!”
+LUK 9:51 Kănd s približa vrijamja s ja Dimizov p Isusu ăn čerj, Isusu odlućit k avinjit vrijamja s pljaće ăn Jeruzalem,
+LUK 9:52 atunča atrimjes p glasnici la intja aluj. Glasnici apljikat š autrat ăn sat ăn regija Samarija s ji priprimjaskă čije potrebno.
+LUK 9:53 A klo lumja navurut s l primjaskă daje će putuja ăn Jeruzalem.
+LUK 9:54 Kănd učenikurlje Jakov š Ivan auzăt k lumja ăn Samarija na primit p Isusu, je azăs: “Domnulje, vraj s zapovidim s lja pringă foku d čerj?”
+LUK 9:55 A Isusu sa okrenit š lja ukorit p Jakov š p Ivan s nu fakă aja.
+LUK 9:56 Atunča Isusu š učenikurlje aluj apljikat ăn altu sat.
+LUK 9:57 Pănd je još pljika p drum, njeko azăs alu Isusuluj: “Pljek dăpă tine undje god tu plječ.”
+LUK 9:58 Isusu ja zăs: “Lisica arje jamă š puji arje kujb, a jo, Bijatu alu Omuluj, nam lok alu mjov d kulkat.”
+LUK 9:59 Atunča Isusu azăs alu altuluj: “Vină dăpă minje!” A jel azăs: “Domnulje, lasămă majdată s pljek s grop p tatimjov.”
+LUK 9:60 Isusu ja zăs: “Las p morcă s gruapje p alor morcă, a tu fuđ š rubjaštje alu alculor Bună vorbă d cara alu Dimizov.”
+LUK 9:61 Š još neko zăće: “Domnulje, viu dăpă tinje, ali dopustjaštjem majdată s m oprostijesk ku ukučanji mjej.”
+LUK 9:62 Isusu ja zăs: “Akă ănčepj s orještj ravno, a tăujc dăpă tinje, tu nu poc s služăštj ăn cara alu Dimizov.”
+LUK 10:1 Domnu Isusu dăpă aja akuljes ăntru je šaptjezăč š doj (72) alcă učenikurj š atrimjes kătă doj s pljaće la intja aluj ăn tot trgu š lok undje atribut s pljaće.
+LUK 10:2 Kănd sa sprimit s pljače lja zăs: “Žetva je marje, ali radnić jaštje ucără. Žetva pripadjaštje alu Dimizov, daja rugăcăvă la jel s trimjată još majmult radnić ăn žetvă.
+LUK 10:3 Krinic akuma, ali păzăcăvă k trimjet p voj kašă p vojilje ăntru lumje karje kašă lupurj.
+LUK 10:4 Nu dućec ku voj nić banj, nić tašna, nić altje sandalje. Nu stăc p drum ku lumja s nu pridjec vrijamja.
+LUK 10:5 Kănd utrăc ăn bilo karje kasă s prinoćic ăn klo, majdată zăćec: ‘Njeka Dimizov s dja miru alu toc ăn asta kasă!’
+LUK 10:6 Akă ăn aja kasă jaštje omu karje vrja miru ku Dimizov, jel osă ajbje miru ku karje voj la blagoslovit. Akă ăklo nuje om karje vrja miru ku Dimizov, jel nu s primjaskă ăla miru ku karje voj la blagoslovit.
+LUK 10:7 Nu vu preselic d kasă ăn kasă! Boravic ăn aja kasă pănă fic ăn trgula š nu fic rušănošj s mănkăc š s bjec aja će vu dă, k kum zăčem: Radniku zaslužăt plata aluj.
+LUK 10:8 Kănd utrăc ăn bilo karje trg š ăn klo vu primjaštje fic zadovoljni ku aja će god vu dă s mănkăc.
+LUK 10:9 Likujic ăklo p lumja karje bulnavj š zăćec alor: ‘Asta pokazaštje k cara alu Dimizov avinjit la voj!’
 LUK 10:10 Ali kănd utrăc ăn bilo karje trg š klo nu vu primjaštje, išăc la ulicilje aluj š zăćec:
-LUK 10:11 “Baš kum voj odbacăt p noj, š noj odbacăt p voj. Čak odbacăm š prašăna d trgu alu vostru karje sa ljipit d cipjeljilje alu nuaštrje. Ali štijic k dokazu k Dimizov vladjaštje ătru voj!”
-LUK 10:12 Vu zăk Dimizov la zuvă d sud osă sudjakă alu lumjej d trgula maj rov nego će s sudjaskă alu lumjej d Sodoma!”
-LUK 10:13 Grjev vuavă, lumjo ăn trg Korozan! Grjev vuavă, lumjo ăn trg Betsaida! Ako neko afukut ćudesa ăntru lumje ăn trg Tir š trg Sidon karje jo afukut ăn voj, je več d kănd s turća p bun drum. Aduča cualje hrapave š šădja ăn pepel s pokazaskă žalostu.
-LUK 10:14 Ali jar Dimizov osă sudjaskă p voj ăn Korozain š ăn Betsaida maj rov nego će s sudjaskă alu lumjej ăn trg Tir š trg Sidon!
-LUK 10:15 A voj lumjo ăn trg Kafarnaum, voj sigurno nu s vu drikac pănla čerj? T sluboz ăn klo undje živjaštje morcă.”
-LUK 10:16 Atunča zăće alu učenikurj aluj: “Kănd netko punje urjajkje la voj, aja je kašă kum punje urjajkje la minje. Š kănd odbacaštje p voj aja je kašă odbacăt p minje. A kănd netko odbacaštje p minje aja je kašă odbacăt p Dimizov karje ma trimjes.”
-LUK 10:17 Kănd sators šaptjezăč š doj (72) d učenikurj, ku drag azăs: “Domnulje, čak š nikuracă askultă kănd lji zapovidim ăn lumje alu tov.”
-LUK 10:18 A Isusu lji zăće: “Štiv, k amvizut p Sotona kum kadje ka gromu d skintjală.
-LUK 10:19 Jakă jo dat vuavă autoritet p tuată săla alu dušmanu alu vostru s gazăc šărpj š škorpionurj. Nimika nusu vu fije nimika rov.
-LUK 10:20 Ali jar raduicăvă če Dimizov askris lumilje alu voštri p popis ăn ćjerj maj mult nego će vu radujic aja će nikuracă p voj askultă.”
-LUK 10:21 Atunča Sufljetu alu Svntuluj aisponit p Isusu ku radostu š Isusu azăs alu Dimizov: “T slavjesk, Tato, Tu karje vladješt ku ćjerju š ku pămăntu, će askuns asta dăla lumje karje mudri š pametni š objavit alu lumje karje ka kupi. Da, Tato, cije sa sviđit s fać aja aša.”
-LUK 10:22 Atunča Isusu azăs: “Tata alu mjov ma dat tot autoritetu. Samo Tata kunuaštje činje sănt jo, Bijatu aluj, š samo jo, Bijatu aluj, š ălja karje jo odlučesk s l otkrijeskă, kunuaštje činje je Tata.”
-LUK 10:23 Majklo, kănd afost săngur ku aluj učenikurj, saokrenit la je š azăs: “Nărukoš ălja karje vjadje aja če vidjec voj.
-LUK 10:24 Istina je, mulc prorokurj š carurj avurut s vjadjec la aja će voj va ujtat, ali na vuzut; avurut s audă aja će voj audjec, ali na uzăt.”
-LUK 10:25 Neki učitelj alu zakon alu Mojsije sa skolat š atribat p Isusu s l iskušaskă: “Učiteljulje, će mora s fak s trijeskă vječno?”
-LUK 10:26 A Isusu ja zăs: “Će skrije ăn zakonu alu Mojsije? Će tu razumještj če zăće?”
-LUK 10:27 Omu zăće alu Isusuluj: “Zakonu zăće: ‘Surută p Domnu Dimizov alu tov ku tuată inima a ta š ku tot sufljetu alu tov š ku tuată snaga ata š ku tuate mincilje alji tjalje’ š ‘vrja p alu tov kum vrjauj săngur p tinje.’”
-LUK 10:28 Isusu ja zăs. “Binje odgovorit. Fej aša š živješt pănd ješt d viuv.”
-LUK 10:29 Ali om avărut s pokazaskă k je pravedan, aša jel trijabă p Isusu: “D činje rubjaštje kănd zakonu zăće ‘bližnji alu mjov’?”
-LUK 10:30 Isusu arubit una vorbă: “Neki om karje putuja d Jeruzalem ăn trg Jerihon la napadit lopovi š la dăzbrkat, la butut š apljikat. Š p omula la lăsat s zakă skoro mort.
-LUK 10:31 P klo atrikut slučajno popa alu židovulor. Kănd avuzut p omu karje skoro mort, la zaobeđit š apikat dăla je.
-LUK 10:32 Isto aša pănglu lokula avinjit atunča š levitu, pomoćniku alu popej. Kănd la vuzut, š jel la zaobeđit š apljikat.
-LUK 10:33 Atunča avinit njeki omu d regije Samarija karje p klo putuja. Kănd avuzut p omula, ja fost žao d jel.
-LUK 10:34 Avinit la upruapje d jel, jaspălat ranilje ku ulje š ku vinu š lja zamotit ku cual. La drikat atunča p magarac aluj š la dus ăn gostijonă š klo sa pobrinit d jel.
-LUK 10:35 Mănje zuvă askos š adat alu omuluj karje ukrijază ăn gostijonă doj (2) kovanic d arđint, š ja zăs: ‘Brinjaštitje d jel š akă majmult potrošăstj, c plitjesk kănd mi ăntruća.’
-LUK 10:36 A Isusu atribat p učitelji d zakon alu Mojsije “Će gidješt? Karje d ăštja trj (3) omuluj sapokazăt k je aluj alu omula karje la opljaćkit?”
-LUK 10:37 Zăće omu: “Ăla karje ja pokazăt milă.” Isusu ji zăće: “Binje odgovorit. Fuđ š făj će afukut jel.”
-LUK 10:38 Kănd je aputujit Isusu š učenikurlje aluj, untră ăn altu sat. A ćija neka mujarje, karje sakima Marta. La primit ăn kasa alu je.
-LUK 10:39 Aluje sora Marija asužut la pićuarje alu Domnuluj Isusuluj š punja urjajkje će rubja.
-LUK 10:40 A Marta afost mult zabrinită s priprimjaskă š s poslužaskă k ja vinjit s s požaljaskă la: “Domnu, nu c brigă će sorimja ma lăsat săngură s ukrjez tot lukru? Zi auje s m ažutje!”
-LUK 10:41 Ali Domnu Isusu ja odgovorit: “Draga Marta! T brinješt š uznemirještj d tuată sitnică.
-LUK 10:42 Una stvar karje je potrebna je s puj urjejkje la vorba amja. Marija aja ashvatit, š nu vrjau aja s nu oduzmjeskă dăla ja.”
-LUK 11:1 Udată Isusu sa rugat la njeki lok. Kănd azavršăt su rugala, avinit la jel unu d učenik š azăs: “Domnulje, ăvacinje p noj s nji rugăm kum Ivan karje bitjază avăcat p učenikurlje aluj.”
-LUK 11:2 Isusu lja zăs: “Kănd rugăc, zăćec: ‘Tato, njeka s s štujaskă lumilje alu tov asvănt. Vină tu š vladjaštje p tot.
+LUK 10:11 ‘Čak frikăm š prašăna d trgu alu vostru karje sa ljepit p pićuarje alu nuaštrje s vu upozorim p kazna alu Dimizov! Ali štijec k avinjit cara alu Dimizov!’
+LUK 10:12 Vu zăk: la zuva d sud osă fije majušurje alu lumjej ruavă ăn trg Sodoma njego alu lumjej ăn trgula!”
+LUK 10:13 Isusu azăs: “Grjev vuavă, lumjo ăn trg Korozain! Grjev vuavă, lumjo ăn trg Betsaida! Ako njeko afukut čudurj ăntru lumje pogana ăn trg Tir š trg Sidon karje jo afukut ăntru voj, je več d kănd s ukrinja dăla rov. Aduča cualje hrapave š šădja ăn pepel s pokazaskă žalostu.
+LUK 10:14 Daja la zuvă d sud osă fije majušurje alu lumje ăn Tir š ăn Sidon nego vuavă ăn Korozain š Betsaida!
+LUK 10:15 A voj lumjo ăn trg Kafarnaum, voj sigurno nu s vu drikăc pănla čerj samo daja če jo amfost ăntru voj! Nu! Voj osă vu slubudjec ăklo undje loku d kaznit.”
+LUK 10:16 Atunča zăće alu šaptjezăč š doj (72) učenikurj: “Kănd njeko punje urjajkje la voj, aja je kašă kum punje urjajkje la minje. Š kănd odbacaštje p voj aja je kašă odbacăt p minje. A kănd njeko odbacaštje p minje aja je kašă odbacăt p Dimizov karje ma trimjes.”
+LUK 10:17 Kănd sa tors šaptjezăč š doj (72) d učenikurj, ku drag azăs: “Domnulje, čak š sufljeti alji rovj askultă kănd lji zapovidim ăn lumje alu tov.”
+LUK 10:18 A Isusu lji zăs: “Štiv, k amvizut p Sotona kum akăzut ka sklipjala d čerj.
+LUK 10:19 Vidjec, jo amdat vuavă tuată săla š autoritetu p Sotona, dušmanu alu Dimizov, s gazăc šărpj š škorpionurj. Nimika vuavă nu puatje s vu naudjaskă.
+LUK 10:20 Ali nu vu radujic samo daja če p voj sufljeti alji rovj askultă, njego majmult radujicăvă daja če Dimizov askris lumilje alji voštri p popis ăn čerj.”
+LUK 10:21 Atunča Sufljetu alu Svăntuluj aisponit p Isusu ku radostu š Isusu azăs alu Dimizov: “T slavjesk, Tato, tu karje vladješt ku ćjerju š ku pămăntu, će skundj istina d cara ata dăla lumje karje gidjaštje k je mudri š pametni š će pokazăštj aja alu lumje karje kašă kupi karje vraj s vacă. Da, Tato, cije s sviđjaštje s fać aja aša.”
+LUK 10:22 Atunča Isusu azăs: “Tata alu mjov ma dat tot če jel arje. Samo Tata binje kunuaštje činje sănt jo, Bijatu aluj, š samo jo, Bijatu aluj, š ălja alu činje jo odlučesk s l otkrijeskă, binje kunuaštje činje je Tata.”
+LUK 10:23 Majklo, kănd afost săngur ku aluj učenikurj, š ja azăs: “Nărukoš ălja karje vjadje aja če vidjec voj.
+LUK 10:24 K istina je, mulc prorokurj š carurj avurut s vjadă aja će voj vidjec, ali na vizut; avurut s audă aja će voj audjec, ali na uzăt.”
+LUK 10:25 Udată kănd Isusu ănvca, njeki učitelj alu zakon alu Mojsije sa skulat š atribat p Isusu s l iskušaskă: “Učiteljulje, će mora s fak s primjeskă vječni život ku Dimizov?”
+LUK 10:26 A Isusu ja zăs: “Će skrije ăn zakonu alu Mojsije? Će tu razumještj će zăće?”
+LUK 10:27 Omu aodgovorit: “Zakonu zăće: ‘Vrja p Domnu Dimizov alu tov ku tuată inima ata š ku tot sufljetu alu tov š ku tuată snaga ata š ku tuate mincilje alji tjalje’ š ‘vrja p bližnji alu tov kum vrjaj săngur p tinje.’”
+LUK 10:28 Isusu ja zăs. “Binje odgovorit. Fej aša š primješt vječni život.”
+LUK 10:29 Ali omu avărut s s spalje, š aša jel trijabă p Isusu: “D činje rubjaštje kănd zakonu zăće ‘bližnji alu mjov?’ ”
+LUK 10:30 Isusu aodgovorit ku asta vorbă: “Njeki om putuja d Jeruzalem ăn trg Jerihon š la napadnit pljačkaši š alat tot dăpă jel, la butut š apljikat. Š p omula la lăsat s zakă skoro mort.
+LUK 10:31 Trjaće p drumula slučajno popa alu židovilor. Kănd avuzut p omu karje skoro mort, la zaobiđit š apljikat majdăpartje.
+LUK 10:32 Isto aša pănglu lokula avinjit atunča š levitu, pomoćniku alu hramuluj. Kănd la vizut, š jel la zaobiđit š apljikat majdăpartje.
+LUK 10:33 Atunča njeki omu d regije Samarija trjaće p drumula. Kănd avuzut p omula, ja fost žau d jel.
+LUK 10:34 Avinit la upruapje d jel, ja spălat ranilje ku ulje š ku vinu š ja ăvilijat ku trijanca. La drikat atunča p magarac aluj š la dus ăn gostijonă š klo anastavit s s pobrinjaskă d jel.
+LUK 10:35 Mănje zuvă jel adat duavă (2) kovanic d arđint alu gazdăj alu gostijonăj, š ja zăs: ‘Brinjaštitje d jel š akă majmult potrošăštj, c plitjesk kănd m ătruća.’
+LUK 10:36 A Isusu atribat p učitelju d zakon alu Mojsije “Će gidješt? Karje d ăštja trj (3) omuluj sapokazăt k je bližnji alu omula karje la napadnit pljačkaši?”
+LUK 10:37 Azăs učitelju d zakon alu Mojsije: “Ăla karje ja pokazăt milă.” Isusu ji azăs: “Binje odgovorit. Fuđ š făj kum š jel afukut.”
+LUK 10:38 Pănd Isusu š učenikurlje aluj anastavit s putujaskă kărti Jeruzalem, auntrat ăn unu sat. Aćija neka mujarje, karje sakima Marta. La primit ăn kasa alu je.
+LUK 10:39 Avut soră karje s kima Marija. Pănd Domnu Isusu ăvacă, Marija šidja š punja urjajkje.
+LUK 10:40 A Marta afost mult zabrinută k mora s priprijaskă tuată mănkarja, pa ja avinjit s s žaljaskă: “Domnulje, nu c brigă će sorimja ma lăsat săngură s ukrjez tot lukru? Zi auje s m ažutje!”
+LUK 10:41 Ali Domnu Isusu ja odgovorit: “Draga Marta! Nu trjebje s t brinješt š t uznemirješt če gidješt čije potrebno.
+LUK 10:42 A una stvar karje je potrebna je s puj urjejkje la vorba amja. Marija aja ashvatit, š aja nu osă fije lat dăla ja.”
+LUK 11:1 Udată Isusu sa rugat la njeki lok. Kănd azavršăt ku rugala, avinit la jel unu d učenik š azăs: “Domnulje, ăvacinje p noj s nji rugăm kum Ivan karje bitjază avăcat p učenikurlje aluj.”
+LUK 11:2 Isusu lja zăs: “Kănd rugăc, zăćec: ‘Tato ăn čerj, njeka s s štujaskă lumilje alu tov asvănt. Aduj cara ata p tot pămăntu.
 LUK 11:3 Adă nuavă mănkarje će trjebje tuată zuva
-LUK 11:4 š oprostjaštje anuastră grešala, k š noj oprostim alu ălja karje grješaštje pătru noj. Nu da s kidjem š s podelegnim alu kušnjej.’”
-LUK 11:5 Isusu azăs alu učenikurlje aluj: “Akă pljikăc ăn ponoć la ortaku alu tov š ji zăćec: ‘Ortakulje, adăm trje mălajurj
-LUK 11:6 k avinjit dăpă drum la minje ăn gostjamje ortaku, a nam s idau nimik d măka!”
-LUK 11:7 Ortaku d kasă sigurno nu s striđje: ‘Nu m uznemirja! Uša je več ăn kisă, a kupi ăn pat. Nu pot akuma s m skol s c dau!’
-LUK 11:8 Njego istina je, u zăk: čak š ako omula nu skuală daje će je ortak, š nudă aja će trjebje, osă skuală daja če l rođj frzdă rušănje š nudă atăta kăt je vuavă potrebno.
-LUK 11:9 Istina je, vu zăk: rugăc p Dimizov š dobidic! Kătăc š găsăc! Bitjec š s diškidje!
-LUK 11:10 Ćinje god ruagă p Dimizov primjaštje. Ćinje god kată găsaštje. Ćinje god batje uša s ji diškidje.
-LUK 11:11 Arje neko dăla voj bijat? Će afića tata kănd bijatu kăta pjaštje? Dal ja da šarpje? Nu
-LUK 11:12 Ili ako bijatu kăta dăl tată vov, dal tata ja da škorpijon? Nu!
-LUK 11:13 Aša voj karje ištjec grešni, štijec s dăc alu kupi alu voštri bunje darur. Kăt maj mult alu vostru Tata ăn ćjerj osă darujaskă p Sufljetu alu Svntuluj alu ălja karje l ruagă?”
-LUK 11:14 Isusu udată putirjaštje p nikuratu d om karje afukut s nu rubjaskă. Kănd sufljetu alu rov ajišăt, omu arubit. Mulc lumje sa mirat.
+LUK 11:4 š oprostjaštje anuastră grešala, k š noj oprostim alu ălja karje grješaštje pătruv noj. Nu da s kidjem ăn kušnje.’”
+LUK 11:5 Atunča Isusu azăs alu učenikurlje aluj: “Akă plječ ăn ponoć la ortaku alu tov š ji zăć: Adăm trje mălajurj
+LUK 11:6 k ma vinjit ortaku ăn gostjamje, a nam s idauv nimik d măkat!’, će osă zăkă ortaku?
+LUK 11:7 Zar nu osă zăkă: ‘Nu m uznemirja! Uša je več ăn kisă, a kupi ăn pat k nu pot akuma s m skol s c dau!’?
+LUK 11:8 Ali vu zăk: čak š akă omula nu skuală daje će ješt ortak aluj, š nu c dă nimika, osă skuală daja će mult l rođ frzdă rušănje. Š osă zdja atăta kăt cije trjebje.
+LUK 11:9 Š daja vu zăk: Nu odustanic! Rugăc p Dimizov š osă dobidic! Kătăc š osă găsăc! Bitjec la ušă š osă vu dăškidje!
+LUK 11:10 Ćinje god ruagă p Dimizov, primjaštje. Ćinje god kată, găsaštje. Ćinje god batje, uša s ji dăškidje.
+LUK 11:11 Voj karje ištjec tatje, će afića voj kănd bijatu alu vostru kată pjaštje? Dal voj ja da šarpje? Nu!
+LUK 11:12 Ili akă bijatu alu vostru kată dăla voj vov, dal voj ja da škorpijon? Nu!
+LUK 11:13 Akă voj, karje ištjec rovj, štijec s dăc alu kupi alu voštri bunje darurj, atunča kăt majmult alu vostru Tata ăn čjerj osă darujaskă p Sufljetu alu Svăntuluj alu ălja karje l ruagă?”
+LUK 11:14 Isusu una zuvă apotirit p sufljetu alu rov karje nu ja dat alu omuluj s rubjaskă. Kănd sufljetu alu rov ajišăt, omu arubit š mulc lumje sa mirat.
 LUK 11:15 Ali njeki dăla je azăs: “Jel puturjaštje sufljeti alji rovj ku pomoću alu Beelzebul, karje je vladaru alu toc sufljeti alji rovj.”
-LUK 11:16 A alcă la iskuša š akătat s idja neki znak p ćjerj kao dokazu k Dimizov la trimjes.
-LUK 11:17 Isusu aštijut če gindjaštje, pa lja zăs: “Ako lumja ăn ista cară s burjaštje ătră je, je s uništjaskă alor cara. Ako lumja ăn ista obitelji s burjaskă unji ku alc uništjaštje obitelju aluj.
-LUK 11:18 Zăćec k jo ku săla alu Beelzebul potrijeskă p sufljeti alji rovj. Atunča š Sotona je cara, dakle, podjeljit. Kum atunča s rămăje? Nu s rămăje
-LUK 11:19 Ako jo potirjesk sufljeti alji rovj ku săla alu Beelzebul, dal aja značaštje k š učenikurlje alji voštri potirjaštje p sufljeti alji rovj ku săla alu Beelzebul? Atunča voj săngurj dokazăc k nu ištjec u pravu.
-LUK 11:20 Ali ako jo p sufljeti alji rovj potirjesk ku săla alu Dimizov, dokazu je k la voj avinit cara alu Dimizov.
+LUK 11:16 A alcă avurut s la puče ăn zamkă š akătat s idja njeki znak kašă dokazu k Dimizov la trimjes.
+LUK 11:17 A Isusu aštijut če gindjaštje, pa lja zăs: “Akă lumja ăn ista cară s burjaštje ăntră je, osă propanjaskă cara alor. Akă familija ăn ista kasă s burjaštje ăntră je, osă s raspadnjaskă familija alor.
+LUK 11:18 Zăćec k jo ku săla alu Beelzebul potrijeskă p sufljeti alji rovj. Aja značaštje k atunča š ălja karje je ăn cara alu Sotonăj s burjaštje ăntri je. Kum atunča cara aluj s rămăje?
+LUK 11:19 A čije ku učenikurlje alji voštri karje putirjaštje p sufljeti alji rovj? Akă, kašă kum zăćec, jo putirjeskă p sufljeti alji rovj ku snaga alu Beelzebul, atunča mora aja s fakă š učenikurlje alji voštri ku snaga alu Beelzebul. Sigurno nu s slažaštje. Učenikurlje alji voštri osă zăkă k Beelzebul nu s burjaštje săngur pătriv jel.
+LUK 11:20 Ali pošto jo p sufljeti alji rovj potirjesk ku săla alu Dimizov, atunča aja pokazaštje k la voj avinit cara alu Dimizov.
 LUK 11:21 Kănd capăn omu karje arje bună oružije păzaštje palača aluj, tot če arje je sigurno.
-LUK 11:22 Ali kănd vinje maj capăn d jel, l savladjaštje š ija tuată oružija ăn karje sa uzdit dušmanu aluj š s podiljaskă ku alcă aja če afurat dăla omula.
-LUK 11:23 Ćinje nuj ăn partja amja, atunča je puntru minje; š je karje nu s skupjaštje ku minje, s rasipjaštje.
-LUK 11:24 Kănd sufljet alu rov jašă d om, lutjaštje p lokurj undje nuje apă s kată lok s odmorjaskă ali nu l găsaštje. Atunča zăće: ‘M tork ăn om ăn karje majdată atrijit karje ajišăt.’
-LUK 11:25 Š sa tors š agăsăt k je omula kašă kasa karje je čistă š uredna, a li guală.
-LUK 11:26 Atunča sa dus š adukă p alcă šaptje (7) sufljeti alji rovj još maj rov d jel, te toc utră ăn om š ăn jel stanujaštje. Š na kraju postanjaštje alu omuluj maj rov nego će irja majdată nego će apljikat sufljetu alu rov.”
-LUK 11:27 Pănd Isusu aša arubit, njeka mujarje d multă lumje astrigat: “Kum je binje d mujarje karje ta dus š karje ca dat s suđ p tjeptu alu je!”
-LUK 11:28 Isusu azăs: “Još je maj binje d je karje punje urjejkje la vorba alu Dimizov š izvršaštje.”
-LUK 11:29 Kănd mulc lumje vinja la Isusu, ačiput s rubjaskă: “Lumja karje trijaštje ăn vrijamjasta jaštje lumja d rov. Vrja s fak čudă kašă dokazu k avinjit dăla Dimizov, ali nu dubidjaštje ničunu znak osim čuda karje Dimizov afukut d prorokulu Jona.
-LUK 11:30 K kum znaku karje sa dogodit alu Jona afost alu lumjej karje d mult atrijit ăn trg Niniva znaku k Dimizov la atrimjes, isto aša znaku karje osă dugudjaskă ku minje, s fije znaku k p minje, Bijatu alu Omuluj, Dimizov atrimjes alu lume karje akuma trijaštje.
-LUK 11:31 Carica karje d mult avladit p pămănt alu Jugu osă skuală păntriv omurj karje akuma trijaštje la zuvă kănd Dimizov osă sudjaskă alu pămăntuluj š lji osudjaskă daje će avinit d dăpartje lok s audă alu Caru Salomon karje afost mult mudrost, a jakă ku voj je aića njeko majmarje d Salomon.
-LUK 11:32 Jakă omurj karje d mult atrijit ăn trg Niniva osă skuală pătriv lumja karje astăz živjaštje la zuvă kănd Dimizov osă osudjaskă alu pămăntuluj š lji sudjaskă daja će je sa okrenit dăla grešala alor kănd proroku Jona dmult apropovodit. Jakă ku voj je aića njeko majmarje d Jona!”
-LUK 11:33 Isusu azăs “Nimilja na prindje p lampa s va skundă ili s upuje dusu košară, več daja s upuje p polică kum toc karje utră s vjadje lumina.
-LUK 11:34 Vojku alu tov je ka lumina alu tjelăj. Akă vojku alu tov bun, poc binje s vjez, ali akă vojku alu tov nuje bun, nu poc binje s vjez.
-LUK 11:35 Daja păzaštje s nu gidještj k aj lumină ăn tinje, već zapravo aj tamă ăn tinje.
-LUK 11:36 Daja akă poc binje s vjev š tu uopće nu ještj ăn tamă, osă i skroz osvjetlit kašă lumina alu lampăj objasaštje p tinje.”
-LUK 11:37 Kănd Isusu azavršăt vorba aluj, neki farizej la kimat la jel s mălănće. Isusu autrat š alat loku la astal.
-LUK 11:38 Kănd farizeju avuzut aja, je s začudit k Isusu majdată će s mălănće Isusu na fukut aja kum zăće običaju alu židovulor, s spalje mănilje alu luj s fije čist la Dimizov.
-LUK 11:39 Aša Domnu Isusu ja zăs: “Voj farizeji ištjec kašă lumja karje spală paru š găvanu samo da far, ali nu čistic prljavština dănotru, k spălăc mănilje, ali inima avuastră zaista mult ruavă š afurat.
-LUK 11:40 “Voj lumje karje na vjec firă ăn kap! Dimizov karje astvorit p omu da far je isto aša la stvorit d notru?
-LUK 11:41 Nu vic pohlepni, već dăc alu lumje karje narje aja čije ănotru. Istina je voj s fic čist d notru š d afar.
-LUK 11:42 Ali grjev vuavă, farizeji! Š akă voj dăc alu Dimizov čak š zjače (10) posto d tal d aljivoštri zaćinirj š d biljke, a nu maric d pravdă š d ljubav alu Dimizov. Trjebje s dăc d zjače posto, ali nu kutizăc s lăsăc karje stvarulje mult važne.
-LUK 11:43 Grjev vuavă, farizeji! Vrjec s šidjec p počasne lokurj ăn sinagogurj š vrjec k p voj lumja pozdravjaštje ku marje poštujală p ulic.
-LUK 11:44 Grjev vuavă! Voj ištjec pămăntu karje narje spomenik karje nu pokazaštje k ăžos s nalazaštje gruapa. Lumja nu opazaštje alja gruapje š gazaštje p jalje pa nu štije. Postanjaštje rov la Dimizov.
-LUK 11:45 Unu učitelju alu zakonu alu Mojsije ja zăs: “Učiteljulje, tu p noj učitelji alu zakonu alu Mojsije nji vriđješt aša kum rubještj!”
-LUK 11:46 Isusu ja zăs: “Grjev š vuavă, učitelji alu zakonu alu Mojsije! Voj punjec teretu p lumje karje je grjevj š je nu puatje s lja dukă, a nić đajštju nu vrjec s l pomaknic s jažută s adukă ăla teretula.
-LUK 11:47 Grjev vuavă! Voj adrikăc spomenikurlje alju pra tatăj, a voj ištjec isti kašă sămănca avuastră karje dănult lja umurăt.
-LUK 11:48 Aša k umjesto s lji osudic voj tvrdic š slažăc ku pra tatilje. Je lja umurăt, š voj lji drikăc spomenikurlje!
-LUK 11:49 Daja Dimizov mudro azăs d voj: ‘Trimjet la je p prorokurlje š p apostoli, a je p njeki d je s muarje, a p alcă s potirjaskă.’
-LUK 11:50 Daja Dimizov osă lji kaznjaskă p lumja karje akuma trijaštje odgovoran d tuată muartje alu prorokuruj karje lumja lja umurăt d kănd je pămăntu.
-LUK 11:51 Istina je, Dimizov osă lji kaznjaskă p lumja karje akuma trijaštje akuma je aiča d muartje alu tot proroku dăla Abel, dăla Zaharije, p krje amurut ăn Hram ăntru svetište š žrtvenik.
-LUK 11:52 Grjev vuavă, učitelji alu zakonu alu Mojsije! Voj ištjec kašă omu karje askuns ključu alu ušăj karje poznajaštje p Dimizov. Săngurj nu utrăc ăn znanja d Dimizov š aspričit p alcă s untrje š s poznajaskă p Dimizov.”
-LUK 11:53 Kănd Isusu d klo apikat, učitelji d zakonu alu Mojsije š farizeji apoćinit ku ljutnja s navaljaskă p jel la ispitujit kašă p dušmanu d multă pitanje
-LUK 11:54 Pokušăt s la pućje ăn zamkă ăn nešto če aputja s zăkă s l puată s l optužaskă.
-LUK 12:1 Kănd saskopit d mult lumje aša k gaza unu pist alt, Isusu majdată počinjaštje s rubjaskă alu aluj učenikurj: “Păzăc d farizeji k je lumja ku trje fălć. Je s ponašaštje rov š utjrćaštje p toc kao kum š germa utićaštje p zol. Păzcăvăs nu fic kašă je ku trj fălć.
-LUK 12:2 Daja će vinje vrijamja kănd tot s fije skuns fije otkrivt; Lumja s saznajaskă tot će lumja rubjaštje dăpă šalje.
-LUK 12:3 Će god azăs ăn tamă s saudă la lumină š tot će ašaptit ăn sobă kinsă s razglasaštje p krov toc s saudă!”
-LUK 12:4 “Ortaći ali mje, istina je. Na vjec frikă d ălja karje puatje s umară samo tjela, ali vuavă nu puatje nimika majrov s fakă!
-LUK 12:5 Ali u zăk d ćinje trjebje sa vjec frikă: avjec frikă d Dimizov karje puatje s tumuară, a tunća s t arunćje ăn pakao. D jel avjec frikă!
-LUK 12:6 Voj štijic k ćinjć (5) vrabacurj s vindje d samo doj (2) novčićurj. A Dimizov ipak nu mujtă p nićunu d jel.
-LUK 12:7 Čak š Dimizov štije kăt aj păr ăn kap. Daja na vjec frikă! Voj ištjec aluj majmult vredniji nego mult mult vrabacurj.”
-LUK 12:8 “Ćinje aića p pămănt la intja alu lumje priznajaštje k mije pripadjaštje, š d jel jo, Bijatu alu Omuluj, intja alu anđeo alu Dimizov priznajesk k ji pripadjesk.
-LUK 12:9 A p ăla karje sa odreknit d minje p pămănt la intja alu lumje, us m odriknjesk la intja alu anđeli alu Dimizov.
-LUK 12:10 A ălja karje zăće pătriv Bijatu alu Omuluj s oprostjaštje. A ălja karje rubjaštje pătriv Sufljetu alu Svntuluj nu s oprostjaštje.
-LUK 12:11 Kănd p voj aduće la sud ăn sinagogă, la intja alu vladaruluj š la vlast, nu brinic će s zăćec vuavă ăn obrană
-LUK 12:12 daja će p voj Sufljetu alu Svntuluj atunča ăvacă će s zăćec.”
+LUK 11:22 Ali kănd l napadnjaštje maj capăn d jel, l savladjaštje š ija tuată oružija ăn karje sa uzdit dušmanu aluj. Alat tot če omula avut š apudiljit ku lumja aluj.
+LUK 11:23 Ăla karje nuje ăn partja amja, jel je puntru minje; ăla karje ku minje nu skupjaštje vojilje, jel lji potirjaštje.”
+LUK 11:24 Atunča Isusu azăs asta vorbă: “Kănd sufljet alu rov jašă d om, lutjaštje p pustinje š kată lok s odmorijaskă. Kănd nu l găsaštje, azăs săngur aluj: ‘M tork ăn om ăn karje majdată atrijit dăn karje ajšăt.’
+LUK 11:25 Kănd sators š găsaštje k je omula kašă kasa karje je čistă š uredna, ali guală,
+LUK 11:26 atunča sa dus s adukă p alcă šaptje (7) sufljeti alji rovj još maj rov d jel, te toc utră ăn om š ăn jel stanujaštje. Š na kraju postanjaštje alu omuluj maj rov nego će irja majdată nego će apljikat sufljetu alu rov.”
+LUK 11:27 Pănd Isusu rubja d aštja stvarurj, njeka mujarje d multă lumje astrigat: “Kum je binje d mujarje karje ta dus š ca dat s suđ p tjeptu alu je!”
+LUK 11:28 Isusu azăs: “Još je maj binje d je karje audje vorba alu Dimizov š askultă.”
+LUK 11:29 Majmult š majmult lumje vinja la Isusu. Atunča Isusu lja zăs: “Lumja ăn asta vrijamje je rovj. Vrja s fak znak kašă dokazu k Dimizov ma trimjes, ali nu s dubidjaštje ničunu znak osim znaku karje Dimizov adat d mult alu lumjej ăn vrijamja alu prorokuluj Jonej kănd Dimizov la spasăt dăla muartje.
+LUK 11:30 Baš kašă kum sa dogodit ku Jona afost znaku alu lumjej karje atrijit ăn trg Niniva znaku k Dimizov la trimjes, isto aja, aša osă dogudjaskă ku minje, Bijatu alu Omuluj, osă fije znaku alu lumje ăn asta vrijamje.
+LUK 11:31 La zuvă kănd Dimizov osă sudjaskă alu pămăntuluj, carica karje d mult avladit p pămănt alu Jugu osă skuală š osă svjedočaskă păntriv lumje ăn asta vrijamje daje će ja avinit d dăpartje s audă p caru Salomon karje avut mult mudrost, a jakă ku voj je aića njeko majmarje d Salomon.
+LUK 11:32 La zuvă kănd Dimizov osă sudjaskă alu pămăntuluj, lumja karje atrijit ăn trg Niniva osă skuală š osă svjedočaskă păntriv lumja ăn asta vrijamje daja će je sa okrenit dăla rov alor kănd Jona apropovidit, a jakă ku voj je aića njeko majmarje d Jona!”
+LUK 11:33 Isusu azăs: “Nimilja na prindje p lampa s uaskundă ili s upuje dusu košară, več daja s upuje p loku alu je kum toc karje utră ăn sobă s puată binje s vjadă.
+LUK 11:34 Vojku alu tov je ka lampa d tjelăj. Akă vojku alu tov bun, poc binje s vjez, ali akă vojku alu tov nuje bun, nu poc s vjez nimika.
+LUK 11:35 Daja păzaštje s nu gindještj k poc binje s vjez, već zapravo nu poc nimika s vjez.
+LUK 11:36 Daja, akă poc binje s vjez š akă nuje nimika d tinje skuns, tot poc s vjez. Osă fije kašă če ještj ăn sobă ku lampa karje c dă s vjez.”
+LUK 11:37 Kănd Isusu azavršăt vorba aluj, neki farizej la kimat la jel akas s mălănće. Isusu autrat š alat loku la astal.
+LUK 11:38 Isusu na spălat mănilje majdată njego će s mălănće. Farizeju sa mirat daja če je ănvacă k omu trjebje aša s fakă s fije čist la intja alu Dimizov.
+LUK 11:39 Aša Domnu Isusu ja zăs: “Voj farizeji ištjec kašă lumja karje spală paru š găvanu samo da far, ali nu čistjaštje prljavština dăn nontru, k spălăc mănilje, ali inimilje alji vuaštrje zaista pljinje d pohlepă š d rov.
+LUK 11:40 Voj lumje karje na vjec firă ăn kap! Dimizov karje astvorit p omu da far je isto aša la stvorit dăn nontru.
+LUK 11:41 Nu fic pohlepni, več dăc dăla inimă alu lumje karje narje. Akă ištjec aša, osă fic čist la intja alu Dimizov d nontru š da far.
+LUK 11:42 Grjev vuavă, farizeji! Voj dăc alu Dimizov zjače (10) posto čak š d zaćinurj š d biljke alji voštrje, ali nu vu ponašăc pravedno nit vrjec p Dimizov. Asta atribut s fičec, ali s ne zanemarujic altje stvarurj karje Dimizov azapovidit.
+LUK 11:43 Grjev vuavă, farizeji! Vrjec s šidjec p počasne lokurj ăn sinagogje š vrjec k p voj lumja pozdravjaštje ku marje poštujală p ulic.
+LUK 11:44 Grjev vuavă! Voj ištjec kăša pămăntu karje narje spomenik karje nu pokazaštje k ănžos s nalazaštje mărmăntje. Pa lumja umblă p ăštja mărmăntje, ali nu štije, š atunča je nećisti la intja alu Dimizov.
+LUK 11:45 Atunča unu učitelj alu zakonu alu Mojsije ja zăs: “Učiteljulje, kum aša rubješt š p noj ku aja nji uvridještj!”
+LUK 11:46 Isusu ja zăs: “Grjev š vuavă, učitelji alu zakonu alu Mojsije! Voj punjec teretu p lumje karje je grjev š je nu puatje s la dukă, a nić đajštju nu vrjec s l pomaknic s jažutac s adukă ăla teretula.
+LUK 11:47 Grjev vuavă! Voj adrikăc spomenikurlje alu prorokurlor, a voj ištjec isti kašă pra tatilje avuastră karje dămult lja umurăt.
+LUK 11:48 Aša k umjesto s lji osudic voj tvrdic š slažăc ku pra tatilje. Je lja umurăt, a voj lji drikăc spomenikurlje!
+LUK 11:49 Voj ištjec kašă pra tatilje alji voštri. Dimizov ăn mudrostu aluj unaprjed aštijut k osă fićec istje stvarurj. Jel azăs: ‘Osă trimjet la je p prorokurlje š p apostoli, a je p njeki d je osă muarje, a p alcă osă potirjaskă.’
+LUK 11:50 Daja Dimizov ku prava aluj osă smatrjaskă k je dăvină lumja ăn asta vrijamje d tuată muartje alu prorokuruj karje lumja lja umurăt d kănd je pămăntu.
+LUK 11:51 Dimizov osă lji osudjaskă d muartje alu tot proroku, dăla Abel pănla Zaharija, p karje amărut ăn Hram ăntru svetište š žrtvenik. Istina je, Dimizov osă lji kaznjaskă p lumja ăn asta vrijamje!
+LUK 11:52 Grjev vuavă, učitelji alu zakonu alu Mojsije! Voj ištjec kašă omu karje askuns ključu alu ušăj d cara alu Dimizov. Săngurj nu utrăc ăn cara alu Dimizov š nu dăc nič alu ălja karje kată s untrje.”
+LUK 11:53 Kănd Isusu apljikat dăn kasă alu farizej, učitelji d zakonu alu Mojsije š farizeji apoćinit ku năkižala s navaljaskă p jel š azahtjevit s odgovorjaskă p multă pitanje.
+LUK 11:54 Je pokuša s la pućje ăn zamkă ăn nešto če aputja s zăkă s l puată s l optužaskă.
+LUK 12:1 Majmult š majmult lumje anastavit s vije la Isusu. Lja fost atătă k gaza unij pisti alc. Majdată njego če osă rubjaskă alu lumjej, Isusu arubit alu učenikurlje aluj: “Păzăcăvă d farizej. Ku duavje trje fălć jaštje š utjecaju alor s proširjaštje ăntru lumje kašă germa karje s proširjaštje ăn mălaj. Păzăcăvă s nu fic kašă je ku trje fălć.
+LUK 12:2 Vinje vrijamja kănd tot čije skuns osă fije otkrivit š tot čije tajna osă sa audă pănglu toc.
+LUK 12:3 Da, ăn zuvaja će god njeko azăs ăn tamă osă saudă la lumină š tot će njeko ašaptit ăn sobă kinsă osă razglasaštje p krov s audă toc!
+LUK 12:4 Ortaći ajmje, punjec binje urjajkje. Na vjec frikă d lumje. Je puatje s umară samo tjela, ali dăpă aja vuavă nu puatje nimika majrov s fakă!
+LUK 12:5 Ali osă vu pokazăskă d ćinje trjebje sa vjec frikă: avjec frikă d Dimizov karje dăpă aja puatje p voj s umuară, a tunća arje moč p voj s arunćje ăn pakao. Punjec binje urjajkje: d jel avjec frikă!
+LUK 12:6 Voj štijic k ćinjć (5) vrabacurj s vindje d samo doj (2) novčičurj karje pucăn vridjaštje. Ali Dimizov s brinjaštje d toc je.
+LUK 12:7 Čak š Dimizov štije kăt aj păr ăn kap. Daja na vjec frikă! Voj ištjec aluj majmult vredniji nego mult mult vrabacurj.
+LUK 12:8 Istina je tot ăla karje aića p pămănt la intja alu lumje priznajaštje k mije pripadjaštje, š d jel jo, Bijatu alu Omuluj, intja alu anđelilor alu Dimizov osă priznajesk k je pripadjaštje mije.
+LUK 12:9 A p ăla karje sa odreknit k mije pripadjaštje p pămănt la intja alu lumje, osă m odriknjesk k mije pripadjaštje la intja alu anđeli alu Dimizov.
+LUK 12:10 A tot ăla karje osă zăkă pătriv minje, Bijatu alu Omuluj s oprostjaštje. A alu ăla karje uvridjaštje p Sufljetu alu Svăntuluj nu s oprostjaštje.
+LUK 12:11 Kănd p voj je aduće la sud ăn sinagogă, la intja alu vladaruluj š la vlast, nu brinic će s zăćec vuavă ăn obrană
+LUK 12:12 daja će p voj Sufljetu alu Svntuluj ăn ăla tren osă ăvacă će s zăćec.”
 LUK 12:13 Njeko d mult lumje astrigat: “Učiteljulj, m rog d tinje, ză alu fratimjov s podiljaskă ku minje imanja karje adobitit će tatimjov nja lăsat.”
-LUK 12:14 Isusu ji zăće: “Omulje, ćinje p minje ma pus s sudjesk š s podiljesk ăntru voj?”
-LUK 12:15 Atunča azăs alu toc: “Păzăcăvă š nu dopustic alu pohlepej s utră ăn inima avuastră, jer čak š alu ăla karje živjaštje ăn bugacije život nu s sastajaštje d aja će posidujaštje.”
-LUK 12:16 Rubjaštje ăn vorbă: “Alu njeki bogataš binje arodit pămăntu atăta d mult žetvă
-LUK 12:17 ‘Nu štivće će s fak daja će nam nič u lok atăta d marje s sprimjesk tuată žetva.’
-LUK 12:18 ‘Štiuv! dubor abătrnje skladište š lji fak majmarje pa š ăn klo puj š gruvu š tota imovina amja.
-LUK 12:19 Atunča zăk alu sufljetu alu mjov: “Jakă, am ăn skladištje zalihe d još multje aj. Sufljetu alu mjov, odmorjaštitje, mălănkă, bja š veseljaštitje!’”
-LUK 12:20 Ali Dimizov ji zăće: “Omu karje narje firje ăn kap! Još d sară s morj. Alu ćinje s pripadjaskă aja tot će askupit?”
-LUK 12:21 Omu karje narje firje ăn kap je ăla karje skupjaštje bugacija p pămănt a narje bugacija karje je drag la Dimizov.
-LUK 12:22 Atunča Isusu zăće alu učenikurj aluj: “Daja vu zăk: Nu brinicăvă š na vjec frikă kum s preživic, će s mănkăc, nit će s smbrănkăc tjela avuastră!
-LUK 12:23 Pa životu maj vrjedno d mănkarje, tjela d cualje.
-LUK 12:24 Ujtacăvă la gavran! Nit sjaštje, nit adună, nit irje skladištje š kolibă. A Dimizov ipak lji nahranjaštje. A voj atăta vridic alu Dimizov d pujur!
-LUK 12:25 Puatje njeko d voj aluj s produžaskă životu barem š d u zuvă?
-LUK 12:26 Pošto nu putjec s fićec nić aša d mikă stvar, nu tribjec nić s brinic d aljtje stvarurj?
-LUK 12:27 Ujtacăvă samo kum frualjilje karje krjaštje ăn polje! Nit s mučaštje nit faće cualje. Zăk vuavă k ni caru Salomon karje duća măndrje cualje na fost ăbrkat ka unu d je d frualje.
-LUK 12:28 Š ako Dimizov aša ăbrakă p frualjilje karje jaštje astăz, a več minje s arunkă ăn fok, zar s nuvrja još majmult s pobrinjaskă d voj? lumja karje pucăn krjadje?
-LUK 12:29 D aja š voj: nu brinicivă š nu v uznemiric dăpă aja će os mănkăc š će os bjec
-LUK 12:30 k aša fače lumja karje nu krjadje p pămăntusta. Tata alu vostru štije k tot aja vuavă potrebno.
-LUK 12:31 D aja majdată čirjec caru alu Dimizov š atunča š aja os avjec.
-LUK 12:32 Navja frikă, amikă stada, alu vostru Tata sasviđit s vu dja cara.
-LUK 12:33 Vinjdjec aja će avjec š banj dăc alu lumje karje narje nimik! Aša k vuavă sprimic blaga p ćjer, undje lopovi nu furv š undje moljac nu s mălănće.
-LUK 12:34 K undje je blaga avuastră, ăn klo s fije š inima avuastră.”
-LUK 12:35 “Fic ămbrkac š sprimic s služăc alu Dimizov š neka avuastră lumuna s rămije prinsă.
-LUK 12:36 Kum da štiptăc povrataku alu nostru Gospodaru s tuarkă dăla svatovj s fic sprimic s idiškidjec aluj uša kănd ažunjđa š s bitja la ušă.
-LUK 12:37 Blago alor karje gospodaru kănd s turća s lji găsaskă skulac. Istina je zăk vuavă, jel s ljađje pregača, lji zăće s šagă la astal š săngur s lji poslužaskă s mălănće.
-LUK 12:38 Možda vinja d nuaptje ili dăspru zuvă. Blago alu ălja karje lji găsaštje skulac.
-LUK 12:39 Štijec: Kănd gazda alu kasăj štija kănd vinje lupovu, na dopustja alu lopovuluj s provaljask ăn kasa aluj.
-LUK 12:40 Fic š voj stalno priprimic daja će Bijatu alu Omuluj s vije kănd nu nji nadja d jel.”
-LUK 12:41 Petar atribat: “Domnulje, aspus tu aja vorbaja samo nuavă ili alu toc?”
-LUK 12:42 Domnu Isusu ji zăće: “Ćinje je ăla bun argat karje Gospodaru la postavit s upravljaskă ku aluj argacă s idja mănkarje bună vrijamje?
-LUK 12:43 Blago alu ăla karje gospodaru, kănd vinje, s găsaskă k faće aša!
-LUK 12:44 Punjec urjajkje k istina je: l puj s upravljaskă p tot će gospodaru arje.
-LUK 12:45 Ali ako argatu pomisljaštje: “gospodaru još nu su tuarće s poćinjaskă s bată p argacă š p argatilje, s mălănće, s s bja š s băta,
-LUK 12:46 gospodaru vinje ăn zuvă kănd aluj nu s dă š ăn sat karje nu s nadja. Gospodaru narje milost l kaznjaštje š idă lok ăntră lumje karje nu krjadje.
-LUK 12:47 Ăla karje štije volja alu gospodaruluj ali nafukut aša š na fost skulat, š s fije strogo kaznit.
-LUK 12:48 Ali ćinje na štijut volja alu gospodaruluj afukut nešto će zaslužaštje kaznă, gospodaru s kaznjaskă ucără. Alu ćinje je mult dat, dăla jel s s katje majmult. Dăla ăla karje je mult aprimit dăla je s kată majmult.
-LUK 12:49 “Avinit s arunk foku d sud p pămănt. Kum avrja akuma s počinjaskă.
+LUK 12:14 Isusu ji azăs: “Omulje, ćinje p minje ma pus s sudjesk š s podiljesk ăntru voj?”
+LUK 12:15 Atunča azăs alu toc: “Păzăcăvă š nu dopustic alu bilo d karje pohlepă s utră ăn inima avuastră, jer čak š alu ăla karje živjaštje ăn bugacije život nu s sastajaštje d aja će posidujaštje.”
+LUK 12:16 Atunča Isusu arubit asta vorbă: “Alu njeki bogataš binje arodit pămăntu aša k avut marje žetvă
+LUK 12:17 Bogatašu razmišlja: ‘Nu štivće će s fak daja će nam nič u lok atăta d marje s sprimjesk tuată žetva.’
+LUK 12:18 Atunča azăs ‘Štiuv! dubor abătrnje skladište š osă fak majmarje š ăn klo puj š gruvu š tota imovina amja.
+LUK 12:19 Atunča osă zăk alu sufljetu alu mjov: “Jakă, am ăn skladištje zalihe d još multje aj. Sufljetu mjov, odmorjaštitje, mălănkă, bja š veseljaštitje!’”
+LUK 12:20 Ali Dimizov ji zăs: “Omu karje narje firje ăn kap! Još d sară s morj. Atunča alu ćinje s pripadjaskă aja tot će askupit?”
+LUK 12:21 Omu karje narje firje ăn kap je ăla karje skupjaštje bugacija p pămănt a nuje bugat ăn vojki alu Dimizov.
+LUK 12:22 Atunča Isusu azăs alu učenikurj aluj: “Daja vu zăk: Nu brinicăvă š na vjec frikă kum s preživic, će s mănkăc, nit će s smbrănkăc tjela avuastră!
+LUK 12:23 K životu majmult d mănkarje, tjela d cualje.
+LUK 12:24 Ujtacăvă la gavranurj! Nit sjaštje, nit adună, nit irje skladištje š kolibă. A Dimizov ipak lji nahranjaštje. A voj vridic majmult alu Dimizov d pujur!
+LUK 12:25 Puatje njeko d voj aša če s brinjaštje s produžaskă životu čak š unu sat?
+LUK 12:26 Pošto nu putjec s fićec nić aša d mikă stvar, dăče vu brinic d altu?
+LUK 12:27 Ujtacăvă samo kum frualjilje karje krjaštje ăn polje! Nit s mučaštje nit faće cualje. Istina je k ni caru Salomon karje afost mult bugat š aduča măndră cualje na fost ăbrkat ka unu d je d frualje.
+LUK 12:28 Atunča ako Dimizov aša ăbrakă aja če krijaštje ăn polje karje jaštje astăz, a več minje s arunkă ăn fok, zar s nuvrja još majmult s pobrinjaskă d voj? Dăče nu kridjec ăn Dimizov više?
+LUK 12:29 D aja š voj: nu brinicivă š nu v uznemiric pănglu aja će osă mănkăc š će osă bjec.
+LUK 12:30 A lumja p pămăntusta s brinjaštje d tot aja. Tata alu vostru, Dimizov, štije k tot aja vuavă potrebno.
+LUK 12:31 Njego čirjec caru alu Dimizov š atunča Dimizov osă vu dja aštja stvarurj.
+LUK 12:32 Navja frikă, amikă stada, k alu vostru Tata, Dimizov sa sviđit s vu dja cara.
+LUK 12:33 Vinjdjec aja će avjec š banj dăc alu lumje karje narje nimik! Akă fiča aja, osă avjec tăšnj karje nu puatje rupă. Aja je blago karje nu prupanjaštje karje je p čerj, undje lopovi nu fură š undje găgilje nu s mălănće.
+LUK 12:34 K inimilje alji vuaštrje uvjek osă fije ăn klo undje je blaga avuastră.”
+LUK 12:35 Isusu azăs: “Uvjek fic spremic, kašă argatu karje abrkat radne cualje š alu činje je lumina prinsă tuată nuaptja.
+LUK 12:36 Fic š voj spremic, kašă argatu karje štjaptă p gospodaru aluj karje apljikat ăn svatovj š kănd ažunđje š batje la ušă, odma diškidjej uša.
+LUK 12:37 Gospodaru sigurno osă nagradjaskă p argacă karje je spremic š aštjaptă povrataku aluj. Istina je zăk vuavă, gospodaru osă bračje cualji alu argatuluj, osă lji zăče s šagă la astal š săngur osă lji nahranjaskă.
+LUK 12:38 Možda osă vinja ăn ponoč ili diminjacă. Gospodaru osă lji nagradjaskă akă vinja š vjadje k još uvjek l štjaptă.
+LUK 12:39 Ăn asta putjec s fic sigurni: Akă gazda alu kasăj štija kănd vinje lupovu, na dopustja alu lopovuluj s provaljask ăn kasa aluj.
+LUK 12:40 Fic š voj stalno priprimic daja će jo, Bijatu alu Omuluj osă viuv jar p pămănt kănd numă očekuja.”
+LUK 12:41 Petar atribat: “Domnulje, aspus tu aja vorbaja samo nuavă alu učenikulor ili alu toc?”
+LUK 12:42 Domnu Isusu ja zăs: “Mudri argat je ăla p karje gospodaru osă l puje s upravljaskă ku alcă argac ăn kasă š s lji nahranjaskă ăn bună vrjamje.
+LUK 12:43 Kănd gospodaru s turča, sigurno osă nagradjaskă p aša argat akă găsa k je argatu mudar!
+LUK 12:44 Punjec urjajkje k istina je: Gospodaru osă postavjaskă p argatu s upravljaskă ku tuată imanja aluj.
+LUK 12:45 Ali akă ăla argatu pomisljaštje: ‘Gospodaru sa zadržăt p drum š poćinjaskă s bată p argacă š p argatilje, mult mălănkă š bja š s băta,
+LUK 12:46 atunča gospodaru p argatula osă vije ăn zuvă ăn karje nu l očekuja š ăn vrjamje d karje nimilja nu štije. Gospodaru osă l taje aša če s ji odridjaskă loku ăntru lumje karje nu krjadje.
+LUK 12:47 Ali gospodaru osă bată ku multje udaracurj p aša argat karje aštijut če alu gospodaru avurut, ali na fukut aja če gospodaru avurut.
+LUK 12:48 A gospodaru osă bată ku ucără udaracurj p argatu karje na štijut aja če gospodaru avurut a afukut nješto d čaja azaslužăt bătaje. Gospodaru osă kată mult dăla tot ăla alu činje jel adat mult, š osă zahtjevjaskă majmult dăla ăla alu činje gospodaru apovjerit mult.
+LUK 12:49 Atunča Isusu azăs: “Avinit s apring foku d sud p pămănt. Mult avrja s fije več aprisă.
 LUK 12:50 A mora s trjek p bitizală d marje patnje š aša sănt mult pritisnit pănd god nu završa asta bitizala d patjală!
-LUK 12:51 Voj gindic k avinit s aduk miru p pămănt? Nipošto! Nego avinit s aduk podjelă ăntru lumje.
-LUK 12:52 Jer pănda akum nastajaštje podjela ăntru članurj ăn kas: trj pătriv doj š doj pătriv trje.
-LUK 12:53 Tata s fije pătriv bijatu š bijatu pătriv tată, mama pătriv fată š fata pătriv mamă, suakra pătriv noră š nora pătriv suakră.”
-LUK 12:54 Zăće Isusu alu mulc lumje: “Kănd opazăc k d zapad dăla more s nakupjaštje njegri oblakurj, štijic s zăćec: ‘S fije pluaje!’
-LUK 12:55 A kănd suflă văntu d jug: ‘S fije zupuk!’ š jaštje zăpuk.
+LUK 12:51 Voj gindic k am vinjit s aduk miru p pămănt? Nipošto! Istina je am vinjit s aduk podjelă ăntru lumje.
+LUK 12:52 K dăla akum osă podiljaskă činjč ăn una kasă: doj je ku minje š trje je putriv minje.
+LUK 12:53 Tata osă fije pătriv bijatu š bijatu pătriv tată, mama pătriv fată š fata pătriv mamă, suakra pătriv noră š nora pătriv suakră.”
+LUK 12:54 Atunća Isusu arubit alu mulc lumje: “Kănd opazăc k d zapad dăla more s nakupjaštje njegri oblakurj, odma zăćec: ‘Osă fije nevrjeme š jaštje!’
+LUK 12:55 A kănd suflă văntu d jug voj zăče: ‘S fije zupuk!’ š jaštje zăpuk.
 LUK 12:56 Lumjo ku trje licje! Izgledu alu pămăntuluj š alu ćeruluj štijic s l protomačic. Trjebje s štijec kum s tumačaštje događaji alu asta vrijamje!
-LUK 12:57 Dăće săngurj nu vrjec s prepoznajic ćije bun?
-LUK 12:58 Kănd ku omu karje pătriv tinje pljeć la sud, pukušaštje ku jel p drum s t dogovorješt. Inače t dă la sud zato sudacu t puatje s t sudjaskă š s t dja alu omulu karje ukrijază ăn kisuarje, s tarunće ăn kisuarje.
-LUK 12:59 C zăk cije nusu ješ d klo pănd god nu isplatješt tot iznosu karje zăs omu karje pătriv tinje.”
+LUK 12:57 Aša voj săngurj trjebje s prepoznajic čije bun?
+LUK 12:58 Kănd ku omu karje pătriv tinje pljeć la sud, pukušaštje još p drum s t dogovorješt ku jel. Akă aja nu fač, jel osă va dukă la sudac, sudacu osă t sudjaskă š t predajaštje la izvršitelj, a jel osă ta runče ăn kisuarje.
+LUK 12:59 Istina je nusu ješ d klo pănd god nu isplatješt tot iznosu karje kată omu karje pătriv tinje.”
 LUK 13:1 Atunča la Isusu avinit lumja s zăkă k Pilat adat p njeki lumje d regija Galileja s lji muară kănd prinisa žrtvă ăn Hram la Jeruzalem.
 LUK 13:2 “Gindic k ălja Galilejci karje anastradit irja majmarje lumje karje agrešăt d alcă Galilejaca?
-LUK 13:3 Nipošto! Istina je, š voj aša s propanic ako nu pljikac p bun drum!
+LUK 13:3 Nipošto! Istina je, š voj aša s propanic ako nu okrinic dăla grešală!
 LUK 13:4 Ili p ălja optsprjaće (18) p karje sadubutăt kula ăn Siloam š lja murăt, voj gindic k je je irja lumja karje majmult agrešăt d tuată lumja d Jeruzalem?
-LUK 13:5 Nipošto. Jo vu zăk k nujrja, ali ako nu pika p bun drum š voj s muric kum š je.”
+LUK 13:5 Nipošto! Istina je, š voj aša s propanic ako nu okrinic dăla grešală!”
 LUK 13:6 Isusu lji rubjaštje u vorbă: “Avut neki om smokvă karje asadit ăn vinograd. Vinja s vjadje dal arodit, ali na găsăt p ja nićunu rod.
 LUK 13:7 Zăće atunča alu vinogladaruluj: “Več trj aj viuv s kat rod p asta smokvă, ali nu l găsăsk. Tajoj. Dăće s iscrpijaskă pămăntu?”
 LUK 13:8 A vinogradaru zăće: “Gospodarulje, lasoj još anusta, a jo s surp p s š puj gnoj pănglu ja.
@@ -661,7 +661,7 @@ LUK 13:20 Jar atribat: “Ku ćaja s ju usporidjesk cara alu Dimizov?
 LUK 13:21 Aja je ka germa umješaštje ăn marje kolićină d pjelm, a jel tot sadrikă.”
 LUK 13:22 Isusu putuja ăn Jeruzalem, tričja p trgurj š p satur š p drum ăvăca.
 LUK 13:23 Njeko la tribat: “Domnulje, usu vrja Dimizov s spasaskă pucăn lumje?” Isusu azăs:
-LUK 13:24 “Uša p ćjer jaštje strmntă. Potrudicăvă s utrăc p ja k, istina je, mul lumje s vrja s untră, ali nu s puată.
+LUK 13:24 “Uša p ćjer jaštje strmntă. Potrudicăvă s utrăc p ja k, istina je, mult lumje s vrja s untră, ali nu s puată.
 LUK 13:25 Kănd gospodaru alu kasej ikidje uša, s fije kasno. Atunča s šidjec a far š s bac ăn ušă. “Domnulje diškidije nuavă!” Ali je s zăkă: “Nu vu štiv dudje ištjec.”
 LUK 13:26 Atunča s počinjic s rubic: “Ali noj ku tinje amăkat š abut, š tu njivăcaj p trgurj alu nostru!”
 LUK 13:27 A je vuavă s vu zăkă: “Nu vu štiv dudje ištjec. Fuđic dăla minje, toc voj lumjo karje fićec rov!”
@@ -714,10 +714,10 @@ LUK 15:3 Isusu d aja lji rubjaštje ăn vorbă:
 LUK 15:4 “Ćinje d voj na fića, s ajbje usătă (100) d voj š una d je s pardje ăn lok undje nuje nimika, apikat s kartje š p aja una pănd god nu ugăsa?
 LUK 15:5 Atunća ju, tot vesel, p umirje aduć a kas
 LUK 15:6 š aduć a kas. Atunča kjem p ortaći š p komšăji s lji zăć: “Raduicăvă ku minje! Agăsăt p vuaja karje sapurdut!”
-LUK 15:7 Istina je k p ćjerj isto s fije marje radost d unu om karje grešaštje karje s okrinjaštje la Dimizov nego d nuavăzăć š nuavă (99) lumje karje je pravedni karje nu trjebje s okrinjask la Dimizov.”
+LUK 15:7 Istina je k p ćjerj isto s fije marje radost d unu om karje grešaštje karje s okrinjaštje dăla grešală nego d nuavăzăć š nuavă (99) lumje karje je pravedni karje nu trjebje s okrinjaskă dăla grešală.”
 LUK 15:8 “Karje aja mujarje, s ajbje zjaće (10) kovanic d arđint š unu pjardje, a će nu prinz lumina, amătăra kasa š pažljivo kăta s ju găsaskă?
 LUK 15:9 A kănd ju găsaštje, akima p ortakinjilje š p komšiji š azăća: “Raduicăvă ku minje! Agăsăt banji karje apurdut!”
-LUK 15:10 Istina je k je radost sujătă š anđeli alu Dimizov samo d unu omu karje irja grešnik karje sa okrenit la Dimizov.”
+LUK 15:10 Istina je k je radost sujătă š anđeli alu Dimizov samo d unu omu karje irja grešnik karje sa okrenit dăla grešală.”
 LUK 15:11 Isusu nastavjaštje: “Afost unu om karje avut doj fićorj.
 LUK 15:12 Alu tănăr fićor ji zăće: ‘Tato, akuma adăm talu d imanje će mi pripadjaštje.’ Š tata podiljaštje imanje ătră doj fićorj.
 LUK 15:13 Atrikut duavă trje zălje fićoru alu tănăr apokupit tot, š apikat maj dăpartje š klo kum trija aša š potrušăt tuatje banji.
@@ -741,61 +741,61 @@ LUK 15:30 Ali bijatu alu tov karje ku mujerilje apotrošăt imanja, asta aluj it
 LUK 15:31 Tatusov ji zăće: ‘Bijatu alu mjov, tu ješt stalno ku minje. Tot će am pripadjaštje cije.
 LUK 15:32 Ali atribut s proslavim š s radujim k alu tov fratutov afost mort, a akuma je viuv! Afost purdut, a akuma je găsăt.’”
 LUK 16:1 Isusu vurbjaštje alu ućenikurol asta vorbă: “Afost unu om karje irja bugat š avut om karje upravlja ku bugucija aluj, š p jel la optužăt k rasipjaštje imanja aluj.
-LUK 16:2 Bogatašu akimat la jel p omula karje upravljaštje ku imanju aluj š ji zăće: “Će aud aja d tinje? Duj papirilje undje skrijaj d banji ali mjej k više nu su poc s fi om karje upravljaštje ku imanja amja.”
-LUK 16:3 Upravitelju p aja s gidjaštje: “Će s fak kănd gazda m da otkaz? S surp? Nu săt dosta capăn d aja. S prusăsk? Ma fi rušănje d aja.
-LUK 16:4 Štiv će fak! Kănd fića aša, s fiuv binje vinit ăn kăšurj alu lumje kănd gazada măda otkaz.”
-LUK 16:5 Akimat atunča unu kăti unu p dužnikurlje alu gospodaruluj. P prvi ăntrijabă: Kăt ješt datuarje alu gospodaru alu mjov?” Dužniku zăće: usută (100) mjerje d ulje”, zăće dužniku.
-LUK 16:6 Zăće alu upravitelju: “Majdată alat knjiga aluj š ispravit p ćinzăć (50).”
-LUK 16:7 Š p altu atribat: “Kăt tu i duguješt?” “usătă (100) košarje d gruv”, ji zăće dužniku. “Alat aluj knjiga pa ispravit p optăzăć (80)”, j zăće upravitelju.
-LUK 16:8 Š gospodaru mora sa mirat d dovitljivosti d nepoštenje alu upravitelju. Lumja d ăsta pămănt maj mudriji d lumje karje trijaštje ăn lumină.
-LUK 16:9 Istina je: Fićec p lumja aluvostru ortać ku jaj će s jažutăc bogacija alu vrijamjasta, Kănd nistanjaštje, s fic primic ăn život p ćjer.
-LUK 16:10 Omulua karje krjadje ăn mić stvarurj, s fije vjeran š ăn majmarj, s ćinje je nepravedan ăn mić stvarur, s fije nepravedan š ăn majmarj.
-LUK 16:11 Ako dakle nu kridjec alu bugucije p păpămănt, ćinje su vu dja bugacija p ćjerj?
+LUK 16:2 Bogatašu akimat la jel p omula karje upravljaštje ku imanju aluj š ji zăće: ‘Će aud aja d tinje? Duj papirilje undje skrijaj d banji ali mjej k više nu su poc s fi om karje upravljaštje ku imanja amja.’
+LUK 16:3 Upravitelju p aja s gidjaštje: ‘Će s fak kănd gazda m da otkaz? S surp? Nu săt dosta capăn d aja. S prusăsk? Ma fi rušănje d aja.
+LUK 16:4 Štiv će fak! Kănd fića aša, s fiuv binje vinit ăn kăšurj alu lumje kănd gazda mă da otkaz.’
+LUK 16:5 Akimat atunča unu kăti unu p dužnikurlje alu gospodaruluj. P prvi ăntrijabă: ‘Kăt ješt datuarje alu gospodaru alu mjov?”
+LUK 16:6 Dužniku azăs: ‘Usută (100) mjerje d ulje.’ Upravitelju ja zăs: ‘Majdată alat knjiga aluj š ispravit p ćinzăć (50).’
+LUK 16:7 Atunča upravitelju p altu atribat: “Kăt tu i duguješt?” Dužniku ju zăs: “Usătă (100) košarje d gruv.” Upravitelju ju zăs: “Alat aluj knjiga pa ispravit p optăzăć (80).”
+LUK 16:8 Š gospodaru mora sa mirat d dovitljivosti d nepoštenje alu upravitelju k lumja d ăsta pămănt maj mudriji d lumje karje trijaštje ăn lumină.
+LUK 16:9 Istina je: Fićec p lumja aluvostru ortać ku jaj će s jažutăc bogacija alu vrijamjasta. Kănd nistanjaštje, s fic primic ăn život p ćjer.
+LUK 16:10 Omula karje vjeran ăn mić stvarurj, s fije vjeran š ăn majmarj, a ćinje je nepravedan ăn mić stvarur, s fije nepravedan š ăn majmarj.
+LUK 16:11 Ako dakle nu kridjec alu bugucije p pă pămănt, ćinje su vu dja bugacija p ćjerj?
 LUK 16:12 Ako na fost vjerni s postuipic ku bugacija alu altuluj, nimilja nu vu dă bugacija d voj?
 LUK 16:13 Nićunu argat n puatje s služaskă p doj gospodarurj. Ili p unu s mrzaskă, a p altu s l vrja ili alu unu s fije vrjeran, a p altu s l mrzaskă. Nu putjec s služăc voj š alu Dimizov š alu bugacije.”
 LUK 16:14 Farizeji karje avurut banji, la tot apus urjejkje š sa ljiga d Isusu.
 LUK 16:15 Atunča Isusu lja zăs: “Voj lj intja alu lumjej fićec k ištjec pravedni, ali Dimizov poznajaštje injima avuastră. Jer aja će lumja smatrjaštje kije bun, a alu Dimizov s gadjaštje d jaj.
-LUK 16:16 Lumja d zakon alu Mojsije š prorokurlje avažăt d kănd avinit Ivan karje Bitjază, a da tunća s vurbjaštje radosna vorbă d cara alu Dimizov š mulc lumje faće će god s puată s untră ăn cara alu Dimizov.
+LUK 16:16 Zakon alu Mojsije š prorokurlje avažăt d kănd avinit Ivan karje bitjază, a da tunća s vurbjaštje bună vorbă d cara alu Dimizov š mulc lumje faće će god s puată s untră ăn cara alu Dimizov.
 LUK 16:17 Čak s majmikă crtică d slovă ăn zakon s trjaskă majmult nego će ćjeru š pămăntu s postajaskă.
-LUK 16:18 Ćinje god s rastajaštje d mujarje š s săsuară dăpă alta, š ćinje god su săsuară dăpă mujarje karje irja rastavită faće preljub.
-LUK 16:19 Afost unu bogataš karje s ăbrka ăn majbunje cualje d grimiz š tanki lan, š tuată zuva măka bună măkarje
-LUK 16:20 A pănglu uša aluj tot ăn ćirurj azukut săraku Lazar
-LUK 16:21 Avurut s mălănće ostatulje d mănkarje će arămas p astal alu bogatašuluj. Pănă aša azăća, vinja kănji š linđja ćirulje alu Lazar.
+LUK 16:18 Ćinje god s rastajaštje d mujarje š s săsuară dăpă alta, š ćinje god s săsuară dăpă mujarje karje irja rastavită faće preljub.”
+LUK 16:19 “Afost unu bogataš karje s ăbrka ăn majbunje cualje d grimiz š tanki lan, š tuată zuva măka bună măkarje.
+LUK 16:20 A pănglu uša aluj tot ăn ćirurj azukut săraku Lazar.
+LUK 16:21 Lazar avurut s mălănće ostatulje d mănkarje će arămas p astal alu bogatašuluj. Vinja kănji š linđja ćirulje aluj.
 LUK 16:22 Ăn una zuvă Lazar amurit š anđeli la dus la Abraham. Amurit atunča š bogatašu š la gurpat.
-LUK 16:23 Š sufljetu alu bogatašuluj apikat ăn pak. Kănd irja majmarj muke. Saujtat ăn sus, š avuzut d dăpartje p Lazar ku Abraham.
-LUK 16:24 Bogatašu astrigat la Abraham! “smilujaštje mitje š trimjatje p Lazar s umučaskă vrhu alu đaštiljuj ăn apă š s m rićaskă ljimba daja će mult patjeskă ăn fokusta!”
-LUK 16:25 Žăće Abraham: “Bijatu alu mjov,” sitjaštitje k tu kănd atrijit p pămănt adubitit bunje stvarur, a Lazar rov. Akuma jel aića utješăt, a tu t mućeštj.
-LUK 16:26 Pănglu tot, ătră noj jaštje majrje rupă, Ălja karje vrja da ića s trjakă la voj nu puatje s fakă aja, a nić d partja vuastră karje vrja s vije la noj nu puate s trjakă aića.”
-LUK 16:27 Bogatašu zăće p aja: “Mărog d tinj, tato Abrahame, Trimjatălăj atunča p Lazar ăn kasa alu tatimjev.
-LUK 16:28 Am ćinjć frac. S pljće Lazar la je s lji opominjaskă š je snu vinje ăn lokusta undje tripim marje mukă.”
-LUK 16:29 Ali zăće Abraham alu bogatašuluj: “Nu nuvrajv, fracă tej arje p zakonu alu Mojsije š p prorokurlje s s ćitjaskă š s puje urjajkje lj je.!
-LUK 16:30 Nuvrja zăće bogatašu alu Abraham! ako lji vinja neko dăla morc, s okrinjaštje dăla grešală”, zăće bogatašu.
-LUK 16:31 Ali Abraham zăće alu bogatašuluj: Ako nu punje urjajkje la Mojsije š la prorokurj. Nu s skultă ćak š p ăla karje s skuală dăla morc.”
-LUK 17:1 Isusu zăće alu učenikurlje aluj: “Mulc inš p ăla s navadjaskă p lumja p grešală, ali grjev alu ăla p ćinje vinje napast.
+LUK 16:23 Š sufljetu alu bogatašuluj apikat ăklo undje loku d kaznit. Kănd irja majmarj muke, saujtat ăn sus, š avuzut d dăpartje p Lazar ku Abraham.
+LUK 16:24 Bogatašu astrigat: ‘Abraham, smilujaštje mitje š trimjatje p Lazar s umučaskă vrhu alu đaštiljuj ăn apă š s m rićaskă ljimba daja će mult patjeskă ăn fokusta!’
+LUK 16:25 Abraham ja zăs: ‘Bijatu alu mjov, sitjaštitje k tu kănd atrijit p pămănt adubitit bunje stvarur, a Lazar rov. Akuma jel aića utješăt, a tu t mućeštj.
+LUK 16:26 Pănglu tot, ătră noj jaštje majrje rupă. Ălja karje vrja da ića s trjakă la voj nu puatje s fakă aja, a nić d partja vuastră karje vrja s vije la noj nu puate s trjakă aića.’
+LUK 16:27 Bogatašu ja zăs p aja: ‘Mărog d tinj, tato Abrahame, trimjatălăj atunča p Lazar ăn kasa alu tatimjev.
+LUK 16:28 Am ćinjć frac. S pljće Lazar la je s lji opominjaskă š je nu vinje ăn lokusta undje tripim marje mukă.’
+LUK 16:29 Ali zăće Abraham alu bogatašuluj: ‘Nu nuvrajv. Fracă tej arje p zakonu alu Mojsije š p prorokurlje s s ćitjaskă š s puje urjajkje la je!’
+LUK 16:30 A bogatašu ja zăs: ‘Nuvrja, Abraham! Ako lji vinja neko dăla morc, osă okrinjaštje dăla rov.’
+LUK 16:31 Ali Abraham azăs alu bogatašuluj: ‘Ako nu punje urjajkje la Mojsije š la prorokurj, nu s skultă čak š p ăla karje s skuală dăla morc.”’
+LUK 17:1 Isusu azăs alu učenikurlje aluj: “Mulc inš p ăla s navadjaskă p lumja p grešală, ali grjev alu ăla p ćinje vinje napast.
 LUK 17:2 Alu ăla afi majbinje s puje grjev buluvanu la găt š s sarunće ăn apă, njego s navadjaskă p grešală p unu d lumja amikă.
-LUK 17:3 Păzăcăvă! Akă ortaku karje krjadje ăn Dimizov, grješaštje, zi k aja će afukut k nuje binje š ji oprustjaštăj ako s pokaja.
-LUK 17:4 Š ako d šaptje (6) vorj p zuvă pogrišaštje d tinje š šaptje (6) vorj c zăće: “M žao”, š oprustjaštjej!”
-LUK 17:5 “Atunča apostoli azăs alu Domnuluj Isusuluj: “Ažutănje s kridjem majmult!”
-LUK 17:6 “A Domnu Isusu lja zăs: “S avjec vjeră kašă bobu alu goruščică, arzăča alu duduluj: “Skuatitje ku korijenu d pămănt š punje korjenu alu to ăn more!” š apunja urjajke la voj.
+LUK 17:3 Păzăcăvă! Akă ortaku karje krjadje ăn Dimizov, grješaštje, zi k aja će afukut k nuje binje š ji oprustjaštăj akă s okrinja dăla grešală aluj.
+LUK 17:4 Š ako d šaptje (7) vorj p zuvă pogrišaštje d tinje š šaptje (7) vorj c zăće: ‘M žao”, atunča oprustjaštjej grešala aluj!’ ”
+LUK 17:5 Atunča apostoli azăs alu Domnuluj Isusuluj: “Ažutănje s kridjem majmult!”
+LUK 17:6 A Domnu Isusu lja zăs: “S avjec vjeră kašă bobu alu goruščică, arzăča alu duduluj: ‘Skuatitje ku korijenu d pămănt š punje korjenu alu tov ăn more!’ š apunja urjajke la voj.
 LUK 17:7 Kănd argatu untră ăn kasă pănd arat ili a pazăt vojilje, nu s šagă odma š s mălănče.
 LUK 17:8 Majdată mora s fakă mănkarja alu gospodaruluj š s ji puje la intje vičera š tek atunča puatje š săngur s mălănče.
-LUK 17:9 Dugujaštje li alu argatuluj s ji zahvaljaskă dăja će afukut aja će irja aluj zapovjedit.
-LUK 17:10 Aša š voj kăndă a skultăc p Dimizov zăćec: “Nuištjem vrijedni dă hvală. Samo ištjem argaci karje obavim dužnost alănostru.”
-LUK 17:11 Kănd Isusu š ućenilurlje aluj pika kărti Jeruzalem, Isusu apikat pănglu granică alu Samarije š Galileja.
-LUK 17:12 Pănd autrat ăn unu sat, avinjit la jel zjaće lumje karje avja gubă, zarazna buală p pjalje. Š s zaustavit majdăpartje.
-LUK 17:13 Š apoćinit s striđje: “Isusulje, Ućiteljulje, smilujaštitje p noj!”
-LUK 17:14 Kănd Isusu lja vuzut š lja zăs: “fuđic š pukazăcăvă la popje!” Je apikat š p drum sa ljekujit d gubă.
-LUK 17:15 Avuzut k ozdravinit, unu dje sators s slavjaskă p Dimizov p tot glasu.
-LUK 17:16 Akuzut la intja alu Isusuluj ku fălči kărti pămănt š ji zahvalit. Afost aja neki om d Samarije.
-LUK 17:17 Isusu atriba: “Dimizov ozdravinit p zjaće lumje? undje ăla alanc nuavă (9)?
-LUK 17:18 Zar nićunu d dje nu sators s zahvaljaskă alu Dimizov osim ăsta unu karje nuje židov?”
-LUK 17:19 A lu omuluj atunča zăće: “Skual š fuđ. Tu ta ljekujit daja če akrizut.”
+LUK 17:9 Dugujaštje li alu argatuluj s ji zahvaljaskă dăja će afukut aja će irja aluj zapovjedit?
+LUK 17:10 Aša š voj kăndă askultăc p Dimizov zăćec: ‘Nuištjem vrijedni dă hvală. Samo ištjem argaci karje obavim dužnost alănostru.’
+LUK 17:11 Pănd Isusu pika kărti Jeruzalem, apikat pănglu granică alu regija Samarije š regija Galileja.
+LUK 17:12 Kănd autrat ăn unu sat, avinjit la jel zjaće (10) lumje karje avja gubă, zarazna buală p pjalje. Š s zaustavit majdăpartje
+LUK 17:13 š apoćinit s striđje: “Isusulje, gospodarulje, smilujaštitje p noj!”
+LUK 17:14 Kănd Isusu lja vuzut, lja zăs: “Fuđic š pukazăcăvă la popje!” Je apikat š p drum sa ljekujit d gubă.
+LUK 17:15 Avuzut k ozdravinit, unu d je sators s slavjaskă p Dimizov p tot glasu.
+LUK 17:16 Akuzut la intja alu Isusuluj ku fălči kărti pămănt š ji zahvalit. Afost omula d Samarije.
+LUK 17:17 Isusu aztriba: “Dimizov ozdravinit p zjaće lumje? Undje ăla alanc nuavă (9)?
+LUK 17:18 Zar nićunu d je nu sators s zahvaljaskă alu Dimizov osim ăsta unu karje nuje židov?”
+LUK 17:19 A lu omuluj atunča Isusu azăs: “Skual š fuđ. Tu ta ljekujit daja če akrizut.”
 LUK 17:20 Ăn una zuvă farizeji atribat p Isusu: “Kănd vinje cara alu Dimizov?” Isusu lja odgovorit: “Omu nu puatje s predvidjaskă kănd vinja cara ăn znakurj karje promatrjaštje.
 LUK 17:21 Lumja nu s puată s zăkă: ‘Jakălăj aića je!’, ili: ‘Jatălăj ănklo je!’ Jakă cara alu Dimizov akuma ăntru voj.
 LUK 17:22 Atunča alu učenikurlje aluj azăs: “Vinje vrijamja kănd s fic žaljnič s vidjec zuva kănd jo, Bijatu alu Omuluj, s m pojavjeskă, ali nu s putjec.
 LUK 17:23 A lumj s vu zăkă: ‘Jatălăj ănklo je’, š: ‘Jakălăj aića je!’, ali nu dăc fuga dăpă jel s m kătăc.
 LUK 17:24 K kum š munja vjadje toc kănd s pojavjaštje aša s fije ăn zuvaja kănd jo, Bijatu alu Omuluj, s m pojavjesk.
-LUK 17:25 Ali majdată trjebje mult s tripjesk š lumja ăn ăsta naraštaj trjebje s m odbacaskă.
+LUK 17:25 Ali majdată trjebje mult s tripjesk š lumja ăn asta vrijamje trjebje s m odbacaskă.
 LUK 17:26 Š isto aša, kum afost ăn zuvilje kănd Noa afost viuv š aša osă fije ăn zuvilje majdată kănd jo, Bijatu alu Omuluj, osă m pojavjesk:
 LUK 17:27 Kašă uvjek nastavja s mălănče š s bja, s s ăsuarje š s miritje, tot pănla zuvă kănd Noa auntrat ăn marje brod. A atunča avinit potopu š p toc lja uništit karje na fost ăn marje brod.
 LUK 17:28 Š isto aša kum afost ăn zuvilje kănd Lot afost viuv: lumja ăn asta regija kašă uvjek nastavja s mălănče š s bja, s kruprje š s vindă, s obradjaskă pămăntu š s gradjaskă.
@@ -824,9 +824,9 @@ LUK 18:14 Istina je, Dimizov afost zadovoljan ku rogala alu poreznikuluj š d at
 LUK 18:15 Je duča alu Isusuluj š maj mić kupi s puje măna p je š sa rugat s lji blagoslovjaskă Dimizov. Kănd učenikurlje aja opazăt, je lja zabranit s adukă kupi.
 LUK 18:16 Ali Isusu avrut s vije š zăće: “Lăsăc kupi s vije la minje š nu lji puturic k cara alu Dimizovuluj pripadjaštje alu ălja karje kašă kupištja!
 LUK 18:17 Zaista v zăk, Akă njeko vrja s primjaskă cara alu Dimizovuluj jel mora s postanjaskă kašă kupilu. Inače nikad osă nu untrje ăn jel!”
-LUK 18:18 Njeki poglavar ăntrijabă p Isusu: “Učiteljulje alu bun, će trjebje s fakă s trijaskă vječno?”
+LUK 18:18 Njeki poglavar ăntrijabă p Isusu: “Učiteljulje alu bun, će trjebje s fakă s primjeskă vječni život ku Dimizov?”
 LUK 18:19 L ăntrijabă Isusu: “Dăče m kjem k sănt bun? Bun je samo Dimizov.
-LUK 18:20 Zakonu alu Mojsije šti: ‘Nu fiča preljub’, ‘Nu umura’, ‘Nu fura’, ‘Nu optužuja ku minčunurlje’, š ‘Poštujaštje p tatutov š p mumuta’!”
+LUK 18:20 Zakonu alu Mojsije šti: ‘Nu fiča preljub’, ‘Nu umura’, ‘Nu fura’, ‘Nu optužuja ku minčunurlje’, š ‘Poštujaštje p tatutov š p mumuta!’ ”
 LUK 18:21 Omu azăs: “poštujeskă tuatje aštja zapovjedi alu Mojsije još kănd irjam tănăr.”
 LUK 18:22 Isusu zăće alu omuluj: “Još nješto c faljaštje. Fuđ š vindje tot će aj, a banji diljaštje alu lumje karje sărać š osă aj blago p ćjer. A atunča vină š pratjaštămă!”
 LUK 18:23 Ăla om irja mult bogat š mult sa žalostit kănd auzăt aja če ja zăs Isusu.
@@ -1022,13 +1022,13 @@ LUK 22:36 Isusu azăs: “Ali akuša, činje arje banj, săla dukă! Tašna isto
 LUK 22:37 k vu zăk, mora s ispunjaskă aja će d minje skrije ăn Sveta pismă: ‘L smatrja k je zločnac.’ Tot će prorokurlje askris d minje uskoro osă s ispunjaskă.”
 LUK 22:38 Je azăs: “Domnulje, avjem ačija doj (2) mačurj!” Isusu azăs: “Dăstulj je! Nu maj rubic d aja.”
 LUK 22:39 Atunča Isusu sa dus dăn trg š apljikat, kašă obično, p Maslinskă goră. Učenikurlje sa dus dăpă jel.
-LUK 22:40 Kănd a žuns, lji zăće: “Rugăcăvă s nu vu savladjaskă kušnje!”
+LUK 22:40 Kănd a žuns, lji zăće: “Rugăcăvă s nu kidjec ăn kušnje!”
 LUK 22:41 Sa udaljit dăla je otprilike kăt puatje buluvanu s s arunčje. A kleknit š sa rugat:
 LUK 22:42 “Tato, akă tu vrjaj, uklonjaštje asta dăla minje s nu bjav dăn parusta d patjală! Ipak, s fije kum vrjaj tu, a nu kum vrijauv jo.”
 LUK 22:43 Š atunča ji sa pokazăt anđeo š la fukut maj capăn.
 LUK 22:44 Tot če maj tarije sa rugat, ăn marje munkă, a znoju ji postanjaštje kašă kaplja dăn sănđe ča akuzut p pămănt.
 LUK 22:45 Kănd azavršăt ku rugala sa skulat, sa tors la učenikurj š lja găsăt kum s kulkă, iscrpic d žalost.
-LUK 22:46 Isusu lji trjaba: “Dăče v kulkăc? Skulăc š rugăcăvă s nu vu savladjaskă kušnje!”
+LUK 22:46 Isusu lji trjaba: “Dăče v kulkăc? Skulăc š rugăcăvă s nu kidjec ăn kušnje!”
 LUK 22:47 Pănd Isusu aurbit, sa pojavit mult lumje, karje lja dus Juda, unu dăn je dojsprijače (12) apostolurj. S približa la Isusu š la pozdravit ku poljubacu ăn falkă.
 LUK 22:48 Isusu aluj azăs: “Juda, zar ku poljubacu izdaješt p minje, Bijatu alu Omuluj?”
 LUK 22:49 Kănd učenikurlje avizut če s spremjaštje, je azăs: “Domnulje, s lji napadnim ku mačurlje?”
@@ -1113,7 +1113,7 @@ LUK 24:3 Auntrat ănotru, ali na găsăt tijela alu Domnuluj Isusuluj.
 LUK 24:4 Pănd jalje aša astat zbunjitje putru aja če sa dogodit, dăturdată pănglă je sa pojavit doj omurj ăn cualje karje blistjaštje.
 LUK 24:5 Mujerilje sa spirjat š sa poklonit ku lica kăntră pămănt. Doj omurj lji ăntrba: “Dăče kătac p viu ăntră morc?
 LUK 24:6 Nuje aiča. A uskrăsnit! Zar nu vu gindic će vam zăs još ăn Galileja:
-LUK 24:7 ‘Jo, Bijatu alu Omuluj, mora s fiuv predajit ăn mănj alu grešnikulor š je p minje osă m razapnjaskă, ali jo aldă trje zălje osă uskrisnjaskă’.”
+LUK 24:7 ‘Jo, Bijatu alu Omuluj, mora s fiuv predajit ăn mănj alu grešnikulor š je p minje osă m razapnjaskă, ali jo aldă trje zălje osă uskrisnjaskă.’ ”
 LUK 24:8 Jalje sa dat d gănd k Isusu aja azăs.
 LUK 24:9 Š sa tors dăla gruapă s javjaskă alu unsprijače (11) apostolurj š alu toc alcălor.
 LUK 24:10 Irja alja Marija d trg Magdala, Ivana š Marija, mama alu Jakov, š još njeke mujerj. Aurbit tot alu apostolilor če sa dogodit,
@@ -1152,7 +1152,7 @@ LUK 24:43 a jel l ja š mălănk pănglă je.
 LUK 24:44 Atunča zăće: “Asta če sa dogodit upravo aja če vam zăs k osă dogodjaskă. Pănd majdată am fost ku voj, vam zăs: atribut s s ispunjaskă tot će skrije d minje ăn zakonuluj alu Mojsije, ăn knjigje d prorokurj š ăn Psalmi.”
 LUK 24:45 Atunča lja žutat s razumjaskă čije skris ăn Sveta pismă.
 LUK 24:46 Kănd azavršăt jel azăs: “Kašă kum vidjec, aša skrije ăn Sveta pismă k jo, Kristu, trjebje s tripjesk š s mor š aldă trje zălje s m skol dăla morc
-LUK 24:47 š ku autoritetu alu mjov s rubjaskă alu tuată lumja s s trjebje s okrinjaskă dăla grešală š s obratjaskă la Dimizov kum aputja s lji oprostjaskă. Osă pučinjic ăn Jeruzalem
+LUK 24:47 š ku autoritetu alu mjov s rubjaskă alu tuată lumja s s trjebje s okrinjaskă dăla grešală š Dimizov osă lji oprostjaskă grešala. Osă pučinjic ăn Jeruzalem
 LUK 24:48 s zăćec alu alculor aja če voj auzăt š avizut dăla minje.
 LUK 24:49 A jo osă v trimjet p Sufljetu alu Svăntuluj, p karje Tatimjov obećit k vuavă osă vije. Răminjec ăn trg Jeruzalem pănd Dimizov nu trimjatje p voj săla d sus!”
 LUK 24:50 Isusu atunča askos p učenikurlje aluj d trg Jeruzalem pănla lok upruapje d sat Betanijea. Ăn klo adrikat mănilje š sa rugat s lji blagoslovjakă Dimizov.
