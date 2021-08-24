@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 06/04/2021 11:21:48
+## File Created: 08/20/2021 08:48:53
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,11 +10,11 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 06/01/2021 13:58:50
+## Source Date: 08/18/2021 21:52:09
 ## Source Text: unaltered below
 ##
 
-LUK 1:1 Cenimeja Teofile. Sar so džane, but džene lelje te pisinen oto događaja zako save o Devel dinđa plo lafi, a save pherdile maškar amende.
+LUK 1:1 Cenimeja Teofile, sar so džane, but džene lelje te pisinen oto događaja zako save o Devel dinđa plo lafi, a save pherdile maškar amende.
 LUK 1:2 On pisinde adalestar palo adava sar so o manuša, kola dikhle adala događaja, vaćerde amenđe. Adala manuša dikhle adava pana oto anglunipe e Mesijasere dživdipastar ki phuv. On ule sluge e Devlesere te sikaven amen o lafi e Mesijastar.
 LUK 1:3 Ađahar hem me, palo so oto anglunipe šukar ispitujinđum sa adava, mangljum tuće sa palo redo te pisinav.
 LUK 1:4 Ćerđum adava te šaj ove uverime dai čače sa adava so sikliljan e Mesijasere dživdipastar.
@@ -22,18 +22,18 @@ LUK 1:5 Ked o Irod inele caro ani Judeja, nesavo manuš palo anav Zaharija inele
 LUK 1:6 O Zaharija hem i Jelisaveta inele pravedna anglo Devel adalese so živinde palo sa o naredbe hem o zakonja e Gospodesere.
 LUK 1:7 Na inolen čhave adalese so i Jelisaveta našti ine te ačhol khamni, a soduj džene već purandile.
 LUK 1:8 Jekh dive ked e Zaharijasiri grupa oto sveštenici kandlja ano Hram, tegani hem o Zaharija ćerela ine pli buti sar svešteniko anglo Devel.
-LUK 1:9 Palo pumaro adeti, o sveštenici frdinde o barbuti te dikhen ko te đerdini ko Svetište e Gospodesoro. I ađahar pelo upro Zaharija te đerdini ano Hram e Gospodesoro te kadini.
+LUK 1:9 Palo pumaro adeti, o sveštenici frdinde o barbuti te dikhen ko te đerdini ko sveto than e Gospodesoro. I ađahar pelo upro Zaharija te đerdini ano Hram e Gospodesoro te kadini.
 LUK 1:10 Đikote o Zaharija kadinđa ano Hram, sa o čedime manuša molinena pe ine avrijal.
 LUK 1:11 A ano Hram e Zaharijase mothovđa pe o anđeo e Gospodesoro. Terdino ki desno strana oto oltari kotar kadinđa pe.
 LUK 1:12 Ked dikhlja le o Zaharija, darandilo but.
 LUK 1:13 A o anđeo phenđa lese: “Ma dara, Zaharija! O Devel šunđa ti molitva. Ti romni i Jelisaveta ka bijani će čhave, i ka de le anav Jovan.
 LUK 1:14 Ka ove but radosno zbog leste hem but džene ka radujinen pe so ov ka bijanđol.
-LUK 1:15 Ka ovel baro manuš anglo Gospod. Niked na ka pijel mol hem ništa sostar šaj te mačol pe. Ka ovel pherdo e Svetone Duhoja pana pe dajaće ano vođi.
+LUK 1:15 Ka ovel baro manuš anglo Gospod. Niked naka pijel mol hem ništa sostar šaj te mačol pe. Ka ovel pherdo e Svetone Duhoja pana pe dajaće ano vođi.
 LUK 1:16 Bute Izraelconen ka irini anglo Gospod, anglo lengoro Devel.
 LUK 1:17 Ka džal anglo Gospod sar glasniko ano duho hem ano zoralipe savo inele e purane proroko e Ilija. Ka mirini e daden lengere čhavencar hem ka ćerel da okola kola na šunena e Devle te oven mudra sar o manuša kola ćerena okova so o Devel phenela dai šukar. Sa akava ka ćerel sar te pripremini e narodo te šaj oven spremna zako e Gospodesoro aviba.”
 LUK 1:18 I o Zaharija pučlja e anđele: “Sar me te džanav da čače ka ovel adava so phenđan? Me injum purano hem mli romni da beršali.”
 LUK 1:19 A o anđeo phenđa lese: “Me injum o Gavrilo, o anđeo kova terđola anglo Devel te kandel le. O Devel bičhalđa man te vaćerav tuja hem te anav će akava šukar lafi.
-LUK 1:20 I ače, ka ove laloro, na ka šaj te vaćere sa đi o dive ked adava ka ovel. Ađahar ka ovel adalese so na verujinđan mle lafonenđe save ka oven čače ko pravo vreme.”
+LUK 1:20 I ače, ka ove laloro, naka šaj te vaćere sa đi o dive ked adava ka ovel. Ađahar ka ovel adalese so na verujinđan mle lafonenđe save ka oven čače ko pravo vreme.”
 LUK 1:21 Sar o anđeo vaćeri ine e Zaharijaja, o manuša adžićerde e Zaharija te ikljol pučindoj pumen so edobor ačhilo ko sveto than e hramesoro.
 LUK 1:22 A ked o Zaharija iklilo, našti ine te vaćeri olencar. O Zaharija ćerela ine nesar te mothoj lenđe vastencar, ali ačhilo laloro. O manuša xalile da o Devel mothovđa lese nešto ko sveto than e hramesoro.
 LUK 1:23 Ked pherdile o dive oto lesoro kandiba ano Hram, o Zaharija dželo čhere.
@@ -46,12 +46,12 @@ LUK 1:29 A i Marija but uznemirinđa pe taro e anđeosere lafija, i pučlja pe s
 LUK 1:30 A o anđeo phenđa laće: “Ma dara, Marije! O Devel mothovđa će plo šukaripe!
 LUK 1:31 Ače, ka ačhove khamni hem ka bijane čhave, i ka de le anav Isus.
 LUK 1:32 Ov ka ovel baro hem ka vičini pe Čhavo e Najbare Devlesoro. O Devel o Gospod ka del le autoritet te vladini sar caro, sar so vladinđa lesoro pradad o David.
-LUK 1:33 Ka carujini upro pleme e Jakovesoro zauvek; zako lesoro carstvo na ka ovel kraj.
+LUK 1:33 Ka carujini upro pleme e Jakovesoro zauvek; zako lesoro carstvo naka ovel kraj.”
 LUK 1:34 Tegani i Marija pučlja e anđeo: “Sar šaj te ovel adava ked me pana injum čhaj?”
 LUK 1:35 A o anđeo phenđa laće: “O Sveto Duho ka huljel upra tute hem o zoralipe e Najbare Devlesoro ka učhari tut. Adalese adava čhavo, kole ka bijane, ka ovel sveto hem ka vičini pe Čhavo e Devlesoro.
 LUK 1:36 Eče, ti bibi i Jelisaveta da, ko purane berša, ačhili khamni hem ka bijani murše. I oj, kolaće sare džande da našti te ačhol khamni, akanai šov masek khamni.
 LUK 1:37 Jer o Devel sa šaj te ćerel!”
-LUK 1:38 Tegani i Marija phenđa: “Ače, sluškinja e Gospodesiri injum. Nek ovel maje palo klo lafi.” I o anđeo dželo olatar.
+LUK 1:38 Tegani i Marija phenđa: “Ače, sluškinja e Gospodesiri injum. Nek ovel maje palo to lafi.” I o anđeo dželo olatar.
 LUK 1:39 Adala dive i Marija spreminđa pe hem siđarđa ko bregalo krajo, ki jekh diz ani regija Judeja.
 LUK 1:40 Ked resli adari, đerdinđa ko čher e Zaharijasoro hem pozdravinđa e Jelisaveta.
 LUK 1:41 I ked i Jelisaveta šunđa e Marijakoro pozdrav, o čhavoro oti radost zorale mrdinđa olaće ano vođi, a oj pherdili e Svetone Duhoja.
@@ -113,7 +113,7 @@ LUK 2:16 I džele sigate, hem arakhle e Marija, e Josife hem e čhavore sar paš
 LUK 2:17 A ked dikhle e čhavore, vaćerde averenđe sa so ine lenđe phendo e čhavorestar.
 LUK 2:18 I sare kola šunde e pastiren inele zadivime.
 LUK 2:19 A i Marija pamtinđa sa so vaćerde laće hem razmislinđa adalestar.
-LUK 2:20 I o pastirija dželefse slavindoj hem hvalindoj e Devle za sa okova so šunde hem so dikhle ađahar sar so ine lenđe vaćerdo.
+LUK 2:20 I o pastirija dželefse slavindoj hem hvalindoj e Devle zako sa okova so šunde hem so dikhle ađahar sar so ine lenđe phendo.
 LUK 2:21 Ked nakhle ofto dive, ked e čhavore valjande te obrezinen, dinde le anav Isus–sar so vičinđa le o anđeo angleder so i Marija ačhili khamni.
 LUK 2:22 Ked alo o vreme zako adeti e dajakere kosljaribnasoro savo palo e Mojsijasoro zakoni valjanđa te ćerel pe palo adava so o čhavoro bijanđola, ande e Isuse ano hram ko Jerusalim te preden le e Gospodese
 LUK 2:23 (sar so pisini ano zakoni e Gospodesoro: “Đijekh murš prvenco te ovel posvetime e Gospodese”)
@@ -170,7 +170,7 @@ LUK 3:21 Ked sa o manuša krstinde pe, krstinđa pe hem o Isus. I tegani sar ine
 LUK 3:22 a o Sveto Duho huljilo upro leste ano e golubesoro oblik. A taro nebo šundilo o glaso e Devlesoro: “Tu injan mlo Čhavo o manglo! Tu injan mlo bahtalipe!”
 LUK 3:23 O Isus počinđa pli služba anglo narodo ked inole đi ko trijanda berš. O narodo smatrinđa dai o Isus čhavo e Josifesoro. O Josif inele čhavo e Ilijasoro.
 LUK 3:24 O Ilija inele čhavo e Matatesoro. O Matat inele čhavo e Levijesoro. O Levije inele čhavo e Melhisoro. O Melhi inele čhavo e Janajesoro. O Janaj inele čhavo e Josifesoro.
-LUK 3:25 O Josif inele čhavo e Matatijesoro. O Matatij inele čhavo e Amosesoro. O Amos inele čhavo e Naumesoro. O Naum inele čhavo e Eslijasoro. O Eslija inele čhavo e Nangejesoro.
+LUK 3:25 O Josif inele čhavo e Matatijesoro. O Matatije inele čhavo e Amosesoro. O Amos inele čhavo e Naumesoro. O Naum inele čhavo e Eslijasoro. O Eslija inele čhavo e Nangejesoro.
 LUK 3:26 O Nangej inele čhavo e Maatesoro. O Maat inele čhavo e Matatijesoro. O Matatije inele čhavo e Semeinesoro. O Semein inele čhavo e Josihesoro. O Josih inele čhavo e Jodasoro.
 LUK 3:27 O Joda inele čhavo e Joananesoro. O Joanan inele čhavo e Risasoro. O Risa inele čhavo e Zorovavelesoro. O Zorovavel inele čhavo e Salatiilesoro. O Salatiil inele čhavo e Nirisoro.
 LUK 3:28 O Niri inele čhavo e Melhisoro. O Melhi inele čhavo e Adisoro. O Adi inele čhavo e Kosamesoro. O Kosam inele čhavo e Elmadamesoro. O Elmadam inele čhavo e Iresoro.
@@ -189,7 +189,7 @@ LUK 4:2 kaj inele saranda dive iskušime e bengestar. I na xalja ništa adala di
 LUK 4:3 I o beng phenđa lese: “Te injan o Čhavo e Devlesoro, vaćer akale barese te ovel maro.”
 LUK 4:4 A o Isus phenđa lese: “Pisimei ko Sveto Lil: ‘O manuš na ka živini samo oto maro.’”
 LUK 4:5 I o beng legarđa le ko učo than hem mothovđa lese đijekh carstvo e phuvjakoro otojekhvar,
-LUK 4:6 i o beng phenđa lese: “Tuće ka dav sa akava zoralipe hem i slava olengiri adalese soi maje dindi, i dava la kase me mangava.
+LUK 4:6 i phenđa lese: “Tuće ka dav sa akava zoralipe hem i slava olengiri adalese soi maje dindi, i dava la kase me mangava.
 LUK 4:7 Adalese, te peljan ko kočija angla mande, sa ka ovel klo.”
 LUK 4:8 I o Isus phenđa lese: “Pisimei ko Sveto Lil: ‘Per ko kočija samo e Gospodese, te Devlese, hem samo ole kande!’”
 LUK 4:9 I o beng anđa le ko Jerusalim hem čhivđa le upro najučo than e Hramesoro hem phenđa lese: “Te injan e Devlesoro Čhavo, frde tut akatar tele!
@@ -199,15 +199,15 @@ LUK 4:12 O Isus phenđa lese: “Vaćerdoi ko Sveto Lil: ‘Ma kušin e Gospode,
 LUK 4:13 I ked završinđa đijekh kušnja, o beng cidinđa pe olestar đi nesavi aver prilika.
 LUK 4:14 I irinđa pe o Isus, ano zoralipe e Duhosoro, ki regija Galileja, i šundilo o glaso olestar ko sa o krajo.
 LUK 4:15 I sikavđa olenđe ano sinagoge hem inele pohvalime sarijendar.
-LUK 4:16 I alo ki diz Nazaret kote barilo hem, palo plo adeti ko dive e savatesoro, đerdinđa ani sinagoga hem uštino te čitini.
-LUK 4:17 I ine lese dindo o lil oto proroko Isaija. Ov phravđa o lil hem arakhlja o than kaj inele pisime:
-LUK 4:18 “O Duho e Gospodesoroi upra mande, adalese so pomazinđa man hem bičhalđa man te anav o šukar lafi e čororenđe, te proglasinav: da o phandle ka oven oslobodime, e kororenđe ka irini pe o dikhiba, o mučime ka oven slobodna,
+LUK 4:16 I alo ki diz Nazaret kote barilo hem, palo plo adeti ko dive e savatesoro, đerdinđa ki sinagoga. Uštino te čitini,
+LUK 4:17 a ine lese dindo o lil e prorokosoro e Isaijasoro. Ov phravđa o lil hem arakhlja o than kaj inele pisime:
+LUK 4:18 “O Duhoi e Gospodesoro upra mande, adalese so pomazinđa man hem bičhalđa man te anav o šukar lafi e čororenđe, te proglasinav: da o phandle ka oven oslobodime, e kororenđe ka irini pe o dikhiba, o mučime ka oven slobodna,
 LUK 4:19 te proglasinav o adžićerdo berš e Gospodesoro.”
 LUK 4:20 Tegani phandlja o lil, irinđa le e slugaste, i beštino te sikaj. I sare ani sinagoga dikhle ano leste.
 LUK 4:21 A o Isus lelja te vaćeri lenđe: “Avdive pherdilo o Lil savo šunđen tumare kanencar.”
 LUK 4:22 I sare vaćerde šukar olestar hem inele zadivime oto šukar lafija save iklile lesere mujestar, i vaćerde: “Nane li ov e Josifesoro čhavo?”
-LUK 4:23 A ov phenđa lenđe: “Čače ka vaćeren maje adaja poslovica: ‘Doktore, sasljar korkore tut!’ So šunđam so ulo ano Kafarnaum, ćer hem akate, ano than kote bariljan.”
-LUK 4:24 I phenđa: “Čače, vaćerava tumenđe, nijekh proroko nane prihvatime pese ko than kote barilo.
+LUK 4:23 A ov phenđa lenđe: “Čače ka vaćeren maje adaja poslovica: ‘Doktore, sasljar korkore tut!’ So šunđam so ulo ano Kafarnaum, ćer hem akate, ano to than kaj bariljan.”
+LUK 4:24 I phenđa: “Čače, vaćerava tumenđe, nijekh proroko nane prihvatime ano plo than kaj barilo.
 LUK 4:25 I čače, vaćerava tumenđe, inele but udovice ano Izrael ked o proroko o Ilija živinđa, ked na pelo bršin trin berš hem šov masek i pojavisalo baro bokhalipe ki sa i phuv.
 LUK 4:26 I nijekhaće olendar na inele bičhaldo o proroko Ilija sem ki e abanđijengiri diz Sarepta uzalo Sidon e udovicaće.
 LUK 4:27 I inele but gubavci ano Izrael ked o proroko o Jelisej živinđa, i nijekh olendar na inele sasljardo sem o Neman o Sirijco.”
@@ -232,7 +232,7 @@ LUK 5:1 A jekhvar but džene čedinde pe uzalo Isus te šunen o lafi e Devlesoro
 LUK 5:2 I dikhlja duj čamcija uzalo jezero savendar iklile o manuša kola dolena maćhen adalese so kosena ine pumare mreže.
 LUK 5:3 I đerdinđa ano jekh čamco, kova inele e Simonesoro, i zamolinđa le te cidel pe xari e phuvjatar, i bešindoj ano čamco, sikavđa e narodo.
 LUK 5:4 A ked završinđa o vaćeriba, phenđa e Simonese: “Čhiv tut ko xor hem frden tumare mreže te šaj dolen maćhen.”
-LUK 5:5 A o Simon phenđa: “Gospodarona, sa i rat dinđam zori i ništa na dolinđam, ali palo klo lafi ka frdav i mreža.”
+LUK 5:5 A o Simon phenđa: “Gospodarona, sa i rat dinđam zori i ništa na dolinđam, ali palo to lafi ka frdav i mreža.”
 LUK 5:6 I ked ćerde adava, dolinde bute maćhen i lengere mreže lelje te pharavđon.
 LUK 5:7 I vastencar mothovde pumare amalenđe, kola inele ko aver čamco, te aven te pomožinen lenđe. I on ale hem pherde soduj čamcija edobor da lelje te pherđon pani.
 LUK 5:8 A ked dikhlja adava o Simon o Petar, pelo ko kočija anglo Isus vaćerindoj: “Dža mandar, Gospode, me injum grešno manuš!”
@@ -243,7 +243,7 @@ LUK 5:12 I jekhvar o Isus inele ki jekh diz, i nekotar anglo leste iklilo manuš
 LUK 5:13 I o Isus čhivđa plo vas upro leste hem phenđa: “Mangava, ov sasljardo!” I otojekhvar i guba cidinđa pe olestar.
 LUK 5:14 Tegani naredinđa lese: “Ma vaćer nikase akalestar, nego dža mothov tut e sveštenikose hem de žrtva adalese so injan sasljardo, sar so naredinđa o Mojsije, te šaj ovel tut dokaz anglo manuša.”
 LUK 5:15 A o glaso e Isusestar džala ine po dur, i but džene čedena pe ine te šunen le hem te oven sasljarde oto pumare nambormipa.
-LUK 5:16 A ov ine cidela pe te molini pe ko thana kote na inele manuša.
+LUK 5:16 A ov cidela pe ine te molini pe ko thana kote na inele manuša.
 LUK 5:17 I jekh dive o Isus sikavđa ano jekh čher, a o fariseja hem o učitelja e Mojsijasere zakonestar, kola ale oto sa e galilejakere hem judejakere gava hem oto Jerusalim, beštine adathe. A o zoralipe e Gospodesoro inele upro Isus te sasljari.
 LUK 5:18 I nesave manuša ande upri nosiljka jekhe manuše kova našti ine te phirel. Mangle te anen le andre hem te čhiven le anglo Isus.
 LUK 5:19 I taro narodo našti ine te arakhen kotar te anen le andre, i uklinde upro čher hem odupral mukle le sa e nosiljkaja ko maškar anglo Isus.
@@ -266,7 +266,7 @@ LUK 5:35 Ali ka aven o dive ked ka lel pe lendar e mladoženja, tegani, ko adala
 LUK 5:36 I vaćerđa lenđe akaja uporedba: “Nijekh na čhivela o kotor e neve fostanestar ko purano fostani; adalese so hem o nevo ka pharavđol, a ko purano na ka avel o kotor e nevestar.
 LUK 5:37 I niko na čhorela i nevi mol ano purane morćha. Te ćerđa ađahar, i nevi mol ka pharaj o morćha hem ka čhorđol, a o morćha ka oven uništime.
 LUK 5:38 Nego, i nevi mol valjani te čhorel pe ano neve morćha.
-LUK 5:39 I nijekh, kova pilja purani, na mangela nevi, adalese so vaćeri: ‘dovoljnoi i purani’.”
+LUK 5:39 I nijekh, kova pilja i purani, na mangela i nevi, adalese so vaćeri: ‘dovoljnoi i purani’.”
 LUK 6:1 Ko jekh savato o Isus nakhino maškaro njive. A lesere učenici čedinde e đivesoro klaso, morde le vastencar hem xale.
 LUK 6:2 Tegani nesave fariseja phende: “Sose ćerena so na tromal pe ko savato palo e Mojsijasoro zakoni?”
 LUK 6:3 O Isus phenđa lenđe: “Sar na čitinđen ano Sveto Lil adava o David so ćerđa ked inele bokhalo hem okola da so inele oleja?
@@ -292,7 +292,7 @@ LUK 6:22 Bahtale injen ked o manuša mrzinena tumen, ked odbacinena tumen, uvred
 LUK 6:23 Tegani radujinen tumen hem ripinen oto bahtalipe, adalese so adžićeri tumen bari nagrada ko nebo! Adalese so ađahar ćerena ine lengere pradada e prorokonencar ano lengoro vreme!
 LUK 6:24 Ali jao tumenđe e barvalenđe, adalese so već leljen tumari uteha!
 LUK 6:25 Jao tumenđe kola akana injen čaljarde, adalese so ka oven bokhale! Jao tumenđe kola akana asana, adalese so ka tugujinen hem ka roven!
-LUK 6:26 Jao tumenđe ked sa o manuša vaćerena šukar tumendar! Adalese so ađahar vaćerena ine lengere pradada e xovavne prorokonendar ano lengoro vreme!”
+LUK 6:26 Jao tumenđe ked sa o manuša vaćerena šukar tumendar, adalese so ađahar vaćerena ine lengere pradada e xovavne prorokonendar ano lengoro vreme!”
 LUK 6:27 “A vaćerava tumenđe so šunena: Mangen tumare dušmanjen! Ćeren šukaripe okolenđe so mrzinena tumen!
 LUK 6:28 Vaćeren šukaripe okolenđe so dena tumen armanja! Molinen e Devle okolenđe so ćerena tumenđe bišukaripe!
 LUK 6:29 Okolese kova khuvela tut ki čham, irin hem aver čham. Okolese kova lela to fostani, ma zabranin hem o gad.
@@ -303,7 +303,7 @@ LUK 6:33 Ađahar da, te ćerđen šukaripe okolenđe kola tumenđe ćerena šuka
 LUK 6:34 Te dinđen ko zajam love okolenđe kastar adžićerena te irinen tumenđe, ko ka vaćeri tumenđe hvala? Hem o grešnici dena ko zajam jekh averese te šaj irini pe lenđe edobor.
 LUK 6:35 Nego, mangen tumare dušmanjen, ćeren lenđe šukaripe hem den len ko zajam bizo nisavo adžićeriba te irini pe tumenđe adava! I o Devel ka vaćeri tumenđe bari hvala. I ka oven čhave e Najbaresere, adalese soi ov šukar hem premalo nezahvalna hem premalo okola kola nane šukar.
 LUK 6:36 Oven milosrdna sar soi milosrdno tumaro Dad kovai ano nebo!”
-LUK 6:37 “Ma sudinen hem čače na ka sudini pe tumenđe! I ma osudinen hem čače na ka oven osudime! Oprostinen hem ka oprostini pe tumenđe!
+LUK 6:37 “Ma sudinen hem čače naka sudini pe tumenđe! I ma osudinen hem čače naka oven osudime! Oprostinen hem ka oprostini pe tumenđe!
 LUK 6:38 Den hem ka del pe tumenđe: mera šukar, pritiskime, tresime hem prepherdi ka čhivel pe tumenđe ki angali. Adalese so, sava meraja merinena, esavkaja ka merini pe tumenđe.”
 LUK 6:39 I vaćerđa lenđe akaja uporedba: “Šaj li o kororo te legari e korore? Na li soduj ka peren ki rupa?
 LUK 6:40 Nane o učeniko upreder o učitelj. I đijekh kovai sikavdo sa, ka ovel sar plo učitelj.
@@ -343,7 +343,7 @@ LUK 7:24 Ked e Jovanesere bičhalde manuša džele, o Isus lelja te vaćeri e na
 LUK 7:25 Ili so ikliljen te dikhen? E manuše ano barvale šeja hurjavde? Na! Okola ano sjajna šeja hem so živinena ano luksuz, eče tane ko palate.
 LUK 7:26 Ili so ikliljen te dikhen? Proroko? Oja, vaćerava tumenđe, ovi po više oto proroko!
 LUK 7:27 Ovi okova kolestar o Devel phenđa ano Sveto Lil: ‘Ače, bičhalava mle glasniko angla tute, kova ka ćerel će o drom angla tute.’
-LUK 7:28 Vaćerava tumenđe: maškar okolende kolai bijande nijekh nane po baro e Jovanestar, a o najtikoro e Devlese ano carstvo po baroi olestar.
+LUK 7:28 Vaćerava tumenđe: maškar okolende kolai bijande nijekh nane po baro e Jovanestar, a o najtikoro e Devlese ano carstvo po baroi olestar.”
 LUK 7:29 I sa o manuša hem o carinici kola šunde adava, pendžarde dai e Devlesoro sikajba čačikano. Oni adala so krstinde pe e Jovanesere krstibnaja.
 LUK 7:30 A o fariseja hem o učitelja e Mojsijasere zakonestar na mangle te len o plan e Devlesoro pumenđe. Oni adala so na mangle o Jovan te krstini len.
 LUK 7:31 O Isus phenđa: “Kasar akana te uporedinav e manušen soi akana dživde? Kasei slična?
@@ -367,8 +367,8 @@ LUK 7:48 A olaće phenđa: “Oprostimei će te greja.”
 LUK 7:49 A o manuša kola inele uzalo astali lelje ana peste te vaćeren: “Kovai akava so šaj hem o greja te oprostini?”
 LUK 7:50 Tegani o Isus phenđa e đuvljaće: “Ti vera spasinđa tut! Dža ano mir!”
 LUK 8:1 Palo adava, o Isus lelja te džal ko dizja hem ko gava vaćerindoj o Šukar lafi oto carstvo e Devlesoro; oleja džele hem o dešuduj apostolja
-LUK 8:2 hem nesave đuvlja kola inele sasljarde oto bišukar duhija hem oto nambormipa: i Marija (vičimi Magdalena kolatar ikalđa efta demonen);
-LUK 8:3 i Jovana (i romni e Irodesere upravnikosiri, e Huzesiri); i Suzana hem but avera. Adala đuvlja pumare lovencar kandle e Isuse hem lesere učenikonen.
+LUK 8:2 hem nesave đuvlja kola inele sasljarde oto bišukar duhija hem oto nambormipa: i Marija (vičimi Magdalena, kolatar ikalđa efta demonen);
+LUK 8:3 i Jovana (i romni e Huzesiri, e Irodesere upravnikosiri); i Suzana hem but avera. Adala đuvlja pumare lovencar kandle e Isuse hem lesere učenikonen.
 LUK 8:4 Ked čedinđa pe uzalo Isus baro narodo taro but dizja, ov vaćerđa lenđe jekh paramiz:
 LUK 8:5 “Iklilo o sejači te frdel o seme ki njiva. I sar sejini ine, nesave semke pele ko drom, inele gazime hem o čiriklja xale len.
 LUK 8:6 Avera pele ko bar, barile hem šućile adalese so na inolen pani.
@@ -444,11 +444,11 @@ LUK 9:19 A on phende: “Nesave manuša phenena da tu injan o Jovan o Krstitelj,
 LUK 9:20 Tegani o Isus pučlja e učenikonen: “A so tumen phenena, kova injum me?” O Petar phenđa: “Tu injan o Hrist, kole o Devel bičhalđa!”
 LUK 9:21 A o Isus naredinđa e učenikonenđe te na vaćeren nikase dai ov o Hrist.
 LUK 9:22 I phenđa: “Me, o Čhavo e Manušesoro, valjani but te patinav. O starešine, o šerutne sveštenici hem o učitelja e Mojsijasere zakonestar na ka prihvatinen man. O manuša ka mudaren man, ali o trito dive o Devel ka vazdel man taro mule.”
-LUK 9:23 I o Isus vaćerđa ple učenikonenđe hem sa e narodose so inele adari: “Kova mangela te ovel mlo učeniko, nek ačhaj plo dživdipe, nek lel plo krsto. Taro dive ko dive hem nek phirel pala mande.
-LUK 9:24 Adalese so đijekh kova mangela plo dživdipe te arakhi, ka našali le, a kova dela plo dživdipe zbog mande, ka ovel le čačikano dživdipe.
+LUK 9:23 I o Isus vaćerđa ple učenikonenđe hem sa e narodose so inele adari: “Kova mangela te ovel mlo učeniko, nek ačhaj plo dživdipe, nek lel plo krsto taro dive ko dive hem nek phirel pala mande.
+LUK 9:24 Adalese so đijekh kova mangela plo dživdipe te arakhi, ka našali le, a kova dela plo dživdipe zbog mande, ka ovel le večno dživdipe.
 LUK 9:25 Na vredini ništa e manušese hem sa i phuv te ovel ine olesiri te na lelja o dživdipe savoi čačikano.
 LUK 9:26 Adalese kova lađala mandar hem mle lafonendar, hem me, o Čhavo e Manušesoro, ka lađav olestar ked ka irinav ki phuv ano sjaj savo ka ovel sar o sjaj mle Dadesoro hem e svetone anđelengoro.
-LUK 9:27 A čače vaćerava tumenđe, isi nesave akalendar so terđona akate kola na ka meren đikote na dikhena o carstvo e Devlesoro.”
+LUK 9:27 A čače vaćerava tumenđe, isi nesave akalendar so terđona akate kola naka meren đikote na dikhena o carstvo e Devlesoro.”
 LUK 9:28 Ked nakhle sar đi ofto dive sar o Isus phenđa adava, lelja peja e Petre, e Jovane hem e Jakove i dželo ki gora te molini pe.
 LUK 9:29 I sar ine molini pe, lesoro muj ulo averčhane hem lesere šeja ule but parne hem sjajna.
 LUK 9:30 I dikh, nekotar iklile duj manuša ano baro sjaj, o Mojsije hem o Ilija, hem lelje te vaćeren e Isuseja. On vaćerde e meribnastar savo adžićeri ano Jerusalim e Isuse.
@@ -462,7 +462,7 @@ LUK 9:38 I dikh, nesavo manuš taro narodo lelja te vičini: “Učitelju, molin
 LUK 9:39 O bišukar duho but puti prelela le hem otojekhvar vrištini; frdela le ano grčevija hem ikljola lestar pena taro muj; uništini le hem skoro nisar na ačhaj le.
 LUK 9:40 I molinđum te učenikonen te ispudinen e bišukare duho mle čhavestar, ali on našti ine.”
 LUK 9:41 A o Isus phenđa: “O, biverakere hem rumime manušalen! Sa edobor vreme injum tumencar, a palem na verujinena. Pučav man pana kobor valjani te trpinav tumen. Ana te čhave akari!”
-LUK 9:42 I sar o čhavoro avela ine đi o Isus, o bišukar duho frdinđa le ki phuv ano grčevija. A o Isus naredinđa e melale duhose te cidel pe e čhavorestar, sasljarđa e čhavore hem phenđa lesere dadese: “Ače to čhavo.”
+LUK 9:42 I sar o čhavoro avela ine đi o Isus, o demoni frdinđa le ki phuv ano grčevija. A o Isus naredinđa e melale duhose te cidel pe e čhavorestar, sasljarđa e čhavore hem phenđa lesere dadese: “Ače to čhavo.”
 LUK 9:43 Tegani sare inele začudime so dikhle e Devlesoro baro zoralipe. Sar sare čudinena pe ine zako adava so ćerđa o Isus, ov phenđa ple učenikonenđe:
 LUK 9:44 “Šunen šukar akala lafija: Me, o Čhavo e Manušesoro, valjani te ovav predime ano vasta e bišukare manušengere.”
 LUK 9:45 Ali o učenici na xalile so o Isus manglja te vaćeri adaleja. Adava inele olendar garavdo sar te na xaljoven le, a darandile te pučen le so adaleja manglja te vaćeri lenđe.
@@ -488,26 +488,26 @@ LUK 10:2 Angleder so te džan, o Isus phenđa lenđe: “I žetvai bari, a xari 
 LUK 10:3 Džan! Ače, bičhalava tumen sar bakrorjen maškaro ruva.
 LUK 10:4 Ma legaren tumencar kesa e lovencar, ni torba dromese, ni buderi obuća. I ma našalen tumaro vreme ađahar so ka terđoven te vaćeren nekasar odrumal.
 LUK 10:5 I ked đerdinena ko nesavo čher, prvo vaćeren: ‘Mir akale čhereste!’
-LUK 10:6 Te adari bešela o manuš kova mangela mir, tegani o mir, savese tumen molinena, ka ačhol oleja; a te na manglja mir, na ka ovel adava mir savese molinena.
+LUK 10:6 Te adari bešela o manuš kova mangela mir, tegani o mir, savese tumen molinena, ka ačhol oleja; a te na manglja mir, naka ovel adava mir savese molinena.
 LUK 10:7 Ked avena ko nesavo čher, ma palo adava nakhen ko avera čhera. Ačhoven ko jekh than, xan hem pijen adava so o čherutne ikalena angla tumende, adalese soi o bućarno dostojno pla plataće.
 LUK 10:8 I ki savi diz đerdinena, a o dizutne priminena tumen, xan okova so ikalena angla tumende.
 LUK 10:9 Sasljaren e nambormen adari hem vaćeren sarijenđe: ‘Akaleja mothovaja tumenđe dai paše o carstvo e Devlesoro!’
 LUK 10:10 A ki savi diz đerdinena, a o dizutne na priminena tumen, iklindoj ko glavna droma e dizjakere, vaćeren:
 LUK 10:11 ‘Hem i prašina tumara dizjakiri, savi dolinđa pe ko amare pre, amen kosaja la sar znako da o Devel ka sudini tumenđe. Ali te džanen da o carstvo e Devlesoro alo paše!’
 LUK 10:12 Vaćerava tumenđe da ko dive ked o Devel ka sudini e manušenđe, po lokhe ka ovel zako manuša tari Sodoma negoli zako manuša tari adaja diz.”
-LUK 10:13 “Jao tumenđe, manušalen taro Horazin! Jao tumenđe, manušalen tari Vitsaida! Te oven ine čudesija maškaro manuša taro Tir hem taro Sidon save ule maškara tumende, pana angleder ine ka kajinen pe, bešindoj ano šeja oto kanaj hem ano pepeo.
+LUK 10:13 “Jao tumenđe, manušalen taro Horazin! Jao tumenđe, manušalen tari Vitsaida! Te oven ine čudesija maškaro manuša taro Tir hem taro Sidon save ule maškara tumende, pana angleder ka kajinen pe ine, bešindoj ano šeja oto kanaj hem ano pepeo.
 LUK 10:14 Ali e manušenđe taro Tir hem taro Sidon ka ovel po lokhe ko Sudo negoli tumenđe.
 LUK 10:15 A tumen, manušalen taro Kafarnaum, ma mislinen da o Devel ka povazdel tumen đi o nebo; đi o than e mulengoro isi te peraj tumen.
 LUK 10:16 Tegani phenđa e učenikonenđe: Kova šunela tumen, man šunela, a kova odbini tumen, man odbini. A kova odbini man, odbini e Devle kova bičhalđa man.”
 LUK 10:17 Ked o eftavardešuduj učenici irinde pe oto drom radosna, phende e Isusese: “Gospode, hem o demonja šunena amen ked naredinaja lenđe ano to anav!”
 LUK 10:18 A o Isus ko adava phenđa lenđe: “Dikhljum e Sotone sar perela taro nebo sar munja.
-LUK 10:19 Eče, dinđum tumen vlast te gazinen upro sapa hem o škorpije hem upro sa o zoralipe e dušmanesoro e Sotonesoro hem ništa na ka ovel tumenđe.
-LUK 10:20 Ali ma edobor radujinen tumen zako adava so o demonja šunena tumen, nego više radujinen tumen adalese soi tumare anava zapisime ko lil e Devlesoro ano nebo.”
+LUK 10:19 Eče, dinđum tumen vlast te gazinen upro sapa hem o škorpije hem upro sa o zoralipe e dušmanesoro e Sotonesoro hem ništa naka ovel tumenđe.
+LUK 10:20 Ali ma edobor radujinen tumen zako adava so o bišukar duhija šunena tumen, nego više radujinen tumen adalese soi tumare anava zapisime ko lil e Devlesoro ano nebo.”
 LUK 10:21 I tegani o Isus radujinđa pe ano Sveto Duho hem phenđa: “Hvalinava tut, Dade, Gospode e nebosoro hem e phuvjakoro, so garavđan o čačipe okolendar kola pes dikhena sar mudronen hem džanden, a mothovđan okolenđe kolai sar čhavore. Oja, Dade, džanav da ćerđan adava adalese so ađahar mangljan.”
 LUK 10:22 Tegani o Isus phenđa okolenđe so inele adari: “Mlo Dad sa muklja maje ko vasta. Samo o Dad šukar džanel e Čhave; hem e Dade šukar džanel samo o Čhavo hem o manuša kolenđe o Čhavo mangela te mothoj le.”
 LUK 10:23 Tegani irinđa pe nakoro učenici hem samo olenđe phenđa: “Blago e manušenđe kola dikhena adava so tumen dikhena!
-LUK 10:24 Vaćerava tumenđe da but proroci hem carija mangle te dikhen man, ali na dikhle man; hem mangle te šunen man, ali na šunde man!
-LUK 10:25 I dikh, jekh dive sar o Isus sikaj ine, nesavo učitelj e Mojsijasere zakonestar uštino te pučel le nešto sar te iskušini le, i pučlja: “Učitelju, so valjani te ćerav te dobinav o večno dživdipe?
+LUK 10:24 Vaćerava tumenđe da but proroci hem carija mangle te dikhen man, ali na dikhle man; hem mangle te šunen man, ali na šunde man!”
+LUK 10:25 I dikh, jekh dive sar o Isus sikaj ine, nesavo učitelj e Mojsijasere zakonestar uštino te pučel le nešto sar te iskušini le, i pučlja: “Učitelju, so valjani te ćerav te dobinav o večno dživdipe?”
 LUK 10:26 A o Isus phenđa lese: “Soi pisime ano e Mojsijasoro zakoni? So čitineja adari?”
 LUK 10:27 I ov phenđa e Isusese: “Mang e Gospode te Devle sa te vileja, sa te dušaja, sa te zoralipnaja hem sa te gođaja; hem mang te pašutne sar korkore tut.”
 LUK 10:28 Tegani o Isus phenđa lese: “Šukar phenđan. Ćer ađahar hem ka ovel tut o večno dživdipe.”
@@ -526,9 +526,9 @@ LUK 10:40 A i Marta sa ki sig dikhela ine te kandel, i ali uzalo Isus hem pučlj
 LUK 10:41 A o Gospod phenđa laće: “Marto, Marto! Brinineja tut hem uznemirineja tut zako but so,
 LUK 10:42 a samo jekh valjani. I Marija birinđa te ćerel šukar stvaro, adalese na ka ačhavav la adalestar.”
 LUK 11:1 I ked jekhvar o Isus završinđa e molitvaja, jekh lesere učenikonendar phenđa lese: “Gospode, sikav amen te molina sar so o Jovan o Krstitelj sikavđa ple učenikonen.”
-LUK 11:2 Tegani o Isus phenđa lenđe: “Ked molinena, vaćeren: “Dade Devla! Barjaraja to sveto anav! To carstvo te avel!
+LUK 11:2 Tegani o Isus phenđa lenđe: “Ked molinena, vaćeren: ‘Dade Devla! Barjaraja to sveto anav! To carstvo te avel!
 LUK 11:3 De amen maro đijekh dive!
-LUK 11:4 Oprostin amenđe amare greja sar so hem amen oprostinaja đijekhese kova grešinđa premala amende! Hem cide amen taro iskušenje!”
+LUK 11:4 Oprostin amenđe amare greja sar so hem amen oprostinaja đijekhese kova grešinđa premala amende! Hem cide amen taro iskušenje!’”
 LUK 11:5 Tegani o Isus phenđa lenđe: “Zamislinen da ki ekvaš i rat džana koro tumaro amal te phenen lese: ‘Amala, te de man trin mare, i ka irinav će.
 LUK 11:6 Mlo amal alo oto drom kora mande, a nane man so te ikalav anglo leste!’
 LUK 11:7 A ov od andral te phenel: ‘Ma uznemirin man! O udarai phandle, a mle čhavorei mancar ko than e pašljojbnasoro hem sovena. Našti akana te uštav te dav tut!’
@@ -551,9 +551,9 @@ LUK 11:23 Kova nane mancar, ovi protiv mande. I kova na čedela mancar, ov frdel
 LUK 11:24 Tegani o Isus phenđa: “Ked o melalo duho ikljola taro manuš, džala ko pusta thana hem rodela than kote šaj te odmorini. Ked na arakhi le, vaćeri: ‘Ka irinav man ano manuš kolestar ikliljum.’
 LUK 11:25 O bišukar duho irinđa pe hem arakhlja dai adava manuš sar čučo čher savoi šulavdo hem namestime.
 LUK 11:26 Tegani džala hem lela efta avere duhoven po bišukaren pestar hem đerdinena ano manuš hem ačhona adari. I ko kraj adale manušese ovela po bišukar nego angleder.”
-LUK 11:27 I sar o Isus vaćeri ine adava, nesavi đuvli oto narodo vičinđa: “Bahtali i đuvli koja akharđa tut ano vođi hem dinđa tut čuči!
+LUK 11:27 I sar o Isus vaćeri ine adava, nesavi đuvli oto narodo vičinđa: “Bahtali i đuvli koja akharđa tut ano vođi hem dinđa tut čuči!”
 LUK 11:28 A o Isus phenđa: “Po bahtalei okola so šunena o lafi e Devlesoro hem ćerena le!”
-LUK 11:29 Sar čedela pe ine po baro narodo, o Isus lelja te vaćeri: “O manuša kola živinena ano akava vreme, oni bišukar manuša. Rodena mandar znako, ali znako na ka del pe lenđe sem o čudesija so ćerde pe e Jonase.
+LUK 11:29 Sar čedela pe ine po baro narodo, o Isus lelja te vaćeri: “O manuša kola živinena ano akava vreme, oni bišukar manuša. Rodena mandar znako, ali znako naka del pe lenđe sem o čudesija so ćerde pe e Jonase.
 LUK 11:30 Sar so adava so ulo e Jonase inele znako e manušenđe kola živinde ki diz Niniva da o Devel bičhalđa le, ađahar hem so ka ovel maje, e Čhavese e Manušeserese, ka ovel znako e manušenđe kola živinena avdive da o Devel bičhalđa man.
 LUK 11:31 Ko dive ked ka ovel e Devlesoro sudo, i carica koja angleder vladinđa ki južno phuv ka uštel hem ka osudini e manušen kola akana živinena adalese so ali taro krajevija e phuvjakere te šunel e caro e Solomone kova inele but mudro, a akatei tumencar po baro e Solomonestar, a tumen na mangena te šunen!
 LUK 11:32 Ko dive ked ka ovel e Devlesoro sudo, o manuša kola živinde ani purani diz Niniva ka ušten hem ka osudinen e manušen kola akana živinena, adalese so on pokajinde pe ked o Jona propovedinđa, a akatei tumencar po baro e Jonastar, a tumen pana na pokajinđen tumen!”
@@ -565,7 +565,7 @@ LUK 11:37 Ked o Isus vaćerđa adava, nesavo fariseji vičinđa le te xal maro k
 LUK 11:38 A o fariseji dikhindoj adava, čudinđa pe so o Isus na thovđa ple vasta angleder o xajba, palo adeti e jevrejengoro.
 LUK 11:39 A o Gospod o Isus phenđa lese: “Oja, tumen o fariseja kosena i šolja hem o čaro od avrijal, a pherđen len tumara pohlepaja hem bišukaripnaja.
 LUK 11:40 Hulavonalen! Nane li o Devel okova kova ćerđa e manuše, kova džanel le hem od avrijal hem od andral?
-LUK 11:41 Akavai pošukar: den e čororenđe sar milostinja okova so isi tumen, so xalane ićerena ano šolje hem ano čare, i ka oven čista hem od andral hem od avrijal.
+LUK 11:41 Akavai po šukar: den e čororenđe sar milostinja okova so isi tumen, so xalane ićerena ano šolje hem ano čare, i ka oven čista hem od andral hem od avrijal.
 LUK 11:42 Ali jao tumenđe e farisejenđe so dena e Devlese dešto kotor oto začinja hem oto sa o povrće, a na marinena te ćeren averenđe okova soi pošteno hem te mangen e Devle. Valjani te den o dešto kotor, ali na troman te bistren te ćeren adava soi po bitno.
 LUK 11:43 Jao tumenđe e farisejenđe so volinena te bešen ko anglune thana ano sinagoge hem so volinena ked o manuša, pherde poštujiba premala tumende, pozdravinena tumen ko trgija.
 LUK 11:44 Jao tumenđe adalese so injen opasnost sar soi o bioznačime grobija upra savende o manuša phirena, a na džanen.”
@@ -575,7 +575,7 @@ LUK 11:47 Jao tumenđe, adalese so vazdena spomenici e prorokonenđe kolen tumar
 LUK 11:48 Adaleja mothovena da odobrinena adava so ćerde tumare pradada: on mudarde len, a tumen vazdena lenđe spomenici.
 LUK 11:49 Adalese o Devel mudro vaćerđa tumendar: ‘Ka bičhalav lenđe prorokonen hem apostolen. Nekas olendar ka mudaren, a nekas ka jurinen.’
 LUK 11:50 Akala generacijatar ka rodel pe o rat sa e prorokonengoro savo thavdinđa pana taro ćeriba e phuvjakoro,
-LUK 11:51 pana taro rat e Aveljesoro sa đi o rat e Zaharijasoro, kova inele mudardo maškaro žrtveniko hem i svetinja ano Hram. Oja, vaćerava tumenđe, akaja generacija ka ovel osudime zako adava rat so thavdinđa!”
+LUK 11:51 pana taro rat e Aveljesoro sa đi o rat e Zaharijasoro, kova inele mudardo maškaro žrtveniko hem i svetinja ano Hram. Oja, vaćerava tumenđe, akaja generacija ka ovel osudime zako adava rat so thavdinđa!
 LUK 11:52 Jao tumenđe, učiteljalen e Mojsijasere zakonestar! Adalese so e narodostar garavđen o ključo oto džandipe e Devlesere carstvostar. Korkore na đerdinđen maškaro adava udar hem na mukljen te đerdinen ni okola kola mangle te đerdinen.”
 LUK 11:53 I ked o Isus iklilo adathar, o učitelja e Mojsijasere zakonestar hem o fariseja ani bari xoli lelje te protivinen pe hem te pučen le but so.
 LUK 11:54 On dikhle te dolen le ko bišukar lafi sar te šaj tužinen le.
@@ -588,11 +588,11 @@ LUK 12:6 Na biknela pe li pandž čiriklja zako samo duj najtikore pare? A palem
 LUK 12:7 A o Devel čak džanel kobor bala isi tumen ko šero. Adalese, ma daran! E Devlese injen po dragocena negoli but čiriklja!”
 LUK 12:8 “A vaćerava tumenđe: Đijekh kova anglo manuša ka vaćeri dai mlo učeniko, me, o Čhavo e Manušesoro, anglo anđelja e Devlesere ka vaćerav dai ov mlo učeniko.
 LUK 12:9 A te odrekninđa pe neko mandar anglo manuša, hem me ka odrekninav man lestar anglo anđelja e Devlesere.
-LUK 12:10 I te vaćerđa neko lafi protiv mande, protiv o Čhavo e Manušesoro, ka ovel lese oprostime; ali na ka ovel oprostime okolese kova hulini upro Sveto Duho.
+LUK 12:10 I te vaćerđa neko lafi protiv mande, protiv o Čhavo e Manušesoro, ka ovel lese oprostime; ali naka ovel oprostime okolese kova hulini upro Sveto Duho.
 LUK 12:11 A ked ka anen tumen anglo sudo ko sinagoge, anglo vladarija hem o vlastija, ma oven zabrinuta sar hem soja te braninen tumen, so te vaćeren!
 LUK 12:12 Adalese so tegani o Sveto Duho ka sikaj tumen so te vaćeren.”
 LUK 12:13 Tegani neko oto narodo phenđa e Isusese: “Učitelju, vaćer mle phralese te ulaj mancar okova so ačhavđa amenđe amaro dad.”
-LUK 12:14 A o Isus phenđa lese: “Manušeja, ko čhivđa man te ovav sudija ili delioco upra tumende?
+LUK 12:14 A o Isus phenđa lese: “Manušeja, ko čhivđa man te ovav sudija ili delioco upra tumende?”
 LUK 12:15 Tegani phenđa sarijenđe: “Arakhen tumen hem ciden tumen tari pohlepa. I sa edobor barvalipe te ovel e manuše, lesoro dživdipe na avela oto adava so isi le.”
 LUK 12:16 Tegani o Isus phenđa lenđe akaja paramiz: “Nesave barvale manušesiri phuv bijanđa but bijandipe.
 LUK 12:17 I ov mislinđa pe ana peste: ‘So te ćerav? Nane man edobor baro than kote te čhivav i žetva mli.’
@@ -611,20 +611,20 @@ LUK 12:29 Tumen ma oven zabrinuta zako adava so ka xan hem so ka pijen.
 LUK 12:30 Ađahar ćerena okola manuša kola na džanen e Devlese. Tumaro Dad, o Devel, džanel da valjani tumenđe sa adava.
 LUK 12:31 Nego roden o carstvo e Devlesoro, a ov ka del tumen sa adava so valjani tumenđe!
 LUK 12:32 Ma daran, mle učenikonalen! Tumare Dadesiri volja inele te del tumen o carstvo.
-LUK 12:33 Bikninen so isi tumen hem o love den e čororenđe! Ćeren tumenđe kese zako love save na properena hem barvalipe ko nebo savo niked na tikorini. Niko na ka šaj te avel adari te čorel tumaro barvalipe hem nijekh moljco na ka uništini le.
+LUK 12:33 Bikninen so isi tumen hem o love den e čororenđe! Ćeren tumenđe kese zako love save na properena hem barvalipe ko nebo savo niked na tikorini. Niko naka šaj te avel adari te čorel tumaro barvalipe hem nijekh moljco naka uništini le.
 LUK 12:34 Adalese so tumaro vilo ka ovel adari kaj tumaro barvalipe.”
 LUK 12:35 O Isus ple učenikonenđe phenđa hem akava: “Oven spremna, hurjavde zaki buti hem tumare svetiljke te oven tharde,
 LUK 12:36 sar sluge kola adžićerena ple gospodare te irini pe čhere taro bijav. Ked irini pe o gospodari hem ked khuvela ko udar, o slugei spremna te phraven lese.
 LUK 12:37 Blago okole slugenđe kolen o gospodari, ked ka avel, ka arakhi len džangale sar adžićerena le! Čače, vaćerava tumenđe, ov, o gospodari, ka phandel pe i kecelja, ka bešljaćeri len te xan hem ka kandel len.
 LUK 12:38 Blago e slugenđe kolen o gospodari ka arakhi džangalen čak hem te alo ki ekvaš i rat ili anglo disljojba.
-LUK 12:39 Ali akava te džanen: te o čherutno džanel ine ko savo sati avela o čor, na ka mukel lese ine te đerdini ko čher te čorel.
+LUK 12:39 Ali akava te džanen: te o čherutno džanel ine ko savo sati avela o čor, naka mukel lese ine te đerdini ko čher te čorel.
 LUK 12:40 Hem tumen oven stalno spremna, adalese so me, o Čhavo e Manušesoro, ka avav tegani ked na nadinena tumen!”
 LUK 12:41 Tegani o Petar pučlja e Isuse: “Gospode, vaćereja li akala uporedbe samo amenđe e učenikonenđe ili sarijenđe?”
 LUK 12:42 O Gospod o Isus phenđa: “Kovai, onda, verno hem mudro upravniko kas o gospodari ka čhivel upreder ple sluge te del len xajba ko vreme?
 LUK 12:43 Blago okole slugase kas lesoro gospodari, ked ka avel, ka arakhi sar ćerela ađahar.
 LUK 12:44 Čače vaćerava tumenđe, upreder sa o barvalipe plo ka čhivel le sar upravniko.
-LUK 12:45 A te vaćerđa adava sluga ana peste: ‘Na ka avel pana mlo gospodari’ i lela te marel avere slugen, hem te xal, te pijel hem te maćol,
-LUK 12:46 lesoro gospodari ka avel tegani ked na ka očekujini le, ka čhinel le ko ekvaš hem ka čhivel le maškaro nevernici.
+LUK 12:45 A te vaćerđa adava sluga ana peste: ‘Naka avel pana mlo gospodari’ i lela te marel avere slugen, hem te xal, te pijel hem te maćol,
+LUK 12:46 lesoro gospodari ka avel tegani ked naka očekujini le, ka čhinel le ko ekvaš hem ka čhivel le maškaro nevernici.
 LUK 12:47 A okova sluga kova džanđa i volja ple gospodaresiri, a na inele spremno ili na ćerđa pali e gospodaresiri volja, but mariba ka xal.
 LUK 12:48 A okova kova na džanđa e gospodaresiri volja, a ćerđa nešto zako savo avela lese kazna, xari mariba ka xal. Kasei dindo but, but ka rodel pe lestar. Kasei poverime but, više ka rodel pe lestar.”
 LUK 12:49 Tegani o Isus phenđa: “Aljum te frdav jag e sudosiri ki phuv. So bi mangava već te ovel thardi!
@@ -637,7 +637,7 @@ LUK 12:55 Ked phudela i barval taro jug, phenena da ka ovel tatipe, i ovela.
 LUK 12:56 Dujemujengere manušalen! O izgled e phuvjakoro hem e nebosoro šukar pendžarena, ađahar da pendžarena o znakija adalestar so ovela akana, a na mangena te den lenđe značaj.
 LUK 12:57 Tumen korkore valjani te pendžaren okova soi ispravno.
 LUK 12:58 Te neko legari tut ko sudo te tužini tut adalese so na irinđan lese o love, odrumal de sa tutar te mirine tut oleja angleder nego so resena adari. Te na ćerđan ađahar, ov šaj te vucini tut anglo sudija, a o sudija ka del tut ko manuš kova ka čhivel tut ano phandlipe.
-LUK 12:59 Vaćerava će da čače na ka ikljove adathar sa đikote na irineja đi i zadnjo para.”
+LUK 12:59 Vaćerava će da čače naka ikljove adathar sa đikote na irineja đi i zadnjo para.”
 LUK 13:1 Tegani nesave manuša phende e Isusese so o Pilat, o upravniko e rimesoro, naredinđa nesave Galilejci te oven mudarde. I on inele mudarde sar anena ine žrtve ano Hram e jerusalimesoro.
 LUK 13:2 A o Isus phenđa lenđe: “Tumen li mislinena da adala Galilejci, adalese so ađahar mudardile, inele po grešna sa avere Galilejconendar?
 LUK 13:3 Na! Ali te na obratinđen tumen taro tumare greja, sarijen tumen ka adžićeri propast!
@@ -661,7 +661,7 @@ LUK 13:20 Palem o Isus phenđa: “Te phenav tumenđe savesei slično o carstvo 
 LUK 13:21 Sličnoi e kvascose save i đuvli lelja hem čhivđa ano baro čaro vareja, i ov ćerđa sa o humer te uštel.”
 LUK 13:22 I sar o Isus džala ine ple dromeja đi ko Jerusalim, terđola ine ko dizja hem ko gava te sikaj e narodo.
 LUK 13:23 I ko jekh than, neko pučlja le: “Gospode, samo li xari manuša ka oven spasime?” A o Isus phenđa lenđe:
-LUK 13:24 “Den sa tumendar te đerdinen maškaro tesno udar e nebosoro adalese so but džene, vaćerava tumenđe, ka roden te đerdinen, ali na ka šaj.
+LUK 13:24 “Den sa tumendar te đerdinen maškaro tesno udar e nebosoro adalese so but džene, vaćerava tumenđe, ka roden te đerdinen, ali naka šaj.
 LUK 13:25 Ked o čherutno ka uštel hem ka phandel o udar, ka ovel kasno. Tegani ka terđoven avri hem ka khuven ko udar vaćerindoj: ‘Gospodarona, phrav amenđe!’ Ali ov ka phenel tumenđe: ‘Na džanav kola injen.’
 LUK 13:26 Tegani ka phenen: ‘Xaljam hem piljam tuja, hem tu sikavđan ko amare dizjengere droma.’
 LUK 13:27 A ov ka phenel: ‘Vaćerava tumenđe da na pendžarava tumen. Ciden tumen mandar, sare tumen so ćerena bišukaripe!’
@@ -672,7 +672,7 @@ LUK 13:31 I tegani nesave fariseja ale koro Isus hem phende lese: “Dža akatar
 LUK 13:32 O Isus phenđa lenđe: “Džan hem vaćeren adala lisicaće: ‘Ka ispudinav e demonen hem ka sasljarav avdive hem tejsa, a ko trito dive završinava.’
 LUK 13:33 Ali avdive, tejsa hem prektejsa valjani te džav mle dromeja, adalese so izgledini dai o Jerusalim than kote sa o proroci valjani te oven mudarde.
 LUK 13:34 Jerusalime, Jerusalime, tu savo mudareja e prorokonen hem frdeja bara upro okolende kolen bičhalđa tumenđe o Devel! But puti mangljum te čedav te manušen sar i khani ple pilićken talo ple phaka, ali tumen na mangljen!
-LUK 13:35 Ače, to čher ka ovel napustime! I vaćerava tumenđe da čače na ka dikhen man đikote na phenena: ‘Blagoslovimei okova kova avela ano anav e Gospodesoro!’”
+LUK 13:35 Ače, to čher ka ovel napustime! I vaćerava tumenđe da čače naka dikhen man đikote na phenena: ‘Blagoslovimei okova kova avela ano anav e Gospodesoro!’”
 LUK 14:1 I ko jekh savato, o Isus inele vičime ko čher nesave farisejengere vođasoro te xal maro, i dželo. Sare so inele adari, šukar ine posmatrinena le,
 LUK 14:2 adalese so anglo leste inele nesavo manuš kasere vasta hem o pre inele pherde pani.
 LUK 14:3 I o Isus pučlja e učiteljen e Mojsijasere zakonestar hem e farisejen: “Palo e Mojsijasoro zakoni, tromal pe li te sasljari pe namborme manuše ko savato ili na?”
@@ -696,11 +696,11 @@ LUK 14:20 O trito phenđa: ‘Samo so leljum romnja i adalese našti te avav.’
 LUK 14:21 I o sluga irinđa pe hem phenđa sa adava ple gospodarese. Tegani o gospodari xoljanđa i phenđa ple slugase: ‘Siđar, ikljov ko droma e dizjakere hem ko trgija i ana akari e čororen, e sakatimen, e kororen hem e bangen.’
 LUK 14:22 Ked o sluga ćerđa adava, phenđa: ‘Gospodarona, ćerđum ađahar sar so phenđan, ali pana isi thana.’
 LUK 14:23 I o gospodari phenđa lese: ‘Ikljov avri tari diz ko droma hem ko staze hem terin e manušen te aven te ovel pherdo mlo čher.
-LUK 14:24 Vaćerava tumenđe da nijekh okole prvone manušendar kolai vičime na ka xal adava so ćerđum xajbnase.’”
+LUK 14:24 Vaćerava tumenđe da nijekh okole prvone manušendar kolai vičime naka xal adava so ćerđum xajbnase.’”
 LUK 14:25 I but manuša džana ine dromeja palo Isus. Ov irinđa pe nakoro lende hem phenđa lenđe:
 LUK 14:26 “Te neko mangela te ovel mlo učeniko, valjani te volini man but više nego ple dade hem pla daja, pla romnja hem ple čhaven, ple phraljen hem ple phenjen, više nego plo dživdipe. Te na ćerđa ađahar, našti te ovel mlo učeniko.
 LUK 14:27 Ko na akhari plo krsto hem na džala pala mande, našti te ovel mlo učeniko.
-LUK 14:28 Adalese so nijekh tumendar na ka lel ine te vazdel kula, a angleder adalestar te na bešel te računini o troško te dikhel ka šaj li te završini la.
+LUK 14:28 Adalese so nijekh tumendar naka lel ine te vazdel kula, a angleder adalestar te na bešel te računini o troško te dikhel ka šaj li te završini la.
 LUK 14:29 Te samo čhivđa o temelji, i na ačhola le love te završini đi o kraj, sare kola ka dikhen adava ka asan lese
 LUK 14:30 hem ka phenen: ‘Akava manuš lelja te vazdel kula, a našti ine te završini la!’
 LUK 14:31 Ili, kova caro ked džala te arakhi pe ko mariba avere caronencar, angleder adalestar na bešela te razmislini šukar ka šaj li ple deše hiljadencar te marel pe adaleja kova avela protiv leste ple biše hiljadencar?
@@ -723,12 +723,12 @@ LUK 15:12 I o tikneder čhavo phenđa ple dadese: ‘Dade, de man akana o kotor 
 LUK 15:13 I palo nekobor dive o tikneder čhavo čedinđa sa so inole, dželo ki durutni phuv hem adari xalja sa plo barvalipe ađahar so živinđa dilikane.
 LUK 15:14 Ked xalja sa o love, ulo baro bokhalipe ani adaja phuv i tegani na inole so te xal.
 LUK 15:15 I dželo te ćerel buti koro jekh manuš kova živinđa adari. Adava manuš bičhalđa le pese ko polje te arakhi balen.
-LUK 15:16 O čhavo edobor inele bokhalo da manglja te xal adava so xana o bale, ali niko na dinđa le xajbnase.
-LUK 15:17 A ked lelja te razmislini šukar, phenđa: ‘Mle dadesere bućarnen isi da buderi xajbnase, a me akate merava bokhatar!
+LUK 15:16 O čhavo edobor inele bokhalo da manglja te xal adava so xana o bale, ali niko na dinđa le ništa xajbnase, čak ni adava.
+LUK 15:17 A ked lelja te razmislini šukar, phenđa: Mle dadesere bućarnen isi da buderi xajbnase, a me akate merava bokhatar!
 LUK 15:18 Ka irinav man koro mlo dad hem ka phenav lese: ‘Dade, grešinđum anglo Devel hem angla tute!
-LUK 15:19 Na injum dostojno akana te vaćerav da injum klo čhavo. Molinava tut, le man sar jekhe bućarne te ćerav buti kora tute.’
+LUK 15:19 Na injum dostojno akana te vaćerav da injum to čhavo. Molinava tut, le man sar jekhe bućarne te ćerav buti kora tute.’
 LUK 15:20 I lelja te džal koro plo dad. Pana sar inele dur ple dadesere čherestar, lesoro dad dikhlja le sar avela. Pelo e dadese žal, prastandilo đi leste, zagrlinđa le hem čumudinđa le.
-LUK 15:21 Tegani o čhavo phenđa: ‘Dade, grešinđum anglo Devel hem angla tute! Na injum dostojno akana te vaćerav da injum klo čhavo.’
+LUK 15:21 Tegani o čhavo phenđa: ‘Dade, grešinđum anglo Devel hem angla tute! Na injum dostojno akana te vaćerav da injum to čhavo.’
 LUK 15:22 A o dad phenđa ple slugenđe: ‘Sig anen o najšužo fostani hem hurjaven le! Čhiven lese i angrustik ko naj hem o sandale ko pre!
 LUK 15:23 Anen okole thuljarde telco te čhinen, te xa hem te slavina,
 LUK 15:24 adalese so akava mlo čhavo inele mulo, a akana dživdilo, inele našaldo, a akanai arakhlo.’ I lelje te veselinen pe.
@@ -739,7 +739,7 @@ LUK 15:28 I o phureder čhavo xoljanđa hem na manglja te đerdini ko čher. Teg
 LUK 15:29 A ov phenđa ple dadese: ‘Ače, sa edobor berša kandava tut sar robo hem niked na phagljum to lafi, a nijekhvar na dinđan man ni buzore te šaj mle amalencar te veselinav man.
 LUK 15:30 A ked alo akava čhavo klo, kova xalja to imanje e kurvencar, tu čhinđan lese thuljarde telco.’
 LUK 15:31 A lesoro dad phenđa lese: ‘Mlo čhavo, tu stalno injan mancar. I sa soi mlo–kloi.
-LUK 15:32 Ali, valjanđam ađahar te slavina hem te radujina amen adalese so akava, to phral, inele mulo, a akana dživdilo; inele našaldo, a akanai arakhlo!’”
+LUK 15:32 Ali, valjanđam ađahar te slavina hem te radujina amen adalese so akava, to phral, inele mulo, a akana dživdilo; inele našaldo, a akanai arakhlo!’ ”
 LUK 16:1 O Isus ple učenikonenđe vaćerđa akaja paramiz: “Jekhe barvale manuše ine upravniko kole tužinde da xalja lesoro barvalipe.
 LUK 16:2 I o barvalo vičinđa le hem phenđa lese: ‘So šunava tutar adava? Ana maje o spisko kote pisinđan mle lovendar adalese so našti više te ćere buti kora mande sar upravniko!’
 LUK 16:3 Tegani o upravniko phenđa ana peste: ‘So ka ćerav ked mlo gospodari ka cidel man tari buti? Na injum kaderi te xandav, a lađava te prosinav.
@@ -748,11 +748,11 @@ LUK 16:5 I vičinđa sa ple gospodaresere dužnikonen, i phenđa e prvonese: ‘
 LUK 16:6 A ov phenđa: ‘Šel burija uljeja.’ Tegani o upravniko phenđa lese: ‘Siđar le o lil klo hem čhiv da aveja lese pinda.’
 LUK 16:7 I pučlja avere: ‘A tu kobor aveja mle gospodarese?’ A ov phenđa: ‘Šel burija điveja.’ I olese da phenđa o upravniko: ‘Le o lil klo hem čhiv da aveja lese oftovardeš.’
 LUK 16:8 I o gospodari pohvalinđa e nepoštenone upravniko so inele džando hem so ađahar postupinđa. Akava mothoj dai o manuša oti akaja phuv po džande ko postupci premalo pumarende taro manuša oto svetlost.
-LUK 16:9 Vaćerava tumenđe: ćeren o manuša te oven tumare amala ađahar so ka pomožinen lenđe akale phuvjakere barvalipnaja, te šaj, ked na ka ovel tumenđe više korisno adava barvalipe, te oven primime ano večna čhera ano nebo.
-LUK 16:10 Kovai verno ano najtikore buća, ov ka ovel verno hem ano najbare; a kova nane pravedno ano najtikore buća, ov na ka ovel pravedno hem ano najbare.
+LUK 16:9 Vaćerava tumenđe: ćeren o manuša te oven tumare amala ađahar so ka pomožinen lenđe akale phuvjakere barvalipnaja, te šaj, ked naka ovel tumenđe više korisno adava barvalipe, te oven primime ano večna čhera ano nebo.
+LUK 16:10 Kovai verno ano najtikore buća, ov ka ovel verno hem ano najbare; a kova nane pravedno ano najtikore buća, ov naka ovel pravedno hem ano najbare.
 LUK 16:11 Te na injen verna ano akala phuvjakoro barvalipe, ko ka mukel tumenđe ano vasta o čačimasoro barvalipe?
 LUK 16:12 Te na injenle verna ano averesoro barvalipe, ko ka del tumen tumaro?
-LUK 16:13 Nijekh sluga našti kandel duje gospodaren ko isto vreme. Ili ka mrzini jekhe, a ka volini e dujtone; ili jekhese ka ovel poslušno, a e dujtone na ka podnosini. Našti kanden hem e Devle hem o barvalipe ko isto vreme.”
+LUK 16:13 Nijekh sluga našti kandel duje gospodaren ko isto vreme. Ili ka mrzini jekhe, a ka volini e dujtone; ili jekhese ka ovel poslušno, a e dujtone naka podnosini. Našti kanden hem e Devle hem o barvalipe ko isto vreme.”
 LUK 16:14 Sa adava, so vaćerđa o Isus, šunde o fariseja kola volinde barvalipe, i asandile lese.
 LUK 16:15 A o Isus phenđa lenđe: “Tumen injen adala so ćerena tumen pravedna anglo manuša, ali o Devel džanel dai tumare vile bišukar. Jer soi but vredno e manušenđe, adavai gadno e Devlese.”
 LUK 16:16 Tegani o Isus phenđa: “O Zakoni e Mojsijasoro hem o Lila e purane prorokonengere sikavena ine e manušen đi o aviba e Jovanesoro, a od tegani vaćeraja o Šukar lafi taro carstvo e Devlesoro hem terinaja sarijen te đerdinen ano leste.
@@ -765,18 +765,18 @@ LUK 16:22 Ked mulo o čororo, o anđelja legarde le e Avraamese ki angali. I o b
 LUK 16:23 I ano than e mulengoro, ano bare muke, o barvalo vazdinđa ple jaćha hem odural dikhlja e Avraame hem e Lazare lese ani angali.
 LUK 16:24 Tegani vičinđa: ‘Pradade Avraame, smilujin tut maje hem bičhal e Lazare te čhivel plo upruno kotor e najestar ano pani hem te avel te šudrari mli čhib, adalese so but injum mučime ani akaja jag.’
 LUK 16:25 A o Avraam phenđa: ‘Mlo čhavo, setin tut da priminđan to šukaripe tuće ko dživdipe, a o Lazar plo bišukaripe. A akanai e Lazarese šukar akate, a tu mučineja tut.
-LUK 16:26 Sem adava, isi bari provalija maškar amende hem tumende i te manglja neko te nakhel akatar kora tumende ili adathar kora amende, na ka šaj.’
+LUK 16:26 Sem adava, isi bari provalija maškar amende hem tumende i te manglja neko te nakhel akatar kora tumende ili adathar kora amende, naka šaj.’
 LUK 16:27 A o barvalo phenđa: ‘Onda molinava tut, pradade Avraame, bičhal e Lazare mle dadese ko čher.
 LUK 16:28 Adari isi man pandž phralja. Nek o Lazar vaćeri lenđe te irinen pe taro pumare greja ko Devel, te na aven hem on ko akava than e mukengoro.’
 LUK 16:29 A o Avraam phenđa: ‘Isi len o Zakoni e Mojsijasoro hem o Lila e purane prorokonengere. Nek šunen olen!’
 LUK 16:30 A ov phenđa: ‘Nane adava dovoljno, pradade Avraame! Ali te alo lenđe neko taro mule, ka obratinen pe.’
-LUK 16:31 I o Avraam phenđa lese: ‘Te na šunde adava so pisinđa o Mojsije hem o proroci, na ka šunen ni te neko uštino taro mule.’”
+LUK 16:31 I o Avraam phenđa lese: ‘Te na šunde adava so pisinđa o Mojsije hem o proroci, naka šunen ni te neko uštino taro mule.’”
 LUK 17:1 O Isus phenđa ple učenikonenđe: “O iskušenja čače ka aven, ali pharo okolese prekala kaste avena!
 LUK 17:2 Olese ka ovel ine po šukar ki men te ovel lese phandlo baro bar hem te ovel frdime ano more, nego te ćerel jekh akale tikorendar te perel ano greh.
 LUK 17:3 Arakhen tumen! Te grešinđa nesavi verno osoba, vaćer laće so adava nane šukar, a te pokajinđa pe, oprostin laće.
 LUK 17:4 I te efta puti ko dive grešini premala tute hem efta puti avela kora tute hem vaćeri će: ‘Kajinav man’, oprostin laće.”
 LUK 17:5 O apostolja phende e Gospodese e Isusese: “De amen po bari vera!”
-LUK 17:6 A o Gospod phenđa: “Te isi tumen vera tikori sar zrno oti gorušica, ka phenen ine akale kaštese: ‘Ikal tut oto koreno hem sadin tut ano more!’ I ka šunel tumen ine.
+LUK 17:6 A o Gospod phenđa: “Te isi tumen vera tikori sar seme oti gorušica, ka phenen ine akale kaštese: ‘Ikal tut oto koreno hem sadin tut ano more!’ I ka šunel tumen ine.
 LUK 17:7 Kova tumendar ka phenel ine ple slugase, kova xandela ili arakhi e bakren, ked irini pe tari njiva: ‘Siđar ava akari hem beš te xas maro’?
 LUK 17:8 Na li angleder ine ka phenel lese: ‘Ćer maje te xav, phand tut i kecelja hem kande man đikote xava hem pijava, a palo adava tu ka xas hem ka pije’?
 LUK 17:9 Na li valjani te zahvalini e slugase adalese so ćerđa adava so ine lese phendo? Na valjani.
@@ -791,8 +791,8 @@ LUK 17:17 Tegani o Isus pučlja: “Na li deš saslile? A kaj pana okola enja?
 LUK 17:18 Nijekh li olendar na aračhilo te irini pe hem te slavini e Devle, sem akava jekh kova čak nane ni Jevrejco?”
 LUK 17:19 I phenđa e manušese: “Ušti hem dža! Ti vera spasinđa tut!”
 LUK 17:20 Jekh dive o fariseja pučle e Isuse ked ka avel o carstvo e Devlesoro. O Isus phenđa lenđe: “O carstvo e Devlesoro na avela e znakonencar saven ka šaj te dikhen tumare jaćhencar.
-LUK 17:21 Na ka šaj te phenel pe: ‘Ače akatei!’ ili ‘Eče adari!’ Adalese soi o carstvo e Devlesoro maškara tumende!”
-LUK 17:22 Tegani phenđa ple učenikonenđe: “Avela o vreme ked ka mangen te dikhen jekh oto dive ked me, o Čhavo e Manušesoro, ka vladinav sar caro, ali na ka šaj te dikhen.
+LUK 17:21 Naka šaj te phenel pe: ‘Ače akatei!’ ili ‘Eče adari!’ Adalese soi o carstvo e Devlesoro maškara tumende!”
+LUK 17:22 Tegani phenđa ple učenikonenđe: “Avela o vreme ked ka mangen te dikhen jekh oto dive ked me, o Čhavo e Manušesoro, ka vladinav sar caro, ali naka šaj te dikhen.
 LUK 17:23 O manuša ka phenen tumenđe: ‘Eče adari!’ ili ‘Ače akatei!’ Ali ma džan olencar te roden man!
 LUK 17:24 Adalese so o aviba e Manušesere Čhavesoro ko lesoro dive ka ovel sar i munja ked čhinela taro jekh krajo e nebosoro, a svetlini ko dujto.
 LUK 17:25 Ali angleder adalestar valjani but te patinav hem te ovav odbacime akala generacijatar.
@@ -800,10 +800,10 @@ LUK 17:26 Hem sar so inele ano vreme ked o Noje živinđa, ađahar ka ovel hem a
 LUK 17:27 O manuša ine xana hem pijena, lena pe hem dena pe sa đi o dive ked o Noje đerdinđa ki barka. Tegani alo o baro pani hem tasavđa sarijen kola na inele ani barka.
 LUK 17:28 Ađahar da inele ano vreme ked o Lot živinđa. O manuša ani diz Sodoma ine xana hem pijena, činena hem biknena, sadinena hem vazdena čhera.
 LUK 17:29 A ko dive ked o Lot iklilo tari Sodoma, odupral sar bršin peli jag hem žuta bara save thabljona hem mudarđa sarijen kola ačhile ani diz.
-LUK 17:30 Ađahar da o manuša na ka oven spremna ko dive ked me, o Čhavo e Manušesoro, ka avav.
+LUK 17:30 Ađahar da o manuša naka oven spremna ko dive ked me, o Čhavo e Manušesoro, ka avav.
 LUK 17:31 Ko adava dive, ko ka ovel upro čher, a lesere stvarija ano čher, ma te huljel te lel len. Ađahar da, ko ka ovel ki njiva, ma te irini pe čhere palo ple stvarija.
 LUK 17:32 Setinen tumen so ulo e Lotesere romnjaće!
-LUK 17:33 Ko dikhela te arakhi plo dživdipe, na ka ovel le večno dživdipe; a ko našali plo dživdipe, ka ovel le večno dživdipe.
+LUK 17:33 Ko dikhela te arakhi plo dživdipe, naka ovel le večno dživdipe; a ko našali plo dživdipe, ka ovel le večno dživdipe.
 LUK 17:34 Vaćerava tumenđe, ki adaja rat ked ka irinav, duj džene ka pašljon ko jekh than e pašljojbnasoro. Jekhe ka lel pe, a e dujtone ka ačhaj pe.
 LUK 17:35 Ka oven duj đuvlja kola zajedno ka ćeren xajbnase. Jekha ka lel pe, a e dujtona ka ačhaj pe.
 LUK 17:36 Duj murša ka ćeren buti ki njiva; jekhe ka lel pe, a e dujtone ka ačhaj pe.”
@@ -851,7 +851,7 @@ LUK 18:40 Tegani o Isus terdino hem naredinđa te anen e korore anglo leste. I k
 LUK 18:41 “So mangeja te ćerav će?” A o kororo phenđa: “Gospode, mangava te dikhav.”
 LUK 18:42 I o Isus phenđa lese: “Dikh! Sasljardo injan adalese so verujinđan.”
 LUK 18:43 I otojekhvar o kororo šaj ine te dikhel hem phirđa palo Isus slavindoj e Devle. I sa o manuša kola dikhle adava so ulo zahvalinde e Devlese.
-LUK 19:1 O Isus đerdinđa ani diz Jerihon. I sar ine nakhela maškari diz,
+LUK 19:1 O Isus đerdinđa ani diz Jerihon. I sar nakhela ine maškari diz,
 LUK 19:2 alo nesavo manuš palo anav Zakej te dikhel le. O Zakej inele jekh taro šerutne e carinikonengere ani diz hem inele barvalo.
 LUK 19:3 Ov ćerela ine nesar te dikhel koi adava o Isus, ali našti ine taro narodo adalese so inele pretičkoro.
 LUK 19:4 Adalese prastandilo po anglal hem uklinđa upro e smokvakoro kaš te šaj dikhel e Isuse adalese so džanđa da valjani te nakhel adathar.
@@ -871,15 +871,15 @@ LUK 19:17 I ov phenđa lese: ‘But šukar. Tu injan šukar sluga! Adalese so in
 LUK 19:18 O dujto sluga alo vaćerindoj: ‘Gospodarona, oto love save dinđan man, ćerđum pandž puti edobor.’
 LUK 19:19 I lese phenđa: ‘Dava tut te vladine upro pandž dizja!’
 LUK 19:20 O trito sluga alo vaćerindoj: ‘Gospodarona, ače te love save dinđan man. Garavđum len ano jekh kotor e šejengoro.
-LUK 19:21 Ćerđum ađahar adalese so darandiljum tutar so injan strogo manuš. Leja so nane klo hem čedeja so avera manuša sejinđe.’
-LUK 19:22 A ov phenđa lese: ‘Tu na injan šukar sluga! Palo te lafija ka sudinav tut. Te džanđan so injum strogo manuš, da lava so nane mlo hem čedava so avera sejinđe,
+LUK 19:21 Ćerđum ađahar adalese so darandiljum tutar so injan strogo manuš. Leja so nane klo hem čedeja so avera manuša sejinde.’
+LUK 19:22 A ov phenđa lese: ‘Tu na injan šukar sluga! Palo te lafija ka sudinav tut. Te džanđan so injum strogo manuš, da lava so nane mlo hem čedava so avera sejinde,
 LUK 19:23 sose onda na dinđan mle love ki kamata? Đi akana ka ovel man ine više love save ka lav ine avindoj čhere.’
 LUK 19:24 Tegani phenđa okolenđe kola terdine uzalo leste: ‘Len akale slugastar o love hem den len okolese kas isi deš puti edobor!’
 LUK 19:25 A on inele protiv hem phende: ‘Ali, gospodarona, ole već isi pandž kilja srebro.’
 LUK 19:26 O caro phenđa: ‘Dikhena da đijekhe kas isi, ka del pe lese pana, a okole kas nane ka lel pe lestar hem okova xari so isi le.
 LUK 19:27 A okolen mle dušmanjen, so na mangle te ovav lengoro caro, anen akari hem čhinen len angla mande!’”
 LUK 19:28 I ked vaćerđa lenđe adava, o Isus dželo nakoro Jerusalim phirindoj anglo ple učenici.
-LUK 19:29 Ked alo paše uzalo gava Vitfaga hem Vitanija, uzali gora vičimi E maslinakiri, bičhalđa duje učenikonen”
+LUK 19:29 Ked alo paše uzalo gava Vitfaga hem Vitanija, uzali gora vičimi E maslinakiri, bičhalđa duje učenikonen
 LUK 19:30 vaćerindoj: “Džan ko adava gav savoi angla tumende. I ked ka đerdinen, ka arakhen phandle terne xere upro saveste pana nijekh manuš na beštino. Phraven le hem anen le akari.
 LUK 19:31 Te neko pučlja tumen: ‘Sose phravena le?’, vaćeren lese: ‘E Gospodarese valjani.’”
 LUK 19:32 On džele hem arakhle ađahar sar so phenđa lenđe o Isus.
@@ -906,7 +906,7 @@ LUK 20:4 Ko dinđa pravo e Jovanese te krstini e manušen, o Devel kovai ano neb
 LUK 20:5 A on raspravinde pe maškara pumende vaćerindoj: “Te phenđam ‘o Devel kovai ano nebo’, ov ka pučel amen sose onda na verujinđam lese.
 LUK 20:6 A te phenđam ‘o manuša’, sa o manuša ka mudaren amen ađahar so ka frden bara upra amende, adalese soi uverime da o Jovan inele proroko.”
 LUK 20:7 Adalese phende e Isusese da na džanen ko dinđa pravo e Jovanese.
-LUK 20:8 I o Isus phenđa lenđe: “Ni me onda na ka phenav tumenđe kotar maje pravo akava te ćerav.”
+LUK 20:8 I o Isus phenđa lenđe: “Ni me onda naka phenav tumenđe kotar maje pravo akava te ćerav.”
 LUK 20:9 Tegani o Isus lelja te vaćeri e narodose akaja paramiz: “Nesavo manuš sadinđa vinograd, iznajminđa le e vinogradarenđe hem dželo ko drom ko but vreme.
 LUK 20:10 I ked alo o vreme te čeden pe o drakha, bičhalđa e sluga koro vinogradarija te šaj den le oto bijandipe e drakhakoro sar so dogovorinde pe. Ali o vinogradarija marde le hem bičhalde le palal čuče vastencar.
 LUK 20:11 I o gospodari bičhalđa avere sluga. Ali on hem ole marde, lađarde le hem bičhalde le palal čuče vastencar.
@@ -925,7 +925,7 @@ LUK 20:23 A o Isus džanđa so on mangle te prevarinen le i phenđa lenđe:
 LUK 20:24 “Mothoven maje i kovanica savaja platinena o porez. Kasiri slika hem kasoro anav isi la?” A on phende: “E carosoro.”
 LUK 20:25 Tegani o Isus phenđa lenđe: “Onda, den e carose okova so preperela e carose, a e Devlese okova so preperela e Devlese.”
 LUK 20:26 I ađahar o špijunja našti ine te arakhen ništa bišukar ano okova so o Isus vaćerđa i trainde adalese so inele zadivime lesere vaćeribnaja.
-LUK 20:27 I nesave sadukeja ale koro Isus. O sadukeja inele okola kola vaćerena da niko na ka uštel taro mule. On pučle e Isuse:
+LUK 20:27 I nesave sadukeja ale koro Isus. O sadukeja inele okola kola vaćerena da niko naka uštel taro mule. On pučle e Isuse:
 LUK 20:28 “Učitelju, o Mojsije amenđe e Jevrejenđe phenđa so te ćerel o manuš te mulo lesoro phral kova pala peste ačhavđa romnja bizo čhave. Adava manuš valjani te lel ple mule phralesere romnja te šaj oj te bijani čhave kova ka nasledini o barvalipe e mulesoro hem ka akhari lesoro anav.
 LUK 20:29 Ađahar, inele efta phralja. O prvo lelja romnja i mulo, a na ačhavđa pala peste čhaven.
 LUK 20:30 O dujto phral lelja ple mule phralesere romnja, ali hem ov mulo.
@@ -960,17 +960,17 @@ LUK 21:11 Ko but thana ka oven bare zemljotresija, bokhalipe hem zaraze. Ka moth
 LUK 21:12 Ali angleder sa adava, tumen ka oven dolime hem jurime, ka oven legarde ko sudo ano sinagoge hem ko phandlipe. Ka legaren tumen anglo carija hem anglo vladarija adalese so injen mle učenici.
 LUK 21:13 Adava ka ovel tumenđe te šaj svedočinen lenđe mandar.
 LUK 21:14 Adalese pana akana odlučinen te na planirinen save lafonencar te braninen tumen.
-LUK 21:15 Adalese so me ka dav tumen mudra lafija ko save nijekh tumaro protivniko na ka šaj te irini lafi.
+LUK 21:15 Adalese so me ka dav tumen mudra lafija ko save nijekh tumaro protivniko naka šaj te irini lafi.
 LUK 21:16 Ka izdajinen tumen hem tumare dada, tumare daja, tumare phralja, tumaro jeri hem tumare amala; hem nesaven tumendar ka mudaren.
 LUK 21:17 I sare ka mrzinen tumen adalese so injen mle učenici,
-LUK 21:18 ali niko naka šaj te uništini tumen, čak ni jekh bal tumare šerestar na ka ovel uništime.
+LUK 21:18 ali niko naka šaj te uništini tumen, čak ni jekh bal tumare šerestar naka ovel uništime.
 LUK 21:19 Adaleja so ka ačhoven maje verna, ka dobinen o večno dživdipe.”
 LUK 21:20 O Isus phenđa hem akava: “I ked ka dikhen sar o Jerusalim opkolime e vojskendar, te džanen da alo lesoro vreme te ovel uništime.
 LUK 21:21 Tegani okola kola živinena ani e judejakiri regija nek našen ko gore. Okola kola živinena ano Jerusalim nek ikljon avri, a kolai avri, te na đerdinen ani diz.
 LUK 21:22 Adalese so adala ka oven o dive ked o Devel ka kaznini e manušen. Ađahar ka ovel te šaj pherđol sa so o proroci pisinde ko Sveto Lil.
 LUK 21:23 Jao e khamnjenđe hem okolenđe kola dena čuči ko adala dive! Adalese so baro bišukaripe ka ovel upri phuv hem o Devel ka ovel but xoljame hem ka kaznini akale narodo.
 LUK 21:24 Nesave olendar ka oven mudarde, a avera ka oven legarde ko phandlipe maškaro sa o nacije. O Jerusalim ka ovel gazime e poganendar sa đikote na nakhela e poganengoro vreme.”
-LUK 21:25 O Isus phenđa hem akava: “I ka oven čudna znakija ko kham, ko masek hem ko čerenja, a ki phuv o nacije na ka džanen so te ćeren oti dar zbog adava so o more ka ćerel glasna zvukija hem bare talasija.
+LUK 21:25 O Isus phenđa hem akava: “I ka oven čudna znakija ko kham, ko masek hem ko čerenja, a ki phuv o nacije naka džanen so te ćeren oti dar zbog adava so o more ka ćerel glasna zvukija hem bare talasija.
 LUK 21:26 O manuša ka meren oti dar hem oto adžićeriba o bišukaripe so avela ki phuv, adalese so o zoralipa e nebosere ka oven potresime.
 LUK 21:27 Tegani sare ka dikhen man, e Čhave e Manušesere, sar avava upro oblako ano baro zoralipe hem ani slava.
 LUK 21:28 Ked sa adava ka počini te ovel, terđoven ko pre bizi dar hem vazden tumare šere adalese so o Devel sigende ka oslobodini tumen.”
@@ -983,13 +983,13 @@ LUK 21:34 I o Isus phenđa lenđe: “Arakhen tumen te na oven tumare gođa zaok
 LUK 21:35 Adalese so adava dive ka avel sar zamka upro sa o manuša ki phuv.
 LUK 21:36 Adalese oven džangale hem stalno molinen te nakhaven sa adava so valjani te ovel hem te šaj terđon radosno angla mande, anglo Čhavo e Manušesoro.”
 LUK 21:37 Diveja o Isus sikaj ine ano Hram, a raćaja ikljola ine tari diz hem džala te raćari ki gora vičimi E maslinakiri.
-LUK 21:38 I but manuša sabajleja džana ine ko Hram te šunen e Isuse sar sikaj.
+LUK 21:38 I but manuša sabajleja džana ine ko Hram te šunen le sar sikaj.
 LUK 22:1 Avela ine paše i Pasha, savi inele prvo dive oto Prazniko e bikvascone marengoro.
 LUK 22:2 O šerutne sveštenici hem o učitelja e Mojsijasere zakonestar rodena ine sar te ćeren o Isus te ovel mudardo, ali darandile e narodostar.
 LUK 22:3 Tegani o Sotoni đerdinđa ano Juda vičime Iskariot kova inele jekh oto dešuduj apostolja e Isusesere.
 LUK 22:4 Ov dželo koro šerutne sveštenici hem koro narednici e hramesere hem dogovorinđa pe olencar sar te predel lenđe e Isuse.
 LUK 22:5 On ule radosna hem phende e Judase da ka den le love.
-LUK 22:6 I ov pristaninđa. I ađahar lelja te rodel šukar momenti te izdajini e Isuse ked na ka oven but manuša uzalo leste.
+LUK 22:6 I ov pristaninđa. I ađahar lelja te rodel šukar momenti te izdajini e Isuse ked naka oven but manuša uzalo leste.
 LUK 22:7 Ked alo o prvo dive oto Prazniko e bikvascone marengoro, ko savo valjanđa te čhinel pe bakrore zaki Pasha,
 LUK 22:8 o Isus phenđa e Petrese hem e Jovanese: “Džan hem ćeren amenđe e pashakoro xajba te šaj te xa.”
 LUK 22:9 A on phende lese: “Kaj mangeja te ćera la?”
@@ -999,7 +999,7 @@ LUK 22:12 I ov ka mothoj tumenđe i bari upruni soba savi već pripremime. Adari
 LUK 22:13 I on džele hem arakhle sa ađahar sar so phenđa lenđe o Isus i adari čhivde zako xajba e pashakoro.
 LUK 22:14 I ked alo o vreme te xal pe i Pasha, o Isus čhivđa pe uzalo astali ple apostolencar.
 LUK 22:15 I phenđa lenđe: “Edobor zorale mangljum te xav akaja pasha tumencar angleder nego so ka ovav mučime hem mudardo.
-LUK 22:16 Adalese so, vaćerava tumenđe, na ka xav aver Pasha đikote lakoro čačimasoro značenje na pherđola ano carstvo e Devlesoro.”
+LUK 22:16 Adalese so, vaćerava tumenđe, naka xav aver Pasha đikote lakoro čačimasoro značenje na pherđola ano carstvo e Devlesoro.”
 LUK 22:17 Tegani lelja i čaša e moljaja, zahvalinđa e Devlese hem phenđa e apostolenđe: “Len akaja mol hem ulaven la maškara tumende.
 LUK 22:18 Adalese so, vaćerava tumenđe, naka pijav više mol đikote o carstvo e Devlesoro na avela.”
 LUK 22:19 I lelja o maro, zahvalinđa e Devlese, phaglja le hem ulavđa le e apostolenđe vaćerindoj: “Akavai mlo telo savo dela pe tumenđe. Akava nastavinen te ćeren te setinen tumen mandar.”
@@ -1017,7 +1017,7 @@ LUK 22:30 te xan hem te pijen maje uzalo astali ano carstvo mlo, hem te bešen k
 LUK 22:31 O Isus phenđa: “Simone, Simone, ače o Sotoni rodinđa e Devlestar te mukel lese te proverini tumari vera ana mande sar ked neko čhorela o điv maškari sita.
 LUK 22:32 Ali me molinđum tuće te ačhol ti vera ana mande. Džanav da ka xovave da na pendžareja man, ali ked ka irine ti vera ana mande, zorjar te phraljengiri vera.”
 LUK 22:33 A ov phenđa lese: “Gospode, injum spremno te džav tuja hem ko phandlipe hem ko meriba.”
-LUK 22:34 A o Isus phenđa: “Vaćerava će, Petre, o bašno na ka đilabi avdive đikote trin puti naka xovave da na pendžareja man.”
+LUK 22:34 A o Isus phenđa: “Vaćerava će, Petre, o bašno naka đilabi avdive đikote trin puti naka xovave da na pendžareja man.”
 LUK 22:35 I phenđa e apostolenđe: “Ked bičhalđum tumen ko drom bizo kese lovencar, bizo torbe hem bizi buderi obuća, na li falinđa tumenđe nešto?” A on phende: “Ništa.”
 LUK 22:36 Tegani o Isus phenđa lenđe: “Ali akana kas isi kesa e lovencar, nek lel la! Ađahar hem i torba! A kas nane mači, nek biknel plo fostani hem nek činelfse jekh.
 LUK 22:37 Adalese so, vaćerava tumenđe, valjani te pherđol adava soi mandar pisime ko Sveto Lil: ‘Dikhle le sar jekhe okolendar kola ćerena bišukaripe.’ Čače, pherđola sa soi pisime mandar.”
@@ -1043,15 +1043,15 @@ LUK 22:56 I nesavi sluškinja dikhlja le sar bešela uzali jag, i po šukar dikh
 LUK 22:57 A o Petar xovavđa vaćerindoj: “Đuvlije, na pendžarava le!”
 LUK 22:58 Na nakhlo but palo adava, dikhlja le nesavo aver manuš hem phenđa: “I tu injan jekh okolendar kola inele e dolime manušeja!” A o Petar phenđa: “Manušeja, na injum!”
 LUK 22:59 I ked nakhlo đi ko jekh sati, aver nesavo odlučime phenđa: “Čače akava inele e dolime manušeja, adalese soi hem ov Galilejco!”
-LUK 22:60 A o Petar phenđa: “Manušeja, na džanav sostar vaćereja!” I ko adava momenti, sar pana ine vaćeri, o bašno đilabđa.
+LUK 22:60 A o Petar phenđa: “Manušeja, na džanav sostar vaćereja!” I ko adava momenti, sar pana vaćeri ine, o bašno đilabđa.
 LUK 22:61 Tegani o Gospod o Isus irinđa pe hem dikhlja ano Petar, a o Petar setinđa pe lesere lafonendar: “Vaćerava će, Petre, angleder so o bašno avdive ka đilabi, trin puti ka xovave da na pendžareja man.”
 LUK 22:62 I iklilo taro boro hem zorale runđa.
 LUK 22:63 O čuvarija lelje te maren muj e Isuseja hem te maren le.
 LUK 22:64 Učharde lesere jaćha hem phende lese: “Prorokujin ko khuvđa tut!”
 LUK 22:65 I bute avere lafonecar vređinena ine e Isuse.
 LUK 22:66 Ked dislilo, čedinde pe o starešine e jevrejengere, o šerutne sveštenici hem o učitelja e Mojsijasere zakonestar, ande e Isuse pumenđe ko sabor
-LUK 22:67 hem phende lese: “Te injan tu o Hrist, phen amenđe!” A ov phenđa lenđe: “Te phenđum tumenđe, na ka verujinen;
-LUK 22:68 a te pučljum tumen e Hristestar, na ka odgovorinen.
+LUK 22:67 hem phende lese: “Te injan tu o Hrist, phen amenđe!” A ov phenđa lenđe: “Te phenđum tumenđe, naka verujinen;
+LUK 22:68 a te pučljum tumen e Hristestar, naka odgovorinen.
 LUK 22:69 Ali od akana me, o Čhavo e Manušesoro, ka bešav ko počasno than uzalo zoralipe e Devlesoro.”
 LUK 22:70 A on sare pučle e Isuse: “Znači tu injan o Čhavo e Devlesoro?” A ov phenđa lenđe: “Korkore šukar phenđen da injum.”
 LUK 22:71 Tegani on phende: “Na valjani amenđe više dokazija dai krivo. Sare amen šunđam da korkoro pes osudinđa!”
@@ -1067,7 +1067,7 @@ LUK 23:9 But so pučlja le, ali o Isus ništa na vaćerđa lese.
 LUK 23:10 A adari terđona ine o šerutne sveštenici hem o učitelja e Mojsijasere zakonestar vaćerindoj zorale protiv o Isus.
 LUK 23:11 A o Irod hem lesere vojnici ponizinde e Isuse hem marde muj oleja. Hurjavde le ano carsko fostani hem tegani o Irod bičhalđa le palal koro Pilat.
 LUK 23:12 Angleder o Irod hem o Pilat na inele ano šukar odnosija, a adava dive ule amala.
-LUK 23:13 A o Pilat vičinđa kora peste e šerutne sveštenikonen, e vođen hem e narodo
+LUK 23:13 A o Pilat vičinđa kora peste e šerutne sveštenikonen, e vođen hem e narodo,
 LUK 23:14 i phenđa lenđe: “Anđen kora mande akale manuše vaćerindoj da vazdela pobuna maškaro narodo. Ače, angla tumende pučljum le adalestar, ali na arakhljum nisavi krivica zaki savi tumen tužinena le.
 LUK 23:15 A ni o Irod na arakhlja upro leste krivica i adalese bičhalđa le palal kora amende. Akava manuš na ćerđa ništa savese avela meriba.
 LUK 23:16 Adalese samo ka naredinav te šibinen le, i ka mukav le.”
@@ -1085,12 +1085,12 @@ LUK 23:27 Palo Isus dželo baro narodo maškaro kolende inele hem o đuvlja kola
 LUK 23:28 Ali o Isus irinđa pe nakoro lende hem phenđa lenđe: “Đuvljalen taro Jerusalim, ma roven zbog adava so ka ovel maje, nego roven zbog adava so ka ovel tumenđe hem tumare čhavenđe.
 LUK 23:29 Adalese so, ače, avena o dive ked o manuša ka vaćeren: ‘Bahtalei o đuvlja kolai bizo čhave, kola na bijande hem na dinde čuči.’
 LUK 23:30 Tegani ka molinen e planinen te peren upro lende hem e bregonen te učharen len.
-LUK 23:31 Adalese so te ađahar ćerela pe mancar kova injum sar jekh sapano kaš, sigurno po bišukar ka ćerel pe e manušencar kolai sar o šuke kašta.”
+LUK 23:31 Adalese so, te ađahar ćerela pe mancar kova injum sar jekh sapano kaš, sigurno po bišukar ka ćerel pe e manušencar kolai sar o šuke kašta.”
 LUK 23:32 A e Isuseja inele legarde pana duj manuša te oven mudarde. Adala manuša ćerde bišukar buća.
 LUK 23:33 I ked resle ko than vičime Kokalo e šeresoro, o vojnici čhivde ko krsto e Isuse hem čhivde adale manušen ko avera krstija: jekhe oti lesiri desno, a e dujtone oti lesiri levo strana.
 LUK 23:34 O Isus phenđa: “Dade Devla, oprostin lenđe, adalese so na džanen so ćerena!” Tegani o vojnici frdinde barbuti hem ađahar ulavde maškara pumende e Isusesere šeja.
 LUK 23:35 But manuša terdine adari te dikhenfse, a e jevrejengere vladarija marde muj e Isuseja vaćerindoj: “Averen spasinđa, akana nek spasini korkoro pes tei čače ov o Hrist e Devlesoro, o Birime!”
-LUK 23:36 Hem o vojnici marde muj e Isuseja, ale uzalo leste hem kaninde le ušli mol,
+LUK 23:36 Hem o vojnici marde muj e Isuseja. Ale uzalo leste hem kaninde le ušli mol,
 LUK 23:37 vaćerindoj: “Te injan o caro e jevrejengoro, spasin tut!”
 LUK 23:38 A upreder lesoro šero terdino znako kote inele pisime: “Akavai o caro e jevrejengoro.”
 LUK 23:39 Jekh okole dujendar kola inele čhivde ko krsto vređinđa e Isuse vaćerindoj: “Te injan o Hrist, sose na spasineja tut hem amen?”
@@ -1116,12 +1116,12 @@ LUK 24:3 Đerdinde andre, ali na arakhle o telo Gospodesoro e Isusesoro.
 LUK 24:4 I sar terđona ine adari zbunime, iklile anglo lende duj manuša ano sjajna šeja.
 LUK 24:5 O đuvlja but darandile hem peravde pumare šere nakori phuv, a o duj manuša phende lenđe: “Sose rodena e dživde maškaro mule?
 LUK 24:6 Ov nane akate. Uštino taro mule! Setinen tumen so vaćerđa tumenđe pana ani Galileja:
-LUK 24:7 ‘Me, o Čhavo e Manušesoro valjani te ovav dindo ano vasta e grešnone manušengere, te ovav čhivdo ko krsto, ali o trito dive ka uštav.’”
+LUK 24:7 ‘Me, o Čhavo e Manušesoro, valjani te ovav dindo ano vasta e grešnone manušengere, te ovav čhivdo ko krsto, ali o trito dive ka uštav.’”
 LUK 24:8 Tegani on setinde pe da o Isus phenđa lenđe adava.
 LUK 24:9 I irinde pe taro grobo palal ki diz te vaćeren adava e dešujekhe apostolenđe hem sarijenđe averenđe.
 LUK 24:10 Adala đuvlja inele i Marija tari diz Magdala, i Jovana, i Marija e Jakovesiri daj, hem avera. I on sa adava vaćerde e apostolenđe,
 LUK 24:11 ali o apostolja na verujinde lenđe, adalese so mislinde da sa adava izmislinde.
-LUK 24:12 A o Petar uštino hem prastandilo đi ko grobo. Ked reslo, teljarđa pe te dikhel ano grobo hem dikhlja samo o čaršavi saveja e Isusesoro telo inele paćardo. I irinđa pe palal pučindoj pes so ulo adava.
+LUK 24:12 A o Petar uštino hem prastandilo đi ko grobo. Ked reslo, teljarđa pe te dikhel ano grobo, hem dikhlja samo o čaršavi saveja e Isusesoro telo inele paćardo. I irinđa pe palal pučindoj pes so ulo adava.
 LUK 24:13 Adava dive duj oto e Isusesere sledbenici džana ine ko gav Emaus, dur taro Jerusalim dešujekh kilometarija.
 LUK 24:14 Odrumal vaćerena ine maškara pumende adalestar so ulo adala dive.
 LUK 24:15 I sar vaćerena ine ađahar, korkoro o Isus alo uzalo lende hem lelja te phirel olencar.
@@ -1153,12 +1153,12 @@ LUK 24:40 Vaćerindoj adava, mothovđa lenđe ple vasta hem o pre.
 LUK 24:41 On edobor inele radosna hem začudime da našti ine te verujinen. Tegani o Isus pučlja len: “Isi tumen li nešto xajbnase?”
 LUK 24:42 I on dinde le kotor oto peko maćho.
 LUK 24:43 Ov lelja hem xalja le anglo lende.
-LUK 24:44 Tegani o Isus phenđa ple učenikonenđe: “Ked injumle tumencar angleder mle meribnastar, vaćerđum tumenđe da sa valjani te pherđol soi pisime mandar ano Zakoni e Mojsijasoro, ano Lila e prorokonengere hem ano Psalmija.”
+LUK 24:44 Tegani o Isus phenđa ple učenikonenđe: “Ked angleder injumle tumencar, vaćerđum tumenđe da sa valjani te pherđol soi pisime mandar ano Zakoni e Mojsijasoro, ano Lila e prorokonengere hem ano Psalmija.”
 LUK 24:45 Tegani phravđa lengere jaćha te xaljoven o Sveta lila,
-LUK 24:46 i phenđa lenđe: “Ađahari pisime ko Sveta lila: ‘O Hrist ka patini hem ka merel, ali o trito dive ka uštel taro mule,
-LUK 24:47 hem ano lesoro anav ka propovedini pe sa e nacijenđe, počindoj taro Jerusalim, da valjani te pokajinen pe te šaj o Devel oprostini lenđe lengere greja.’
+LUK 24:46 i phenđa lenđe: “Ađahari pisime ko Sveta lila: O Hrist ka patini hem ka merel, ali o trito dive ka uštel taro mule,
+LUK 24:47 hem ano lesoro anav ka propovedini pe sa e nacijenđe, počindoj taro Jerusalim, da valjani te pokajinen pe te šaj o Devel oprostini lenđe lengere greja.
 LUK 24:48 Tumen injen svedoci adalestar.
-LUK 24:49 A me ka bičhalav tumenđe e Svetone Duho, sar so mlo Dad dinđa plo lafi. Tumen ačhoven ani diz đikote o zoralipe e Devlestar na ka huljel upra tumende.”
+LUK 24:49 A me ka bičhalav tumenđe e Svetone Duho, sar so mlo Dad dinđa plo lafi. Tumen ačhoven ani diz đikote o zoralipe e Devlestar naka huljel upra tumende.”
 LUK 24:50 Palo adava, o Isus ikalđa ple učenikonen tari diz hem anđa len uzalo gav Vitanija. Adari vazdinđa ple vasta hem blagoslovinđa len.
 LUK 24:51 I sar blagoslovini len ine, lelja te cidel pe olendar hem legardilo ko nebo.
 LUK 24:52 On pele ko kočija slavindoj le. Tegani pherde oti radost irinde pe ano Jerusalim.
