@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Hebrew---Modern-Hebrew-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Hebrew---Modern-Hebrew-Bible
-## File Created: 08/20/2021 08:48:45
+## File Created: 10/28/2021 15:31:48
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/heb_vpl.zip
-## Source Date: 08/14/2021 18:37:41
+## Source Date: 10/19/2021 11:22:52
 ## Source Text: unaltered below
 ##
 

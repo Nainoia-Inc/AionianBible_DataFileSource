@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 08/20/2021 08:48:53
+## File Created: 11/25/2021 08:51:45
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 08/18/2021 21:52:53
+## Source Date: 11/24/2021 03:04:13
 ## Source Text: unaltered below
 ##
 
@@ -152,7 +152,7 @@ LUK 3:3 O Jovane đelo taro than đi ko than tare solduj riga tari len e Jordane
 LUK 3:4 Sar so pisisada o proroko o Isaija, o Jovan sasa: “O glaso so dol vika ani pustinja: ‘Čeren o drom e Rajose! Ravnin lese o drom!
 LUK 3:5 Sa e doline te pherdon, thaj sa e gore thaj e bregura nek ravnin pe, thaj sa e banđe droma te aven prava, a e bilačhe droma te aven ravnome.
 LUK 3:6 Thaj sa e manuša ka dičhen e Devleso spasenje!’”
-LUK 3:7 O Jovane vačarda e manušenđe save avena te krstil len: “Tumen e sapese Čhave! Ko vačarda tumenđe kaj šaj te našen tare Devlesi holi so avol?
+LUK 3:7 O Jovane vačarda e manušenđe save avena te krstil len: “Tumen e sapese čhave! Ko vačarda tumenđe kaj šaj te našen tare Devlesi holi so avol?
 LUK 3:8 Sikaven tumare đuvdimasa thaj tumare bućencar kaj irisajljen taro greh thaj aviljen anglo Dol! Ma hohaven tumen golesa so vačaren: ‘Amaro Dad si o Avraam!’ Golese vačarav tumenđe kaj o Dol šaj tar kala bara vazdol čhaven e Avraamese.
 LUK 3:9 Golese kaj o tover tare Devleso sudo ačhol ano kaš karo koreno, thaj svako kaš savo ni bijanol šukar bijandipe ka čhinol pe, thaj ani jag ka čhudol pe.”
 LUK 3:10 Thaj e manuša pučhlje e Jovane: “So te čera?”
@@ -193,9 +193,9 @@ LUK 4:6 Thaj o beng vačarda lese: “Tuče ka dav sa kava lengo zuralipe thaj i
 LUK 4:7 Tu ako pere angle mingre koča sa ćiro ka avol.”
 LUK 4:8 Thaj o Isus vačarda lese: “Ano Sveto Lil ačhol: ‘Per ke koča e Rajose e Devlese ćirese, thaj lese jekhese kande.’”
 LUK 4:9 Thaj inđarda le ano Jerusalim, čuta le najučeste po Hramo, thaj vačarda lese: “Te san e Devleso Čhavo, čhude tu katar tele,
-LUK 4:10 golese kaj ano Sveto Lil ačhol: ‘Vov ka phenol pe melekurenđe te aračhen tut.’
-LUK 4:11 Thaj: ‘ka lol tut ke vasta te ma čalave tut ko bar će pingresa.’”
-LUK 4:12 Thaj o Isus vačarda lese: “Ano Sveto Lil si vačardo: ‘Ma iskuši e Rajo e Devle ćire.’”
+LUK 4:10 golese kaj ano Sveto Lil ačhol: ‘Vov ka phenol pe melekurenđe te aračhen tut’
+LUK 4:11 thaj: ‘ka lol tut ke vasta te ma čalave tut ko bar će pingresa.’”
+LUK 4:12 Thaj o Isus vačarda lese: “Ano Sveto Lil ačhol: ‘Ma iskuši e Rajo, e Devle ćire.’”
 LUK 4:13 Thaj kana ačhile sa e iskušenjura, o beng đelo lestar đi aver nesavo vreme.
 LUK 4:14 Thaj irisajlo o Isus ano zuralipe e Duxoso ani Galileja, thaj o lafi lestar đelo pe sa e thana.
 LUK 4:15 Thaj sikada ane lenđe sinagoge, thaj savore šukar lestar vačarde.
@@ -286,7 +286,7 @@ LUK 6:16 e Juda e Jakoveso, thaj e Juda e Iskariotskone, savo izdajisada le.
 LUK 6:17 O Isus ulilo taro brego pe Dešudujencar thaj ačhilo ko ravno than, thaj but sikade lese, thaj but manuša andari sa i Judeja thaj taro Jerusalim, thaj taro foro Tir em taro foro Sidon thaj pašutne thana save si pašo more.
 LUK 6:18 Von avile te šunen le thaj te sastardon taro piro nasvalipe, a sastardile i kola save sesa mučime tare benga.
 LUK 6:19 Thaj sa e manuša rodije te dolen pe po Isus, golese kaj lestar ikljola zor, thaj sastardona savore.
-LUK 6:20 Thaj o Isus dikhlja an pe sikade thaj vačarda: “Blagoslovime sen tumen save sen čore, golese kaj si tumaro o Carstvo e Devleso.
+LUK 6:20 Thaj o Isus dikhlja an pe sikade thaj vačarda: “Blagoslovime sen tumen save sen čore, golese kaj si tumaro o carstvo e Devleso.
 LUK 6:21 Blagoslovime sen tumen save sen bukhale, golese kaj ka čaljon. Blagoslovime sen tumen save roven akana, golese kaj ka asan.
 LUK 6:22 Blagoslovime sen kana e manuša ni manđen tumen, thaj kana čhuden tumen thaj lađaren tumen, thaj tumaro alav ni manđen sar e bi lačhengo golese so pačan an mande ano Čhavo e Manušeso.
 LUK 6:23 Radujin tumen ane gova đive thaj čhelen, thaj dik, bari si tumari plata ko Dol. Golese kaj gija čerde e prorokurenđe lenđe paradada.

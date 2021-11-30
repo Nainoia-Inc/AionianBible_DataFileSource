@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Textus-Receptus-Boyd---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-Textus-Receptus-Boyd
-## File Created: 08/20/2021 08:48:43
+## File Created: 10/28/2021 15:31:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/grctr_vpl.zip
-## Source Date: 08/15/2021 04:07:11
+## Source Date: 10/19/2021 14:56:33
 ## Source Text: unaltered below
 ##
 
@@ -5178,7 +5178,7 @@ ROM 15:2 Ἕκαστος γὰρ ἡμῶν τῷ πλησίον ἀρεσκέτ
 ROM 15:3 Καὶ γὰρ ὁ Χριστὸς οὐχ ἑαυτῷ ἤρεσεν, ἀλλά, καθὼς γέγραπται, Οἱ ὀνειδισμοὶ τῶν ὀνειδιζόντων σε ἐπέπεσον ἐπ᾿ ἐμέ.
 ROM 15:4 Ὅσα γὰρ προεγράφη, εἰς τὴν ἡμετέραν διδασκαλίαν προεγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.
 ROM 15:5 Ὁ δὲ Θεὸς τῆς ὑπομονῆς καὶ τῆς παρακλήσεως δῴη ὑμῖν τὸ αὐτὸ φρονεῖν ἐν ἀλλήλοις κατὰ Χριστὸν Ἰησοῦν·
-ROM 15:6 ἵνα ὁμοθυμαδὸν ἐν ἑνὶ στόματι δοξάζητε τὸν Θεὸν καὶ πατέρα τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.
+ROM 15:6 ἵνα ὁμοθυμαδὸν ἐν ἑνὶ στόματι δοξάζητε τὸν Θεὸν καὶ πατέρα τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ .
 ROM 15:7 Διὸ προσλαμβάνεσθε ἀλλήλους, καθὼς καὶ ὁ Χριστὸς προσελάβετο ἡμᾶς, εἰς δόξαν Θεοῦ.
 ROM 15:8 Λέγω δέ, Ἰησοῦν Χριστὸν διάκονον γεγενῆσθαι περιτομῆς ὑπὲρ ἀληθείας Θεοῦ, εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων·
 ROM 15:9 τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν Θεόν, καθὼς γέγραπται, Διὰ τοῦτο ἐξομολογήσομαί σοι ἐν ἔθνεσι, καὶ τῷ ὀνόματί σου ψαλῶ.
