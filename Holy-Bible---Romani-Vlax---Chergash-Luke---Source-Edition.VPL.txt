@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 11/25/2021 08:51:45
+## File Created: 12/31/2021 13:02:02
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 11/24/2021 03:03:48
+## Source Date: 12/30/2021 12:37:36
 ## Source Text: unaltered below
 ##
 
@@ -55,7 +55,7 @@ LUK 1:38 A e Marija phendas lešće: “Ake, sluškinja sem e Gospodešći. Neka
 LUK 1:39 Varesave đesa maj posle e Marija siđardas ande gorsko krajo e Judejako.
 LUK 1:40 Kana aresli okote dija ande Zaharijasko ćher, thaj pozdravisajli e Jelisavetava.
 LUK 1:41 Kana e Jelisaveta ašunda e Marijako pozdrav, o čhavro huklo ando lako đi, a e Jelisaveta pherdili e Sveto Duhosa.
-LUK 1:42 Pale godova e bahtatar čhutas muj e bare glasosa: “Maj blagoslovime san tu Marijo katar sa e manušnja, thaj blagoslovime o čhavro ande ćiro đi.
+LUK 1:42 Pale godova e bahtatar čhutas muj e bare glasosa: “Maj blagoslovime san tu, Marijo, katar sa e manušnja, thaj blagoslovime o čhavro ande ćiro đi.
 LUK 1:43 Savi čast siman, te tu e dej mungre Gospodešći aves mande!
 LUK 1:44 Kaj ake čim o pozdrav ćiro avilo džike mungre kan, e bahtatar o čhavro huklas ande mungro đi.
 LUK 1:45 Blago tuće kaj paćajan kaj pherdola okova so phendas tuće o Gospod!”
@@ -294,7 +294,7 @@ LUK 6:24 Ali teško tumenđe save sen akana barvale, kaj već primisardine e ute
 LUK 6:25 Teško tumenđe kaj sen akana čaljarde, kaj bokhavona. Teško tumenđe kaj asan akana, kaj rovena thaj tuguina.
 LUK 6:26 Teško tumenđe kana savora lačhe mothona pale tumende, kaj isto gajda amaro them ćerelas amare hohamne prorokonenđe ande lenđe vrjama.”
 LUK 6:27 “Ali tumenđe save ašunen phenav: Volin tumare dušmajen! Ćeran lačhipe okolenđe save mrzan tumen!
-LUK 6:28 Blagoslovin okolen kaj dentumen romaja! Molintumen e Devlešće pale okola save vređon tumen.
+LUK 6:28 Blagoslovin okolen kaj dentumen romaja! Molin tumen e Devlešće pale okola save vređon tumen.
 LUK 6:29 Ako vareko pećel tut pe jek rig e muješći, bolde lešće vi aver rig. Ako vareko lijas ćiro ogrtači, deles vi ćiro gad.
 LUK 6:30 Ko manđel tutar, deles. A okolestar kaj otmil ćiro na rode palpale.
 LUK 6:31 Thaj askal, sar kaman te ćeren e manuša tumenđe, gajda ćeren vi tumen lenđe.

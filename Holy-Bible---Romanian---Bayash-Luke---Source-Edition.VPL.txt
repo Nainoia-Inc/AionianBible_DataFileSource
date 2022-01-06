@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Bayash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Bayash-Luke
-## File Created: 11/25/2021 08:51:45
+## File Created: 12/31/2021 13:02:02
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/ronBayash_vpl.zip
-## Source Date: 11/24/2021 03:04:40
+## Source Date: 12/30/2021 00:40:06
 ## Source Text: unaltered below
 ##
 
@@ -295,7 +295,7 @@ LUK 6:25 Jao avovă kari ščec sătulj, kă voj vic fi flămănž. Jao avovă k
 LUK 6:26 Jao avovă dă kari toc benji svitešći, aša isto fišjec pă mišjinjoš prorokur, mošurlje alor kari aša fišjec.”
 LUK 6:27 “A voj kari mă punjec ureći, vă zăk: ‘Plăšjecăvă pă dužmanji avoštri. Făšjec benji alor kari vă mărzălešći.
 LUK 6:28 Blagoslovulec pă eje kari vă blastămă! Arugăcăvă dă eje kari relji vă kivinješći.
-LUK 6:29 Hăl kari či luvešći păšći una parći dă ubraz, ămbijă šă haje parći atunšje. Šă alu hăl kari ac je šuba nuj branalec să ăc je šă kămaša.
+LUK 6:29 Hăl kari či luvešći păšći una parći dă ubraz, ămbijă šă haje parći atunšje. Šă alu hăl kari ac je šuba nuj branalec să ăc je šă kămašă.
 LUK 6:30 Dă alu toc, šje šjeri dă la činji. Dakă je šjinjiva šjeva šje ăj atov, nu šjire să ac đe ăm napoj.
 LUK 6:31 Aša maj, făšjec alu altora kum ac gănđi să vă fakă avovă.
 LUK 6:32 Dakă plăšjec numa pă eje kari vă plašji pă voj, šjefăldă hvală vic kăpăta? Ka šă čak šă grešnici plašji pă eje kari lji plašji pă jej.
@@ -529,7 +529,7 @@ LUK 10:42 U biti numa una stvar trăbujă, šă Marija maj benji u akuljes, šă
 LUK 11:1 Undată kănd Isus u fost gata ku molitva, unu dăm učenici aluj u vinjit la jăl šă ju zăs: “Domnu, ănvacănji să nji arugănj, kum ănvăca Ivan Krstitelj pă učenici aluj.”
 LUK 11:2 Isus lju zăs alor: “Kănd vă arugăc zăšjec: ‘Tata, la să fijă svănt numilje atov, la să vijă kraljevstva ata, ka kum ăj pă nor la să fijă pă pămănt!
 LUK 11:3 Pita anostră kari ăj ăm totă ză, dă nji astăs.
-LUK 11:4 Šă jartănji grehurlje anoštri, ka kum noj jartănj alu eje kari grešilešći protiv dă noj. Nu nji da să kăđenj ăm ănšjirkalur, mar skoćinji afară dăm rov.’”
+LUK 11:4 Šă jartănji grehurlje anoštri, ka kum noj jartănj alu eje kari grešilešći protiv dă noj. Nu nji da să kăđenj ăm ănšjirkalur.’”
 LUK 11:5 Isus u zăs alor: “Haj să zăšjenj kă avec urtak la kari măržjec ăm miržuku dă nopći šă ăj zăšjec: ‘Urtaku amnjov, dăm kečinj tri dărabur dă pită.
 LUK 11:6 Urtaku u vinjit dă pă kalji la minji, šă nam šje să ăj puj dădănenći.’
 LUK 11:7 A jăl ăm nontru aj zăšji: ‘O nu mă gnjavali! Uša ăj mar ănkujetă, kupiji amej šă ju ăščenj ăm pat, šă jednostavno, nu mă pot skula să ac dov pită.’
