@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Beaver---Beaver-Mark---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Beaver---Beaver-Mark
-## File Created: 12/31/2021 13:01:34
+## File Created: 01/30/2022 07:19:13
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/bea_vpl.zip
-## Source Date: 12/30/2021 10:03:41
+## Source Date: 01/29/2022 10:58:05
 ## Source Text: unaltered below
 ##
 

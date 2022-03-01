@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 12/31/2021 13:02:02
+## File Created: 02/19/2022 20:42:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 12/30/2021 12:37:36
+## Source Date: 02/16/2022 20:43:21
 ## Source Text: unaltered below
 ##
 
@@ -559,7 +559,7 @@ LUK 11:30 Kaj okova so sas e Jonasa sas znako e manušenđe save trainas ando ga
 LUK 11:31 Po đes kana avela e Devlesko sudo, e carica savi dumut vladilas e južno phujava, savi akhardolas Saba, uštela thaj osudila e manušen save si ađes džude. Kaj dadural avili te ašunel e care Solomone savo sas zurale mudro, a akate si vareko maj baro vi katar o Solomon, a tu men čikamen te čhon kan leste!
 LUK 11:32 E manuša save majsigo trainas ando gav savo akhardolas Niniva, uštena po đes kana avela e Devlesko sudo thaj osudina e manušen save akana train. Kaj von pokaisajle kana o Jona propovedilas, a ake, akate si vareko majbaro katar o Jona a tumen još či pokaisajle!”
 LUK 11:33 O Isus majdur sikavelas: “Khonik či del jag o stenko te čholes po garado than, niti tale korpa, nego po čirako te okola kaj den andre dićhen o svetlo.
-LUK 11:34 Ćiri jak si stenko ćire telošće. Kana si ćiri jak sasti sasto ćiro telo si ando svetlost. Ali, ako si ćiri jak nasvali, ćiro telo si ande tama.
+LUK 11:34 Ćiri jak si stenko ćire telošće. Kana si ćiri jak sasti, sasto ćiro telo si ando svetlost. Ali, ako si ćiri jak nasvali, ćiro telo si ande tama.
 LUK 11:35 Zato lesama te okova so gndis kaj si ande tute svetlost naj li tama.
 LUK 11:36 Ako si sasto ćiro telo osvetlime, thaj ni cara tama naj ande tute, askal sasto aveja prosvetlime, sago kana o stenko pire svetlosa osvetlil tut.”
 LUK 11:37 Kana o Isus dija gata o svato, avilo leste varesavo farisejo thaj akharda les ande piro ćher te hal. Vo dija andre thaj lijas than pale sinija.
