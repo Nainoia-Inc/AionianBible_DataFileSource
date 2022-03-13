@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 02/19/2022 20:42:08
+## File Created: 03/10/2022 22:03:47
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 02/16/2022 20:44:10
+## Source Date: 03/07/2022 17:20:39
 ## Source Text: unaltered below
 ##
 
@@ -90,7 +90,7 @@ LUK 1:73 savez savo dija e Avraamese amare paradadese. Kaj ka dol amen
 LUK 1:74 te ikala amen tare vasta amare dušmajenđe, thaj te kanda e Devle bizi dar,
 LUK 1:75 ano svetost thaj ano pravednost angle leste sa dok sam đuvde.
 LUK 1:76 A tu, Jovane mo čhavo, ka akhardo proroko Embareso golese kaj ka đa anglo Rajo te čere leso drumo.
-LUK 1:77 Ka sikave lese manušen sar te pinđaren o spasenje prekalo oproštenje tare lenđe grehura,
+LUK 1:77 Ka sikave lese manušen sar te pinđaren o spasenje prekalo oproštenje tare lenđe grehura.
 LUK 1:78 Golese so si e Devleso ilo šukar, ka avol o svetlost pe amende sar nevi sabalin,
 LUK 1:79 te svetlil kolenđe so si ano kalipe thaj ani sena e merimasi, a amare pingre ka phiren ko drom taro mir.”
 LUK 1:80 A o čhavoro o Jovane barilo thaj zurajlo duxosa. Thaj đelo ani pustinja sa đi kaj ni iklilo angle Izraelcura te vačarol o Lafi e Devleso.
@@ -297,7 +297,7 @@ LUK 6:27 “Tumenđe vačarav save šunen: Manđen tumaren dušmajen! Šukar če
 LUK 6:28 Blagoslovin kolen save den tumen armaja! Molin tumen e Devlese kolenđe save bilačhe čeren tumencar.
 LUK 6:29 Savo čalavol tut pi čham, iri lese aver, thaj savo manđol tutar o ogrtači, de le ćo fostano.
 LUK 6:30 De svakone okova so rodol tutar, thaj te lija tutar ma rode palal.
-LUK 6:31 Gova so manđen te čeren e manuša tumenđe tumen čeren lenđe!
+LUK 6:31 Gova so manđen te čeren e manuša tumenđe, tumen čeren lenđe!
 LUK 6:32 Thaj ako manđen samo okolen save tumen manđen, savi si tumari hvala? Golese kaj čak i e grešnikura manđen okolen ko len manđol.
 LUK 6:33 Thaj te čeren šukar kolenđe save tumenđe čeren šukar, savi si tumari hvala? Golese kaj i e grešnikura čeren gija.
 LUK 6:34 Thaj ako den zajam okolenđe savendar ađučaren te irin o zajam, savi si tumari hvala? Golese kaj e grešnikura e grešnikurenđe den zajam te len palem gači.
@@ -478,7 +478,7 @@ LUK 9:53 Thaj ni manglje le gothe e manuša, golese kaj dikhlje kaj đal ano Jer
 LUK 9:54 Thaj kana dikhlje e sikade lese o Jakov thaj o Jovane pučlje e Isuse: “Rajo! Manđe li te phena te uljol i jag taro nebo thaj sa te phabarol len?”
 LUK 9:55 A o Isus irisajlo thaj dija vika pe lende.
 LUK 9:56 Thaj đele ane aver gav.
-LUK 9:57 A sar đele dromesa nesavo manuš vačarda e Isuse: “Rajo! Me ka đav tusa kaj tu đa.”
+LUK 9:57 A sar đele dromesa nesavo manuš vačarda e Isuse: “Me ka đav tusa kaj tu đa.”
 LUK 9:58 Thaj o Isus vačarda: “E lisicen isi len hva thaj e čiriklja isi len gnezdura: Me o Čhavo e Manušeso najma kaj mo šoro te pašljarav.”
 LUK 9:59 A o Isus avere manušese vačarda: “Phir pale mande.” A o manuš vačarda: “Rajo! Muk ma angleder te đav te prahov me dade.”
 LUK 9:60 A o Isus vačarda lese: “Ačhav e mule, nek prahon e mulen, a tu ajde vačar taro carstvo e Devleso.”

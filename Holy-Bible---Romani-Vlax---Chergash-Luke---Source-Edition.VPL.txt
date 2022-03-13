@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 02/19/2022 20:42:07
+## File Created: 03/10/2022 22:03:47
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 02/16/2022 20:43:21
+## Source Date: 03/07/2022 17:19:47
 ## Source Text: unaltered below
 ##
 
@@ -323,7 +323,7 @@ LUK 7:4 A von aviline ko Isus thaj počnisardine ilestar te molin les alavenca: 
 LUK 7:5 kaj volil amare them, thaj vo vazdas amenđe e sinagoga.”
 LUK 7:6 A o Isus teljarda lenca. Thaj kana sas već paše ko ćher, bičhalda o kapetano pire drugaren leste te phenen lešće: “Gospode! Na truditu, kaj najsem dostojno te des tale mungro krovo.
 LUK 7:7 Zato vi či inćaraman dostojno te avav angla tute, nego samo phen alav thaj sastola o sluga mungro.
-LUK 7:8 Vi me sem manuš tele vlast thaj siman tale mande vojnikurja. Thaj kana phenav jećhešće: ‘Dža!’, vo džaltar. Thaj kana phenav averešće ‘Av!’, vo avel. Thaj kana phenav mungre robošće: ‘Ćer godova!’, vo ćerel.”
+LUK 7:8 Vi me sem manuš tele vlast thaj siman tale mande vojnikurja. Thaj kana phenav jećhešće: ‘Dža!’, vo džaltar. Thaj kana phenav averešće: ‘Av!’, vo avel. Thaj kana phenav mungre robošće: ‘Ćer godova!’, vo ćerel.”
 LUK 7:9 A kana godova ašundas o Isus, začudisajlo e kapetanošće thaj boldape ko them savo džalas pale leste thaj phendas: “Phenav tumenđe: Ke nijek Izraelco či arakhlem gaći paćipe sago ke akava kapetano!”
 LUK 7:10 A kana okola kaj sas bičhalde katar o kapetano boldinepe ćhere, arakhline e robo kaj si sasto.
 LUK 7:11 Pale godova o Isus teljarda ando gav savo akhardolas Nain. Džanas pale leste e učenikurija thaj o but o them.

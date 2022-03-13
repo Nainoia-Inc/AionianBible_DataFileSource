@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Bayash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Bayash-Luke
-## File Created: 02/19/2022 20:42:08
+## File Created: 03/10/2022 22:03:48
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: http://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: http://ebible.org/Scriptures/ronBayash_vpl.zip
-## Source Date: 02/16/2022 20:45:05
+## Source Date: 03/07/2022 17:21:37
 ## Source Text: unaltered below
 ##
 
@@ -239,8 +239,8 @@ LUK 5:8 Kănd u văzut Šimun Petar aje jăl u kăzut la pišjorilje alu Isus š
 LUK 5:9 Frikă delj svăntă u kăzut pă jej šă pă ominj šje ur vinjit să lji ažući, kănd ur văzut kic pešć ur apukat.
 LUK 5:10 Isto aša asre ămirac Ivan šă Jakov, jej asre Zebedejevi fišjori šă urtašji alu Šimun. Ali Isus u zăs alu Šimun: “Nuc fijă frikă. Dă aku, maj menkulo tu vi apuka pă ominj!”
 LUK 5:11 Aša jej ur adus karurlje dă apă pă mal, ur lăsat kutotu šă lor sljedilit pă jăl.
-LUK 5:12 Isus are ăm unu dăm varušurljelje. Om pljin dă gubă lu văzutulă pă jăl šă su arukănt pă đinučiš ăm nenće aluj šă să aruga la jăl: “O Domnu, dakă numa tu vuješć, tu mă poc čistili.”
-LUK 5:13 Isus u măcăt măna aluj šă lu taknulit, šă u zăs: “Ju gănđesk. Fi čistilit!” Šă odmah guba lu lăsat.
+LUK 5:12 Isus are ăm unu dăm varušurljelje. Om pljin dă gubă lu văzutulă pă jăl šă su arukănt pă đinučiš ăm nenće aluj šă să aruga la jăl: “O Domnu, dakă numa tu vuješć, tu mă poc ăntrima.”
+LUK 5:13 Isus u măcăt măna aluj šă lu taknulit, šă u zăs: “Ju gănđesk. Fi čistilit!” Šă dănturdata guba lu lăsat.
 LUK 5:14 Atunšje lu purunšjitulă să nu spujă alu njime, čar asta să fakă: Elši să mergă la popă šă să să areći, dă pă aje, dă dokaz dă vražă, vi trăbuji să adušj žrtvă dă čistilală ka kum Mojsije u zapovijedălit.
 LUK 5:15 Svat dă jăl su širilit maj pă dăparći, aša dă gărmadă dă lumi ur vinjit să pujă ureći la jăl, šă să fijă ozdravalic.
 LUK 5:16 A jăl să tărăje pă lok pustulot šă să posvetilaskă la aruguminći.
