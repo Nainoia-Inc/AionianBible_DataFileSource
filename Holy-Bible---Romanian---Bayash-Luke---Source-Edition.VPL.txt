@@ -1,16 +1,16 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Bayash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Bayash-Luke
-## File Created: 03/10/2022 22:03:48
+## File Created: 04/19/2022 19:29:19
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://ebible.org/Scriptures/ronBayash_vpl.zip
-## Source Date: 03/07/2022 17:21:37
+## Source URL: https://ebible.org/Scriptures/ronBayash_vpl.zip
+## Source Date: 04/19/2022 02:23:01
 ## Source Text: unaltered below
 ##
 
@@ -157,7 +157,7 @@ LUK 3:8 Arătăc plodur dă ănkăjală! Nu vă apukăc să vă zăšjec una lu 
 LUK 3:9 Mar aku săkure dă sudu alu Dimizov ăj pusă sus să taji dăm korjen ljemnu. Tot ljemnu kari nu adušji bun plod u fi tijet ăndărăt šă vărljit ăm fok.
 LUK 3:10 Gărmadă lu ăntribat pă jăl: “Šje să făšjenj atunšje?”
 LUK 3:11 Ivan u zăs: “Dakă avec dovă kămašă atunšje ămpărcăcăvă ku ala kari nari njiš una. Dakă avec mănkari isto aša trăbă să vă ămpărcăc.”
-LUK 3:12 Akulo asre isto šă poreznici kari ur vinjit să să bučežă šă jej lor ăntribat: “Učitelju, šje să făšjenj?”
+LUK 3:12 Akulo asre isto šă carinici kari ur vinjit să să bučežă šă jej lor ăntribat: “Učitelju, šje să făšjenj?”
 LUK 3:13 Ivan u ăntors vorba: “Nu maj akuljižec majmult dă kită šje avec pravo să locă!”
 LUK 3:14 Šă kătănjilje isto lor ăntribat: “A noj? Šje trăbă noj să făšjenj?” Alor lju zăs: “Nu loc ku săla dă njime banj, njiš nu svedočulec krivo protiv dă šjinjiva šă fijec zadovoljni ku plata avostră!”
 LUK 3:15 Lume asre aku pljinj dă aščiptalur, šă să ăntriba ăm sufljičilje alor, nar puće Ivan să fijă Mesija.
@@ -344,12 +344,12 @@ LUK 7:25 Ili šje ac mers să viđec? Atunšje ac mers să viđec kum ăj ămbă
 LUK 7:26 Atunšje šje ac mers să viđec? Pă prorok? Naravno kă da! Ju vă zăk, šă maj mult dă prorok!
 LUK 7:27 Jăl ăj om dă kari aj skris ăj ăm svăntă kenvija: ‘Ujtăcăvă, asta ăj amnjov glasnik mănat să pripremalaskă ăm nenći kalje ata.’
 LUK 7:28 Anume vă zăk, dăm toc ominj kari su avutăsă, nu are maj mari dă kit dă Ivan. Ali majmikă ăm kraljevstva alu Dimizov ăj maj mari dă jăl!”
-LUK 7:29 Toc kari u auzăt ur priznalit kă šje Dimizov ănvacă ăj benji, čak šă poreznici. Eje ăs kari Ivan lju bučuzat.
+LUK 7:29 Toc kari u auzăt ur priznalit kă šje Dimizov ănvacă ăj benji, čak šă carinici. Eje ăs kari Ivan lju bučuzat.
 LUK 7:30 Ali farizeji šă učitelji dă zakonu alu Mojsije ur odbjilit planu alu Dimizov šje ave păntru jej. Jej ur odbjilit să lji bučeži Ivan.
 LUK 7:31 Isus u zăs atunšje: “Ku šje să usporedilenj pă ešće ominj ăm asta vremi? Kum samănă jej?
 LUK 7:32 Jej ăs ka kupiji mišj šje njimik nu lji pasalešći, kari šađi pă trg, šă să čamă una pă alt: ‘Kănd anj kăntat păntru voj, voj nac žukat, šă kănd anj kăntat trišč kănčiši păntru voj, voj nac plăns!’
 LUK 7:33 Aša kănd u vinjit Ivan šje bučază jăl nu mănka pită njiš nu bije vin, mar voj ac zăs: ‘Jăl ari drak ăm jăl!’
-LUK 7:34 Šă ju, Fišjoru alu Omu, am vinjit, šă ju mănkam šă bjem, ali voj zăšjec: ‘Ujtăcăvă! Flămănd šă butor, urtaku lu poreznici šă alu grešnici!’
+LUK 7:34 Šă ju, Fišjoru alu Omu, am vinjit, šă ju mănkam šă bjem, ali voj zăšjec: ‘Ujtăcăvă! Flămănd šă butor, urtaku lu carinici šă alu grešnici!’
 LUK 7:35 Ali mudrostu alu Dimizov su arătat kă ăj anume dă la toc kari u apukat.”
 LUK 7:36 Unu dăm farizej Šimun, lor čimatulă pă jăl pă večeră, aša Isus u mers la farizejula akasă šă šu aflatusă lok la masă.
 LUK 7:37 Dăm turdată u vinjit una tari grešnă mujeri, kari u saznalit kă jăl ăj akulo šă kă mănănkă la farizej, šă je u vinjit akulo, u adus tari skumpă uloj ku miros ăm skumpă ujagă dăm petră.
@@ -389,7 +389,7 @@ LUK 8:20 Šinjiva u javalit alu Isus: “Mumăta ata šă fraci atej stă afară
 LUK 8:21 Isus lju u zăs: “Mama ame šă fraci amej ăs eje kari auđi Vorba alu Dimizov, šă u kustă.”
 LUK 8:22 Una ză Isus šă učenici aluj ur tunat ăm čamac šă să mergă pă alta parći dă galilejsko jezero. Isus u zăs: “Hajd pă haje parči!” Aša sur maknulit dă la mal.
 LUK 8:23 Ali kum plovule jej, pă Isus lu furat somnu. Atunšje oluja ku văntu una su slăbuzăt pă jezero šă jej asre ăm opasnost, daje ka karu să umplje ku apă.
-LUK 8:24 Jej ur mers la Isus šă lor skulatulă ăm frikă šă mužje: “Domnu, Domnu noj nji ăntupenj!” Aša su skulat šă u zapovjedalit alu văntu šă alu valuvurljelje să să putuljaskă. Oluja su putuljit šă are putuljală.
+LUK 8:24 Jej ur mers la Isus šă lor skulatulă ăm frikă šă mužje: “Domnu, Domnu, noj nji ăntupenj!” Aša su skulat šă u zapovjedalit alu văntu šă alu valuvurljelje să să putuljaskă. Oluja su putuljit šă are putuljală.
 LUK 8:25 “Hunđi vi ănkriđala?”, Isus lju ăntribat pă jej. Ali jej asre pljinj dă frikă šă ămirală, šă u zăs una la alt: “Šinji ăj asta čak šă văntu šă valuvurlje ăl punji ureći pă jăl kănd zapovijedalešći?”
 LUK 8:26 Jej ur plovulit păn la malu dă Gerasa, kari ăj pă alta parći dă Galileja.
 LUK 8:27 Kum Isus u pus pišjorilje pă pămănt, ju vinjit dădănenči om dăm varuš kari are mar da multă dobă ku drašj ăm jăl. Jăl nu purta colji, šă nu kusta ăm kasă mar ăm gropur.
@@ -709,7 +709,7 @@ LUK 14:32 Atunšje dakă nu poći să ăl savladalaskă u măna pă pregovarać 
 LUK 14:33 Šă aša toc dăm voj dakă nu vic lăsa kutotu šje avec, nu poči să fijă učeniku amnjov.”
 LUK 14:34 Isus u zăs: “Sari ăj bună stvar ali dăkă perđi izu, ku šje poc ăntoršji bălureme?
 LUK 14:35 Nuj bună atunšje njiš dă pămănt njiš dă šrot. Lume numa u vărlješći ăndărăt. Punjec ureći voj kari avec ureći să auzăc!”
-LUK 15:1 Pălăngă Isus su okupulit tari mulc poreznici šă tari mari grešnici să pujă ureći la vorba aluj.
+LUK 15:1 Pălăngă Isus su okupulit tari mulc carinici šă tari mari grešnici să pujă ureći la vorba aluj.
 LUK 15:2 Farizeji šă učitelji dă zakonu alu Mojsije sur apukat să ăl gumunjaskă, šă jej zăšje: “Asta om să družulešći ku grešnici, šă mănănkă ku jej.”
 LUK 15:3 Daje Isus lji spunji asta usporedbă:
 LUK 15:4 “Dakă šjinjiva dăm voj ari sto birš šă să perđi una dăm jelji, nac lăsa pă ešće devedeset devet ăm pustulot, šă ac meržji dă pă aje una su kutăc păn šje nac afla?
@@ -818,10 +818,10 @@ LUK 18:6 Atunšje Domnu Isus u zăs: “Ac băgat sama šje šu zăs săngur alu
 LUK 18:7 Šă atunšje nu da Dimizov điriptaći šă zaštită alu lume akuljesă aluj kari plănži la jăl zuva šă nopće šă jăl are strpljiv ku jej.
 LUK 18:8 Ju vă zăk kă jăl u ažuta ku điriptači šă ku zaštită pă friš. Ali uj afla Fišjoru alu Omuluj dăstafelă ănkriđală ăm ominj kănd ju muj ăntoršji pă pămănt?”
 LUK 18:9 Isus u spus alta puvešči, alu orikic ominj kari asre tari uvjerilică ăm pravednostu alor, a jej pă alci să ujtă ku măržnjă.
-LUK 18:10 Jăl u zăs: “Doj ominj ur mers sus ăm Hram să să aroži. Unu dăm jej are farizej, šă altu om are poreznik.
-LUK 18:11 Farizeju su skulat sus šă u zăs asta aruguminći păntru dă jăl: ‘O Dimizolje, ju dov hvală cijă kă nu mes ju ka hešćelanc ominj: pulkućic, hamiš, preljubnik, ili čak ka asta poreznik.
+LUK 18:10 Jăl u zăs: “Doj ominj ur mers sus ăm Hram să să aroži. Unu dăm jej are farizej, šă altu om are carinik.
+LUK 18:11 Farizeju su skulat sus šă u zăs asta aruguminći păntru dă jăl: ‘O Dimizolje, ju dov hvală cijă kă nu mes ju ka hešćelanc ominj: pulkućic, hamiš, preljubnik, ili čak ka asta carinik.
 LUK 18:12 Ju postulesk dovă răndur pă săptămănă; dov desetina cijă dă kutotu šje zaradalesk.’
-LUK 18:13 Porezniku pă haje parći, u rămas dă parći, šă nu su ăndura să răđiši očiš ăm nor, numa ăš băče čeptu dă žalji šă zăšje: ‘Dimizolje aj milă dă minji grešnik!’
+LUK 18:13 Cariniku pă haje parći, u rămas dă parći, šă nu su ăndura să răđiši očiš ăm nor, numa ăš băče čeptu dă žalji šă zăšje: ‘Dimizolje aj milă dă minji grešnik!’
 LUK 18:14 Ju ăc zăk kă ala poreznik u mers akasă opravdan la Dimizov, a farizej nu. A tot omu kari să răđika săngur u fi ponizilit, ali eje kari u fi ponizni u fi răđikac.”
 LUK 18:15 Jej ur adus isto aša šă pă mišj kupijiš, să pujă Isus mănjilje pă jej să lji blagoslovulaskă. Ali kănd ur văzut aje učenici jej ljur svătit să ăj đe uđină.
 LUK 18:16 Isus lju čimat atunšje la jăl šă u zăs: “Lasălji pă kupiji să vijă la minji šă nu lji branalec, kă kraljevstva alu Dimizov pripadalešći alu dastafel ka jej.

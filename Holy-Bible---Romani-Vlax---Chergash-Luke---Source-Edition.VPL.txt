@@ -1,16 +1,16 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 03/10/2022 22:03:47
+## File Created: 04/19/2022 19:29:19
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 03/07/2022 17:19:47
+## Source URL: https://ebible.org/Scriptures/rmyChergash_vpl.zip
+## Source Date: 04/19/2022 02:21:19
 ## Source Text: unaltered below
 ##
 
@@ -479,8 +479,8 @@ LUK 9:54 Kana godova dikhline lešće učenikurja o Jakov thaj o Jovano, phučli
 LUK 9:55 A o Isus boldape lende thaj phendas lenđe kaj či gndin lačhe.
 LUK 9:56 Thaj đeletar ande aver gav.
 LUK 9:57 Dok džanas dromesa, varesosko manuš phendas e Isusešće: “Džava pale tute kaj god tu te džas.”
-LUK 9:58 A o Isus phendas lešće: “E lisicen si lenđe hvja, e čirikljen lenđe gnezdurja, a man e Čhave e Manušesće naj kaj mungro šoro te čhav.”
-LUK 9:59 Varesave avrešće phenda o Isus: “Sledi man!” A vo phendas lešće: “Gospode muk man samo te džav te prahov mungre dade.”
+LUK 9:58 A o Isus phendas lešće: “E lisicen si lenđe hvja, thaj e čirikljen lenđe gnezdurja, a man e Čhave e Manušesće naj kaj mungro šoro te čhav.”
+LUK 9:59 Varesave avrešće phenda o Isus: “Sledi man!” A vo phendas lešće: “Gospode, muk man prvo te džav te prahov mungre dade.”
 LUK 9:60 O Isus phendas lešće: “Muk e mulen te prahon pire mulen, aj tu dža thaj navestisar o carstvo e Devlesko.”
 LUK 9:61 Još vareko phendas: “Me džava pale tute Gospode, ali muk man te džav prvo te jartoman katar mungri familija.”
 LUK 9:62 A o Isus phendas lešće: “Ni jek savo lel o plugo ande pire vas te oril thaj askal dićhel palpale, naj dostojno palo carstvo e Devlesko.”

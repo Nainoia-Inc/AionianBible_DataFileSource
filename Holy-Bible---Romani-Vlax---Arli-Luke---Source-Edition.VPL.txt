@@ -1,16 +1,16 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 03/10/2022 22:03:47
+## File Created: 04/19/2022 19:29:19
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 03/07/2022 17:18:53
+## Source URL: https://ebible.org/Scriptures/rmyArli_vpl.zip
+## Source Date: 04/19/2022 02:20:27
 ## Source Text: unaltered below
 ##
 
@@ -757,7 +757,7 @@ LUK 16:14 Sa adava, so vaćerđa o Isus, šunde o fariseja kola volinde barvalip
 LUK 16:15 A o Isus phenđa lenđe: “Tumen injen adala so ćerena tumen pravedna anglo manuša, ali o Devel džanel dai tumare vile bišukar. Jer soi but vredno e manušenđe, adavai gadno e Devlese.”
 LUK 16:16 Tegani o Isus phenđa: “O Zakoni e Mojsijasoro hem o Lila e purane prorokonengere sikavena ine e manušen đi o aviba e Jovanesoro, a od tegani vaćeraja o Šukar lafi taro carstvo e Devlesoro hem terinaja sarijen te đerdinen ano leste.
 LUK 16:17 A palem, angleder o nebo hem i phuv ka nakhen, negoli jekh slovo oto Zakoni e Mojsijasoro te properel, te našali plo autoritet.
-LUK 16:18 Jekh primer: Kova tumendar mukela pla romnja hem lela avera, ćerela preljuba. Hem kova lela romnja kola o rom muklja, isto ćerela preljuba.”
+LUK 16:18 Jekh primer: Kova tumendar ačhaj pla romnja hem lela avera, ćerela preljuba. Hem kova lela romnja kola o rom muklja, isto ćerela preljuba.”
 LUK 16:19 O Isus phenđa: “Inele nesavo barvalo manuš kova hurjela pe ine sa ano najšuže šeja hem taro dive ko dive xala ine najšukar xabinja.
 LUK 16:20 Angli lesiri kapija sa ano čirevija pašljola ine nesavo čororo manuš palo anav Lazar.
 LUK 16:21 Ov but manglja te čaljari pe okolestar so ačhola ine palo xajba e barvalesoro. I ko sa adava, sar pašljola ine angli kapija, đi o diline đukle avena ine hem ližinena lesere čirevija.
