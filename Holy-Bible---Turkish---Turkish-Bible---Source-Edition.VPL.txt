@@ -1,16 +1,16 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Turkish---Turkish-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Turkish---Turkish-Bible
-## File Created: 01/30/2022 07:19:35
+## File Created: 12/31/2022 07:35:12
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://ebible.org/Scriptures/turev_vpl.zip
-## Source Date: 01/29/2022 13:52:26
+## Source URL: https://ebible.org/Scriptures/turev_vpl.zip
+## Source Date: 12/22/2022 07:03:18
 ## Source Text: unaltered below
 ##
 

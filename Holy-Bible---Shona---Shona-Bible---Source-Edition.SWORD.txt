@@ -1,16 +1,16 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Shona---Shona-Bible---Source-Edition.SWORD.txt
 ## File Usage: Holy-Bible---Shona---Shona-Bible
-## File Created: 04/03/2021 16:08:59
+## File Created: 08/18/2022 17:12:01
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Shona.zip
-## Source Date: 04/29/2019 23:24:16
+## Source URL: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Shona.zip
+## Source Date: 08/18/2022 16:40:22
 ## Source Text: unaltered below
 ##
 
