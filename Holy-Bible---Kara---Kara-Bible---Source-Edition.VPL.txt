@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Kara---Kara-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Kara---Kara-Bible
-## File Created: 12/22/2022 09:40:35
+## File Created: 02/04/2023 16:43:59
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/reg_vpl.zip
-## Source Date: 12/22/2022 05:29:37
+## Source Date: 02/03/2023 10:17:14
 ## Source Text: unaltered below
 ##
 

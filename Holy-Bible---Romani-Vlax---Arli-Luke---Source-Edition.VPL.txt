@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 01/12/2023 18:52:18
+## File Created: 02/11/2023 11:03:20
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 01/11/2023 03:09:42
+## Source Date: 02/10/2023 23:20:08
 ## Source Text: unaltered below
 ##
 
@@ -279,7 +279,7 @@ LUK 6:9 A o Isus phenđa lenđe: “Te pučav tumen: soi muklo te ćerel pe ko s
 LUK 6:10 I dikhindoj sarijen, phenđa lese: “Pružin to vas!” I ov ćerđa ađahar hem lesoro vas ulo sasto.
 LUK 6:11 A o fariseja hem o učitelja e Zakonestar pherdile bari holi hem vaćerde maškara pumende so te ćeren e Isusese.
 LUK 6:12 Adala dive, o Isus dželo ki gora te molini pe. I nakhavđa sa i rat ani molitva e Devlese.
-LUK 6:13 Kad dislilo, vičinđa kora peste ple učenikonen hem birinđa olendar dešudujen. Olen vičinđa “apostolja”:
+LUK 6:13 Kad dislilo, vičinđa kora peste ple učenikonen hem birinđa olendar dešudujen. Olen vičinđa apostolja:
 LUK 6:14 e Simone kole vičinđa Petar, hem lesere phrale e Andreja, e Jakove hem e Jovane, e Filipe hem e Vartolomeje,
 LUK 6:15 e Mateje hem e Toma, e Jakove e Alfejesere čhave hem e Simone kovai vičime Zilot,
 LUK 6:16 e Juda e Jakovesere čhave, hem e Juda e Iskariote, kova ulo izdajniko.

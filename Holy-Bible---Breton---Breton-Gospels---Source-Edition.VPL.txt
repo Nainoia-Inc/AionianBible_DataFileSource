@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Breton---Breton-Gospels---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Breton---Breton-Gospels
-## File Created: 12/22/2022 09:40:26
+## File Created: 02/04/2023 16:43:40
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/breBRG_vpl.zip
-## Source Date: 12/21/2022 23:26:26
+## Source Date: 02/03/2023 03:34:10
 ## Source Text: unaltered below
 ##
 

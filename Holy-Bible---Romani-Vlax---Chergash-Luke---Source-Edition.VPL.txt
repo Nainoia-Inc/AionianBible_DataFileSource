@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 01/12/2023 18:52:18
+## File Created: 02/11/2023 11:03:20
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 01/11/2023 03:11:10
+## Source Date: 02/10/2023 23:21:48
 ## Source Text: unaltered below
 ##
 
@@ -776,7 +776,7 @@ LUK 17:1 O Isus phendas pire učenikonenđe: “O iskušenje moraš te avel, ali
 LUK 17:2 Kasave manušesće avilosas majlačhe te unglaven lešće o mlinsko bar oko e kor thaj te čhuden les ando more, nego te crdel po bezeh jećhe katar akala manuša saven si cara paćipe.
 LUK 17:3 Upozoriv tumen! Ako ćiro phral savo si verniko pogrešil, ukori les thaj jartosar lešće ako pokailpes.
 LUK 17:4 Pa ako vi efta drom po đes sagrešil protiv tute thaj efta drom po đes avel thaj phenel tuće: ‘Jartosar manđe. Pogrešisardem!’, jartosar lešće.”
-LUK 17:5 E apostolja phendine e Gospodešće: “Trubulamen majbut paćipe. Phen amenđe sar te dobis!”
+LUK 17:5 E apostolurja phendine e Gospodešće: “Trubulamen majbut paćipe. Phen amenđe sar te dobis!”
 LUK 17:6 O Gospod phendas lenđe: “Te aveltumen paćipe gajda cara sago kaj si e gorušicako zrno, phendinesas akale dudošće: ‘Inkaltu e korenosa thaj presaditut ando more!’, thaj vo presadisajlosas.
 LUK 17:7 Ko tumendar phenela pire slugašće savo oril ili lel sama pe stoka, kana boldela pes andar o polje thaj del ando ćher: ‘Av brzo thaj beš pale sinija?’
 LUK 17:8 Či umesto godova phenena lešće gajda: ‘Ćer manđe večera! Čhov e kecelja pe tute thaj služisar man dok hav thaj pijav, pale godova tu haja thaj pijeja?’
@@ -987,7 +987,7 @@ LUK 21:37 O Isus svako đes sikavelas ando Hramo, a raćasa inkljelas thaj raća
 LUK 21:38 A so o them već katar e rano detharin avenas leste ando Hramo te ašunenles.
 LUK 22:1 Avili paše e Pasha savi sas prvo đes katar o prazniko bikvascošće mangrengo.
 LUK 22:2 E šorvale rašaja thaj e sikavne e Mojsiješće zakonestar rodenas sar te mudaren e Isuse. Ali daranas katar o them.
-LUK 22:3 Askal o beng dijas ando Juda andar o gav Iskariot, jek katar e dešuduj e Isusešće apostolja.
+LUK 22:3 Askal o beng dijas ando Juda andar o gav Iskariot, jek katar e dešuduj e Isusešće apostolurja.
 LUK 22:4 Vo đelo thaj dogovorisajlo e šorvale rašajenca thaj e Hramske stražarenca sar te predail lenđe e Isuses.
 LUK 22:5 Von raduisajle thaj obećisardine lešće kaj denas les love.
 LUK 22:6 O Juda pristanisardas. Katar askal o Juda rodelas prilika te predail e Isuses lenđe a te na dićhel o them.
