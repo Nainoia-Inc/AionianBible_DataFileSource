@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 02/11/2023 11:03:20
+## File Created: 03/18/2023 08:52:11
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 02/10/2023 23:20:08
+## Source Date: 03/17/2023 23:47:19
 ## Source Text: unaltered below
 ##
 
@@ -94,7 +94,7 @@ LUK 1:77 Ka sikave lesere narodo sar te pendžaren o spasenje prekalo oprostiba 
 LUK 1:78 palo amare Devlesoro milosrdno vilo palo savo o svetlost odupral ka avel kora amende sar ikljojba e khamesoro,
 LUK 1:79 te svetlini okolenđe so bešena ani tomina hem ani senka e meribnasiri, te legari amen ko drom oto mir.”
 LUK 1:80 A o čhavoro o Jovan barjola ine hem zoraljola ano duho. Kad barilo, živinđa ani pustinja sa đikote na iklilo anglo Izraelci te propovedini.
-LUK 2:1 žA ano adava vreme kad o Jovan bijandilo, o caro o Avgust naredinđa te ćerel pe popis oto sa o manuša ano carstvo e rimesoro.
+LUK 2:1 A ano adava vreme kad o Jovan bijandilo, o caro o Avgust naredinđa te ćerel pe popis oto sa o manuša ano carstvo e rimesoro.
 LUK 2:2 Adava inele prvo popis ćerdo sar o Kvirinije ine vladini ani Sirija.
 LUK 2:3 I sa o manuša džele ko dizja kaj bešle lengere preci te prijavinen pe zako popis.
 LUK 2:4 Ađahar da o Josif, adalese so inele potomko e carosoro e Davidesoro, dželo tari diz Nazaret oti regija Galileja ko gav Vitlejem oti regija Judeja, kote o David bijandilo.
@@ -711,9 +711,9 @@ LUK 14:35 Esavko nane šukar ni zaki phuv ni zako đubrivo, i frdela pe. Phraven
 LUK 15:1 But carinici hem prešunde grešnici čedena pe ine uzalo Isus te šunen le.
 LUK 15:2 A o fariseja hem o učitelja e Zakonestar mrmljinde vaćerindoj: “Akava primini kora peste e grešnikonen hem hala olencar.”
 LUK 15:3 Adalese o Isus phenđa lenđe akaja priča:
-LUK 15:4 “Te nekas tumendar isi šel bakre i jekh olendar našaldilo, so ka ćerel? Ka ačhaj e enjavardešuenjen ko gore hem ka džal te rodel e našalde bakre sa đikote na arakhi le.
-LUK 15:5 I kad ka arakhi le, ka radujini pe, ka čhivel le ko piče
-LUK 15:6 hem ka legari le čhere. Tegani ka vičini ple amalen hem ple komšijen kora peste hem ka phenel lenđe: ‘Radujinen tumen mancar! Arakhljum mle našalde bakre.’
+LUK 15:4 “Te nekas tumendar isi šel bakre i jekh olendar našaldili, so ka ćerel? Ka ačhaj e enjavardešuenjen ko gore hem ka džal te rodel e našalda bakrija sa đikote na arakhi la.
+LUK 15:5 I kad ka arakhi la, ka radujini pe, ka čhivel la ko piče
+LUK 15:6 hem ka legari la čhere. Tegani ka vičini ple amalen hem ple komšijen kora peste hem ka phenel lenđe: ‘Radujinen tumen mancar! Arakhljum mle našalda bakrija.’
 LUK 15:7 Vaćerava tumenđe, ađahar da ano nebo ka ovel po bari radost zako jekh grešniko kad irini pe taro ple grehija ko Devel nego li zako enjavardešuenja pravednici kola mislinena da na valjani te obratinen pe.”
 LUK 15:8 O Isus phenđa hem akava: “Ili te nesava đuvlja isi deš srebrna kovanice i jekh našali, so ka ćerel? Ka tharel o svetlo, ka šulaj o čher hem šukar ka rodel i kovanica đikote na arakhi la.
 LUK 15:9 I kad ka arakhi la, ka vičini ple amalinjen hem ple komšiken kora peste hem ka phenel lenđe: ‘Radujinen tumen mancar! Arakhljum i kovanica savi našalđum.’
@@ -846,7 +846,7 @@ LUK 18:35 Kad o Isus alo paše uzali diz Jerihon, uzalo drom bešela ine nesavo 
 LUK 18:36 Kad o kororo manuš šunđa sar o narodo nakhela, raspučlja pe soi adava.
 LUK 18:37 I phende lese so o Isus o Nazarećanin nakhela.
 LUK 18:38 Tegani o kororo vičinđa: “Isuse, Čhaveja Davidesereja, smilujin tut maje!”
-LUK 18:39 A o manuša kola phirde anglo Isus phende lese te traini, ali ov pana po zorale vičinđa: “Čhaveja Davidesereja, smilujin tut maje!”
+LUK 18:39 A o manuša kola phirde anglo Isus vičinde upro leste te traini, ali ov pana po zorale vičinđa: “Čhaveja Davidesereja, smilujin tut maje!”
 LUK 18:40 Tegani o Isus terdino hem naredinđa te anen e korore anglo leste. I kad ande le, o Isus pučlja le:
 LUK 18:41 “So mangeja te ćerav će?” A o kororo phenđa: “Gospode, mangava te dikhav.”
 LUK 18:42 I o Isus phenđa lese: “Dikh! Sasljardo injan adalese so verujinđan.”
