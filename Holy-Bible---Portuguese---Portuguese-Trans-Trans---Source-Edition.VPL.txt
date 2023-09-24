@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Portuguese---Portuguese-Trans-Trans---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Portuguese---Portuguese-Trans-Trans
-## File Created: 03/04/2023 16:00:37
+## File Created: 09/21/2023 06:29:00
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/portft_vpl.zip
-## Source Date: 03/03/2023 22:00:13
+## Source Date: 09/16/2023 23:24:14
 ## Source Text: unaltered below
 ##
 

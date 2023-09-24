@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---One-Unity-Resource-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---One-Unity-Resource-Bible
-## File Created: 03/04/2023 16:00:19
+## File Created: 09/21/2023 06:28:47
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/engourb_vpl.zip
-## Source Date: 03/04/2023 12:44:27
+## Source Date: 09/15/2023 20:37:24
 ## Source Text: unaltered below
 ##
 
