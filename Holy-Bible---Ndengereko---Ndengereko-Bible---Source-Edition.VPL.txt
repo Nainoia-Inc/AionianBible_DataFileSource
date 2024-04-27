@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Ndengereko---Ndengereko-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Ndengereko---Ndengereko-Bible
-## File Created: 09/21/2023 06:28:58
+## File Created: 02/21/2024 18:52:11
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/ndg_vpl.zip
-## Source Date: 09/16/2023 22:51:27
+## Source Date: 02/21/2024 17:45:01
 ## Source Text: unaltered below
 ##
 

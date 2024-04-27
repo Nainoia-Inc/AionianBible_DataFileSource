@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Ludari-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Ludari-Luke
-## File Created: 11/07/2023 18:28:42
+## File Created: 03/26/2024 09:22:32
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/ronludari_vpl.zip
-## Source Date: 11/06/2023 21:01:34
+## Source Date: 03/22/2024 16:16:51
 ## Source Text: unaltered below
 ##
 
