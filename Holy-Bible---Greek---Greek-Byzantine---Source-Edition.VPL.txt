@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Byzantine---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-Byzantine
-## File Created: 01/15/2024 19:38:59
+## File Created: 04/30/2024 18:41:32
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/grcbyz_vpl.zip
-## Source Date: 12/20/2023 23:18:03
+## Source Date: 04/29/2024 18:27:04
 ## Source Text: unaltered below
 ##
 

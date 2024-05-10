@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 04/16/2024 06:54:15
+## File Created: 05/08/2024 06:16:55
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 04/16/2024 00:17:44
+## Source Date: 05/06/2024 15:49:08
 ## Source Text: unaltered below
 ##
 
@@ -38,7 +38,7 @@ MAT 1:21 She will give birth to a son, and yoʋ shall name him Jesus, for he wil
 MAT 1:22 All this took place to fulfill what the Lord had spoken through the prophet:
 MAT 1:23 “Behold, the virgin will conceive and give birth to a son, and they will name him Immanuel” (which means, “God with us”).
 MAT 1:24 When Joseph awoke from his sleep, he did as the angel of the Lord commanded him. He took his wife,
-MAT 1:25 but knew her not until she had given birth to her firstborn son. And he named him Jesus.
+MAT 1:25 but did not know her intimately until she had given birth to her firstborn son. And he named him Jesus.
 MAT 2:1 After Jesus was born in Bethlehem of Judea, in the days of Herod the king, behold, wise men from the east arrived in Jerusalem,
 MAT 2:2 saying, “Where is the child who has been born king of the Jews? For we saw his star in the east and have come to worship him.”
 MAT 2:3 When Herod the king heard this, he was troubled, and all Jerusalem with him.
@@ -340,7 +340,7 @@ MAT 11:8 What then did you go out to see? A man clothed in soft garments? Behold
 MAT 11:9 But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
 MAT 11:10 For this is the one of whom it is written, ‘Behold, I am sending my messenger ahead of yoʋ, who will prepare yoʋr way before yoʋ.’
 MAT 11:11 Truly I say to you, among those born of women there has arisen no one greater than John the Baptist, but whoever is least in the kingdom of heaven is greater than he.
-MAT 11:12 From the days of John the Baptist until now the kingdom of heaven has been suffering violence, and the violent take it by force.
+MAT 11:12 From the days of John the Baptist until now the kingdom of heaven has been suffering violence, and the violent try to take it by force.
 MAT 11:13 For all the prophets and the law prophesied until John.
 MAT 11:14 And if you are willing to accept it, he is Elijah who is to come.
 MAT 11:15 He who has ears to hear, let him hear.
@@ -377,7 +377,7 @@ MAT 12:15 Aware of this, Jesus withdrew from there. Large crowds followed him, a
 MAT 12:16 and warned them not to make him known.
 MAT 12:17 This was to fulfill what had been spoken through Isaiah the prophet:
 MAT 12:18 “Behold, my servant whom I have chosen, my beloved, in whom my soul is well pleased. I will put my Spirit upon him, and he will declare justice to the Gentiles.
-MAT 12:19 He will not quarrel, nor will he cry out, nor will anyone hear his voice in the streets.
+MAT 12:19 He will not quarrel or cry out, nor will anyone hear his voice in the streets.
 MAT 12:20 A bruised reed he will not break, and a smoldering wick he will not extinguish, until he brings justice to victory.
 MAT 12:21 And in his name the Gentiles will hope.”
 MAT 12:22 Then a demon-possessed man who was blind and mute was brought to him, and Jesus healed him, so that the man who was blind and mute could speak and see.
@@ -391,7 +391,7 @@ MAT 12:29 Or how can anyone enter the house of a strong man and plunder his good
 MAT 12:30 Whoever is not with me is against me, and whoever does not gather with me scatters.
 MAT 12:31 Therefore I tell you, people will be forgiven for every sin and blasphemy, but they will not be forgiven for blasphemy against the Spirit.
 MAT 12:32 Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, neither in the present age nor in the age to come.
-MAT 12:33 “Either make the tree good and its fruit good, or make the tree bad and its fruit bad, for by its fruit the tree is known.
+MAT 12:33 “A tree is known by its fruit. If a tree is good, its fruit will also be good. If a tree is bad, its fruit will also be bad.
 MAT 12:34 You brood of vipers, how can you speak good things, when you are evil? For out of the abundance of the heart the mouth speaks.
 MAT 12:35 The good person brings good things out of his good treasure, and the evil person brings evil things out of his evil treasure.
 MAT 12:36 But I tell you, on the day of judgment people will give an account for every idle word they speak.
@@ -402,7 +402,7 @@ MAT 12:40 For just as Jonah was in the belly of the great sea creature for three
 MAT 12:41 The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here.
 MAT 12:42 The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.
 MAT 12:43 “When an unclean spirit has gone out of a person, it goes through waterless places seeking rest, but does not find any.
-MAT 12:44 Then it says, ‘I will return to my house from which I came out.’ When it arrives, it finds the house unoccupied, swept, and put in order.
+MAT 12:44 Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house unoccupied, swept, and put in order.
 MAT 12:45 Then it goes and takes with it seven other spirits more evil than itself, and they go in and dwell there, and the last state of that person becomes worse than the first. So will it be with this evil generation also.”
 MAT 12:46 While Jesus was still speaking to the crowds, behold, his mother and his brothers stood outside, asking to speak to him.
 MAT 12:47 Then someone said to him, “Behold, yoʋr mother and yoʋr brothers are standing outside, asking to speak to yoʋ.”
@@ -2298,7 +2298,7 @@ LUK 11:20 But if I cast out demons by the finger of God, then the kingdom of God
 LUK 11:21 When a strong man, fully armed, guards his own palace, his possessions are secure.
 LUK 11:22 But when a stronger man attacks and overpowers him, he takes away all the armor in which the man trusted and then distributes the plunder.
 LUK 11:23 Whoever is not with me is against me, and whoever does not gather with me scatters.
-LUK 11:24 “When an unclean spirit has gone out of a person, it goes through waterless places seeking rest. But when it does not find any, it says, ‘I will return to my house from which I came out.’
+LUK 11:24 “When an unclean spirit has gone out of a person, it goes through waterless places seeking rest. But when it does not find any, it says, ‘I will return to the house I left.’
 LUK 11:25 When it arrives, it finds the house swept and put in order.
 LUK 11:26 Then it goes and takes along seven other spirits more evil than itself, and they go and dwell there, and the last state of that person becomes worse than the first.”
 LUK 11:27 As Jesus was saying these things, a woman from among the crowd lifted up her voice and said to him, “Blessed is the womb that bore yoʋ, and the breasts at which yoʋ nursed.”
@@ -2837,7 +2837,7 @@ LUK 23:30 Then they will begin to say to the mountains, ‘Fall on us!’ and to
 LUK 23:31 For if they do these things when the wood is green, what will happen when it is dry?”
 LUK 23:32 Now two others, who were criminals, were also being led away to be put to death with Jesus.
 LUK 23:33 When they came to the place called the Skull, the soldiers crucified him there along with the criminals, one on his right and one on his left.
-LUK 23:34 But Jesus said, “Father, forgive them, for they know not what they do.” Then they cast lots to divide his garments.
+LUK 23:34 But Jesus said, “Father, forgive them, for they do not know what they are doing.” Then they cast lots to divide his garments.
 LUK 23:35 The people stood there looking on, and the rulers who were with them ridiculed him, saying, “He saved others; let him save himself if he is the Christ, the Chosen One of God.”
 LUK 23:36 The soldiers also mocked him, coming up to him and offering him sour wine,
 LUK 23:37 saying, “If yoʋ are the king of the Jews, save yoʋrself!”
@@ -6725,25 +6725,25 @@ COL 4:18 I, Paul, write this greeting with my own hand. Remember my chains. Grac
 2TI 3:4 traitors, reckless, puffed up, and lovers of pleasure rather than lovers of God,
 2TI 3:5 having a form of godliness but denying its power. Avoid such people.
 2TI 3:6 Among them are those who worm their way into houses and captivate vulnerable women who are overwhelmed with sins and swayed by various evil desires.
-2TI 3:7 Such women are always learning and never able to come to the knowledge of the truth.
-2TI 3:8 Just as Jannes and Jambres opposed Moses, so these men also oppose the truth. They are corrupted in mind and have been proven unqualified with respect to the faith.
-2TI 3:9 But they will not make further progress, for their folly will become obvious to everyone, as was the folly of Jannes and Jambres.
+2TI 3:7 Such women are always learning yet never able to come to the knowledge of the truth.
+2TI 3:8 Just as Jannes and Jambres opposed Moses, so these false teachers also oppose the truth. They are corrupted in mind and have proven themselves to be unqualified with respect to the faith.
+2TI 3:9 But they will not make any further progress, for their folly will become obvious to everyone, just like the folly of Jannes and Jambres.
 2TI 3:10 Yoʋ, however, have closely followed my teaching, conduct, purpose, faith, patience, love, and endurance.
 2TI 3:11 Yoʋ know how much persecution and suffering I endured in Antioch, Iconium, and Lystra. Yet the Lord rescued me from it all.
 2TI 3:12 Indeed, everyone who wants to live a godly life in Christ Jesus will be persecuted.
 2TI 3:13 But evil people and imposters will become worse and worse, deceiving and being deceived.
 2TI 3:14 But as for yoʋ, continue in what yoʋ have learned and firmly believed, knowing from whom yoʋ have learned it,
 2TI 3:15 and how from childhood yoʋ have known the sacred writings, which are able to give yoʋ wisdom for salvation through faith in Christ Jesus.
-2TI 3:16 All Scripture is inspired by God and beneficial for teaching, for reproof, for correction, and for instruction in righteousness,
+2TI 3:16 All Scripture is inspired by God and is beneficial for teaching, reproof, correction, and instruction in righteousness,
 2TI 3:17 so that the man of God may be complete, fully equipped for every good work.
-2TI 4:1 I solemnly charge yoʋ therefore in the presence of God and the Lord Jesus Christ, who will judge the living and the dead when he appears along with his kingdom:
+2TI 4:1 I solemnly charge yoʋ therefore in the presence of God and the Lord Jesus Christ, who will judge the living and the dead when he appears with his kingdom:
 2TI 4:2 Preach the word, be prepared whether the time is favorable or not, reprove, rebuke, and encourage, with complete patience and careful instruction.
 2TI 4:3 For a time is coming when people will not tolerate sound doctrine, but having itching ears they will surround themselves with teachers to suit their own desires.
 2TI 4:4 They will turn their ears away from the truth and be turned aside to myths.
 2TI 4:5 But as for yoʋ, be sober-minded in all things, endure hardship, do the work of an evangelist, and fulfill yoʋr ministry.
 2TI 4:6 For I am already being poured out like a drink offering, and the time of my departure is at hand.
 2TI 4:7 I have fought the good fight, I have finished the race, I have kept the faith.
-2TI 4:8 There is now laid up for me the crown of righteousness, which the Lord, the righteous Judge, will give to me on that day, and not only to me, but also to all who have longed for his appearing.
+2TI 4:8 There is now laid up for me a crown of righteousness, which the Lord, the righteous Judge, will give to me on that day, and not only to me, but also to all who have longed for his appearing.
 2TI 4:9 Make every effort to come to me soon.
 2TI 4:10 For Demas, who is in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.
 2TI 4:11 Luke alone is with me. Get Mark and bring him with yoʋ, for he is useful to me for ministry.
@@ -6758,7 +6758,7 @@ COL 4:18 I, Paul, write this greeting with my own hand. Remember my chains. Grac
 2TI 4:20 Erastus stayed in Corinth, and Trophimus, who was sick, I left in Miletus.
 2TI 4:21 Make every effort to come before winter. Eubulus greets yoʋ, and so do Pudens, Linus, Claudia, and all the brothers.
 2TI 4:22 The Lord Jesus Christ be with yoʋr spirit. Grace be with you. Amen.
-TIT 1:1 Paul, a servant of God and an apostle of Jesus Christ for the faith of God's chosen ones and the knowledge of the truth that is in accordance with godliness,
+TIT 1:1 Paul, a servant of God and an apostle of Jesus Christ, appointed to further the faith of God's chosen ones and the knowledge of the truth that is in accordance with godliness,
 TIT 1:2 in the hope of eternal life, which God, who does not lie, promised before time began;
 TIT 1:3 in his own time he revealed his word through the preaching with which I was entrusted by the command of God our Savior;
 TIT 1:4 to Titus, my true child in our common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
@@ -6773,7 +6773,7 @@ TIT 1:12 One of their very own prophets said, “Cretans are always liars, evil 
 TIT 1:13 This testimony is true. Therefore rebuke them sharply, so that they may become sound in the faith,
 TIT 1:14 not paying any attention to Jewish myths or the commandments of men who turn away from the truth.
 TIT 1:15 To the pure, all things are pure; but to those who are defiled and do not believe, nothing is pure. In fact, both their minds and their consciences are defiled.
-TIT 1:16 They profess to know God, but by their works they deny him. They are detestable, disobedient, and proven unqualified for any good work.
+TIT 1:16 They profess to know God, but by their works they deny him. They are detestable, disobedient, and have proven themselves to be unqualified for any good work.
 TIT 2:1 But as for yoʋ, teach what is consistent with sound doctrine.
 TIT 2:2 Elderly men are to be sober-minded, dignified, sensible, and sound in faith, love, and endurance.
 TIT 2:3 Elderly women likewise are to be reverent in behavior, not slanderous or enslaved to much wine, but teaching what is good,
@@ -6817,7 +6817,7 @@ PHM 1:10 appeal to yoʋ on behalf of my child, Onesimus, whose father I have bec
 PHM 1:11 Once he was useless to yoʋ, but now he is useful both to yoʋ and to me. I am sending him back,
 PHM 1:12 and I ask yoʋ to receive him, that is, my very own heart.
 PHM 1:13 I wanted to keep him with me so that he could serve me in yoʋr place during my imprisonment for the gospel.
-PHM 1:14 But I did not want to do anything without yoʋr consent, so that yoʋr good deed might not be done out of compulsion, but of yoʋr own free will.
+PHM 1:14 But I did not want to do anything without yoʋr consent, so that yoʋr good deed would not be done out of compulsion, but of yoʋr own free will.
 PHM 1:15 Perhaps the reason he was separated from yoʋ for an hour was so that yoʋ might have him back forever,
 PHM 1:16 no longer as a slave, but more than a slave, as a beloved brother, especially to me, but even more so to yoʋ, both in the flesh and in the Lord.
 PHM 1:17 So if yoʋ consider me to be a partner, receive him as yoʋ would receive me.
@@ -6840,7 +6840,7 @@ HEB 1:8 but of the Son he says, “Yoʋr throne, O God, endures forever and ever
 HEB 1:9 Yoʋ have loved righteousness and hated lawlessness; therefore God, yoʋr God, has anointed yoʋ with the oil of gladness beyond yoʋr companions.”
 HEB 1:10 And, “In the beginning yoʋ, O Lord, laid the foundation of the earth, and the heavens are the works of yoʋr hands.
 HEB 1:11 They will perish, but yoʋ remain; they will all wear out like a garment.
-HEB 1:12 Yoʋ will roll them up like a robe, and they will be changed. But yoʋ are the same, and yoʋr years will have no end.”
+HEB 1:12 Yoʋ will roll them up like a robe, and they will be changed. But yoʋ remain the same, and yoʋr years will never come to an end.”
 HEB 1:13 To which of the angels did God ever say, “Sit at my right hand until I make yoʋr enemies a footstool for yoʋr feet”?
 HEB 1:14 Are they not all ministering spirits sent out to serve those who will inherit salvation?
 HEB 2:1 Therefore we must pay greater attention to what we have heard, so that we do not drift away.
@@ -6873,7 +6873,7 @@ HEB 3:9 where your fathers tried me, tested me, and saw my works for forty years
 HEB 3:10 Therefore I was angry with that generation and said, ‘They always go astray in their hearts; they have not known my ways.’
 HEB 3:11 As I swore in my wrath, ‘They will not enter my rest!’ ”
 HEB 3:12 Brothers, make sure that none of you has an evil heart of unbelief that turns away from the living God.
-HEB 3:13 But encourage one another each day, as long as it is called “Today,” so that none of you may be hardened by the deceitfulness of sin.
+HEB 3:13 But encourage one another each day, as long as it is called “Today,” so that none of you will be hardened by the deceitfulness of sin.
 HEB 3:14 For we have become sharers in Christ, if indeed we hold our original confidence firm to the end.
 HEB 3:15 As it is said, “Today, if you hear his voice, do not harden your hearts as in the rebellion.”
 HEB 3:16 For some did rebel when they heard God's voice, but not all whom Moses led out of Egypt.
@@ -6925,7 +6925,7 @@ HEB 6:12 so that you will not be sluggish, but imitators of those who inherit th
 HEB 6:13 When God made his promise to Abraham, since he had no one greater to swear by, he swore by himself,
 HEB 6:14 saying, “I will surely bless yoʋ and multiply yoʋ.”
 HEB 6:15 And so Abraham, having patiently endured, obtained the promise.
-HEB 6:16 People swear by someone greater than themselves, and in every dispute among them an oath is final for confirmation.
+HEB 6:16 People swear by someone greater than themselves, and in all their disputes an oath is final for confirmation.
 HEB 6:17 So when God wanted to show the unchangeable nature of his purpose even more clearly to the heirs of the promise, he guaranteed it with an oath,
 HEB 6:18 so that by two unchangeable things, in which it is impossible for God to lie, we who have fled for refuge would have strong encouragement to take hold of the hope set before us.
 HEB 6:19 We have this hope as a sure and steadfast anchor for the soul. It enters into the inner sanctuary behind the veil,
@@ -6947,7 +6947,7 @@ HEB 7:14 For it is clear that our Lord arose from Judah, and in connection with 
 HEB 7:15 Now this point becomes even more clear when there arises another priest like Melchizedek,
 HEB 7:16 one who has become a priest, not through a legal requirement concerning physical descent, but through the power of an endless life.
 HEB 7:17 For God testifies, “Yoʋ are a priest forever according to the order of Melchizedek.”
-HEB 7:18 The former commandment is set aside because it was weak and ineffective
+HEB 7:18 The former commandment is set aside because of its weakness and ineffectiveness
 HEB 7:19 (for the law made nothing perfect), and a better hope is introduced, by which we draw near to God.
 HEB 7:20 And none of this happened without an oath. Aaron's descendants become priests without an oath,
 HEB 7:21 but Jesus was made a priest with an oath by the one who said to him, “The Lord has sworn and will not change his mind, ‘Yoʋ are a priest forever according to the order of Melchizedek.’ ”
@@ -6958,8 +6958,8 @@ HEB 7:25 Therefore he is able to save to the uttermost those who come to God thr
 HEB 7:26 It was fitting for us to have such a high priest, one who is holy, innocent, undefiled, separated from sinners, and exalted above the heavens.
 HEB 7:27 He has no need, like the other high priests, to offer up daily sacrifices, first for his own sins, and then for the sins of the people. For he did this once for all when he offered up himself.
 HEB 7:28 For the law appoints as high priests men who have weakness, but the word of the oath, which came after the law, appoints the Son, who has been made perfect forever.
-HEB 8:1 Now the main point of what we are saying is this: We have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,
-HEB 8:2 a minister of the holy places and of the true tabernacle, which was set up by the Lord, not by man.
+HEB 8:1 Now the main point of what we are saying is this: We have such a high priest, who sat down at the right hand of the Majesty's throne in heaven,
+HEB 8:2 where he serves as a minister of the holy places and the true tabernacle, which was set up by the Lord, not by man.
 HEB 8:3 For every high priest is appointed to offer gifts and sacrifices; therefore, it was necessary for this priest also to have something to offer.
 HEB 8:4 For if he were on earth, he would not even be a priest, since there are already priests who offer gifts according to the law.
 HEB 8:5 They serve a copy and shadow of the heavenly things. For when Moses was about to build the tabernacle, he was warned by God, “Be sure to make everything according to the pattern that was shown to yoʋ on the mountain.”
@@ -6994,21 +6994,21 @@ HEB 9:20 saying, “This is the blood of the covenant that God has ordained for 
 HEB 9:21 In the same way, he sprinkled with blood the tabernacle and all the vessels used in worship.
 HEB 9:22 Indeed, according to the law nearly everything is purified with blood, and without the shedding of blood there is no remission.
 HEB 9:23 So it was necessary for the copies of the things in heaven to be purified with these sacrifices, but for the heavenly things themselves to be purified with better sacrifices than these.
-HEB 9:24 For Christ did not enter holy places made with hands, which are copies of the true ones; he entered heaven itself, so that he might appear now before God on our behalf.
+HEB 9:24 For Christ did not enter holy places made with hands, which are copies of the true ones; he entered heaven itself, so that he might now appear before God on our behalf.
 HEB 9:25 Nor did he enter heaven to offer himself many times, as the high priest enters the holy places year after year with blood that is not his own,
-HEB 9:26 for then he would have had to suffer again and again since the foundation of the world. But now he has appeared once for all at the end of the ages to remove sin by the sacrifice of himself.
+HEB 9:26 for then he would have had to suffer again and again since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to remove sin by the sacrifice of himself.
 HEB 9:27 And just as it is appointed for men to die once and then face judgment,
 HEB 9:28 so also Christ, having been offered once to bear the sins of many, will appear a second time, not to bear sin, but to bring salvation to those who are eagerly waiting for him.
-HEB 10:1 Since the law has only a shadow of the good things to come and not the true form of those things, the same sacrifices that they continually offer year after year can never perfect those who draw near to worship.
-HEB 10:2 Otherwise, would they not have ceased to be offered, since the worshipers would have been purified once and for all, and would no longer have any consciousness of sins?
-HEB 10:3 But in these sacrifices there is a reminder of sins year after year.
+HEB 10:1 Since the law has only a shadow of the good things to come and not the true form of those things, the same sacrifices offered year after year can never perfect those who draw near to worship.
+HEB 10:2 Otherwise, would they not have ceased to be offered, since the worshipers would have been purified once and for all, and would no longer have any consciousness of their sins?
+HEB 10:3 But year after year they are reminded of their sins by these sacrifices.
 HEB 10:4 For it is impossible for the blood of bulls and goats to take away sins.
 HEB 10:5 Therefore, when Christ came into the world, he said, “Sacrifice and offering yoʋ did not desire, but a body yoʋ prepared for me;
 HEB 10:6 in whole burnt offerings and sin offerings yoʋ took no pleasure.
 HEB 10:7 Then I said, ‘Behold, I have come to do yoʋr will, O God, as it is written about me in the scroll of the book.’ ”
 HEB 10:8 In the passage above he says, “Sacrifice and offering, and whole burnt offerings and sin offerings you did not desire, nor did you take pleasure in them” (although they are offered according to the law),
 HEB 10:9 Then he adds, “Behold, I have come to do yoʋr will, O God.” He takes away the first in order to establish the second.
-HEB 10:10 By God's will we have been sanctified through the offering of the body of Jesus Christ once for all.
+HEB 10:10 By God's will, we have been sanctified through the offering of the body of Jesus Christ once for all.
 HEB 10:11 Now every priest stands daily at service, offering again and again the same sacrifices that can never take away sins.
 HEB 10:12 But when Christ had offered for all time one sacrifice for sins, he sat down at the right hand of God,
 HEB 10:13 where he is now waiting until his enemies are made a footstool for his feet.
@@ -7016,7 +7016,7 @@ HEB 10:14 For by one offering he has perfected for all time those who are being 
 HEB 10:15 The Holy Spirit also testifies to us about this. First he says,
 HEB 10:16 “This is the covenant I will make with them after those days, says the Lord: I will put my laws on their hearts and write them on their minds.”
 HEB 10:17 Then he adds, “Their sins and their lawless deeds I will remember no more.”
-HEB 10:18 Now where there is remission of these, there is no longer any offering for sin.
+HEB 10:18 Now where there is remission of these, an offering for sin is no longer needed.
 HEB 10:19 Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus,
 HEB 10:20 by the new and living way he opened for us through the veil (that is, through his flesh),
 HEB 10:21 and since we have a great priest over the house of God,
@@ -7034,9 +7034,9 @@ HEB 10:32 But remember the earlier days when, after you were enlightened, you en
 HEB 10:33 At times you were publicly exposed to reproach and affliction, and at other times you were partners with those who were treated that way.
 HEB 10:34 For you sympathized with me when I was in prison, and you accepted the plundering of your possessions with joy, knowing that you have for yourselves a better and lasting possession in heaven.
 HEB 10:35 Therefore do not throw away your confidence, which has a great reward.
-HEB 10:36 For you have need of endurance, so that when you have done the will of God, you may receive the promise.
-HEB 10:37 “For in just a little while, he who is coming will come and will not delay.
-HEB 10:38 But the righteous one will live by faith; and if he shrinks back, my soul takes no pleasure in him.”
+HEB 10:36 For you have need of endurance, so that when you have done the will of God, you will receive what was promised.
+HEB 10:37 “For in just a little while, he who is coming will come and not delay.
+HEB 10:38 But the righteous one will live by faith; and if he shrinks back, my soul will take no pleasure in him.”
 HEB 10:39 But we are not among those who shrink back and are destroyed, but among those who have faith and preserve their souls.
 HEB 11:1 Now faith is the assurance of what we hope for and the conviction of what we do not see.
 HEB 11:2 Because of their faith, the people of old were commended.

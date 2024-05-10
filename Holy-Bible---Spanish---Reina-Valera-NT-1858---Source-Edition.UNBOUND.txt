@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Spanish---Reina-Valera-NT-1858---Source-Edition.UNBOUND.txt
 ## File Usage: Holy-Bible---Spanish---Reina-Valera-NT-1858
-## File Created: 04/03/2021 16:12:05
+## File Created: 05/17/2021 08:40:19
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: http://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
