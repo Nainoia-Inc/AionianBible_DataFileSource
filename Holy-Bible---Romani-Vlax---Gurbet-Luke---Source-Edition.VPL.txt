@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 05/08/2024 06:17:13
+## File Created: 05/20/2024 19:24:27
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 05/08/2024 00:14:34
+## Source Date: 05/17/2024 17:10:23
 ## Source Text: unaltered below
 ##
 
@@ -642,7 +642,7 @@ LUK 12:59 A ako phandol tut vaćarav tuće: Ni ka iklje gothar dok ni poćine d�
 LUK 13:1 Ane gova vreme odori sesa nesave save phende e Isusese tare Galilejcura savengo rat o Pilat mešisada lenđe kurbanurencar.
 LUK 13:2 O Isus phenda lenđe: “Tumen li den gođi kaj gola Galilejcura so sesa mudarde si pogrešna tare avera Galilejcura?
 LUK 13:3 Na! Phenav tumenđe, al ako ni irin tumen tare grehura, sa tumen gija ka meren.
-LUK 13:4 Il, so si kole dešohtonecar pe kaste pelo o toranj ano Siloam thaj mudarda len? Tumen li den gođi kaj von sesa po grešna tare sa avera manuša so bešen ano Jerusalim?
+LUK 13:4 Il, so si kole dešohtonecar (18) pe kaste pelo o toranj ano Siloam thaj mudarda len? Tumen li den gođi kaj von sesa po grešna tare sa avera manuša so bešen ano Jerusalim?
 LUK 13:5 Na! Phenav tumenđe, al ako ni irin tumen tare grehura, sa tumen gija ka meren.”
 LUK 13:6 O Isus vaćarda lenđe kaja paramič: “Jekhe manuše sasa smokva sadime ano vinograd. Kana avilo te dičhol dal anda bijandipe, ni arakhlja pe late khanči.
 LUK 13:7 Tegani vaćarda e manušese savo ćerda bući ko vinograd: ‘Ak, trito berš sar avav te rodav bijandipe pi kaja smokva, al ni arakhav khanči. Čhin la! Sose te šućarol i phuv?’
