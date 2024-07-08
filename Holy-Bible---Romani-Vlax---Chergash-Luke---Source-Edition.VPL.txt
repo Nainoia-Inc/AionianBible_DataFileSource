@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 05/20/2024 19:24:27
+## File Created: 07/05/2024 09:15:56
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 05/17/2024 17:10:16
+## Source Date: 07/04/2024 19:32:58
 ## Source Text: unaltered below
 ##
 
@@ -547,7 +547,7 @@ LUK 11:18 Ako si o beng ande peste podelime, sar ačhela lesko carstvo? A tumen 
 LUK 11:19 Ako me e Veelzevulešće silava tradav e bilačhe duhonen andar e manuša, kašće silava askal tumare učenikurja traden len? Gajda von korkoro dokažina kaj najsen ando pravo.
 LUK 11:20 Ali ako me e Devlešće silava tradav e bilačhe duhonen, čačes avilo tumende o carstvo e Devlesko.”
 LUK 11:21 O Isus još phendas: “Džikaj god o zuralo manuš, lačhe naoružime, araćhel piro ćher, lesko barvalipe si sigurno.
-LUK 11:22 Ali te avel o majzuralo lestar, svladila les thaj otmil lešće sa lesko oružije ande savo uzdilaspe, a o pleno razdelila.”
+LUK 11:22 Ali te avel o majzuralo lestar, svladila les thaj otmil lešće sa lesko oružje ande savo uzdilaspe, a o pleno razdelila.”
 LUK 11:23 Zato ko naj manca protiv mande si. Thaj ko manca či ćidel, rspil.
 LUK 11:24 Askal o Isus phendas: “Kana o bilačho duho inkljel andar o manuš, lutil pe puste thana thaj rodel pešće than kaj šaj te odmoril pes. A kana či araćhel o than, phenel: ‘Boldava man ande mungro ćher, ando manuš andar savo inkljistem.’
 LUK 11:25 Thaj kana areslo o bilačho duho arakhlas e manuše savo si sago o čučo ćher, šlado thaj lačhardo.

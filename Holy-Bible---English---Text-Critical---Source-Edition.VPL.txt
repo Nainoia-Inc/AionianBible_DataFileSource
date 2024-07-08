@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 05/20/2024 19:24:22
+## File Created: 06/29/2024 16:23:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 05/17/2024 23:49:42
+## Source Date: 06/28/2024 23:30:31
 ## Source Text: unaltered below
 ##
 
@@ -452,15 +452,15 @@ MAT 13:40 Therefore, just as the tares are gathered and burned with fire, so it 
 MAT 13:41 The Son of Man will send his angels, and they will gather out of his kingdom all stumbling blocks and those who practice lawlessness.
 MAT 13:42 They will throw them into the fiery furnace. In that place there will be weeping and gnashing of teeth.
 MAT 13:43 Then the righteous will shine like the sun in the kingdom of their Father. He who has ears to hear, let him hear.
-MAT 13:44 “Again, the kingdom of heaven is like a treasure hidden in a field, which a man found and hid, and out of his joy he went and sold all that he had and bought that field.
+MAT 13:44 “Again, the kingdom of heaven is like a treasure hidden in a field, which a man found and hid again, and in his joy he went and sold all that he had and bought that field.
 MAT 13:45 “Again, the kingdom of heaven is like a merchant seeking fine pearls.
 MAT 13:46 When he found one pearl of great price, he went and sold all that he had and bought it.
-MAT 13:47 “Again, the kingdom of heaven is like a dragnet that was cast into the sea and gathered together fish of every kind.
-MAT 13:48 When it was full, the fishermen drew it to shore. Then they sat down and gathered the good fish into containers, but the bad ones they threw out.
+MAT 13:47 “Again, the kingdom of heaven is like a dragnet that was cast into the sea, catching all kinds of fish.
+MAT 13:48 When it was full, the fishermen drew it to shore. Then they sat down and put the good fish into containers, but the bad ones they threw away.
 MAT 13:49 So it will be at the end of the age. The angels will come and separate the evil from the righteous
 MAT 13:50 and throw them into the fiery furnace. In that place there will be weeping and gnashing of teeth.”
 MAT 13:51 Jesus said to them, “Have you understood all these things?” They said to him, “Yes, Lord.”
-MAT 13:52 Then he said to them, “Therefore every scribe that has been trained as a disciple for the kingdom of heaven is like a master of a house who brings out of his treasure things new and old.”
+MAT 13:52 Then he said to them, “Every scribe that has been trained as a disciple for the kingdom of heaven is like a master of a house who brings out of his treasure things new and old.”
 MAT 13:53 When Jesus had finished these parables, he departed from there.
 MAT 13:54 Then he went to his hometown and taught the people in their synagogue. They were astonished and said, “Where did this man get this wisdom and these miraculous powers?
 MAT 13:55 Is this not the carpenter's son? Is not his mother's name Mary, and are not his brothers James, Joses, Simon, and Judas?
@@ -481,7 +481,7 @@ MAT 14:11 John's head was brought on a platter and given to the girl, and she br
 MAT 14:12 Later, John's disciples came and took his body and buried it. Then they went and brought word to Jesus.
 MAT 14:13 When Jesus heard this, he withdrew from there in a boat to a desolate place by himself. But the crowds heard about it and followed him on foot from the towns.
 MAT 14:14 And when Jesus went ashore and saw a large crowd, he was moved with compassion for them and healed their sick.
-MAT 14:15 As evening approached, his disciples came to him and said, “This place is desolate, and the hour is now late. Send the crowds away so that they may go into the villages and buy food for themselves.”
+MAT 14:15 As evening approached, his disciples came to him and said, “This place is desolate, and the hour is now late. Send the crowds away so that they may go into the villages and buy themselves some food.”
 MAT 14:16 But Jesus said to them, “They have no need to go away; you give them something to eat.”
 MAT 14:17 They said to him, “We have here only five loaves and two fish.”
 MAT 14:18 He said, “Bring them here to me.”
@@ -497,7 +497,7 @@ MAT 14:27 But Jesus immediately said to them, “Take courage! It is I; do not b
 MAT 14:28 In response Peter said to him, “Lord, if it is yoʋ, command me to come to yoʋ on the water.”
 MAT 14:29 So he said, “Come.” Then Peter got down from the boat and walked on the water to go to Jesus.
 MAT 14:30 But when he saw the strong wind, he became frightened, and beginning to sink, he cried out, “Lord, save me!”
-MAT 14:31 Immediately Jesus stretched out his hand, took hold of him, and said to him, “O yoʋ of little faith, why did yoʋ doubt?”
+MAT 14:31 Immediately Jesus reached out his hand, took hold of him, and said to him, “O yoʋ of little faith, why did yoʋ doubt?”
 MAT 14:32 And when they had gotten into the boat, the wind ceased.
 MAT 14:33 Then those who were in the boat came and worshiped him, saying, “Truly yoʋ are the Son of God.”
 MAT 14:34 When they had crossed the sea, they came to the land of Gennesaret.
@@ -507,7 +507,7 @@ MAT 15:1 Then the scribes and Pharisees from Jerusalem came to Jesus and said,
 MAT 15:2 “Why do yoʋr disciples break the tradition of the elders? For they do not wash their hands when they eat bread.”
 MAT 15:3 He answered them, “And why do you break the commandment of God for the sake of your tradition?
 MAT 15:4 For God commanded, ‘Honor yoʋr father and yoʋr mother,’ and, ‘Whoever speaks evil of his father or mother must surely die.’
-MAT 15:5 But you say, ‘If anyone says to his father or mother, “Whatever benefit yoʋ might have received from me is a gift to God,” then he certainly need not honor his father or his mother.’
+MAT 15:5 But you say, ‘If anyone says to his father or mother, “Whatever benefit yoʋ might have received from me is now a gift devoted to God,” then he certainly need not honor his father or his mother.’
 MAT 15:6 You have nullified the commandment of God for the sake of your tradition.
 MAT 15:7 Hypocrites! Isaiah prophesied rightly about you when he said,
 MAT 15:8 ‘This people draws near to me with their mouth and honors me with their lips, but their heart is far from me.
@@ -1312,7 +1312,7 @@ MAR 6:32 So they went away to a desolate place in the boat by themselves.
 MAR 6:33 Now many saw them going away and recognized Jesus. They ran together on foot from all the towns, got there ahead of them, and gathered around him.
 MAR 6:34 When Jesus went ashore and saw a large crowd, he was moved with compassion for them, because they were like sheep without a shepherd. So he began to teach them many things.
 MAR 6:35 When the hour was already quite late, his disciples came to him and said, “This place is desolate, and the hour is now late.
-MAR 6:36 Send the people away so that they may go into the surrounding countryside and villages and buy themselves bread, for they have nothing to eat.”
+MAR 6:36 Send the people away so that they may go into the surrounding countryside and villages and buy themselves some bread, for they have nothing to eat.”
 MAR 6:37 But Jesus answered them, “You give them something to eat.” They said to him, “Are we to go and buy two hundred denarii worth of bread and give it to them to eat?”
 MAR 6:38 He said to them, “How many loaves do you have? Go and see.” When they found out, they said, “Five, and two fish.”
 MAR 6:39 Then he directed them to have all the people sit down in groups on the green grass.
@@ -1343,7 +1343,7 @@ MAR 7:7 They worship me in vain, teaching as doctrines the commandments of men.�
 MAR 7:8 For you have neglected the commandment of God and are holding to the tradition of men, such as various washings of pots and cups. And you do many other similar things such as these.”
 MAR 7:9 Then he said to them, “You have a fine way of setting aside the commandment of God so that you may keep your tradition!
 MAR 7:10 For Moses said, ‘Honor yoʋr father and yoʋr mother,’ and, ‘Whoever speaks evil of his father or mother must surely die.’
-MAR 7:11 But you teach that it is acceptable for a man to say to his father or mother, ‘Whatever benefit yoʋ might have received from me is Corban’ ” (that is, a gift to God).
+MAR 7:11 But you teach that it is acceptable for a man to say to his father or mother, ‘Whatever benefit yoʋ might have received from me is Corban’ ” (that is, a gift devoted to God).
 MAR 7:12 “In this way you no longer permit him to do anything for his father or his mother,
 MAR 7:13 thus nullifying the word of God by your tradition that you have handed down. And you do many similar things such as these.”
 MAR 7:14 Then Jesus called over the entire crowd and said to them, “Listen to me, all of you, and understand:
@@ -1837,7 +1837,7 @@ LUK 1:71 salvation from our enemies and from the hand of all who hate us—
 LUK 1:72 to deal mercifully with our fathers and to remember his holy covenant,
 LUK 1:73 the oath he swore to Abraham our father, to grant us
 LUK 1:74 that we, having been rescued from the hands of our enemies, might serve him without fear,
-LUK 1:75 in holiness and righteousness before him all the days of our life.
+LUK 1:75 in holiness and righteousness before him all the days of our lives.
 LUK 1:76 And yoʋ, child, will be called a prophet of the Most High, for yoʋ will go before the presence of the Lord to prepare his ways,
 LUK 1:77 to give his people knowledge of salvation through the remission of their sins,
 LUK 1:78 through the tender mercy of our God, by which the sunrise has visited us from on high,
@@ -5074,7 +5074,7 @@ ROM 10:17 So then, faith comes by hearing, and hearing comes through the word of
 ROM 10:18 But I ask, have they not heard? On the contrary, “The message has gone out into all the earth, and the words to the ends of the world.”
 ROM 10:19 Again I ask, did Israel not understand? First Moses says, “I will provoke you to jealousy by that which is not a nation; by a nation that has no understanding I will provoke you to anger.”
 ROM 10:20 And Isaiah is even bold enough to say, “I was found by those who were not seeking me; I became known to those who were not asking for me.”
-ROM 10:21 But to Israel he says, “All day long I have stretched out my hands to a disobedient and contrary people.”
+ROM 10:21 But to Israel he says, “All day long I have held out my hands to a disobedient and contrary people.”
 ROM 11:1 I ask then, has God rejected his people? Certainly not! For I too am an Israelite, a descendant of Abraham, of the tribe of Benjamin.
 ROM 11:2 God has not rejected his people whom he foreknew. Do you not know what the Scripture says in the passage about Elijah, how he pleads with God against Israel, saying,
 ROM 11:3 “Lord, they have killed yoʋr prophets and demolished yoʋr altars, and I alone am left, and they are seeking my life”?
@@ -7314,7 +7314,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 3:22 who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to him.
 1PE 4:1 Therefore, since Christ has suffered for us in the flesh, arm yourselves with the same mentality, because whoever has suffered in the flesh has ceased from sin,
 1PE 4:2 so as to live his remaining time in the flesh no longer for the evil desires of men, but for the will of God.
-1PE 4:3 For we have spent enough of our life doing what the Gentiles like to do, walking in sensual indulgences, evil desires, excesses of wine, revelries, drinking bouts, and illicit idolatries.
+1PE 4:3 For we have spent enough of our lives doing what the Gentiles like to do, walking in sensual indulgences, evil desires, excesses of wine, revelries, drinking bouts, and illicit idolatries.
 1PE 4:4 They are surprised when you do not run with them into the same flood of debauchery, so they revile you.
 1PE 4:5 But they will give an account to him who is ready to judge the living and the dead.
 1PE 4:6 For this is the reason the gospel was preached even to the dead, so that, though they have been judged in the flesh as men are, they might live in the spirit as God does.
@@ -7322,7 +7322,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 4:8 Above all, maintain a deep love for one another, because love will cover a multitude of sins.
 1PE 4:9 Be hospitable to one another without grumbling.
 1PE 4:10 As each of you has received a gift, use it to serve one another, as good stewards of the manifold grace of God.
-1PE 4:11 If anyone speaks, he should do so as one who speaks the oracles of God; if anyone serves, he should do so as one who serves from strength as God supplies it, so that in all things God may be glorified through Jesus Christ. To him belong the glory and the power forever and ever. Amen.
+1PE 4:11 If anyone speaks, he should do so as one who speaks the oracles of God; if anyone serves, he should do so as one who serves from strength as God supplies it, so that in all things God may be glorified through Jesus Christ. To him be the glory and the power forever and ever. Amen.
 1PE 4:12 Beloved, do not be surprised at the fiery trial that has come upon you to test you, as though a strange thing were happening to you.
 1PE 4:13 But insofar as you share in the sufferings of Christ, rejoice, so that you may also rejoice and be glad when his glory is revealed.
 1PE 4:14 If you are reproached for the name of Christ, you are blessed, because the Spirit of glory and of God rests upon you. On their part he is blasphemed, but on your part he is glorified.
@@ -7331,7 +7331,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 4:17 For it is time for judgment to begin with the household of God, and if it begins first with us, what will be the outcome for those who are disobedient to the gospel of God?
 1PE 4:18 And, “If the righteous man is scarcely saved, what will become of the ungodly man and sinner?”
 1PE 4:19 Therefore, those who suffer according to the will of God should entrust their souls to him as their faithful Creator while doing what is good.
-1PE 5:1 I exhort the elders among you, I who am a fellow elder, a witness of the sufferings of Christ, and a partaker in the glory that will be revealed:
+1PE 5:1 I exhort the elders among you, I who am a fellow elder, a witness of the sufferings of Christ, and a partaker of the glory that will be revealed:
 1PE 5:2 Shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly; not for sordid gain, but eagerly.
 1PE 5:3 Do not lord it over those entrusted to you, but be examples to the flock.
 1PE 5:4 And when the chief Shepherd appears, you will receive the unfading crown of glory.
@@ -7392,9 +7392,9 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 2PE 3:2 so that you remember the words spoken in the past by the holy prophets and the commandment of our Lord and Savior given through your apostles.
 2PE 3:3 First of all, you must understand that scoffers will come in the last days, walking according to their own lusts.
 2PE 3:4 They will say, “Where is the promise of his coming? For ever since the fathers fell asleep, everything continues as it has since the beginning of creation.”
-2PE 3:5 They deliberately overlook the fact that by the word of God the heavens came into being long ago and the earth was formed out of water and through water.
-2PE 3:6 Through these the world of that time was flooded by water and destroyed.
-2PE 3:7 But by his word the heavens and the earth that now exist have been reserved for fire, being kept until the day of judgment and the destruction of the ungodly.
+2PE 3:5 They deliberately overlook the fact that by the word of God the heavens came into being long ago and the earth emerged through the water and was separated from the water.
+2PE 3:6 And by the water and the word, the world of that time was deluged and destroyed.
+2PE 3:7 Furthermore, by his word the heavens and the earth that now exist have been reserved for fire, being kept until the day of judgment and the destruction of the ungodly.
 2PE 3:8 But do not overlook this one fact, beloved, that with the Lord one day is like a thousand years, and a thousand years are like one day.
 2PE 3:9 The Lord is not slow in keeping his promise, as some understand slowness, but is patient toward us, not wishing that any should perish but that all should come to repentance.
 2PE 3:10 But the day of the Lord will come like a thief in the night. On that day the heavens will pass away with a roar, the elements will be destroyed with intense heat, and the earth and its works will be burned up.
@@ -7417,7 +7417,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 1:9 If we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all unrighteousness.
 1JO 1:10 If we say that we have not sinned, we make him a liar, and his word is not in us.
 1JO 2:1 My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate with the Father—Jesus Christ, the righteous one.
-1JO 2:2 He is the atoning sacrifice for our sins, and not for ours only, but also for the sins of the whole world.
+1JO 2:2 He is the atoning sacrifice for our sins, and not only for ours, but also for the sins of the whole world.
 1JO 2:3 By this we can be sure that we know him: if we keep his commandments.
 1JO 2:4 Whoever says, “I know him” but does not keep his commandments is a liar, and the truth is not in him.
 1JO 2:5 But whoever keeps his word, truly in him the love of God has been perfected. By this we know that we are in him:
@@ -7437,13 +7437,13 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 2:19 They went out from us, but they did not belong to us; for if they had belonged to us, they would have remained with us. But they went out so that it might be revealed that they do not belong to us.
 1JO 2:20 But you have an anointing from the Holy One, and you know all things.
 1JO 2:21 I have not written to you because you do not know the truth, but because you know it, and because no lie is of the truth.
-1JO 2:22 Who is the liar but he who denies that Jesus is the Christ? This is the antichrist, he who denies the Father and the Son.
+1JO 2:22 Who is a liar but he who denies that Jesus is the Christ? Anyone who denies the Father and the Son is an antichrist.
 1JO 2:23 No one who denies the Son has the Father.
 1JO 2:24 Therefore let what you have heard from the beginning abide in you. If what you have heard from the beginning abides in you, then you will abide in the Son and in the Father.
 1JO 2:25 And this is what he has promised us—eternal life.
 1JO 2:26 I have written these things to you concerning those who are trying to deceive you.
 1JO 2:27 But the anointing you received from him abides in you, and you have no need for anyone to teach you. But the same anointing teaches you about all things; it is true, not a lie. So, just as it has taught you, you must abide in him.
-1JO 2:28 And now, little children, abide in him, so that when he is revealed we may have confidence and not be ashamed before him at his coming.
+1JO 2:28 And now, little children, abide in him, so that when he is revealed we may have confidence and not shrink away from him in shame when he comes back.
 1JO 2:29 If you know that he is righteous, you know that everyone who practices righteousness has been born of him.
 1JO 3:1 See what great love the Father has lavished upon us, that we should be called children of God! The reason the world does not know you is that it did not know him.
 1JO 3:2 Beloved, now we are children of God, and what we will be has not yet been revealed. But we know that when he appears, we will be like him, because we will see him as he is.
@@ -7451,7 +7451,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 3:4 Everyone who practices sin also practices lawlessness; sin is lawlessness.
 1JO 3:5 But you know that he appeared in order to take away our sins, and in him there is no sin.
 1JO 3:6 No one who abides in him continues in sin; no one who continues in sin has either seen him or known him.
-1JO 3:7 Little children, let no one deceive you. Whoever practices righteousness is righteous, just as Jesus is righteous.
+1JO 3:7 Little children, let no one deceive you. Whoever practices righteousness is righteous, just as he is righteous.
 1JO 3:8 Whoever practices sin is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil.
 1JO 3:9 No one who has been born of God continues in sin, because God's seed abides in him; he cannot continue in sin, because he has been born of God.
 1JO 3:10 By this the children of God and the children of the devil are revealed: Anyone who does not practice righteousness is not of God, nor is anyone who does not love his brother.
@@ -7484,11 +7484,11 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 4:13 We know that we abide in him and he in us because he has given us his Spirit.
 1JO 4:14 And we have seen and we testify that the Father has sent the Son to be the Savior of the world.
 1JO 4:15 If anyone confesses that Jesus is the Son of God, God abides in him, and he in God.
-1JO 4:16 And we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him.
-1JO 4:17 By this, love is perfected among us, so that we may have confidence on the day of judgment, because as he is, so also are we in this world.
+1JO 4:16 And we have come to know and to trust in the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him.
+1JO 4:17 In this way, love is perfected among us, so that we may have confidence on the day of judgment, because as he is, so also are we in this world.
 1JO 4:18 There is no fear in love, but perfect love casts out fear, because fear has to do with punishment. Whoever fears has not been perfected in love.
 1JO 4:19 We love him because he first loved us.
-1JO 4:20 If anyone says, “I love God,” and yet hates his brother, he is a liar. For he who does not love his brother whom he has seen, how can he love God whom he has not seen?
+1JO 4:20 Whoever says, “I love God,” and yet hates his brother is a liar. For if anyone does not love his brother whom he has seen, how can he love God whom he has not seen?
 1JO 4:21 And this is the commandment we have from him: Whoever loves God must also love his brother.
 1JO 5:1 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves him who has begotten also loves the one begotten of him.
 1JO 5:2 By this we know that we love the children of God, when we love God and keep his commandments.
@@ -7502,7 +7502,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 5:10 Whoever believes in the Son of God has the testimony in himself. Whoever does not believe God has made him a liar, because he has not believed the testimony that God has given about his Son.
 1JO 5:11 And this is the testimony, that God has given us eternal life, and this life is in his Son.
 1JO 5:12 Whoever has the Son has life; whoever does not have the Son of God does not have life.
-1JO 5:13 I have written these things to you who believe in the name of the Son of God so that you may know that you have eternal life, and so that you may believe in the name of the Son of God.
+1JO 5:13 I have written these things to you who believe in the name of the Son of God so that you may know that you have eternal life, and so that you may continue believing in the name of the Son of God.
 1JO 5:14 This is the confidence that we have toward him, that if we ask anything according to his will, he hears us.
 1JO 5:15 And if we know that he hears us in whatever we ask, we know that we have what we have asked of him.
 1JO 5:16 If anyone sees his brother committing a sin that does not lead to death, he should pray for him, and God will give him life. I refer to those who commit sins that do not lead to death. There is sin that leads to death; I do not say that he should pray about that.
@@ -7535,7 +7535,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 3JO 1:9 I wrote to the church, but Diotrephes, who loves to put himself first, does not acknowledge us.
 3JO 1:10 So if I come, I will call attention to what he is doing and the evil accusations of nonsense that he is making against us. And he is not satisfied with that! He not only refuses to receive the brothers, but also stops those who want to do so and throws them out of the church.
 3JO 1:11 Beloved, do not imitate what is evil, but what is good. Whoever does good is of God; whoever does evil has not seen God.
-3JO 1:12 Demetrius is well spoken of by everyone, and by the truth itself. We also speak well of him, and you know that our testimony is true.
+3JO 1:12 Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true.
 3JO 1:13 I have much to write, but I do not want to write to yoʋ with pen and ink.
 3JO 1:14 I hope to see yoʋ soon, and we will speak face to face. Peace be with yoʋ. The friends greet yoʋ. Greet the friends by name.
 JUD 1:1 Jude, a servant of Jesus Christ and a brother of James, to those who are called and sanctified by God the Father, and kept for Jesus Christ:
@@ -7549,7 +7549,7 @@ JUD 1:8 In the same way these ungodly men, relying on their dreams, defile the f
 JUD 1:9 But when Michael the archangel was contending with the devil and disputing about the body of Moses, he did not dare to bring a reviling judgment against him, but said, “May the Lord rebuke yoʋ!”
 JUD 1:10 Yet these men slander whatever they do not understand, and they are corrupted by what they, like irrational beasts, instinctively comprehend.
 JUD 1:11 Woe to them! For they went in the way of Cain, they rushed for reward to the error of Balaam, and they perished in the rebellion of Korah.
-JUD 1:12 These men are hidden reefs at your love feasts, feeding themselves as they feast among you without fear. They are clouds without water, carried along by winds; fruitless trees in late autumn, twice dead and uprooted.
+JUD 1:12 These men are hidden reefs at your love feasts, feeding themselves as they feast among you without fear. They are clouds without water, carried along by winds; fruitless trees in late autumn, twice dead, pulled up by the roots.
 JUD 1:13 They are wild waves of the sea, foaming out their own shameful deeds; wayward stars, for whom the thick gloom of darkness has been reserved forever.
 JUD 1:14 Enoch, in the seventh generation from Adam, prophesied about these men, saying, “Behold, the Lord is coming with thousands upon thousands of his holy ones
 JUD 1:15 to execute judgment against all and to convict all the ungodly among them of all their ungodly deeds that they have done in an ungodly way, and to convict ungodly sinners of all the harsh words they have spoken against him.”
@@ -7587,7 +7587,7 @@ REV 2:1 “To the angel of the church in Ephesus write: ‘These are the words o
 REV 2:2 I know yoʋr works, yoʋr labor, and yoʋr endurance. I know that yoʋ cannot tolerate those who are evil, and that yoʋ have tested those who declare themselves to be apostles but are not, and have found them to be false.
 REV 2:3 Yoʋ have persevered and endured hardships for the sake of my name, and have not grown weary.
 REV 2:4 But I have this against yoʋ: Yoʋ have left yoʋr first love.
-REV 2:5 Therefore, remember where yoʋ have fallen from; repent and do the works yoʋ did at first. Otherwise, I will come to yoʋ quickly and remove yoʋr lampstand from its place, unless yoʋ repent.
+REV 2:5 Therefore, remember where yoʋ have fallen from; repent and do the works yoʋ did at first. If yoʋ do not repent, I will come to yoʋ quickly and remove yoʋr lampstand from its place.
 REV 2:6 Yet yoʋ do have this: Yoʋ hate the works of the Nicolaitans, which I also hate.
 REV 2:7 He who has an ear, let him hear what the Spirit is saying to the churches. To him who overcomes I will give the right to eat of the tree of life, which is in the paradise of my God.’
 REV 2:8 “To the angel of the church in Smyrna write: ‘These are the words of the first and the last, who was dead and came to life:
@@ -7644,7 +7644,7 @@ REV 4:7 The first living creature was like a lion, the second living creature wa
 REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy is the Lord God Almighty, who was and who is and who is to come.”
 REV 4:9 And whenever the living creatures give glory, honor, and thanks to him who sits on the throne, who lives forever and ever,
 REV 4:10 the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever. They cast their crowns before the throne and say,
-REV 4:11 “Yoʋ are worthy, our Lord and God, the Holy One, to receive glory, honor, and power, for yoʋ created all things, and by yoʋr will they came into existence and were created.”
+REV 4:11 “Yoʋ are worthy, our Lord and God, the Holy One, to receive glory, honor, and power; for yoʋ created all things, and by yoʋr will they came into existence and were created.”
 REV 5:1 Then I saw in the right hand of him who sits on the throne a scroll written on the inside and outside, sealed with seven seals.
 REV 5:2 And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”
 REV 5:3 But no one in heaven above or on earth or under the earth could open the scroll or look into it.
@@ -7657,7 +7657,7 @@ REV 5:9 And they sang a new song: “Worthy are yoʋ to take the scroll and open
 REV 5:10 Yoʋ have made them kings and priests to our God, and they will reign on the earth.”
 REV 5:11 Then I looked, and I heard something like the voice of many angels coming from around the throne, the living creatures, and the elders. Their number was myriads of myriads and thousands of thousands,
 REV 5:12 and they were saying with a loud voice, “Worthy is the Lamb who was slain to receive power and riches, wisdom and strength, honor, glory, and blessing!”
-REV 5:13 Then I heard every creature in heaven, on earth, under the earth, in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb, be blessing and honor, glory and power forever and ever! Amen.”
+REV 5:13 Then I heard every creature in heaven, on earth, under the earth, in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb, be blessing and honor, glory and power, forever and ever! Amen.”
 REV 5:14 And I heard the four living creatures saying, “Amen.” And the elders fell down and worshiped.
 REV 6:1 Then I saw the Lamb open one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, “Come and see.”
 REV 6:2 And behold, there was a white horse! Its rider had a bow, and he was given a crown and went out conquering and to conquer.
@@ -7666,7 +7666,7 @@ REV 6:4 Then another horse came out, a fiery red one. Its rider was permitted to
 REV 6:5 When the Lamb opened the third seal, I heard the third living creature say, “Come and see.” And behold, there was a black horse! Its rider had a balance scale in his hand.
 REV 6:6 Then I heard a voice from among the four living creatures saying, “A measure of wheat for a denarius, and three measures of barley for a denarius, and do not damage the oil and wine.”
 REV 6:7 When the Lamb opened the fourth seal, I heard the fourth living creature say, “Come and see.”
-REV 6:8 And behold, there was a pale green horse! The name of its rider was Death, and Hades followed him. He was given authority over a fourth of the earth to kill by the sword, famine, pestilence, and by the wild beasts of the earth.
+REV 6:8 And behold, there was a pale green horse! The name of its rider was Death, and Hades followed him. He was given authority over a fourth of the earth to kill by the sword, by famine and pestilence, and by the wild beasts of the earth.
 REV 6:9 When the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain because of the word of God and because of the testimony of the Lamb which they had upheld.
 REV 6:10 They cried out with a loud voice, “How long, O Master, Holy and True, will yoʋ not judge and avenge our blood on those who dwell on the earth?”
 REV 6:11 They were each given a white robe and told to rest a while longer, until their fellow servants and their brothers, who were about to be killed just as they had been, should complete their course.
@@ -7687,7 +7687,7 @@ REV 7:8 from the tribe of Zebulun twelve thousand, from the tribe of Joseph twel
 REV 7:9 After this I looked, and behold, there was a great multitude, which no one could number, from every nation, tribe, people, and tongue, standing before the throne and before the Lamb. They were clothed in white robes, with palm branches in their hands.
 REV 7:10 They were crying out with a loud voice, “Salvation belongs to our God, who sits on the throne, and to the Lamb.”
 REV 7:11 And all the angels stood around the throne and around the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,
-REV 7:12 saying, “Amen! Blessing, glory, and wisdom, thanksgiving and honor, power and strength be to our God forever and ever! Amen.”
+REV 7:12 saying, “Amen! Blessing, glory, and wisdom, thanksgiving and honor, power and strength, be to our God forever and ever! Amen.”
 REV 7:13 In response one of the elders said to me, “Who are these people clothed in white robes, and where did they come from?”
 REV 7:14 I said to him, “Sir, yoʋ know.” And he said to me, “These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.
 REV 7:15 Therefore they are before the throne of God, and they serve him day and night in his temple, and he who sits on the throne will spread his tabernacle over them.
@@ -7776,7 +7776,7 @@ REV 12:16 But the earth helped the woman by opening its mouth and swallowing the
 REV 12:17 So the dragon was angry with the woman and went off to wage war against the rest of her offspring, those who keep the commandments of God and hold to the testimony of Jesus.
 REV 13:1 Then I stood on the sand of the sea. And I saw a beast coming up out of the sea that had ten horns and seven heads, with ten diadems on his horns and blasphemous names on his heads.
 REV 13:2 The beast I saw was like a leopard; his feet were like those of a bear, and his mouth was like the mouth of a lion. The dragon gave the beast his power, his throne, and great authority.
-REV 13:3 One of the beast's heads appeared to be mortally wounded. But its mortal wound had been healed, and the whole world was amazed and followed the beast.
+REV 13:3 One of the beast's heads appeared to be mortally wounded. But his mortal wound had been healed, and the whole world was amazed and followed the beast.
 REV 13:4 They worshiped the dragon that had given his authority to the beast, and they also worshiped the beast, saying, “Who is like the beast, and who can wage war against him?”
 REV 13:5 The beast was given a mouth to utter great boasts and blasphemy, and he was given authority to wage war for forty-two months.
 REV 13:6 And he opened his mouth to utter blasphemy against God and to slander his name and his tabernacle, that is, those who dwell in heaven.
