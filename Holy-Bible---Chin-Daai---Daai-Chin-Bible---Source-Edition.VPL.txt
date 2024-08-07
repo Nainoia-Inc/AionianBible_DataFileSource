@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Chin-Daai---Daai-Chin-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Chin-Daai---Daai-Chin-Bible
-## File Created: 04/28/2024 07:17:25
+## File Created: 07/30/2024 06:31:54
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/dao_vpl.zip
-## Source Date: 02/21/2024 08:36:18
+## Source Date: 07/30/2024 03:58:57
 ## Source Text: unaltered below
 ##
 

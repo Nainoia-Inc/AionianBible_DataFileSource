@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Portuguese---Portuguese-Trans-Trans---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Portuguese---Portuguese-Trans-Trans
-## File Created: 02/23/2024 00:06:59
+## File Created: 07/30/2024 18:21:44
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/portft_vpl.zip
-## Source Date: 02/21/2024 19:18:26
+## Source Date: 07/30/2024 09:02:15
 ## Source Text: unaltered below
 ##
 
@@ -7472,7 +7472,7 @@ JAM 5:20 aquele [que a persuadiu ]deve entender que [porque ]ele capacitou tal p
 2JO 1:11 [Lembrem-se que, ]se associarem a ele, [Deus irá castigá-los ]junto com ele pelo mal que ele tiver feito.
 2JO 1:12 [Mesmo que ]eu tenha muito [mais que gostaria ]de lhes dizer, resolvi não [dizê-lo ]por meio de uma carta [MTY]. Em vez disso, espero poder estar em breve com vocês e falar-lhes diretamente. Então estaremos muito contentes [na companhia uns dos outros. ]
 2JO 1:13 Seus irmãos crentes daqui [MET], aqueles que Deus também chamou, —mandam dizer que estão pensando em vocês/que lhes mandam saudações.
-3JO 1:1 [] [Vocês todos me conhecem ]como o ancião [principal. Estou escrevendo esta carta a você, ]meu querido amigo Gaio, a quem amo profundamente.
+3JO 1:1 [][Vocês todos me conhecem ]como o ancião [principal. Estou escrevendo esta carta a você, ]meu querido amigo Gaio, a quem amo profundamente.
 3JO 1:2 Caro amigo, peço a [Deus que ele possa capacitar ]você a ir bem em tudo, especificamente estando com saúde física, assim como você anda bem espiritualmente [MTY].
 3JO 1:3 Sinto-me bem contente, pois alguns irmãos crentes chegaram [aqui ]e me contaram como você se comporta de acordo com a mensagem verdadeira. Você está [se comportando ]de uma forma [condizente com ]a verdadeira mensagem [de Deus. ]
 3JO 1:4 Fico muito contente ao ouvir que as pessoas—que conduzi a Cristo/que são meus filhos [espirituais]—estão se comportando dessa maneira!

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Estonian---For-All---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Estonian---For-All
-## File Created: 02/21/2024 18:51:59
+## File Created: 07/30/2024 06:31:58
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/ekkpkp_vpl.zip
-## Source Date: 02/21/2024 09:16:33
+## Source Date: 07/30/2024 04:16:44
 ## Source Text: unaltered below
 ##
 

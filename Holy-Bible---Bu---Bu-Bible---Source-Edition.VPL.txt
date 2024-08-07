@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Bu---Bu-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Bu---Bu-Bible
-## File Created: 04/28/2024 07:17:25
+## File Created: 07/30/2024 07:28:09
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/jid_vpl.zip
-## Source Date: 02/21/2024 13:29:47
+## Source Date: 07/30/2024 06:01:07
 ## Source Text: unaltered below
 ##
 

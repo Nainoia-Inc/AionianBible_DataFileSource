@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Twi---Akuapem-Twi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Twi---Akuapem-Twi-Bible
-## File Created: 01/15/2024 19:39:08
+## File Created: 07/30/2024 18:21:50
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/twi_vpl.zip
-## Source Date: 11/07/2023 11:15:06
+## Source Date: 07/30/2024 11:01:40
 ## Source Text: unaltered below
 ##
 

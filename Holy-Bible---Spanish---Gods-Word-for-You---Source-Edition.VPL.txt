@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Spanish---Gods-Word-for-You---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Spanish---Gods-Word-for-You
-## File Created: 04/30/2024 18:41:33
+## File Created: 08/01/2024 13:18:59
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/spapddpt_vpl.zip
-## Source Date: 04/29/2024 19:06:50
+## Source Date: 08/01/2024 02:14:01
 ## Source Text: unaltered below
 ##
 
@@ -2496,7 +2496,7 @@ EXO 33:5 Porque Yavé le dijo a Moisés: Dí a los hijos de Israel: Ustedes son 
 EXO 33:6 Por lo cual los hijos de Israel se despojaron de sus atavíos desde la Montaña Horeb en adelante.
 EXO 33:7 Moisés tomaba el Tabernáculo y lo levantaba lejos, fuera del campamento. Lo llamó Tabernáculo de Reunión. Todo el que buscaba a Yavé salía al Tabernáculo de Reunión que estaba fuera del campamento.
 EXO 33:8 Sucedía que, cuando Moisés salía al Tabernáculo, todo el pueblo se levantaba. Cada cual estaba en pie en la entrada de su propia tienda y observaban a Moisés hasta cuando él entraba en el Tabernáculo.
-EXO 33:9 Ocurría que cuando Moisés entraba en el Tabernáculo, la columna de nube descendía y permanecía en la entrada del Tabernáculo mientras [ Yavé ] hablaba con Moisés.
+EXO 33:9 Ocurría que cuando Moisés entraba en el Tabernáculo, la columna de nube descendía y permanecía en la entrada del Tabernáculo mientras [Yavé] hablaba con Moisés.
 EXO 33:10 Todo el pueblo veía la columna de nube detenida en la entrada del Tabernáculo. Todo el pueblo se levantaba y se postraba, cada uno en la entrada de su propia tienda.
 EXO 33:11 Yavé hablaba con Moisés cara a cara, como un hombre suele hablar con su amigo. Luego volvía al campamento, pero el joven Josué, hijo de Nun, nunca se apartaba de en medio del Tabernáculo.
 EXO 33:12 Entonces Moisés dijo a Yavé: Considera que Tú me dices: Lleva a este pueblo. Pero no me das a conocer a quién enviarás conmigo, aunque dijiste: Te conozco por nombre. Y también: Hallaste gracia delante de Mí.
@@ -17760,7 +17760,7 @@ ISA 5:3 Y ahora, oh habitantes de Jerusalén y varones de Judá, juzguen entre M
 ISA 5:4 ¿Qué más se podía hacer a mi viña que Yo no hice en ella? ¿Por qué cuando esperaba que diera uvas dio uvas silvestres?
 ISA 5:5 Les mostraré, pues, lo que haré con mi viña. Le quitaré su cerco de tierra apisonada para que sirva de pasto. Derribaré su cerca para que sea pisoteada.
 ISA 5:6 La dejaré desolada. No será podada ni labrada. Le crecerán las zarzas y los espinos. Mandaré a las nubes que no lluevan sobre ella.
-ISA 5:7 Ciertamente la viña de Yavé de las huestes es la Casa de Israel, y los hombres de Judá su planta deliciosa. [ Yavé ]esperaba equidad, pero ve derramamiento de sangre. [Esperaba] justicia, pero oye un clamor de aflicción.
+ISA 5:7 Ciertamente la viña de Yavé de las huestes es la Casa de Israel, y los hombres de Judá su planta deliciosa. [Yavé] esperaba equidad, pero ve derramamiento de sangre. [Esperaba] justicia, pero oye un clamor de aflicción.
 ISA 5:8 ¡Ay de los que juntan casa con casa y unen campo con campo, hasta ocuparlo todo y viven ustedes solos en medio de la tierra!
 ISA 5:9 Yavé de las huestes dijo a mis oídos: Sus muchas casas serán arrasadas. Sus magníficos palacios quedarán desolados.
 ISA 5:10 Diez yugadas de viña producirán 22 litros, y 220 kilogramos de semilla producirá 22 litros de grano.
@@ -21760,7 +21760,7 @@ DAN 1:5 El rey les asignó su ración diaria de la mesa real y del vino que él 
 DAN 1:6 Entre ellos estaban Daniel, Ananías, Misael y Azarías, de los hijos de Judá.
 DAN 1:7 El jefe de los servidores del palacio les cambió los nombres a éstos: A Daniel llamó Beltsasar; a Ananías, Sadrac; a Misael, Mesac, y a Azarías, Abed-nego.
 DAN 1:8 Daniel propuso en su corazón no contaminarse con la ración de la comida del rey, ni con el vino que bebía. Por tanto pidió permiso al jefe de los servidores del palacio para no contaminarse.
-DAN 1:9 [ ʼElah] concedió a Daniel gracia y compasión de parte del jefe de los servidores del palacio.
+DAN 1:9 [ʼElah] concedió a Daniel gracia y compasión de parte del jefe de los servidores del palacio.
 DAN 1:10 El jefe de los servidores del palacio dijo a Daniel: Tengo temor a mi ʼadón el rey, quien asignó su comida y su bebida. Si él ve sus rostros demacrados en comparación con los jóvenes de su edad, entonces ustedes pondrían mi cabeza en peligro ante el rey.
 DAN 1:11 Entonces Daniel dijo al inspector, a quien el jefe de los servidores del palacio designó para cuidarlo a él, a Ananías, a Misael y a Azarías:
 DAN 1:12 Te ruego que hagas la prueba con tus esclavos durante diez días: que nos den legumbres para comer y agua para beber,
@@ -22117,7 +22117,7 @@ HOS 1:5 Sucederá que aquel día quebraré el arco de Israel en el valle de Jezr
 HOS 1:6 Otra vez concibió y dio a luz una hija. Y Yavé le dijo: Llámala Lo-ruhama, porque ya no me compadeceré de la Casa de Israel para perdonarlos.
 HOS 1:7 Pero tendré compasión de la Casa de Judá y los salvaré por Yavé, su ʼElohim. No los libraré con arco, ni con espada, ni con batalla, ni con caballos, ni con jinetes.
 HOS 1:8 Después de destetar a Lo-ruhama, concibió y dio a luz un hijo.
-HOS 1:9 Yavé dijo: Llámalo Lo-ammi, porque ustedes no son mi pueblo ni Yo seré para ustedes su [ ʼElohim].
+HOS 1:9 Yavé dijo: Llámalo Lo-ammi, porque ustedes no son mi pueblo ni Yo seré para ustedes su [ʼElohim].
 HOS 1:10 Sin embargo, el número de los hijos de Israel será como la arena del mar, que no se puede medir ni contar. Y en el lugar donde les fue dicho: Ustedes no son mi pueblo, se les dirá: Son hijos del ʼEL que vive.
 HOS 1:11 Los hijos de Judá y de Israel se unirán y designarán un solo caudillo. Subirán de la tierra, porque grande es el día de Jezreel.
 HOS 2:1 Llamen a sus hermanos Ammi, y a sus hermanas Ruhama.
@@ -22639,7 +22639,7 @@ MIC 4:1 Acontecerá en los últimos días que la Montaña de la Casa de Yavé se
 MIC 4:2 Muchas naciones irán allí y dirán: Vengan, subamos a la Montaña de Yavé, a la Casa del ʼElohim de Jacob. Él nos enseñará sus caminos, y nosotros andaremos en sus sendas. Porque la Ley saldrá de Sion, y de Jerusalén, la Palabra de Yavé.
 MIC 4:3 Él juzgará entre muchos pueblos y decidirá para naciones poderosas y distantes. Convertirán sus espadas en arados y sus lanzas en podaderas. No levantará espada nación contra nación, ni se adiestrarán más para la guerra.
 MIC 4:4 Cada uno se sentará debajo de su vid y de su higuera. No habrá quién los atemorice, porque habló la boca de Yavé de las huestes.
-MIC 4:5 Aunque todos los pueblos caminan, cada uno en el nombre de su ʼelohim, nosotros caminaremos en el nombre de Yavé, nuestro [ ʼElohim] para siempre jamás.
+MIC 4:5 Aunque todos los pueblos caminan, cada uno en el nombre de su ʼelohim, nosotros caminaremos en el nombre de Yavé, nuestro [ʼElohim] para siempre jamás.
 MIC 4:6 En aquel día reuniré a la que cojea, traeré a la descarriada y a aquellas que afligí, dice Yavé.
 MIC 4:7 Haré un remanente con las que cojean, y una nación poderosa con las descarriadas. Yavé reinará sobre ellas en la Montaña Sion desde entonces y para siempre.
 MIC 4:8 Y tú, oh torre del rebaño, fortaleza de la hija de Sion, a ti llegará, sí, a ti viene el dominio anterior, el reino de la ciudad de Jerusalén.
@@ -22670,7 +22670,7 @@ MIC 6:4 Yo te saqué de la tierra de Egipto. Te liberté de la casa de esclavitu
 MIC 6:5 Recuerda, pueblo mío, lo que tramaba Balac, rey de Moab, y qué le respondió Balaam, hijo de Beor, desde Sitim hasta Gilgal. Recuerda para que reconozcas los hechos justicieros de Yavé.
 MIC 6:6 ¿Con qué me presentaré a Yavé y me postraré ante el ʼElohim Altísimo? ¿Me presentaré con holocaustos, con becerros añales?
 MIC 6:7 ¿Yavé se deleita en millares de carneros o en miríadas de arroyos de aceite? ¿Daré mi primogénito por mis actos rebeldes, el fruto de mi organismo por el pecado de mi alma?
-MIC 6:8 Oh hombre, Él te dijo lo que es bueno, lo que Yavé pide de ti: Solo hacer justicia, amar la misericordia y andar humildemente con tu [ ʼElohim].
+MIC 6:8 Oh hombre, Él te dijo lo que es bueno, lo que Yavé pide de ti: Solo hacer justicia, amar la misericordia y andar humildemente con tu [ʼElohim].
 MIC 6:9 Escucha, oh tribu: La voz de Yavé proclama a la ciudad. Él salvará a los que temen su Nombre.
 MIC 6:10 ¿Aún hay tesoros de perversidad en casa del perverso, y medida escasa que es una repugnancia?
 MIC 6:11 ¿Puedo justificar balanza inicua y una bolsa de pesas fraudulentas
@@ -22968,7 +22968,7 @@ ZEC 6:3 en la tercera carroza, caballos blancos, y en la cuarta carroza eran cab
 ZEC 6:4 Y dije al ángel que hablaba conmigo: ʼadón mío, ¿qué es esto?
 ZEC 6:5 Y el ángel me respondió: Estos son los cuatro vientos de los cielos, que salen después de presentarse delante del ʼAdón de toda la tierra.
 ZEC 6:6 El de los caballos negros sale hacia la tierra del Norte, el de los blancos sale tras ellos y el de los overos sale hacia la tierra del Sur.
-ZEC 6:7 Los overos que salían estaban impacientes por recorrer la tierra. Y [ ʼAdonay] dijo: ¡Vayan, recorran la tierra! Y en efecto, ellos recorrieron la tierra de un lado a otro.
+ZEC 6:7 Los overos que salían estaban impacientes por recorrer la tierra. Y [ʼAdonay] dijo: ¡Vayan, recorran la tierra! Y en efecto, ellos recorrieron la tierra de un lado a otro.
 ZEC 6:8 Luego me habló: Aquí están los que van hacia la tierra del Norte quienes hicieron reposar mi Espíritu en la tierra del Norte.
 ZEC 6:9 Otra vez tuve revelación de Yavé que decía:
 ZEC 6:10 Toma ofrenda de los del cautiverio que regresaron de Babilonia: de Heldai, de Tobías y de Jedaías. El mismo día vé y entra en casa de Josías, hijo de Sofonías.

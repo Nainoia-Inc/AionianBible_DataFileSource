@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 06/29/2024 16:23:22
+## File Created: 08/05/2024 10:57:27
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 06/28/2024 23:30:31
+## Source Date: 08/02/2024 01:28:39
 ## Source Text: unaltered below
 ##
 
@@ -30,14 +30,14 @@ MAT 1:13 Zerubbabel was the father of Abiud, Abiud was the father of Eliakim, El
 MAT 1:14 Azor was the father of Zadok, Zadok was the father of Achim, Achim was the father of Eliud,
 MAT 1:15 Eliud was the father of Eleazar, Eleazar was the father of Matthan, Matthan was the father of Jacob,
 MAT 1:16 and Jacob was the father of Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
-MAT 1:17 So all the generations from Abraham to David are fourteen generations, and from David to the Babylonian resettlement fourteen generations, and from the Babylonian resettlement to the Christ fourteen generations.
+MAT 1:17 So in all there were fourteen generations from Abraham to David, fourteen generations from David to the Babylonian resettlement, and fourteen generations from the Babylonian resettlement to the Christ.
 MAT 1:18 Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together, she was found to be with child from the Holy Spirit.
-MAT 1:19 Her husband Joseph, being righteous and not willing to shame her publicly, intended to send her away privately.
+MAT 1:19 Because her husband Joseph was a righteous man and did not want to shame her publicly, he intended to send her away privately.
 MAT 1:20 But as he thought about these things, behold, an angel of the Lord appeared to him in a dream and said, “Joseph, Son of David, do not be afraid to receive Mary as yoʋr wife, for the child that is conceived in her is from the Holy Spirit.
 MAT 1:21 She will give birth to a son, and yoʋ shall name him Jesus, for he will save his people from their sins.”
 MAT 1:22 All this took place to fulfill what the Lord had spoken through the prophet:
 MAT 1:23 “Behold, the virgin will conceive and give birth to a son, and they will name him Immanuel” (which means, “God with us”).
-MAT 1:24 When Joseph awoke from his sleep, he did as the angel of the Lord commanded him. He took his wife,
+MAT 1:24 When Joseph awoke from his sleep, he did as the angel of the Lord had commanded him. He took his wife,
 MAT 1:25 but did not know her intimately until she had given birth to her firstborn son. And he named him Jesus.
 MAT 2:1 After Jesus was born in Bethlehem of Judea, in the days of Herod the king, behold, wise men from the east arrived in Jerusalem,
 MAT 2:2 saying, “Where is the child who has been born king of the Jews? For we saw his star in the east and have come to worship him.”
@@ -47,20 +47,20 @@ MAT 2:5 They told him, “In Bethlehem of Judea, for so it is written by the pro
 MAT 2:6 ‘But yoʋ Bethlehem, land of Judah, are by no means least among the rulers of Judah; for from yoʋ will come a ruler who will shepherd my people Israel.’ ”
 MAT 2:7 Then Herod secretly called the wise men and ascertained from them what time the star had appeared.
 MAT 2:8 He sent them to Bethlehem and said, “Go search diligently for the child, and when you have found him, bring me word so that I too may come and worship him.”
-MAT 2:9 They listened to the king and went on their way, and behold, the star that they had seen in the east went before them until it came and stopped over the place where the child was.
+MAT 2:9 They listened to the king and went on their way, and behold, the star they had seen in the east went before them until it came and stopped over the place where the child was.
 MAT 2:10 When they saw the star, they rejoiced with exceedingly great joy.
-MAT 2:11 As they came into the house and saw the child with Mary his mother, they fell down and worshiped him. Then they opened their treasures and offered him gifts: gold, frankincense, and myrrh.
+MAT 2:11 As they came into the house and saw the child with his mother Mary, they fell down and worshiped him. Then they opened their treasures and offered him gifts: gold, frankincense, and myrrh.
 MAT 2:12 And being warned in a dream not to return to Herod, they departed for their own country by another way.
 MAT 2:13 After they were gone, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Rise, take the child and his mother and flee to Egypt, and stay there until I tell yoʋ, for Herod is about to seek the child, to destroy him.”
 MAT 2:14 So Joseph rose, took the child and his mother by night, and departed for Egypt,
 MAT 2:15 where he stayed until the death of Herod. This was to fulfill what the Lord had said through the prophet: “Out of Egypt I called my son.”
 MAT 2:16 When Herod saw that he had been fooled by the wise men, he was greatly enraged and sent men to kill all the boys in Bethlehem and in its vicinity who were two years old and under, according to the time that he had ascertained from the wise men.
 MAT 2:17 Then what had been spoken by Jeremiah the prophet was fulfilled:
-MAT 2:18 “A voice was heard in Ramah, wailing, weeping, and great lamentation, Rachel weeping for her children, and she would not be comforted, because they are no more.”
+MAT 2:18 “A voice was heard in Ramah, wailing, weeping, and great lamentation, Rachel weeping for her children, and she refused to be comforted, because they are no more.”
 MAT 2:19 After Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,
-MAT 2:20 saying, “Rise, take the child and his mother, and go to the land of Israel, for those who sought the life of the child are dead.”
+MAT 2:20 saying, “Rise, take the child and his mother, and go to the land of Israel, for those who were seeking the child's life are dead.”
 MAT 2:21 So Joseph rose, took the child and his mother, and went to the land of Israel.
-MAT 2:22 But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned in a dream, he withdrew to the district of Galilee
+MAT 2:22 But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. And being warned in a dream, he withdrew to the district of Galilee
 MAT 2:23 and came and dwelt in a town called Nazareth, so that what had been spoken by the prophets might be fulfilled: “He will be called a Nazarene.”
 MAT 3:1 In those days John the Baptist came preaching in the wilderness of Judea,
 MAT 3:2 “Repent, for the kingdom of heaven has drawn near.”
@@ -70,7 +70,7 @@ MAT 3:5 Then Jerusalem was going out to him, and so were all Judea and all the r
 MAT 3:6 They were being baptized by him in the Jordan, confessing their sins.
 MAT 3:7 But when John saw many of the Pharisees and Sadducees coming to his baptism, he said to them, “You brood of vipers, who warned you to flee from the coming wrath?
 MAT 3:8 Produce fruit consistent with repentance.
-MAT 3:9 And do not think that you can say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children to Abraham.
+MAT 3:9 And do not think that you can say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children for Abraham.
 MAT 3:10 Even now the axe is laid at the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.
 MAT 3:11 “I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit.
 MAT 3:12 His winnowing fork is in his hand, and he will thoroughly clean out his threshing floor and gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”
@@ -99,7 +99,7 @@ MAT 4:17 From that time Jesus began to preach, “Repent, for the kingdom of hea
 MAT 4:18 As Jesus was walking by the Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen.
 MAT 4:19 Jesus said to them, “Follow me, and I will make you fishers of men.”
 MAT 4:20 So they immediately left their nets and followed him.
-MAT 4:21 Going on from there, he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them.
+MAT 4:21 Going on from there, he saw two other brothers, James the son of Zebedee and John his brother, in the boat with their father Zebedee, mending their nets, and he called them.
 MAT 4:22 So they immediately left the boat and their father and followed him.
 MAT 4:23 Then Jesus went throughout all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and every sickness among the people.
 MAT 4:24 So the news about him went out into all of Syria, and the people brought to him all who were sick with various diseases, those suffering severe pain, the demon-possessed, epileptics, and paralytics. And he healed them.
@@ -152,7 +152,7 @@ MAT 5:45 so that you may be sons of your Father in heaven. For he makes his sun 
 MAT 5:46 For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?
 MAT 5:47 And if you greet only your friends, what are you doing that is out of the ordinary? Do not even the tax collectors do that?
 MAT 5:48 You therefore shall be perfect, just as your Father in heaven is perfect.
-MAT 6:1 “Be careful not to give to the needy in front of others to be seen by them, otherwise you have no reward with your Father in heaven.
+MAT 6:1 “Be careful not to give to the needy in front of others to be seen by them, otherwise you have no reward from your Father in heaven.
 MAT 6:2 So when yoʋ give to the needy, do not sound a trumpet before yoʋ, as the hypocrites do in the synagogues and in the streets, so that they may be praised by others. Truly I say to you, they have received their reward.
 MAT 6:3 But when yoʋ give to the needy, do not let yoʋr left hand know what yoʋr right hand is doing,
 MAT 6:4 so that yoʋr giving may be in secret. Then yoʋr Father who sees in secret will himself reward yoʋ openly.
@@ -167,11 +167,11 @@ MAT 6:12 And forgive us our debts, as we forgive our debtors.
 MAT 6:13 And lead us not into temptation, but deliver us from evil. For yoʋrs is the kingdom and the power and the glory forever. Amen.
 MAT 6:14 For if you forgive others their trespasses, your heavenly Father will also forgive you.
 MAT 6:15 But if you do not forgive others their trespasses, neither will your Father forgive your trespasses.
-MAT 6:16 “When you fast, do not be gloomy like the hypocrites, for they disfigure their faces so that they may be seen by others to be fasting. Truly I say to you, they have received their reward.
+MAT 6:16 “When you fast, do not be gloomy like the hypocrites, for they disfigure their faces so that others will see that they are fasting. Truly I say to you, they have received their reward.
 MAT 6:17 But when yoʋ fast, anoint yoʋr head and wash yoʋr face,
-MAT 6:18 so that yoʋ may not be seen by others to be fasting, but by yoʋr Father who is in secret. Then yoʋr Father who sees in secret will reward yoʋ.
-MAT 6:19 “Do not lay up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal.
-MAT 6:20 But lay up for yourselves treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in or steal.
+MAT 6:18 so that no one will see that yoʋ are fasting except yoʋr Father who is in secret. Then yoʋr Father who sees in secret will reward yoʋ.
+MAT 6:19 “Do not store up treasures on earth, where moth and rust destroy, and where thieves break in and steal.
+MAT 6:20 But store up treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in or steal.
 MAT 6:21 For where your treasure is, there will your heart be also.
 MAT 6:22 “The lamp of the body is the eye. If then yoʋr eye is clear, yoʋr whole body will be full of light.
 MAT 6:23 But if yoʋr eye is bad, yoʋr whole body will be full of darkness. If then the light within yoʋ is darkness, how great is the darkness!
@@ -192,8 +192,8 @@ MAT 7:3 Why do yoʋ see the speck in yoʋr brother's eye, but do not consider th
 MAT 7:4 Or how will yoʋ say to yoʋr brother, ‘Let me take the speck out of yoʋr eye,’ when there is a beam in yoʋr own eye?
 MAT 7:5 Hypocrite! First take the beam out of yoʋr own eye, and then yoʋ will see clearly to take the speck out of yoʋr brother's eye.
 MAT 7:6 “Do not give what is holy to dogs, and do not throw your pearls before pigs, lest they trample them with their feet, and then turn and tear you to pieces.
-MAT 7:7 “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
-MAT 7:8 For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.
+MAT 7:7 “Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened for you.
+MAT 7:8 For everyone who asks receives; and he who seeks finds; and for him who knocks, the door will be opened.
 MAT 7:9 Or what man is there among you, who, if his son asks him for bread, will give him a stone;
 MAT 7:10 and if he asks for a fish, will give him a serpent?
 MAT 7:11 If you then, being evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask him!
@@ -242,7 +242,7 @@ MAT 8:24 And behold, a great storm arose on the sea, so that the boat was being 
 MAT 8:25 So the disciples came to him and woke him, saying, “Lord, save us! We are perishing!”
 MAT 8:26 But he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm.
 MAT 8:27 And the men were amazed, saying, “What kind of man is this, that even the winds and the sea obey him?”
-MAT 8:28 When Jesus came to the other side of the sea, to the region of the Gergesenes, two demon-possessed men met him, coming out of the tombs. They were so fierce that no one could pass by that way.
+MAT 8:28 When Jesus came to the other side of the sea, to the region of the Gergesenes, he was met by two demon-possessed men who had come out of the tombs. They were so fierce that no one could pass by that way.
 MAT 8:29 And behold, they cried out, “What do yoʋ have to do with us, Jesus, Son of God? Have yoʋ come here to torment us before the appointed time?”
 MAT 8:30 Now at a distance from them there was a herd of many pigs feeding.
 MAT 8:31 So the demons begged Jesus, “If yoʋ cast us out, let us go into the herd of pigs.”
@@ -311,7 +311,7 @@ MAT 10:21 Brother will deliver up brother to death, and a father his child, and 
 MAT 10:22 You will be hated by all because of my name, but he who endures to the end will be saved.
 MAT 10:23 When they persecute you in one town, flee to another, for truly I say to you, you will certainly not finish going through the towns of Israel before the Son of Man comes.
 MAT 10:24 “A disciple is not above his teacher, nor is a servant above his master.
-MAT 10:25 It is sufficient for a disciple to be like his teacher and for a servant to be like his master. If they have called the master of the house Beelzebul, how much more will they malign the members of his household?
+MAT 10:25 It is sufficient for a disciple to be like his teacher and for a servant to be like his master. If they have called the master of the house Beelzebul, how much more will they malign the members of his household!
 MAT 10:26 “So do not be afraid of them, for there is nothing covered that will not be revealed, and nothing hidden that will not be made known.
 MAT 10:27 What I tell you in the darkness, speak in the light; and what you hear whispered in your ear, proclaim on the housetops.
 MAT 10:28 Do not be afraid of those who kill the body but cannot kill the soul, but rather fear him who can destroy both the soul and the body in hell.
@@ -1902,7 +1902,7 @@ LUK 3:4 as it is written in the book of the words of Isaiah the prophet, “The 
 LUK 3:5 Every valley will be filled, and every mountain and hill will be brought low. The crooked roads will be made straight, and the rough ways will be made smooth.
 LUK 3:6 And all flesh will see the salvation of God.’ ”
 LUK 3:7 John said to the crowds that were coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?
-LUK 3:8 Produce fruit consistent with repentance, and do not begin to say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children to Abraham.
+LUK 3:8 Produce fruit consistent with repentance, and do not begin to say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children for Abraham.
 LUK 3:9 Even now the axe is laid at the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.”
 LUK 3:10 So the crowds asked him, “What then should we do?”
 LUK 3:11 John answered them, “Whoever has two tunics must share with him who has none, and whoever has food must do likewise.”
@@ -2283,8 +2283,8 @@ LUK 11:5 Then he said to them, “Suppose one of you has a friend, and yoʋ go t
 LUK 11:6 for a friend on a journey has come to me, and I have nothing to set before him,’
 LUK 11:7 and he answers from inside and says, ‘Do not bother me! The door is already shut, and my children are with me in bed. I cannot get up to give yoʋ anything.’
 LUK 11:8 I tell you, even if he will not get up and give yoʋ anything because yoʋ are his friend, yet because of yoʋr shameless persistence, he will get up and give yoʋ as much as yoʋ need.
-LUK 11:9 So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
-LUK 11:10 For everyone who asks receives, and he who seeks finds, and to him who knocks it will be opened.
+LUK 11:9 So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened for you.
+LUK 11:10 For everyone who asks receives; and he who seeks finds; and for him who knocks, the door will be opened.
 LUK 11:11 Now what father among you, when his son asks for bread, will give him a stone; or again, when he asks for a fish, will give him a serpent instead of a fish;
 LUK 11:12 or again, if he asks for an egg, will give him a scorpion?
 LUK 11:13 If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him!”
@@ -5466,7 +5466,7 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 1CO 10:31 So whether you eat or drink or do anything, do it all for the glory of God.
 1CO 10:32 Give no offense to Jews or Greeks or the church of God,
 1CO 10:33 just as I also try to please everyone in everything I do, not seeking my own benefit, but the benefit of many, so that they may be saved.
-1CO 11:1 Be imitators of me, just as I also am of Christ.
+1CO 11:1 Be imitators of me, as I am of Christ.
 1CO 11:2 Now I praise you, brothers, because you remember me in everything and hold fast to the teachings that have been handed down, just as I delivered them to you.
 1CO 11:3 But I want you to know that the head of every man is Christ, and the head of woman is man, and the head of Christ is God.
 1CO 11:4 Every man who prays or prophesies with his head veiled disgraces his head,
@@ -5683,12 +5683,12 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 2CO 1:15 Because I was confident of this, I intended to come to you first, so that you would be blessed by a second visit.
 2CO 1:16 I wanted to visit you on my way to Macedonia and return to you from Macedonia, and then have you send me on my way to Judea.
 2CO 1:17 Was I vacillating when I planned to do this? Or do I make my plans in a worldly manner, ready to say “Yes” and “No” at the same time?
-2CO 1:18 But as surely as God is faithful, our message to you did not waver between “Yes” and “No.”
+2CO 1:18 As surely as God is faithful, our message to you did not waver between “Yes” and “No.”
 2CO 1:19 For the Son of God, Jesus Christ, whom Silvanus, Timothy, and I preached among you, did not waver between “Yes” and “No.” On the contrary, in him God's answer has always been “Yes.”
 2CO 1:20 For in him every one of God's promises is “Yes,” and in him we say “Amen” to the glory of God.
 2CO 1:21 Now it is God who establishes us with you in Christ and who anointed us.
 2CO 1:22 He has also sealed us and put his Spirit in our hearts as a guarantee.
-2CO 1:23 But I call upon God as a witness against me, that the reason I did not return to Corinth was to spare you.
+2CO 1:23 I call upon God as a witness against me, that the reason I did not return to Corinth was to spare you.
 2CO 1:24 Not that we rule over your faith; rather, we work with you for your joy, because by faith you stand firm.
 2CO 2:1 So I made up my mind that I would not come to you again in sorrow.
 2CO 2:2 For if I make you sorrowful, who is there to make me glad but the one whom I have made sorrowful?
@@ -7868,21 +7868,21 @@ REV 18:6 Render to her as she herself has rendered; repay her double according t
 REV 18:7 As much as she has glorified herself and lived in luxury, give her the same amount of torment and mourning, for in her heart she says, ‘I sit enthroned as a queen; I am not a widow and will never see mourning.’
 REV 18:8 Therefore her plagues will come in a single day— death, mourning, and famine. She will be burned up with fire, for mighty is the Lord God who has judged her.”
 REV 18:9 The kings of the earth who have committed fornication with her and lived in luxury with her will weep and wail over her when they see the smoke of her burning.
-REV 18:10 In fear of her torment they will stand at a distance and say, “Woe, woe, the great city, Babylon, the mighty city! For in a single hour yoʋr judgment has come.”
+REV 18:10 In fear of her torment they will stand at a distance and say, “Alas, alas, for the great city, Babylon, the mighty city! For in a single hour yoʋr judgment has come.”
 REV 18:11 The merchants of the earth will weep and mourn over her, because no one buys their cargo anymore,
 REV 18:12 cargo of gold, silver, precious stones, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of citron wood, all kinds of articles made of ivory, all kinds of articles made of costly wood, bronze, iron, and marble;
 REV 18:13 cargo of cinnamon, incense, myrrh, frankincense, wine, oil, fine flour, wheat, sheep, cattle, horses and chariots, and bodies and souls of men.
 REV 18:14 “The ripe fruit that was the desire of yoʋr soul has gone from yoʋ, and all yoʋr delicacies and splendors are lost to yoʋ; yoʋ will never find them again!”
 REV 18:15 The merchants of these wares, who became rich from her, will stand at a distance in fear of her torment, weeping and mourning aloud,
-REV 18:16 “Woe, woe, the great city, she who was clothed in fine linen, in purple and scarlet, adorned with gold, with precious stone and pearls!
+REV 18:16 “Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with precious stone and pearls!
 REV 18:17 For in a single hour such great wealth has been laid waste!” And every shipmaster and seafaring man, sailors and all whose trade is on the sea, stood at a distance
 REV 18:18 and cried out as they saw the smoke of her burning, “What city is like the great city?”
-REV 18:19 They threw dust on their heads and cried out, weeping and mourning aloud, “Woe, woe, the great city, where all who had ships at sea grew rich from her valuable merchandise! For in a single hour she has been laid waste.
+REV 18:19 They threw dust on their heads and cried out, weeping and mourning aloud, “Alas, alas, for the great city, where all who had ships at sea grew rich from her valuable merchandise! For in a single hour she has been laid waste.
 REV 18:20 Rejoice over her, O heaven, and you saints, apostles, and prophets, for God has given judgment for you against her.”
 REV 18:21 Then a mighty angel picked up a stone like a great millstone and threw it into the sea, and said, “With such violence Babylon the great city will be thrown down, never to be found again.
 REV 18:22 The sound of harpists, musicians, flutists, and trumpeters will never be heard in yoʋ again. No craftsman of any trade will ever be found in yoʋ again. The sound of a mill will never be heard in yoʋ again.
-REV 18:23 The light of a lamp will never shine in yoʋ again. The voice of bridegroom and bride will never be heard in yoʋ again. For yoʋr merchants were the magnates of the earth, because all the nations were deceived by yoʋr sorcery.
-REV 18:24 And in her was found the blood of prophets and of saints, and of all who have been slain on the earth.”
+REV 18:23 The light of a lamp will never shine in yoʋ again. The voice of bridegroom and bride will never be heard in yoʋ again. For yoʋr merchants were the magnates of the earth, and all the nations were deceived by yoʋr sorcery.”
+REV 18:24 And in her was found the blood of prophets and of saints, and of all who have been slain on the earth.
 REV 19:1 After this I heard what sounded like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God,
 REV 19:2 for true and just are his judgments; he has judged the great prostitute, who corrupted the earth with her fornication. He has avenged the blood of his servants shed by her hand.”
 REV 19:3 A second time the voice said, “Hallelujah! Her smoke goes up forever and ever.”

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Gofa---Gofa-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Gofa---Gofa-Bible
-## File Created: 02/21/2024 18:52:01
+## File Created: 07/30/2024 06:32:00
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/gofwftw_vpl.zip
-## Source Date: 02/21/2024 11:02:44
+## Source Date: 07/30/2024 05:00:16
 ## Source Text: unaltered below
 ##
 

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Bangwinji---Bangwinji-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Bangwinji---Bangwinji-Bible
-## File Created: 04/30/2024 23:41:16
+## File Created: 07/30/2024 06:31:53
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/bsj_vpl.zip
-## Source Date: 04/30/2024 21:33:11
+## Source Date: 07/30/2024 03:05:05
 ## Source Text: unaltered below
 ##
 

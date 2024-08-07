@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Noyes---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Noyes
-## File Created: 02/21/2024 18:51:58
+## File Created: 07/30/2024 06:31:58
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/engnoy_vpl.zip
-## Source Date: 02/21/2024 10:00:20
+## Source Date: 07/30/2024 04:31:03
 ## Source Text: unaltered below
 ##
 

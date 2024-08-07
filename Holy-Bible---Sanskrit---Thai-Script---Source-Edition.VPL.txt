@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---Thai-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---Thai-Script
-## File Created: 02/23/2024 00:07:07
+## File Created: 07/30/2024 18:21:47
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/santha_vpl.zip
-## Source Date: 02/21/2024 20:19:53
+## Source Date: 07/30/2024 09:38:41
 ## Source Text: unaltered below
 ##
 

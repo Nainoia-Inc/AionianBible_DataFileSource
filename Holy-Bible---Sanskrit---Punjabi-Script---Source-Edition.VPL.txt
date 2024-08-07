@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---Punjabi-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---Punjabi-Script
-## File Created: 02/23/2024 00:07:06
+## File Created: 07/30/2024 18:21:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/sanpun_vpl.zip
-## Source Date: 02/21/2024 20:17:57
+## Source Date: 07/30/2024 09:37:25
 ## Source Text: unaltered below
 ##
 

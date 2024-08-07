@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 07/05/2024 09:15:56
+## File Created: 08/06/2024 07:03:30
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 07/04/2024 19:32:50
+## Source Date: 08/05/2024 22:22:17
 ## Source Text: unaltered below
 ##
 
@@ -187,15 +187,15 @@ LUK 3:38 O Kainam inele čhavo e Enosesoro. O Enos inele čhavo e Sitesoro. O Si
 LUK 4:1 A o Isus, pherdo e Svetone Duhoja, irinđa pe tari len Jordan; i oto Duho inele legardo ki pustinja,
 LUK 4:2 kaj inele saranda dive iskušime e bengestar. I na halja ništa adala dive, a kad nakhle adala dive, tegani bokhalilo.
 LUK 4:3 I o beng phenđa lese: “Te injan o Čhavo e Devlesoro, vaćer akale barese te ovel maro.”
-LUK 4:4 A o Isus phenđa lese: “Pisimei ko Sveto lil: ‘O manuš naka živini samo oto maro.’”
+LUK 4:4 A o Isus phenđa lese: “Pisimei ano Sveto lil: ‘O manuš naka živini samo oto maro.’”
 LUK 4:5 I o beng legarđa le ko učo than hem otojekhvar mothovđa lese sa o carstvija e phuvjakere,
 LUK 4:6 i phenđa lese: “Tuće ka dav sa akava zoralipe hem i slava olengiri adalese soi maje dindi, i dava la kase me mangava.
 LUK 4:7 Adalese, te peljan ko kočija angla mande, sa ka ovel klo.”
-LUK 4:8 I o Isus phenđa lese: “Pisimei ko Sveto lil: ‘Per ko kočija samo e Gospodese, te Devlese, hem samo ole kande!’”
+LUK 4:8 I o Isus phenđa lese: “Pisimei ano Sveto lil: ‘Per ko kočija samo e Gospodese, te Devlese, hem samo ole kande!’”
 LUK 4:9 I o beng anđa le ko Jerusalim hem čhivđa le upro najučo than e Hramesoro hem phenđa lese: “Te injan o Čhavo e Devlesoro, frde tut akatar tele!
 LUK 4:10 Adalese soi pisime: ‘Ka naredini ple anđelenđe te arakhen tut,
 LUK 4:11 te akharen tut ko vasta te na khuve tut preja ko bar.’”
-LUK 4:12 O Isus phenđa lese: “Hem akavai phendo ko Sveto lil: ‘Ma kušin e Gospode, te Devle.’”
+LUK 4:12 O Isus phenđa lese: “Hem akavai phendo ano Sveto lil: ‘Ma kušin e Gospode, te Devle.’”
 LUK 4:13 I kad završinđa đijekh kušnja, o beng cidinđa pe olestar đi nesavi aver prilika.
 LUK 4:14 I o Isus irinđa pe ki regija Galileja ano zoralipe e Duhosoro, i šundilo o glaso olestar ko sa o krajo.
 LUK 4:15 I sikavđa e manušen olenđe ano sinagoge hem inele pohvalime sarijendar.
@@ -839,7 +839,7 @@ LUK 18:27 A o Isus phenđa lenđe: “So nane moguće e manušenđe, mogućei e 
 LUK 18:28 O Petar phenđa: “Ače, amen sa ačhavđam te dža pala tute.”
 LUK 18:29 A o Isus phenđa lenđe: “Čače vaćerava tumenđe, đijekh kova ačhavđa plo čher, ili e romnja, ili e phraljen, ili e dade hem e daja, ili e čhaven zbog o carstvo e Devlesoro,
 LUK 18:30 ka primini po više ko akava sveto adalestar so ačhavđa hem ka primini o večno dživdipe ko sveto savo avela.”
-LUK 18:31 O Isus cidinđa pe e dešuduje apostolencar ki strana hem phenđa lenđe: “Ače, džaja nakoro Jerusalim. Adari ka pherđol sa adava so o proroci pisinde ko Sveto lil mandar, e Manušesere Čhavestar.
+LUK 18:31 O Isus cidinđa pe e dešuduje apostolencar ki strana hem phenđa lenđe: “Ače, džaja nakoro Jerusalim. Adari ka pherđol sa adava so o proroci pisinde ano Sveto lil mandar, e Manušesere Čhavestar.
 LUK 18:32 Ka den man ko manuša kola nane Jevreja. On ka maren muj mancar, ka vređinen man hem ka čhungaren man.
 LUK 18:33 Ka šibinen man hem ka mudaren man, ali o trito dive ka uštav taro mule.”
 LUK 18:34 O učenici na halile ništa adalestar so o Isus vaćerđa lenđe. O značenje adale lafengoro inele garavdo olendar, i na džande sostar o Isus vaćeri.
@@ -936,7 +936,7 @@ LUK 20:33 Kasiri onda romni oj ka ovel kad ka uštel pe taro mule, a inele dindi
 LUK 20:34 O Isus phenđa lenđe: “O manuša ko akava sveto lena pe hem dena pe.
 LUK 20:35 A okola kolen o Devel smatrini dai dostojna te oven vazdime taro mule hem te živinen ko sveto savo avela, ni ka len pe ni ka den pe.
 LUK 20:36 Adalese so našti više ni te meren: ka oven sar o anđelja. Oni čhave e Devlesere, adalese so o Devel ka vazdel len taro mule.
-LUK 20:37 A da o mule uštena, mothovđa hem o Mojsije ko Sveto lil kote pisini oto grmo savo ine thabljola. Adathe ov zako Gospod phenela dai ‘Devel e Avraamesoro, e Isaakesoro hem e Jakovesoro’ iako on tegani inele mule.
+LUK 20:37 A da o mule uštena, mothovđa hem o Mojsije ano Sveto lil kote pisini oto grmo savo ine thabljola. Adathe ov zako Gospod phenela dai ‘Devel e Avraamesoro, e Isaakesoro hem e Jakovesoro’ iako on tegani inele mule.
 LUK 20:38 A o Devel nane Devel e mulengoro, nego Devel e dživdengoro. Adalese soi on e Devlese pana dživde.”
 LUK 20:39 Nesave učitelja e Zakonestar phende e Isusese: “Učitelju, šukar vaćerđan!”
 LUK 20:40 I nijekh više na tromandilo te pučel le nešto.
@@ -1021,7 +1021,7 @@ LUK 22:33 A ov phenđa lese: “Gospode, injum spremno te džav tuja hem ko phan
 LUK 22:34 A o Isus phenđa: “Vaćerava će, Petre, o bašno naka đilabi avdive đikote trin puti naka hovave da na pendžareja man.”
 LUK 22:35 I phenđa e apostolenđe: “Kad bičhalđum tumen ko drom bizo kese lovencar, bizo torbe hem bizi buderi obuća, na li falinđa tumenđe nešto?” A on phende: “Ništa.”
 LUK 22:36 Tegani o Isus phenđa lenđe: “Ali akana kas isi kesa e lovencar, nek lel la! Ađahar hem i torba! A kas nane mači, nek biknel plo ogrtači hem nek činelfse jekh.
-LUK 22:37 Adalese so, vaćerava tumenđe, valjani te pherđol adava soi mandar pisime ko Sveto lil: ‘Dikhle le sar jekhe zločinco.’ Čače, pherđola sa soi pisime mandar.”
+LUK 22:37 Adalese so, vaćerava tumenđe, valjani te pherđol adava soi mandar pisime ano Sveto lil: ‘Dikhle le sar jekhe zločinco.’ Čače, pherđola sa soi pisime mandar.”
 LUK 22:38 A on phende: “Gospode, ače isi amen duj mačija!” A ov phenđa: “Šukari!”
 LUK 22:39 I iklindoj adathar, palo plo adeti, dželo ki e Maslinakiri gora. Oleja džele hem lesere učenici.
 LUK 22:40 I kad resle adari, phenđa lenđe: “Molinen tumen te na peren ano iskušenje!”

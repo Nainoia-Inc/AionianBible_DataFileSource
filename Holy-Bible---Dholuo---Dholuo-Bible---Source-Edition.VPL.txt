@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Dholuo---Dholuo-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Dholuo---Dholuo-Bible
-## File Created: 02/21/2024 18:51:56
+## File Created: 07/30/2024 18:21:36
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -10,7 +10,7 @@
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/Scriptures/luo_vpl.zip
-## Source Date: 02/21/2024 15:49:24
+## Source Date: 07/30/2024 07:11:00
 ## Source Text: unaltered below
 ##
 
@@ -24419,7 +24419,7 @@ MAR 5:37 Yesu koro ne ok oyie mondo ngʼat moro oluwe makmana Petro gi Jakobo ko
 MAR 5:38 Kane gichopo e dala jatend sinagogi, Yesu noyudo ka dala otimo koko; ka ji ywak kendo goyo nduru matek.
 MAR 5:39 Nodonjo ei ot mopenjogi niya, “Koko gi nduru ni manade? Nyathi ok otho, onindo aninda.”
 MAR 5:40 To jogo nonyiere anyiera. Kane osegologi oko duto, nokawo wuon nyathi gi min-gi kaachiel gi jopuonjre mane ni kode, mi odonjo kodgi nyaka iye kuma nyathi ne nitie.
-MAR 5:41 To nomako lwet nyathi manyakono mi owachone niya, “ Talitha koum!” (tiende ni, “Nyako matin, anyisi ni aa malo!”)
+MAR 5:41 To nomako lwet nyathi manyakono mi owachone niya, “Talitha koum!” (tiende ni, “Nyako matin, anyisi ni aa malo!”)
 MAR 5:42 Sano sano nyakono nochungʼ malo mochako wuotho e dier ot (ne en ja-higni apar gariyo). Ji duto nohum nono kuom gima notimoreno.
 MAR 5:43 To Yesu nosiemogi matek ni kik ginyis ngʼato moro amora gima nosetimore, bangʼe nonyisogi ni mondo gimi nyakono gimoro ocham.
 MAR 6:1 Yesu noa kanyo modhi dalagi kaachiel gi jopuonjrene.
