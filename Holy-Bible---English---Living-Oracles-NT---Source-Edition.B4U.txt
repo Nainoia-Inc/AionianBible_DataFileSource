@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Living-Oracles-NT---Source-Edition.B4U.txt
 ## File Usage: Holy-Bible---English---Living-Oracles-NT
-## File Created: 08/05/2024 20:42:43
+## File Created: 08/22/2024 14:43:24
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://bible4u.net/static/bible_files/txt/TLO_txt.zip
+## Source URL: https://bible4u.net/en/download#TLO
+## Source File: https://bible4u.net/static/bible_files/txt/TLO_txt.zip
 ## Source Date: 11/21/2022 01:32:22
+## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
 

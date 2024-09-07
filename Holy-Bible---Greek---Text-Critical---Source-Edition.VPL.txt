@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Text-Critical
-## File Created: 07/30/2024 23:46:52
+## File Created: 09/04/2024 16:17:19
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/grctcgnt_vpl.zip
-## Source Date: 07/30/2024 23:01:51
+## Source URL: https://ebible.org/details.php?id=grctcgnt
+## Source File: https://ebible.org/Scriptures/grctcgnt_vpl.zip
+## Source Date: 09/03/2024 14:50:35
+## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
 

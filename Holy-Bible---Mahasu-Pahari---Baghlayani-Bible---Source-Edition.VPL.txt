@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Mahasu-Pahari---Baghlayani-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Mahasu-Pahari---Baghlayani-Bible
-## File Created: 07/30/2024 06:32:04
+## File Created: 08/25/2024 20:36:26
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/bfz_vpl.zip
-## Source Date: 07/30/2024 02:36:50
+## Source URL: https://ebible.org/details.php?id=bfz
+## Source File: https://ebible.org/Scriptures/bfz_vpl.zip
+## Source Date: 08/25/2024 09:49:40
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 08/06/2024 07:03:30
+## File Created: 09/05/2024 14:09:51
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 08/05/2024 22:22:25
+## Source URL: https://ebible.org/details.php?id=rmyChergash
+## Source File: https://ebible.org/Scriptures/rmyChergash_vpl.zip
+## Source Date: 09/05/2024 12:57:24
+## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
 

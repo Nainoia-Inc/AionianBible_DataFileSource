@@ -1,16 +1,18 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Nestle---Source-Edition.SWORD.txt
 ## File Usage: Holy-Bible---Greek---Greek-Nestle
-## File Created: 04/03/2021 16:07:38
+## File Created: 08/23/2024 00:16:58
 ## File Purpose: Supporting resource for the Aionian Bible project
-## File Location: http://resources.AionianBible.org
+## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
-## Publisher Contact: http://www.AionianBible.org/Publisher
-## Publisher Mission: http://www.AionianBible.org/Preface
-## Publisher Website: http://NAINOIA-INC.signedon.net
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: http://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Nestle1904.zip
+## Source URL: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Nestle1904
+## Source File: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Nestle1904.zip
 ## Source Date: 06/19/2017 15:14:09
+## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
 

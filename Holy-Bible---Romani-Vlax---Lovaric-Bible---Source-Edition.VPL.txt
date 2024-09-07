@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Lovaric-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Lovaric-Bible
-## File Created: 07/30/2024 18:21:44
+## File Created: 08/31/2024 10:06:52
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/rmylovari_vpl.zip
-## Source Date: 07/30/2024 09:19:44
+## Source URL: https://ebible.org/details.php?id=rmylovari
+## Source File: https://ebible.org/Scriptures/rmylovari_vpl.zip
+## Source Date: 08/29/2024 16:27:44
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

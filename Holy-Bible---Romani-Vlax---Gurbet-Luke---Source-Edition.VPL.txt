@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 08/06/2024 07:03:30
+## File Created: 09/05/2024 14:09:51
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 08/05/2024 22:22:33
+## Source URL: https://ebible.org/details.php?id=rmyGurbet
+## Source File: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
+## Source Date: 09/05/2024 12:57:32
+## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
 
@@ -134,9 +136,9 @@ LUK 2:37 thaj pale gova sasa udovica ohtovardeš thaj štar berš. Ni iklili and
 LUK 2:38 I voj avili gothe ane gova vreme, hvalisada e Devle thaj vaćarda taro čhavoro savorenđe save ađućarde o Dol te ikalol o Jerusalim.
 LUK 2:39 Kana o Josif thaj i Marija ćerde sa pale Gospodeso zakon, irisajle ani Galileja, ane pumaro foro ano Nazaret.
 LUK 2:40 A o čhavoro barilo thaj zurajlo. Pherdilo mudrost thaj o milost e Devleso sasa ane leste.
-LUK 2:41 E Isusesi dej thaj leso dad đele dži jekh berš ano Jerusalim ke Bare đivesa i Pasha.
-LUK 2:42 Kana sasa e Isuse dešuduj berš, i vov đelo palo adeti te svetkujil lencar kala Bare đivesa ano Jerusalim.
-LUK 2:43 Kana nakhle gola Bare đivesa, o Josif thaj i Marija đele čhere. O čhavoro o Isus ačhilo ano Jerusalim, al lesi dej thaj leso dad gova ni džanglje.
+LUK 2:41 E Isusesi dej thaj leso dad đele svako berš ano Jerusalim ko prazniko i Pasha.
+LUK 2:42 Kana sasa e Isuse dešuduj berš, i vov đelo palo adeti te svetkujil lencar kava prazniko ano Jerusalim.
+LUK 2:43 Kana nakhlo gova prazniko, o Josif thaj i Marija đele čhere. O čhavoro o Isus ačhilo ano Jerusalim, al lesi dej thaj leso dad gova ni džanglje.
 LUK 2:44 Sar dije gođi kaj si o Isus maškare avera manuša save putujisade lencar, đele jekh đive phirindoj thaj pale gova lije te roden le ki familija thaj ke pe pindžarutne manuša.
 LUK 2:45 Kana ni arakhlje le, irisajle ano Jerusalim te roden le.
 LUK 2:46 O trito đive arakhlje le ano Hram sar bešol maškare učitelja, sar šunol len thaj pučol len.
@@ -181,7 +183,7 @@ LUK 3:32 O David sasa čhavo e Jesejeso. O Jesej sasa čhavo e Jovideso, O Jovid
 LUK 3:33 O Naason sasa čhavo e Aminadaveso. O Aminadav sasa čhavo e Admineso. O Admin sasa čhavo e Arnijeso. O Arni sasa čhavo e Esromeso. O Esrom sasa čhavo e Fareseso. O Fares sasa čhavo e Judaso.
 LUK 3:34 O Juda sasa čhavo e Jakoveso. O Jakov sasa čhavo e Isaakoso. O Isaak sasa čhavo e Avraameso. O Avraam sasa čhavo e Taraso. O Tara sasa čhavo e Nahoreso.
 LUK 3:35 O Nahor sasa čhavo e Seruheso, O Seruh sasa čhavo e Ragaveso. O Ragav sasa čhavo e Falekeso. O Falek sasa čhavo e Evereso. O Ever sasa čhavo e Salaso.
-LUK 3:36 O Sala sasa čhavo e Kainameso. O Kainam sasa čhavo e Arfaksadeso. O Arfaksad sasa čhavo e Simeso. O Sim sasa čhavo e Nojeso. O Noje sasa čhavo e Lameheso.
+LUK 3:36 O Sala sasa čhavo e Kainameso. O Kainam sasa čhavo e Arfaksadeso. O Arfaksad sasa čhavo e Simeso. O Sim sasa čhavo e Nojeso. O Noja sasa čhavo e Lameheso.
 LUK 3:37 O Lameh sasa čhavo e Matusaleso. O Matusal sasa čhavo e Enoheso. O Enoh sasa čhavo e Jareteso. O Jaret sasa čhavo e Malaleileso. O Malaleil sasa čhavo e Kainameso.
 LUK 3:38 O Kainam sasa čhavo e Enoseso. O Enos sasa čhavo e Siteso. O Sit sasa čhavo e Adameso. O Adam sasa čhavo e Devleso.
 LUK 4:1 O Isus pherdo Svetone Duxosa irisajlo tari len o Jordan. O Duxo inđarda le ani pustinja,

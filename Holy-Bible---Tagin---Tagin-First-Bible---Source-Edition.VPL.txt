@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Tagin---Tagin-First-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Tagin---Tagin-First-Bible
-## File Created: 07/30/2024 18:21:49
+## File Created: 08/28/2024 16:47:04
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,8 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: https://ebible.org/Scriptures/tgj_vpl.zip
-## Source Date: 07/30/2024 10:29:10
+## Source URL: https://ebible.org/details.php?id=tgj
+## Source File: https://ebible.org/Scriptures/tgj_vpl.zip
+## Source Date: 08/25/2024 18:18:45
+## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
 
