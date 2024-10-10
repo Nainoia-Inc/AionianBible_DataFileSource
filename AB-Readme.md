@@ -1,8 +1,8 @@
 # File Name: AB-Readme.md
-# File Date: 2020-01-06
+# File Date: 2024-10-09
 # File Purpose: Supporting resource for the Aionian Bible project
 # File Location: http://resources.AionianBible.org
-# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2020
+# File Copyright: Creative Commons Attribution 4.0 International, 2018-2024
 # File Generator: ABCMS (alpha)
 # File Accuracy: Contact publisher with corrections to file format or content
 # Publisher Name: Nainoia Inc
@@ -12,23 +12,22 @@
 # Publisher Facebook: https://www.Facebook.com/AionianBible
 #
 
-The AionianBible.org website and all supporting content is copyrighted with the Creative Commons No
-Derivative Works license allowing 100% freedom to copy and print for personal, non-profit, non-commercial,
-and commercial profit purposes, but further editorial and translation work must begin with the sources.
-This copyright extends to the source code for the content management system, to the Aionian Glossary and
-corresponding inline notes found in the Bible text, and to all content in the preface and postface to the
-Bible text.  However, the source Bible texts themselves retain their original source copyright.
+Third Party Publisher Resources:
 
-Further 'Holy Bible Aionian Edition®' is a registered trademark licensed solely to Nainoia, Inc. and
-may not be used in any other context.  The trademark must remain intact and unaltered in any free and
-commercial redistribution of unaltered Aionian Bible publications produced by Nainoia, Inc.  And finally
-the 'Holy Bible Aionian Edition®' registered trademark MAY NOT be used by any other entity except Nainoia Inc
-for commercial sales on the Amazon KDP, Lulu, and Ingram Lightning Source print on demand platforms.
+Thank you for your interest in re-publishing Aionian Bible content. The Aionian Bible is copyrighted with the Creative Commons Attribution 4.0 International license allowing 100% freedom to copy, print, revise, and sell if allowed by the source text copyright. First, third party publishers are granted permission to distribute any unchanged Aionian Bible publication or file for free or commercially, except on or through any Amazon, Lulu, Ingram Spark, or Ingram Lightning Source platform or subsidiary which are our chosen commercial outlets. The Holy Bible Aionian Edition® trademark enforces this rule. Second, you are welcome to create derived works with complete freedom, though you must change the publication title, remove our trademark, and give attribution as follows, "Derived from AionianBible.org by Nainoia Inc." We also request that you give attribution to our original source and even consider deriving your new work directly from our source. The Aionian Bible does not require that your derived work include a ShareAlike copyright in order to allow future publishers greater copyright freedom, though again we request that future copyrights at least require attribution, Creative Commons Attribution 4.0 International, so that the text lineage is documented. If you have any licensing questions please ask.
 
-The content of this repository is made public for these reasons:
-1. To encourage unhindered study of the Bible.
-2. To enable third party distribution of the unaltered Aionian Bible publications, whether free or commercial.
-3. To enable further research in content management systems.
-4. To release this content to the public domain when and if Nainoia, Inc. or a future copyright holder becomes defunct.
+Aionian Bible text repositories:
+
+AionianBible.org/Read
+AionianBible.org Request Custom Formatted Verses
+Resources.AionianBible.org
+GitHub.com/Nainoia-Inc
+drive.google.com/drive/folders/1-5OurcPPEDAPXDfxzjNh2GfZwItSW0yy
+
+Aionian Bible Content Management System (ABCMS):
+
+The Aionian Bible Content Management System (ABCMS) also known as A Basic Content Management System is in production at AionianBible.org. The development philosophy of the first production release was simply to reliably publish as many Bibles as possible in as short a time as possible while being creative with approved programming practices as needed for expediency. For example, we used lots of global variables, very carefully and without shame. Nainoia Inc believes that we are in a spiritual war-time status and we serve accordingly. When duct tape worked and was at hand we did not run for the hammer and nails. And with the Lord's help we have published many Bible translations in many languages both online and in print with a skeleton crew. Having reached our first major milestone, Lord willing, we now plan to rewrite the content management system with the source code being available for comment, collaboration, and additional online applications. And we have a cool plan for our global variables! Watch our progress at GitHub.com/Nainoia-Inc.
+
+We are recruiting volunteers. Contact us to learn more. Also visit NAINOIA-INC.SignedOn.net. 
 
 
