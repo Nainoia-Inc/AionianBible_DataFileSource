@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Chinese---Chinese-Union-Version-Simplified---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Chinese---Chinese-Union-Version-Simplified
-## File Created: 08/25/2024 20:36:16
+## File Created: 11/13/2024 21:21:06
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=cmn-cu89s
 ## Source File: https://ebible.org/Scriptures/cmn-cu89s_vpl.zip
-## Source Date: 08/25/2024 10:52:27
+## Source Date: 11/13/2024 07:13:04
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

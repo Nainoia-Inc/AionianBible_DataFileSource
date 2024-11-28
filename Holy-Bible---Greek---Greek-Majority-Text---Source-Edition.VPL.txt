@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Majority-Text---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-Majority-Text
-## File Created: 08/25/2024 20:36:21
+## File Created: 11/13/2024 21:21:14
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=grcmt
 ## Source File: https://ebible.org/Scriptures/grcmt_vpl.zip
-## Source Date: 08/25/2024 12:33:12
+## Source Date: 11/12/2024 22:58:42
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

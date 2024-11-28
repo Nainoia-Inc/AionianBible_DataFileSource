@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Servi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Servi-Bible
-## File Created: 08/31/2024 10:06:52
+## File Created: 11/13/2024 21:21:24
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyservi
 ## Source File: https://ebible.org/Scriptures/rmyservi_vpl.zip
-## Source Date: 08/29/2024 16:27:52
+## Source Date: 11/13/2024 00:30:10
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Yombe---Yombe-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Yombe---Yombe-Bible
-## File Created: 08/28/2024 16:47:08
+## File Created: 11/13/2024 21:21:33
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=yom
 ## Source File: https://ebible.org/Scriptures/yom_vpl.zip
-## Source Date: 08/25/2024 19:39:53
+## Source Date: 11/13/2024 01:05:37
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

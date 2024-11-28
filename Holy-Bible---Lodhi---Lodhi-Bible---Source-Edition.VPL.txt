@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Lodhi---Lodhi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Lodhi---Lodhi-Bible
-## File Created: 08/28/2024 16:46:53
+## File Created: 11/13/2024 21:21:19
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=lbm
 ## Source File: https://ebible.org/Scriptures/lbm_vpl.zip
-## Source Date: 08/25/2024 14:52:42
+## Source Date: 11/12/2024 23:39:40
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

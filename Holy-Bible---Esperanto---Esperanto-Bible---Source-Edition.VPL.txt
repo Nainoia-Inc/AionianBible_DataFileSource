@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Esperanto---Esperanto-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Esperanto---Esperanto-Bible
-## File Created: 08/25/2024 20:36:19
+## File Created: 11/13/2024 21:21:12
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=epo
 ## Source File: https://ebible.org/Scriptures/epo_vpl.zip
-## Source Date: 08/25/2024 12:17:34
+## Source Date: 11/12/2024 22:54:08
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

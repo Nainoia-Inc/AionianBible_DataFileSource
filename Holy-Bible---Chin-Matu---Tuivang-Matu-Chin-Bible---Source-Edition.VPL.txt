@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Chin-Matu---Tuivang-Matu-Chin-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Chin-Matu---Tuivang-Matu-Chin-Bible
-## File Created: 08/25/2024 20:36:16
+## File Created: 11/12/2024 11:39:25
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=hltthb
 ## Source File: https://ebible.org/Scriptures/hltthb_vpl.zip
-## Source Date: 08/25/2024 13:13:27
+## Source Date: 11/07/2024 01:59:19
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

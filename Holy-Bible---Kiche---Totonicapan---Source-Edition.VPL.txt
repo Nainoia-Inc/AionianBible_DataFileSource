@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Kiche---Totonicapan---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Kiche---Totonicapan
-## File Created: 09/03/2024 12:25:12
+## File Created: 11/13/2024 21:21:18
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=quctt
 ## Source File: https://ebible.org/Scriptures/quctt_vpl.zip
-## Source Date: 09/02/2024 23:58:55
+## Source Date: 11/13/2024 00:28:30
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

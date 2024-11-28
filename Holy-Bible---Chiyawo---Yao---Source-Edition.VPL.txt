@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Chiyawo---Yao---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Chiyawo---Yao
-## File Created: 08/28/2024 16:46:46
+## File Created: 11/13/2024 21:21:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=yao
 ## Source File: https://ebible.org/Scriptures/yao_vpl.zip
-## Source Date: 08/25/2024 19:34:43
+## Source Date: 11/13/2024 01:04:47
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

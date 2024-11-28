@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Ukrainian---New-Translation---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Ukrainian---New-Translation
-## File Created: 08/28/2024 16:47:06
+## File Created: 11/13/2024 21:21:32
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=ukronpu
 ## Source File: https://ebible.org/Scriptures/ukronpu_vpl.zip
-## Source Date: 08/25/2024 19:02:28
+## Source Date: 11/13/2024 00:55:44
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0, International
 ## Source Text: unaltered below
 ##

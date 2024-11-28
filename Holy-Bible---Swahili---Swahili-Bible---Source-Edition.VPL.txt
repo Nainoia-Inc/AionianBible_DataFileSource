@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Swahili---Swahili-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Swahili---Swahili-Bible
-## File Created: 08/28/2024 16:47:04
+## File Created: 11/12/2024 11:39:49
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=swh1850
 ## Source File: https://ebible.org/Scriptures/swh1850_vpl.zip
-## Source Date: 08/25/2024 17:56:10
+## Source Date: 11/07/2024 03:17:31
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

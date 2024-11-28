@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romanian---Bayash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romanian---Bayash-Luke
-## File Created: 08/28/2024 16:46:59
+## File Created: 11/12/2024 11:39:45
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=ronBayash
 ## Source File: https://ebible.org/Scriptures/ronBayash_vpl.zip
-## Source Date: 08/25/2024 17:11:49
+## Source Date: 11/07/2024 03:07:39
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

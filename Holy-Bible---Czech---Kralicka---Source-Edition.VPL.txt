@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Czech---Kralicka---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Czech---Kralicka
-## File Created: 08/25/2024 20:36:17
+## File Created: 11/13/2024 21:21:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=ces1613
 ## Source File: https://ebible.org/Scriptures/ces1613_vpl.zip
-## Source Date: 08/25/2024 10:35:55
+## Source Date: 11/13/2024 06:49:01
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
