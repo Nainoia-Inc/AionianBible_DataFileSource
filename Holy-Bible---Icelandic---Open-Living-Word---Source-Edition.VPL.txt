@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Icelandic---Open-Living-Word---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Icelandic---Open-Living-Word
-## File Created: 11/13/2024 21:21:17
+## File Created: 12/29/2024 07:54:44
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=isl
 ## Source File: https://ebible.org/Scriptures/isl_vpl.zip
-## Source Date: 11/12/2024 23:20:30
+## Source Date: 12/28/2024 16:58:49
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0, International
 ## Source Text: unaltered below
 ##

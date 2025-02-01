@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Arapaho---Arapaho-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Arapaho---Arapaho-Luke
-## File Created: 11/13/2024 21:21:03
+## File Created: 12/29/2024 07:54:28
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=arp
 ## Source File: https://ebible.org/Scriptures/arp_vpl.zip
-## Source Date: 11/12/2024 21:49:27
+## Source Date: 12/28/2024 15:25:27
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

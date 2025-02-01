@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 11/26/2024 22:12:27
+## File Created: 01/31/2025 07:25:37
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyArli
 ## Source File: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 11/26/2024 13:26:30
+## Source Date: 01/30/2025 23:37:24
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -986,7 +986,7 @@ LUK 21:34 I o Isus phenđa lenđe: “Arakhen tumen te na oven zaokupirime pibna
 LUK 21:35 Adalese so adava dive ka avel sar zamka upro sa o manuša ki phuv.
 LUK 21:36 Adalese oven džangale hem stalno molinen te šaj nakhaven sa adava so valjani te ovel hem te terđoven anglo Čhavo e manušesoro.”
 LUK 21:37 Diveja o Isus sikaj ine ano Hram, a raćaja ikljola ine tari diz hem džala te nakhaj i rat ki gora vičimi e Maslinakiri.
-LUK 21:38 I sa o manuša rano sabajleja džana ine ko Hram te šunen le.
+LUK 21:38 I sa o manuša rano sabaleja džana ine ko Hram te šunen le.
 LUK 22:1 Avela ine paše o Prazniko e bikvascone marengoro, savo vičini pe Pasha.
 LUK 22:2 O šerutne sveštenici hem o učitelja e Zakonestar rodena ine sar te ćeren o Isus te ovel mudardo, ali darandile e narodostar.
 LUK 22:3 Tegani o Sotoni đerdinđa ano Juda vičime Iskariot kova inele jekh oto dešu duj apostolja e Isusesere.
@@ -1113,7 +1113,7 @@ LUK 23:53 Tegani huljavđa e Isusesoro telo taro krsto, paćarđa le čaršaveja
 LUK 23:54 Adava dive inele Dive zako pripremiba zako savato savo samo so na ine te avel.
 LUK 23:55 A o đuvlja, kola ale e Isuseja tari Galileja, džele e Josifeja hem dikhle sar e Isusesoro telo inele čhivdo ano grobo.
 LUK 23:56 I irinde pe adari kaj bešena ine hem spreminde o mirisija hem o mastija savencar te makhen e Isusesoro telo. Ali ko savato odmorinde pe poštujindoj i naredba oto Zakoni e Mojsijasoro.
-LUK 24:1 Rano sabajle, ko prvo dive oto kurko, o đuvlja ale ko grobo hem ande o mirisija save spreminde.
+LUK 24:1 Rano sabale, ko prvo dive oto kurko, o đuvlja ale ko grobo hem ande o mirisija save spreminde.
 LUK 24:2 I dikhle dai cidime o bar savo inele anglo udar e grobosoro.
 LUK 24:3 Đerdinde andre, ali na arakhle o telo Gospodesoro e Isusesoro.
 LUK 24:4 I sar terđona ine adari zbunime, otojekhvar iklile anglo lende duj manuša ano sjajna šeja.
@@ -1134,7 +1134,7 @@ LUK 24:18 Jekh olendar, palo anav Kleopa, phenđa lese: “Sar so dičhola, tu i
 LUK 24:19 O Isus pučlja len: “So ulo?” I on phende lese: “Adava so ulo e Isuseja e Nazarećanineja. Ov inele proroko zoralo ano lafija hem ano delja anglo Devel hem anglo sa o narodo.
 LUK 24:20 Ali amare šerutne sveštenici hem amare avera vođe dinde le te ovel osudime ko meriba hem čhivde le ko krsto.
 LUK 24:21 Amen nadinđam amen dai ov adava kova ka otkupini e Izraelesere narodo. A ače, tritoi dive sar ulo sa adava.
-LUK 24:22 Hem pana zbuninde amen nesave amare đuvlja. Rano sabajle džele ko grobo,
+LUK 24:22 Hem pana zbuninde amen nesave amare đuvlja. Rano sabale džele ko grobo,
 LUK 24:23 ali na arakhle e Isusesoro telo adari. Ale hem phende amenđe da dikhle anđelen kola vaćerde lenđe dai o Isus dživdo.
 LUK 24:24 Tegani nesave amendar džele ko grobo hem arakhle ađahar sar so phende o đuvlja. Ali na dikhle e Isuse.”
 LUK 24:25 Tegani o Isus phenđa lenđe: “O, sar na haljovena? Sosei tumenđe pharo te verujinen sa adava so o proroci vaćerde?

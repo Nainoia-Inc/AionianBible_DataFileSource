@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Pengo---Pengo-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Pengo---Pengo-Bible
-## File Created: 11/13/2024 21:21:23
+## File Created: 12/29/2024 07:54:54
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=peg
 ## Source File: https://ebible.org/Scriptures/peg_vpl.zip
-## Source Date: 11/13/2024 00:21:09
+## Source Date: 12/28/2024 17:48:21
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

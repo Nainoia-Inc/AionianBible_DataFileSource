@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 11/26/2024 22:12:26
+## File Created: 01/31/2025 07:25:36
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engtcent
 ## Source File: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 11/25/2024 23:06:07
+## Source Date: 01/28/2025 21:30:14
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -46,7 +46,7 @@ MAT 2:2 saying, “Where is the child who has been born king of the Jews? For we
 MAT 2:3 When Herod the king heard this, he was troubled, and all Jerusalem with him.
 MAT 2:4 So he assembled all the chief priests and scribes of the people, and inquired of them where the Christ was to be born.
 MAT 2:5 They told him, “In Bethlehem of Judea, for so it is written by the prophet,
-MAT 2:6 ‘But yoʋ Bethlehem, land of Judah, are by no means least among the rulers of Judah; for from yoʋ will come a ruler who will shepherd my people Israel.’ ”
+MAT 2:6 ‘But yoʋ Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from yoʋ will come a ruler who will shepherd my people Israel.’ ”
 MAT 2:7 Then Herod secretly called the wise men and ascertained from them what time the star had appeared.
 MAT 2:8 He sent them to Bethlehem and said, “Go search diligently for the child, and when you have found him, bring me word so that I too may go and worship him.”
 MAT 2:9 They listened to the king and went on their way, and behold, the star they had seen in the east went before them until it came and stopped over the place where the child was.
@@ -66,18 +66,18 @@ MAT 2:22 But when he heard that Archelaus was reigning over Judea in place of hi
 MAT 2:23 and came and dwelt in a town called Nazareth, so that what had been spoken by the prophets might be fulfilled: “He will be called a Nazarene.”
 MAT 3:1 In those days John the Baptist came preaching in the wilderness of Judea, saying,
 MAT 3:2 “Repent, for the kingdom of heaven has drawn near.”
-MAT 3:3 This is the one who was spoken of by the prophet Isaiah, who said, “The voice of one crying out in the wilderness, ‘Prepare the way of the Lord; make his paths straight.’ ”
+MAT 3:3 This is the one who was spoken of by the prophet Isaiah, who said, “The voice of one crying out in the wilderness, ‘Prepare the way for the Lord; make his paths straight.’ ”
 MAT 3:4 Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey.
 MAT 3:5 Then Jerusalem was going out to him, and so were all Judea and all the region around the Jordan.
 MAT 3:6 They were being baptized by him in the Jordan, confessing their sins.
 MAT 3:7 But when John saw many of the Pharisees and Sadducees coming to his baptism, he said to them, “You brood of vipers, who warned you to flee from the coming wrath?
 MAT 3:8 Produce fruit consistent with repentance.
 MAT 3:9 And do not think that you can say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children for Abraham.
-MAT 3:10 Even now the axe is laid at the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.
+MAT 3:10 Even now the axe is laid to the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.
 MAT 3:11 “I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit.
 MAT 3:12 His winnowing fork is in his hand, and he will thoroughly clean out his threshing floor and gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”
-MAT 3:13 Then Jesus came from Galilee to the Jordan to John, to be baptized by him.
-MAT 3:14 But John tried to prevent him, saying, “I need to be baptized by yoʋ, and do yoʋ come to me?”
+MAT 3:13 Then Jesus came from Galilee to the Jordan to be baptized by John.
+MAT 3:14 But John tried to prevent him, saying, “I need to be baptized by yoʋ, and yet yoʋ are coming to me?”
 MAT 3:15 But Jesus answered him, “Permit it for now, for thus it is fitting for us to fulfill all righteousness.” Then John permitted him.
 MAT 3:16 After being baptized, Jesus immediately went up from the water. And behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and alighting on him.
 MAT 3:17 And behold, a voice from heaven said, “This is my beloved Son, in whom I am well pleased.”
@@ -349,7 +349,7 @@ MAT 11:15 He who has ears to hear, let him hear.
 MAT 11:16 “But to what should I compare this generation? It is like children sitting in the marketplaces and calling out to their companions,
 MAT 11:17 ‘We played the flute for you, but you did not dance; we sang a lament for you, but you did not mourn.’
 MAT 11:18 For John came neither eating nor drinking, and they say, ‘He has a demon.’
-MAT 11:19 The Son of Man came eating and drinking, and they say, ‘Behold, a glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is justified by her children.”
+MAT 11:19 The Son of Man came eating and drinking, and they say, ‘Behold, a glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is vindicated by her children.”
 MAT 11:20 Then Jesus began to reproach the cities in which most of his miracles had been done, because they did not repent:
 MAT 11:21 “Woe to yoʋ, Chorazin! Woe to yoʋ, Bethsaida! For if the miracles that were done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 MAT 11:22 But I tell you, it will be more tolerable on the day of judgment for Tyre and Sidon than for you.
@@ -425,10 +425,10 @@ MAT 13:11 Jesus answered them, “To you it has been given to know the mysteries
 MAT 13:12 For whoever has will be given more, and he will have an abundance. But whoever does not have, even what he has will be taken away from him.
 MAT 13:13 That is why I speak to them in parables, because ‘they see but do not perceive, and they hear but do not listen or understand.’
 MAT 13:14 In them is fulfilled the prophecy of Isaiah, which says, ‘Yoʋ will hear but never understand, and you will see but never perceive.
-MAT 13:15 For the heart of this people has become dull; with their ears they have barely heard, and their eyes they have closed, lest they should see with their eyes, hear with their ears, and understand with their hearts and turn back, and I would heal them.’
+MAT 13:15 For the heart of this people has become calloused; with their ears they have barely heard, and their eyes they have closed, lest they should see with their eyes, hear with their ears, and understand with their hearts and turn back, and I would heal them.’
 MAT 13:16 But blessed are your eyes because they see, and your ears because they hear.
 MAT 13:17 For truly I say to you, many prophets and righteous people desired to see the things you see but did not see them, and to hear the things you hear but did not hear them.
-MAT 13:18 “So hear me and understand what the parable of the sower means:
+MAT 13:18 “So hear what the parable of the sower means:
 MAT 13:19 When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path.
 MAT 13:20 The seed sown on rocky ground is he who hears the word and immediately receives it with joy.
 MAT 13:21 Yet he has no root in himself, but is only temporary. When tribulation or persecution arises on account of the word, he immediately falls away.
@@ -567,7 +567,7 @@ MAT 16:20 Then he commanded his disciples to tell no one that he was Jesus the C
 MAT 16:21 From that time Jesus began to show his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and scribes, and that he must be killed and on the third day be raised up.
 MAT 16:22 So Peter took him aside and began to rebuke him, saying, “God forbid, Lord! This shall certainly not happen to yoʋ.”
 MAT 16:23 But he turned around and said to Peter, “Get behind me, Satan! Yoʋ are a stumbling block to me, for yoʋ are not thinking about the things of God, but the things of men.”
-MAT 16:24 Then Jesus said to his disciples, “If anyone wants to come after me, he must deny himself, take up his cross, and follow me.
+MAT 16:24 Then Jesus said to his disciples, “If anyone wants to be one of my disciples, he must deny himself, take up his cross, and follow me.
 MAT 16:25 For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it.
 MAT 16:26 For what does it benefit a person if he gains the whole world but forfeits his soul? Or what can a person give in exchange for his soul?
 MAT 16:27 For the Son of Man will come with his angels in the glory of his Father, and then he will repay each person according to what he has done.
@@ -598,7 +598,7 @@ MAT 17:23 They will kill him, and on the third day he will be raised up.” And 
 MAT 17:24 When they came to Capernaum, the collectors of the two-drachma tax came to Peter and said, “Your teacher pays the two-drachma tax, doesn't he?”
 MAT 17:25 He said, “Yes.” And when Peter came into the house, Jesus spoke to him first, saying, “What do yoʋ think, Simon? From whom do the kings of the earth receive toll or tax? From their own sons or from strangers?”
 MAT 17:26 Peter said to him, “From strangers.” And Jesus said to him, “Then the sons are free.
-MAT 17:27 But so that we may not offend them, go to the sea, cast a hook, and take the first fish that comes up. When yoʋ open its mouth, yoʋ will find a stater coin. Take it and give it to them for yoʋ and me.”
+MAT 17:27 But so that we may not offend them, go to the sea, cast a hook, and take the first fish yoʋ catch. When yoʋ open its mouth, yoʋ will find a stater coin. Take it and give it to them for yoʋ and me.”
 MAT 18:1 In that hour the disciples came to Jesus and said, “Who is greater in the kingdom of heaven?”
 MAT 18:2 So Jesus called over a little child, placed him among them,
 MAT 18:3 and said, “Truly I say to you, unless you change and become like little children, you will certainly not enter the kingdom of heaven.
@@ -619,7 +619,7 @@ MAT 18:17 If he refuses to listen to them, tell it to the church. And if he refu
 MAT 18:18 Truly I say to you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 MAT 18:19 Again, truly I say to you, if two of you agree on earth about anything you ask, it will be done for you by my Father in heaven.
 MAT 18:20 For where two or three are gathered together in my name, I am there among them.”
-MAT 18:21 Then Peter came to Jesus and said, “Lord, how many times must I forgive my brother when he sins against me? Up to seven times?”
+MAT 18:21 Then Peter came to Jesus and said, “Lord, how many times must I forgive my brother when he keeps sinning against me? Up to seven times?”
 MAT 18:22 Jesus said to him, “Not, I tell yoʋ, up to seven times, but up to seventy times seven.
 MAT 18:23 “For this reason the kingdom of heaven may be compared to a king who wished to settle accounts with his servants.
 MAT 18:24 As he began to settle accounts, one servant who had a debt of ten thousand talents was brought to him.
@@ -755,11 +755,11 @@ MAT 22:8 Then he said to his servants, ‘The wedding feast is ready, but those 
 MAT 22:9 Go therefore to where the roads exit the city and invite to the wedding feast anyone you find.’
 MAT 22:10 So the servants went out to the roads and gathered together all whom they found, both evil and good, and the wedding feast was filled with guests.
 MAT 22:11 “But when the king came in to see the guests, he saw a man there who was not clothed with a wedding garment.
-MAT 22:12 So he said to him, ‘Friend, how did yoʋ come in here without a wedding garment?’ But the man was speechless.
+MAT 22:12 So he said to him, ‘Friend, how did yoʋ get in here without a wedding garment?’ But the man was speechless.
 MAT 22:13 Then the king said to the servants, ‘Bind his feet and hands, take him away, and throw him into the outer darkness. In that place there will be weeping and gnashing of teeth.’
 MAT 22:14 For many are called, but few are chosen.”
 MAT 22:15 Then the Pharisees went and took counsel as to how they might ensnare Jesus in what he said.
-MAT 22:16 They sent their disciples to him, along with the Herodians, saying, “Teacher, we know that yoʋ are true and teach the way of God in truth and defer to no one, for yoʋ do not show partiality.
+MAT 22:16 They sent their disciples to him, along with the Herodians, who said to him, “Teacher, we know that yoʋ are true and teach the way of God in truth and defer to no one, for yoʋ do not show partiality.
 MAT 22:17 Tell us then, what do yoʋ think? Is it lawful to pay taxes to Caesar or not?”
 MAT 22:18 But Jesus knew their evil intent and said, “Why are you testing me, you hypocrites?
 MAT 22:19 Show me the coin for the tax.” So they brought him a denarius.
@@ -803,7 +803,7 @@ MAT 23:10 Neither are you to be called instructors, for there is one who is your
 MAT 23:11 But he who is greater among you must be your servant.
 MAT 23:12 For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
 MAT 23:13 “But woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses and for a pretense make long prayers. Therefore you will receive a more severe judgment.
-MAT 23:14 “Woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people's faces. You yourselves do not enter, nor do you let in those who are trying to enter.
+MAT 23:14 “Woe to you, scribes and Pharisees, hypocrites! For you shut people out of the kingdom of heaven. You yourselves do not enter, nor do you let in those who are trying to enter.
 MAT 23:15 “Woe to you, scribes and Pharisees, hypocrites! For you cross sea and land to make a single convert, and when he has become one, you make him twice as much a son of hell as yourselves.
 MAT 23:16 “Woe to you, blind guides, who say, ‘If anyone swears by the temple, it is nothing; but if anyone swears by the gold of the temple, he is bound by his oath.’
 MAT 23:17 You fools and blind men! Which is greater, the gold or the temple that makes the gold sacred?
@@ -999,7 +999,7 @@ MAT 26:70 But he denied it before them all, saying, “I do not know what yoʋ a
 MAT 26:71 Then he went out to the gateway, and another servant girl saw him and said to the people there, “This man also was with Jesus of Nazareth.”
 MAT 26:72 But again he denied it with an oath: “I do not know the man.”
 MAT 26:73 After a little while, the people standing there came up and said to Peter, “Truly yoʋ also are one of them, for even yoʋr accent gives yoʋ away.”
-MAT 26:74 Then he began to invoke curses and to swear: “I do not know the man.” And immediately a rooster crowed.
+MAT 26:74 Then he began to invoke curses and to swear, saying, “I do not know the man.” And immediately a rooster crowed.
 MAT 26:75 Then Peter remembered what Jesus had said to him: “Before a rooster crows, yoʋ will deny me three times.” And he went out and wept bitterly.
 MAT 27:1 Now when morning came, all the chief priests and the elders of the people took counsel against Jesus to put him to death.
 MAT 27:2 They bound him, led him away, and handed him over to Pontius Pilate, the governor.
@@ -1089,7 +1089,7 @@ MAT 28:19 Go and make disciples of all nations, baptizing them in the name of th
 MAT 28:20 and teaching them to obey everything I have commanded you. And behold, I am with you always, even to the end of the age.” Amen.
 MAR 1:1 The beginning of the gospel of Jesus Christ, the Son of God.
 MAR 1:2 As it is written in the Prophets, “Behold, I am sending my messenger ahead of yoʋ, who will prepare yoʋr way before yoʋ,
-MAR 1:3 the voice of one crying out in the wilderness, ‘Prepare the way of the Lord; make his paths straight,’ ”
+MAR 1:3 the voice of one crying out in the wilderness, ‘Prepare the way for the Lord; make his paths straight,’ ”
 MAR 1:4 John came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins.
 MAR 1:5 The whole Judean countryside was going out to him, and so were the people of Jerusalem. They were all being baptized by him in the Jordan River, confessing their sins.
 MAR 1:6 Now John was clothed with camel's hair and wore a leather belt around his waist; he ate locusts and wild honey.
@@ -1405,7 +1405,7 @@ MAR 8:30 And Jesus warned them not to tell anyone about him.
 MAR 8:31 Then he began to teach them that the Son of Man must suffer many things and be rejected by the elders, the chief priests, and the scribes, and that he must be killed and after three days rise again.
 MAR 8:32 He was stating the matter plainly, so Peter took him aside and began to rebuke him.
 MAR 8:33 But turning around and looking at his disciples, he rebuked Peter, saying, “Get behind me, Satan! For yoʋ are not thinking about the things of God, but the things of men.”
-MAR 8:34 Then he called the crowd over, along with his disciples, and said to them, “If anyone wants to follow me, he must deny himself, take up his cross, and follow me.
+MAR 8:34 Then he called the crowd over, along with his disciples, and said to them, “If anyone wants to be one of my disciples, he must deny himself, take up his cross, and follow me.
 MAR 8:35 For whoever wants to save his life will lose it, but whoever loses his life for my sake and for the sake of the gospel will save it.
 MAR 8:36 For what will it benefit a person if he gains the whole world but forfeits his soul?
 MAR 8:37 Or what can a person give in exchange for his soul?
@@ -1419,7 +1419,7 @@ MAR 9:6 (For they were terrified, and he did not know what to say.)
 MAR 9:7 Then a cloud came and overshadowed them, and a voice came from the cloud: “This is my beloved Son; listen to him!”
 MAR 9:8 And suddenly, when they looked around, they no longer saw anyone with them but Jesus.
 MAR 9:9 As they were coming down from the mountain, Jesus ordered them to tell no one what they had seen until the Son of Man had risen from the dead.
-MAR 9:10 So they kept the matter to themselves, discussing what this rising from the dead could mean.
+MAR 9:10 So they kept the matter to themselves, discussing what this “rising from the dead” could mean.
 MAR 9:11 Then they asked him, “Why do the scribes say that Elijah must come first?”
 MAR 9:12 He answered them, “Elijah does indeed come first to restore all things. How then is it written that the Son of Man must suffer many things and be treated with contempt?
 MAR 9:13 But I tell you that Elijah has indeed come, and they did to him whatever they wanted, just as it is written about him.”
@@ -1489,7 +1489,7 @@ MAR 10:26 They were completely astonished at this and said to one another, “Wh
 MAR 10:27 Jesus looked at them and said, “With men it is impossible, but not with God. For all things are possible with God.”
 MAR 10:28 Peter began to say to him, “Behold, we have left everything and followed yoʋ.”
 MAR 10:29 Jesus answered, “Truly I say to you, there is no one who has left house, brothers, sisters, father, mother, wife, children, or fields, for my sake and for the sake of the gospel,
-MAR 10:30 who will not receive now in this age a hundred times as many houses, brothers, sisters, mothers, children, and fields—along with persecutions—and in the age to come eternal life.
+MAR 10:30 who will not receive now in this age a hundred times as many houses, brothers, sisters, mothers, children, and fields—along with persecutions—and in the age to come, eternal life.
 MAR 10:31 But many who are first will be last, and many who are last will be first.”
 MAR 10:32 Now they were on the road going up to Jerusalem. Jesus was walking ahead of them, and they were amazed. But as they followed they became afraid. Again he took the twelve aside and began to tell them what was going to happen to him:
 MAR 10:33 “Behold, we are going up to Jerusalem, and the Son of Man will be delivered up to the chief priests and scribes. They will condemn him to death and hand him over to the Gentiles.
@@ -1547,7 +1547,7 @@ MAR 11:32 But shall we say, ‘From men’?”—they were afraid of the people,
 MAR 11:33 So they answered Jesus, “We do not know.” In response Jesus said to them, “Neither will I tell you by what authority I am doing these things.”
 MAR 12:1 Then Jesus began to speak to them in parables: “A man planted a vineyard, put a fence around it, dug a pit for the winepress, built a tower, leased it to farmers, and left the country.
 MAR 12:2 At harvest time he sent a servant to the farmers to receive from them some of the fruit of the vineyard.
-MAR 12:3 But they seized him, beat him, and sent him away empty-handed.
+MAR 12:3 But they seized that servant, beat him, and sent him away empty-handed.
 MAR 12:4 Again he sent to them another servant, and they threw stones at him, struck him on the head, and sent him away after dishonoring him.
 MAR 12:5 Again he sent another, and that one they killed. He also sent many others, some of whom they beat, and some of whom they killed.
 MAR 12:6 Now he still had his one beloved son. He sent him to them as well, last of all, saying, ‘They will have respect for my son.’
@@ -1592,7 +1592,7 @@ MAR 12:44 For they have all put in money out of their abundance, but she, out of
 MAR 13:1 As Jesus was coming out from the temple courts, one of his disciples said to him, “Teacher, look! What wonderful stones and what wonderful buildings!”
 MAR 13:2 Jesus answered him, “Do yoʋ see these great buildings? Not one stone will be left upon another; all of them will be torn down.”
 MAR 13:3 Later, as Jesus was sitting on the Mount of Olives, across from the temple, Peter, James, John, and Andrew asked him privately,
-MAR 13:4 “Tell us, when will these things happen? And what will be the sign when all these things are about to be fulfilled?”
+MAR 13:4 “Tell us, when will these things happen? And what will be the sign that all these things are about to be fulfilled?”
 MAR 13:5 Jesus began to say to them in response, “Make sure no one leads you astray.
 MAR 13:6 For many will come in my name, saying, ‘I am he,’ and will lead many astray.
 MAR 13:7 When you hear of wars and rumors of wars, do not be alarmed, for these things must take place, but the end is not yet.
@@ -1636,10 +1636,10 @@ MAR 14:7 For you always have the poor with you, and you can do good to them when
 MAR 14:8 She has done what she could; she has anointed my body beforehand to prepare me for burial.
 MAR 14:9 Truly I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be spoken of as a memorial to her.”
 MAR 14:10 Then Judas Iscariot, one of the twelve, went to the chief priests to deliver Jesus up to them.
-MAR 14:11 When they heard why he had come, they were glad and promised to give him money. So he was looking for a way to betray Jesus at an opportune time.
+MAR 14:11 When they heard why he had come, they were glad and promised to give him money. So he began looking for a way to betray Jesus at an opportune time.
 MAR 14:12 On the first day of the Feast of Unleavened Bread, when the Passover lamb is sacrificed, Jesus' disciples said to him, “Where do yoʋ want us to go and make preparations for yoʋ to eat the Passover?”
 MAR 14:13 So he sent two of his disciples and said to them, “Go into the city, and a man carrying a jug of water will meet you. Follow him.
-MAR 14:14 Wherever he enters, tell the master of the house, ‘The Teacher asks, “Where is the guest room where I may eat the Passover with my disciples?” ’
+MAR 14:14 Wherever he enters, tell the master of the house, ‘The Teacher asks, “Where is the guest room where I can eat the Passover with my disciples?” ’
 MAR 14:15 He will then show you a large upper room, furnished and prepared; make preparations for us there.”
 MAR 14:16 So his disciples left, went into the city, and found it just as Jesus had told them, and they prepared the Passover.
 MAR 14:17 When it was evening, Jesus came with the twelve.
@@ -1666,7 +1666,7 @@ MAR 14:37 Then he came and found them sleeping, and said to Peter, “Simon, are
 MAR 14:38 Keep watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak.”
 MAR 14:39 Once again he went away and prayed the same prayer.
 MAR 14:40 When he returned, he found them sleeping again, for their eyes were heavy, and they did not know what to say in response.
-MAR 14:41 Then he came a third time and said to them, “Sleep on now and take your rest! It is enough; the hour has come. Behold, the Son of Man is delivered up into the hands of sinners.
+MAR 14:41 Then he came a third time and said to them, “Sleep on now and take your rest! That is enough; the hour has come. Behold, the Son of Man is delivered up into the hands of sinners.
 MAR 14:42 Rise, let us go! Behold, my betrayer has drawn near.”
 MAR 14:43 Immediately, as he was still speaking, Judas arrived, who was one of the twelve. With him was a large crowd with swords and clubs, sent by the chief priests, the scribes, and the elders.
 MAR 14:44 Now his betrayer had given them a signal, saying, “Whomever I kiss, he is the one; arrest him and lead him away under guard.”
@@ -1675,7 +1675,7 @@ MAR 14:46 Then they took hold of Jesus and arrested him.
 MAR 14:47 But one of the bystanders drew his sword and struck the servant of the high priest, cutting off his ear.
 MAR 14:48 Then Jesus said to them, “Have you come out to arrest me with swords and clubs as you would against a robber?
 MAR 14:49 I was with you daily, teaching in the temple courts, and you did not arrest me. But these things are happening so that the Scriptures may be fulfilled.”
-MAR 14:50 Then they all left him and fled.
+MAR 14:50 Then they all the disciples left him and fled.
 MAR 14:51 Now a certain young man was following Jesus, wearing nothing but a linen cloth. The young men tried to seize him,
 MAR 14:52 but he left the linen cloth behind and ran away from them naked.
 MAR 14:53 Then they led Jesus away to the high priest, and all the chief priests, the elders, and the scribes were assembled together with him.
@@ -1696,7 +1696,7 @@ MAR 14:67 When she saw Peter warming himself, she looked at him and said, “Yo�
 MAR 14:68 But he denied it, saying, “I neither know nor understand what yoʋ are talking about!” Then he went outside to the gateway, and a rooster crowed.
 MAR 14:69 When the servant girl saw him again, she began saying to the people standing nearby, “This man is one of them.”
 MAR 14:70 But again he denied it. After a little while, the people standing nearby said to Peter once again, “Truly yoʋ are one of them, for yoʋ also are a Galilean, and yoʋr accent is like theirs.”
-MAR 14:71 But he began to invoke curses and to swear: “I do not know this man of whom you speak.”
+MAR 14:71 But he began to invoke curses and to swear, saying, “I do not know this man of whom you speak.”
 MAR 14:72 Then a rooster crowed a second time, and Peter remembered what Jesus had said to him: “Before a rooster crows twice, yoʋ will deny me three times.” And he broke down and wept.
 MAR 15:1 As soon as it was morning, the chief priests took counsel with the elders, scribes, and the whole Sanhedrin. They bound Jesus, led him away, and handed him over to Pilate.
 MAR 15:2 So Pilate asked him, “Are yoʋ the king of the Jews?” Jesus answered him, “Yoʋ have said it yoʋrself.”
@@ -1900,12 +1900,12 @@ LUK 2:52 And Jesus advanced in wisdom and in stature, and in favor with God and 
 LUK 3:1 In the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and Philip his brother was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene,
 LUK 3:2 during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness.
 LUK 3:3 He went into all the region around the Jordan, preaching a baptism of repentance for the remission of sins,
-LUK 3:4 as it is written in the book of the words of the prophet Isaiah, “The voice of one crying out in the wilderness, ‘Prepare the way of the Lord; make his paths straight.
+LUK 3:4 as it is written in the book of the words of the prophet Isaiah, “The voice of one crying out in the wilderness, ‘Prepare the way for the Lord; make his paths straight.
 LUK 3:5 Every valley will be filled, and every mountain and hill will be brought low. The crooked roads will be made straight, and the rough ways will be made smooth.
 LUK 3:6 And all flesh will see the salvation of God.’ ”
 LUK 3:7 John said to the crowds that were coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?
 LUK 3:8 Produce fruit consistent with repentance, and do not begin to say to yourselves, ‘We have Abraham as our father,’ for I tell you that God is able from these stones to raise up children for Abraham.
-LUK 3:9 Even now the axe is laid at the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.”
+LUK 3:9 Even now the axe is laid to the root of the trees. Every tree therefore that does not produce good fruit is cut down and thrown into the fire.”
 LUK 3:10 So the crowds asked him, “What then should we do?”
 LUK 3:11 John answered them, “Whoever has two tunics must share with him who has none, and whoever has food must do likewise.”
 LUK 3:12 Some tax collectors also came to be baptized, and they said to him, “Teacher, what should we do?”
@@ -2101,7 +2101,7 @@ LUK 7:31 Jesus went on to say, “To what then should I compare the people of th
 LUK 7:32 They are like children who sit in the marketplace and call out to one another, ‘We played the flute for you, but you did not dance; we sang a lament for you, but you did not weep.’
 LUK 7:33 For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’
 LUK 7:34 The Son of Man came eating and drinking, and you say, ‘Behold, a glutton and a drunkard, a friend of tax collectors and sinners!’
-LUK 7:35 Yet wisdom is justified by all her children.”
+LUK 7:35 Yet wisdom is vindicated by all her children.”
 LUK 7:36 One of the Pharisees asked Jesus to eat with him, so he went into the Pharisee's house and reclined at the table.
 LUK 7:37 And behold, when a woman in that city who was a sinner found out that Jesus was reclining at the table in the Pharisee's house, she brought an alabaster jar of ointment.
 LUK 7:38 As she stood behind him at his feet, weeping, she began to wet his feet with her tears. Then she wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.
@@ -2195,7 +2195,7 @@ LUK 9:19 They answered, “Some say John the Baptist, others say Elijah, and oth
 LUK 9:20 Then he said to them, “But who do you say that I am?” Peter answered, “The Christ of God.”
 LUK 9:21 Jesus then warned them and instructed them to tell this to no one,
 LUK 9:22 saying, “The Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and he must be killed and on the third day rise again.”
-LUK 9:23 Then he said to them all, “If anyone wants to come after me, he must deny himself, take up his cross, and follow me.
+LUK 9:23 Then he said to them all, “If anyone wants to be one of my disciples, he must deny himself, take up his cross, and follow me.
 LUK 9:24 For whoever wants to save his life will lose it, but whoever loses his life for my sake will save it.
 LUK 9:25 For what does it benefit a person if he gains the whole world but loses or forfeits himself?
 LUK 9:26 If anyone is ashamed of me and my words, the Son of Man will be ashamed of him when he comes in his glory and the glory of the Father and the holy angels.
@@ -2434,7 +2434,7 @@ LUK 14:6 But they could give him no answer about these things.
 LUK 14:7 When Jesus noticed how the guests were choosing the places of honor for themselves, he told them a parable:
 LUK 14:8 “When yoʋ are invited by someone to a wedding feast, do not recline in the place of honor, in case someone more honorable than yoʋ has been invited by yoʋr host.
 LUK 14:9 Then the host, who invited you both, will come and say to yoʋ, ‘Give yoʋr place to this person.’ And with shame yoʋ will begin moving to the least important place.
-LUK 14:10 But when yoʋ are invited, go recline in the least important place, so that, when yoʋr host comes, he will say to yoʋ, ‘Friend, move up higher.’ Then yoʋ will be honored in the presence of those who are reclining at the table with yoʋ.
+LUK 14:10 But when yoʋ are invited, go recline in the least important place, so that, when yoʋr host comes, he will say to yoʋ, ‘Friend, move up to a better place.’ Then yoʋ will be honored in the presence of those who are reclining at the table with yoʋ.
 LUK 14:11 For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”
 LUK 14:12 Jesus also said to the man who had invited him, “When yoʋ prepare a luncheon or a dinner, do not invite yoʋr friends, yoʋr brothers, yoʋr relatives, or yoʋr rich neighbors. If yoʋ do, they may invite yoʋ in return, and yoʋ will be repaid.
 LUK 14:13 But when yoʋ prepare a banquet, invite the poor, the maimed, the lame, and the blind.
@@ -2451,7 +2451,7 @@ LUK 14:23 So the master said to the servant, ‘Go out to the highways and hedge
 LUK 14:24 For I tell you that none of those men who were invited will get a taste of my banquet.’ For many are called, but few are chosen.”
 LUK 14:25 Now large crowds were traveling with Jesus, and he turned and said to them,
 LUK 14:26 “If anyone comes to me and does not hate his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple.
-LUK 14:27 And whoever does not bear his own cross and come after me cannot be my disciple.
+LUK 14:27 And whoever does not bear his own cross and follow me cannot be my disciple.
 LUK 14:28 For which of you who wants to build a tower does not first sit down and estimate the cost, to see if he has what he needs to complete it?
 LUK 14:29 For if he lays the foundation and is not able to finish it, all who are looking on will begin to mock him,
 LUK 14:30 saying, ‘This man began to build and was not able to finish.’
@@ -2518,7 +2518,7 @@ LUK 16:23 As he was in torment in Hades, he lifted up his eyes and saw Abraham f
 LUK 16:24 So he called out and said, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in these flames.’
 LUK 16:25 But Abraham said, ‘Son, remember that in yoʋr lifetime yoʋ received yoʋr good things, and in the same way Lazarus received bad things, but now he is here being comforted, while yoʋ are in agony.
 LUK 16:26 And besides all this, a great chasm has been set in place between you and us, so that those who want to cross over to you from here cannot do so, nor can anyone cross over to us from there.’
-LUK 16:27 The rich man said said, ‘Then I beg yoʋ, father, to send Lazarus to my father's house,
+LUK 16:27 The rich man said, ‘Then I beg yoʋ, father, to send Lazarus to my father's house,
 LUK 16:28 for I have five brothers. Let him warn them, so that they will not also come to this place of torment.’
 LUK 16:29 Abraham said to him, ‘They have Moses and the Prophets; they can listen to them.’
 LUK 16:30 He said, ‘No, father Abraham, but if someone goes to them from the dead, they will repent.’
@@ -2564,15 +2564,15 @@ LUK 18:2 He said, “In a certain city there was a judge who neither feared God 
 LUK 18:3 There was also a widow in that city who kept coming to him and saying, ‘Give me justice against my adversary.’
 LUK 18:4 For a while he would not do so, but afterward he said to himself, ‘Though I neither fear God nor respect man,
 LUK 18:5 yet because this widow keeps bothering me, I will give her justice, so that she will not wear me out by continually coming to me.’ ”
-LUK 18:6 Then the Lord said, “Hear what the unrighteous judge says.
-LUK 18:7 And will not God surely bring about justice to his chosen ones who cry out to him day and night, while also being patient with them?
+LUK 18:6 Then the Lord said, “Consider what this unrighteous judge said.
+LUK 18:7 If even he ultimately rendered a just decision, will not God patiently listen to his chosen ones, who cry out to him day and night, and give them justice?
 LUK 18:8 I tell you that he will bring about justice for them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”
-LUK 18:9 He also told this parable to some who trusted in themselves that they were righteous and who regarded others with contempt:
+LUK 18:9 He also told this parable to some who were confident in their own righteous and regarded others with contempt:
 LUK 18:10 “Two men went up to the temple to pray. One was a Pharisee and the other was a tax collector.
 LUK 18:11 The Pharisee stood by himself and prayed like this: ‘God, I thank yoʋ that I am not like other people: swindlers, unrighteous, adulterers, or even like this tax collector.
 LUK 18:12 I fast twice a week, and I give tithes of all that I get.’
 LUK 18:13 But the tax collector stood at a distance and would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’
-LUK 18:14 I tell you, this man went down to his home justified rather than the other. For everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”
+LUK 18:14 I tell you, this man went down to his home justified rather than the other one. For everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”
 LUK 18:15 Now people were even bringing their babies to Jesus so that he might touch them. When the disciples saw this, they rebuked those who were bringing them,
 LUK 18:16 but Jesus called for them and said, “Let the little children come to me and do not hinder them, for the kingdom of God belongs to such as these.
 LUK 18:17 Truly I say to you, whoever does not receive the kingdom of God like a little child will certainly not enter it.”
@@ -2588,8 +2588,8 @@ LUK 18:26 Those who heard this said, “Who then can be saved?”
 LUK 18:27 Jesus said, “What is impossible with men is possible with God.”
 LUK 18:28 Then Peter said, “Behold, we have left everything and followed yoʋ.”
 LUK 18:29 Jesus said to them, “Truly I say to you, there is no one who has left house, parents, brothers, wife, or children, for the sake of the kingdom of God,
-LUK 18:30 who will not surely receive many times more in this present age, and in the age to come eternal life.”
-LUK 18:31 Then Jesus took the twelve aside and said to them, “Behold, we are going up to Jerusalem, and everything that is written by the prophets about the Son of Man will be fulfilled.
+LUK 18:30 who will not surely receive many times more in this present age—and in the age to come, eternal life.”
+LUK 18:31 Then Jesus took the twelve aside and said to them, “Behold, we are going up to Jerusalem, and everything written by the prophets about the Son of Man will be fulfilled.
 LUK 18:32 For he will be delivered up to the Gentiles, and he will be mocked, insulted, and spit upon.
 LUK 18:33 After flogging him, they will kill him, and on the third day he will rise again.”
 LUK 18:34 But the disciples did not understand any of these things; this statement was hidden from them, and they did not comprehend what was being said.
@@ -2603,20 +2603,20 @@ LUK 18:41 “What do yoʋ want me to do for yoʋ?” He said, “Lord, I want to
 LUK 18:42 So Jesus said to him, “Receive yoʋr sight; yoʋr faith has healed yoʋ.”
 LUK 18:43 Immediately he received his sight and began following Jesus, glorifying God. And when all the people saw it, they gave praise to God.
 LUK 19:1 Then Jesus entered Jericho and was passing through.
-LUK 19:2 And behold, there was a man named Zacchaeus. He was a chief tax collector, who was rich.
-LUK 19:3 He was trying to see who Jesus was, but he could not do so because of the crowd, for he was small in stature.
+LUK 19:2 And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich.
+LUK 19:3 He was trying to see who Jesus was, but he could not do so because of the crowd, for he was a short man.
 LUK 19:4 So he ran on ahead and climbed a sycamore tree so that he could see him, because Jesus was about to pass by that way.
 LUK 19:5 When Jesus came to that place, he looked up and saw him. Then he said to him, “Zacchaeus, hurry and come down, for I must stay at yoʋr house today.”
 LUK 19:6 So he hurried down and received Jesus with joy.
-LUK 19:7 When all the people saw it, they grumbled, saying, “He has gone in to stay with a sinful man.”
+LUK 19:7 When all the people saw it, they grumbled, saying, “He has gone to be the guest of a sinful man.”
 LUK 19:8 But Zacchaeus stood there and said to the Lord, “Behold, half of my goods, Lord, I give to the poor, and if I have extorted anything from anyone, I will pay back four times the amount.”
-LUK 19:9 Jesus said to him, “Today salvation has come to this house, for this man also is a son of Abraham.
+LUK 19:9 Jesus said to him, “Today salvation has come to this house, because this man has shown that he too is a son of Abraham.
 LUK 19:10 For the Son of Man came to seek and save the lost.”
 LUK 19:11 Now as the people were listening to this, Jesus went on to tell a parable, because he was near Jerusalem, and because they thought that the kingdom of God was going to appear at once.
 LUK 19:12 So he said, “A man of noble birth went to a distant country to receive a kingdom for himself and then return.
-LUK 19:13 Calling ten of his servants, he gave them ten minas and said to them, ‘Engage in business until I come.’
-LUK 19:14 Now his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’
-LUK 19:15 When he returned after receiving the kingdom, he summoned the servants to whom he had given the money, so that he might know who had gained what by engaging in business.
+LUK 19:13 Calling ten of his servants, he gave them ten minas and said to them, ‘Engage in business until I return.’
+LUK 19:14 But his subjects hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’
+LUK 19:15 When he returned after receiving the kingdom, he summoned the servants to whom he had given the money, to find out who had gained what by engaging in business.
 LUK 19:16 The first came before him and said, ‘Master, yoʋr mina has made ten minas more.’
 LUK 19:17 The king said to him, ‘Well done, good servant! Because yoʋ have been faithful in a very small matter, take authority over ten cities.’
 LUK 19:18 The second came and said, ‘Master, yoʋr mina has made five minas.’
@@ -2626,8 +2626,8 @@ LUK 19:21 For I was afraid of yoʋ, because yoʋ are a stern man. Yoʋ take out 
 LUK 19:22 The king said to him, ‘I will condemn yoʋ by the words coming out of yoʋr own mouth, yoʋ evil servant. Yoʋ knew, did yoʋ, that I was a stern man, taking out what I did not put in, and reaping what I did not sow?
 LUK 19:23 Why then did yoʋ not deposit my money in the bank, and when I came I would have collected it with interest?’
 LUK 19:24 Then he said to those standing nearby, ‘Take the mina from him and give it to the one who has ten minas.’
-LUK 19:25 (But they said to him, ‘Master, he has ten minas!’)
-LUK 19:26 ‘For I tell you that everyone who has will be given more, but the one who does not have, even what he has will be taken away from him.
+LUK 19:25 But they said to him, ‘Master, he has ten minas!’
+LUK 19:26 The king said, ‘I tell you that everyone who has will be given more, but the one who does not have, even what he has will be taken away from him.
 LUK 19:27 But as for those enemies of mine who did not want me to reign over them, bring them here and slay them in front of me.’ ”
 LUK 19:28 After saying these things, Jesus continued on his way up to Jerusalem, walking ahead of his disciples.
 LUK 19:29 As he drew near to Bethsphage and Bethany, at the mount called Olivet, he sent two of his disciples ahead,
@@ -2643,7 +2643,7 @@ LUK 19:38 saying, “Blessed is the king who comes in the name of the Lord! Peac
 LUK 19:39 But some of the Pharisees from among the crowd said to Jesus, “Teacher, rebuke yoʋr disciples.”
 LUK 19:40 In response he said to them, “I tell you, if they keep silent, the stones will cry out.”
 LUK 19:41 As he drew near to Jerusalem and saw the city, he wept over it,
-LUK 19:42 saying, “If only yoʋ had known, especially on this yoʋr day, what would bring about yoʋr peace! But now it is hidden from yoʋr eyes.
+LUK 19:42 saying, “If only yoʋ had known, especially on this day of yoʋrs what would bring yoʋ peace! But now it is hidden from yoʋr eyes.
 LUK 19:43 For the days will come upon yoʋ when yoʋr enemies build a barricade around yoʋ and encircle yoʋ, hemming yoʋ in on every side.
 LUK 19:44 They will raze yoʋ to the ground, and yoʋr children within yoʋ. They will not leave in yoʋ one stone upon another, because yoʋ did not recognize the time of yoʋr visitation.”
 LUK 19:45 Then Jesus entered the temple courts and began driving out those who were selling and buying there.
@@ -2659,7 +2659,7 @@ LUK 20:6 But if we say, ‘From men,’ all the people will stone us, for they a
 LUK 20:7 So they answered that they did not know where it came from.
 LUK 20:8 Then Jesus said to them, “Neither will I tell you by what authority I am doing these things.”
 LUK 20:9 Then he began to tell the people this parable: “A man planted a vineyard, leased it to farmers, and left the country for a long time.
-LUK 20:10 At harvest time he sent a servant to the farmers so that they would give him some of the fruit of the vineyard. But the farmers beat him and sent him away empty-handed.
+LUK 20:10 At harvest time he sent a servant to the farmers so that they would give him some of the fruit of the vineyard. But the farmers beat that servant and sent him away empty-handed.
 LUK 20:11 So he proceeded to send another servant, but they beat him also, treated him shamefully, and sent him away empty-handed.
 LUK 20:12 Then he proceeded to send a third, but they wounded him as well and threw him out.
 LUK 20:13 So the owner of the vineyard said, ‘What should I do? I will send my beloved son; perhaps when they see him they will have respect for him.’
@@ -2703,7 +2703,7 @@ LUK 21:3 So he said, “Truly I say to you, this poor widow has put in more than
 LUK 21:4 For they have all put in gifts for God out of their abundance, but she, out of her poverty, has put in all that she had to live on.”
 LUK 21:5 Then, as some were talking about how the temple was adorned with beautiful stones and gifts consecrated to God, Jesus said,
 LUK 21:6 “As for these things that you see, the days will come when not one stone will be left upon another; all of them will be torn down.”
-LUK 21:7 So they asked him, “Teacher, when will these things happen? And what will be the sign when these things are about to take place?”
+LUK 21:7 So they asked him, “Teacher, when will these things happen? And what will be the sign that these things are about to take place?”
 LUK 21:8 He said, “Make sure you are not led astray. For many will come in my name, saying, ‘I am he,’ and, ‘The time has drawn near.’ Do not go after them.
 LUK 21:9 When you hear of wars and uprisings, do not be terrified, for these things must first take place, but the end will not immediately follow.”
 LUK 21:10 Then he said to them, “Nation will rise up against nation, and kingdom against kingdom.
@@ -2735,17 +2735,17 @@ LUK 21:35 For it will come like a trap upon all who dwell on the face of the who
 LUK 21:36 Therefore stay alert at all times, praying that you may be considered worthy to escape everything that will take place, and to stand before the Son of Man.”
 LUK 21:37 Each day Jesus taught in the temple courts, but at night he would go out and stay at the mount called Olivet.
 LUK 21:38 And all the people would come to him early in the morning to listen to him in the temple courts.
-LUK 22:1 Now the Feast of Unleavened Bread was drawing near, which is called Passover,
+LUK 22:1 Now the Feast of Unleavened Bread was drawing near, which is called the Passover,
 LUK 22:2 and the chief priests and the scribes were looking for a way to get rid of Jesus quietly, for they were afraid of the people.
 LUK 22:3 Then Satan entered into Judas, the one called Iscariot, who was numbered among the twelve.
 LUK 22:4 He went away and discussed with the chief priests and officers how he might deliver Jesus up to them.
 LUK 22:5 They were glad and agreed to give him money.
 LUK 22:6 So he accepted the offer and began looking for an opportunity to deliver Jesus up to them in the absence of a crowd.
 LUK 22:7 Then came the day for the Feast of Unleavened Bread, when the Passover lamb had to be sacrificed.
-LUK 22:8 Jesus sent Peter and John, saying, “Go prepare the Passover for us, so that we may eat it.”
+LUK 22:8 Jesus sent Peter and John, saying, “Go make preparations for us to eat the Passover.”
 LUK 22:9 They said to him, “Where do yoʋ want us to prepare it?”
 LUK 22:10 He said to them, “Behold, when you enter the city, a man carrying a jug of water will meet you. Follow him into the house he enters
-LUK 22:11 and say to the master of the house, ‘The Teacher asks yoʋ, “Where is the guest room where I may eat the Passover with my disciples?” ’
+LUK 22:11 and say to the master of the house, ‘The Teacher asks yoʋ, “Where is the guest room where I can eat the Passover with my disciples?” ’
 LUK 22:12 He will then show you a large upper room that is furnished; prepare it there.”
 LUK 22:13 So they went and found it just as Jesus had told them, and they prepared the Passover.
 LUK 22:14 When the hour came, Jesus reclined at the table, and the twelve apostles were with him.
@@ -2757,7 +2757,7 @@ LUK 22:19 Then he took bread, and when he had given thanks, he broke it and gave
 LUK 22:20 In the same way, he also took the cup after they had eaten supper, saying, “This cup is the new covenant in my blood, which is poured out for you.
 LUK 22:21 But behold, the hand of the one who is going to betray me is with mine on the table.
 LUK 22:22 The Son of Man indeed goes as it has been determined, but woe to that man by whom he is betrayed.”
-LUK 22:23 Then they began to discuss with one another which one of them it could be who would do this.
+LUK 22:23 Then they began to discuss with one another which one of them could ever do such a thing.
 LUK 22:24 A dispute also arose among them as to which of them was considered to be greater.
 LUK 22:25 So Jesus said to them, “The kings of the Gentiles exercise lordship over them, and those who have authority over them are called benefactors.
 LUK 22:26 But it must not be so with you; rather the greatest among you must become like the youngest, and the leader must become like one who serves.
@@ -2774,7 +2774,7 @@ LUK 22:36 Then he said to them, “But now he who has a moneybag must take it, a
 LUK 22:37 For I tell you that this Scripture must still be fulfilled in me: ‘He was numbered with the lawless.’ For what is written about me is reaching its fulfillment.”
 LUK 22:38 So they said, “Lord, behold, here are two swords.” He said to them, “That is enough!”
 LUK 22:39 Then Jesus went out and made his way to the Mount of Olives, as was his custom, and his disciples followed him.
-LUK 22:40 When he came to the place, he said to them, “Pray that you may not enter into temptation.”
+LUK 22:40 When he came to the place, he said to them, “Pray that you will not enter into temptation.”
 LUK 22:41 Then he withdrew from them about a stone's throw away and knelt down and prayed,
 LUK 22:42 “Father, if yoʋ are willing to take this cup away from me, do so; nevertheless, not my will, but yoʋrs be done.”
 LUK 22:43 Then an angel from heaven appeared to him and strengthened him.
@@ -2789,7 +2789,7 @@ LUK 22:51 But Jesus responded, “No more of this!” And he touched the man's e
 LUK 22:52 Then Jesus said to the chief priests, the officers of the temple, and the elders who had come out against him, “Have you come out with swords and clubs as you would against a robber?
 LUK 22:53 I was with you daily in the temple courts, and you did not lay a hand on me. But this is your hour, when the power of darkness reigns.”
 LUK 22:54 Then they arrested him, led him away, and brought him to the house of the high priest, and Peter was following at a distance.
-LUK 22:55 Some there had kindled a fire in the middle of the courtyard and sat down together, and Peter sat down among them.
+LUK 22:55 Some had kindled a fire there in the middle of the courtyard and sat down together, and Peter sat down among them.
 LUK 22:56 When a servant girl saw him sitting in the light of the fire, she looked at him intently and said, “This man also was with him.”
 LUK 22:57 But Peter denied him, saying, “Woman, I do not know him.”
 LUK 22:58 After a little while, someone else saw him and said, “Yoʋ also are one of them.” But Peter said, “Man, I am not.”
@@ -2805,19 +2805,19 @@ LUK 22:67 “If yoʋ are the Christ, tell us.” But he said to them, “If I te
 LUK 22:68 And if I ask you a question, you will surely not answer me or release me.
 LUK 22:69 But from now on the Son of Man will be seated at the right hand of the power of God.”
 LUK 22:70 So they all said, “Are yoʋ then the Son of God?” He said to them, “You yourselves say that I am.”
-LUK 22:71 Then they said, “What further need do we have of testimony? For we ourselves have heard it from his own mouth.”
+LUK 22:71 Then they said, “What further testimony do we need? For we ourselves have heard it from his own mouth.”
 LUK 23:1 Then the whole assembly arose and led Jesus to Pilate.
 LUK 23:2 They began to accuse him, saying, “We found this man perverting the nation and forbidding us to pay taxes to Caesar, declaring himself to be Christ, a king.”
 LUK 23:3 So Pilate asked Jesus, “Are yoʋ the king of the Jews?” Jesus answered him, “Yoʋ have said it yoʋrself.”
 LUK 23:4 Then Pilate said to the chief priests and the crowd, “I find no fault in this man.”
-LUK 23:5 But they kept insisting, “He stirs up the people, teaching throughout all Judea. He started from Galilee and has come even to this place.”
+LUK 23:5 But they kept insisting, “He stirs up the people, teaching throughout all Judea. He started in Galilee and has come all the way here.”
 LUK 23:6 When Pilate heard mention of Galilee, he asked whether the man was a Galilean.
 LUK 23:7 And when he found out that Jesus was under Herod's jurisdiction, he sent him over to Herod, who was also in Jerusalem in those days.
 LUK 23:8 When Herod saw Jesus he was very glad, for he had long desired to see him, because he had heard many things about him and was hoping to see him perform some sign.
 LUK 23:9 So he questioned him at great length, but Jesus gave him no answer.
 LUK 23:10 Meanwhile, the chief priests and the scribes stood there, vehemently accusing him.
 LUK 23:11 Herod also treated him with contempt and mocked him, as did his soldiers. Then, after dressing Jesus in fine clothing, Herod sent him back to Pilate.
-LUK 23:12 That very day Pilate and Herod became friends with one another; before this they had been enemies.
+LUK 23:12 That very day Pilate and Herod became friends with one another; previously they had been enemies.
 LUK 23:13 Then Pilate called together the chief priests, the rulers, and the people,
 LUK 23:14 and said to them, “You brought me this man as one who was misleading the people. And behold, after examining him before you, I have found no fault in this man with respect to the accusations you are making against him,
 LUK 23:15 and neither has Herod, for I sent you to him. Clearly he has done nothing that deserves death.
@@ -2843,7 +2843,7 @@ LUK 23:34 But Jesus said, “Father, forgive them, for they do not know what the
 LUK 23:35 The people stood there looking on, and the rulers who were with them ridiculed him, saying, “He saved others; let him save himself if he is the Christ, the Chosen One of God.”
 LUK 23:36 The soldiers also mocked him, coming up to him and offering him sour wine,
 LUK 23:37 saying, “If yoʋ are the king of the Jews, save yoʋrself!”
-LUK 23:38 There was also an inscription over him written in Greek, Latin, and Hebrew letters, which read: “This is the King of the Jews.”
+LUK 23:38 There was also an inscription over him written in Greek, Latin, and Hebrew, which read: “This is the King of the Jews.”
 LUK 23:39 One of the criminals who was hanging there reviled him, saying, “If yoʋ are the Christ, save yoʋrself and us!”
 LUK 23:40 But the other rebuked him, saying, “Do yoʋ not even fear God, seeing that yoʋ are under the same condemnation?
 LUK 23:41 The two of us are justly condemned, for we are receiving the appropriate punishment for the things we have done, but this man has done nothing wrong.”
@@ -2872,31 +2872,31 @@ LUK 24:7 that the Son of Man must be delivered up into the hands of sinful men, 
 LUK 24:8 Then they remembered his words.
 LUK 24:9 When they returned from the tomb, they told all these things to the eleven and to all the others.
 LUK 24:10 It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them, who told these things to the apostles.
-LUK 24:11 But their words came across to them as nonsense, and they did not believe them.
+LUK 24:11 But their words came across to the apostles as nonsense, and they did not believe them.
 LUK 24:12 Peter, however, got up and ran to the tomb. When he stooped down to look in, he saw the linen cloths lying there by themselves. So he went away, wondering to himself what had happened.
-LUK 24:13 That same day two of them were going to a village called Emmaus, which was about seven miles from Jerusalem.
+LUK 24:13 That same day two of Jesus' disciples were going to a village called Emmaus, which was about seven miles from Jerusalem.
 LUK 24:14 They were talking with each other about everything that had happened.
 LUK 24:15 As they were talking and discussing these things, Jesus himself drew near and went along with them,
 LUK 24:16 but their eyes were kept from recognizing him.
 LUK 24:17 He said to them, “What are you discussing with each other as you walk along, looking downcast?”
 LUK 24:18 Then the one whose name was Cleopas answered him, “Are yoʋ the only visitor in Jerusalem who does not know the things that have happened there in these last few days?”
-LUK 24:19 He said to them, “What things?” So they said to him, “The things concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people,
+LUK 24:19 He said to them, “What things?” So they said to him, “The things concerning Jesus of Nazareth, who was a prophet mighty in deed and word before God and all the people,
 LUK 24:20 and how the chief priests and our rulers handed him over to a sentence of death and crucified him.
 LUK 24:21 But we had hoped that he was the one who would redeem Israel. And besides all this, today is now the third day since these things happened.
-LUK 24:22 Moreover, some of our women amazed us. They were at the tomb early this morning,
+LUK 24:22 Moreover, some women from our group amazed us. They were at the tomb early this morning,
 LUK 24:23 and when they did not find his body, they came back saying that they had seen a vision of angels, who said that he was alive.
 LUK 24:24 Then some of our companions went to the tomb and found it to be so, just as the women had said, but they did not see him.”
 LUK 24:25 Then Jesus said to them, “O foolish men, how slow of heart you are to believe all that the prophets have spoken!
 LUK 24:26 Was it not necessary for the Christ to suffer these things and enter into his glory?”
 LUK 24:27 And beginning from Moses and all the Prophets, he explained to them the things written about himself in all the Scriptures.
-LUK 24:28 As they drew near to the village where they were going, Jesus acted as though he were going on farther.
+LUK 24:28 As they drew near to the village where they were headed, Jesus acted as if he were going farther.
 LUK 24:29 But they urged him not to do so, saying, “Stay with us, for it is nearly evening, and the day is drawing to a close.” So he went in to stay with them.
 LUK 24:30 As he was reclining at the table with them, he took the bread, blessed and broke it, and gave it to them.
 LUK 24:31 Then their eyes were opened, and they recognized him, but he disappeared from their sight.
 LUK 24:32 They said to each other, “Were not our hearts burning within us as he spoke to us on the road and explained the Scriptures to us?”
 LUK 24:33 So they rose that very hour and returned to Jerusalem, where they found the eleven gathered together with their companions,
 LUK 24:34 saying, “The Lord is risen indeed and has appeared to Simon!”
-LUK 24:35 Then they began describing what had happened on the road, and how Jesus had been made known to them in the breaking of bread.
+LUK 24:35 Then they began describing what had happened on the road, and how Jesus had been made known to them when he broke the bread.
 LUK 24:36 As they were saying these things, Jesus himself stood among them and said to them, “Peace be with you.”
 LUK 24:37 But they were startled and terrified, thinking they had seen a spirit.
 LUK 24:38 Then he said to them, “Why are you troubled, and why are doubts arising in your hearts?
@@ -2905,7 +2905,7 @@ LUK 24:40 After saying this, he showed them his hands and his feet.
 LUK 24:41 And while they were still amazed and in disbelief because of their joy, he said to them, “Do you have anything here to eat?”
 LUK 24:42 So they gave him a piece of broiled fish and some honeycomb.
 LUK 24:43 And he took them and ate in their presence.
-LUK 24:44 Then he said to them, “These are the words that I spoke to you while I was still with you, that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”
+LUK 24:44 Then he said to them, “These are the words I spoke to you while I was still with you, that everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”
 LUK 24:45 Then he opened their minds to understand the Scriptures
 LUK 24:46 and said to them, “Thus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead on the third day,
 LUK 24:47 and for repentance and remission of sins to be preached in his name to all nations, beginning from Jerusalem.
@@ -2917,7 +2917,7 @@ LUK 24:52 So they worshiped him and returned to Jerusalem with great joy.
 LUK 24:53 And they were continually in the temple courts, praising and blessing God. Amen.
 JOH 1:1 In the beginning was the Word, and the Word was with God, and the Word was God.
 JOH 1:2 He was in the beginning with God.
-JOH 1:3 All things were made through him, and none of the things that were made were made without him.
+JOH 1:3 All things were made through him, and nothing that was made was made without him.
 JOH 1:4 In him was life, and the life was the light of men.
 JOH 1:5 The light shines in the darkness, and the darkness has not overcome it.
 JOH 1:6 There came a man sent from God, whose name was John.
@@ -2934,13 +2934,13 @@ JOH 1:16 Of his fullness we have all received, even grace upon grace.
 JOH 1:17 For the law was given through Moses, but grace and truth came through Jesus Christ.
 JOH 1:18 No one has ever seen God, but the one and only Son, who is at the Father's side, has made him known.
 JOH 1:19 This was the testimony of John when the Jews sent priests and Levites from Jerusalem to ask him, “Who are yoʋ?”
-JOH 1:20 He did not deny it, but confessed, “I am not the Christ.”
+JOH 1:20 He did not refuse to answer, but openly declared, “I am not the Christ.”
 JOH 1:21 So they asked him, “What then? Are yoʋ Elijah?” He said, “I am not.” “Are yoʋ the Prophet?” He answered, “No.”
 JOH 1:22 So they said to him, “Who are yoʋ? Tell us so that we may give an answer to those who sent us. What do yoʋ say about yoʋrself?”
-JOH 1:23 He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way of the Lord,’ as the prophet Isaiah said.”
+JOH 1:23 He said, “I am the voice of one crying out in the wilderness, ‘Make straight the way for the Lord,’ as the prophet Isaiah said.”
 JOH 1:24 (Now those who had been sent were from the Pharisees.)
 JOH 1:25 Then they asked him, “Why then do yoʋ baptize if yoʋ are not the Christ, nor Elijah, nor the Prophet?”
-JOH 1:26 John answered them, “I baptize with water, but among you stands one you do not know.
+JOH 1:26 John answered them, “I baptize with water, but among you stands someone you do not know.
 JOH 1:27 He is the one who comes after me, who ranks ahead of me, the strap of whose sandals I am not worthy to untie.”
 JOH 1:28 These things took place in Bethany beyond the Jordan, where John was baptizing.
 JOH 1:29 On the next day John saw Jesus coming to him and said, “Behold, the Lamb of God, who takes away the sin of the world!
@@ -2948,18 +2948,18 @@ JOH 1:30 This is he of whom I said, ‘After me comes a man who ranks ahead of m
 JOH 1:31 I myself did not know him, but I came baptizing with water so that he might be revealed to Israel.”
 JOH 1:32 Then John testified, “I saw the Spirit descending from heaven like a dove, and it remained upon him.
 JOH 1:33 I myself did not recognize him, but he who sent me to baptize with water said to me, ‘He upon whom yoʋ see the Spirit descend and remain is the one who baptizes with the Holy Spirit.’
-JOH 1:34 And I have seen and testified that this is the Son of God.”
+JOH 1:34 And I have seen it and can testify that this is the Son of God.”
 JOH 1:35 On the next day John was again standing with two of his disciples.
 JOH 1:36 As Jesus walked by, John looked at him and said, “Behold, the Lamb of God.”
 JOH 1:37 When the two disciples heard him say this, they followed Jesus.
-JOH 1:38 Turning around, Jesus saw them following him and said to them, “What do you seek?” They said to him, “Rabbi” (which means “Teacher”), “where are yoʋ staying?”
+JOH 1:38 Turning around, Jesus saw them following him and said to them, “What are you seeking?” They said to him, “Rabbi” (which means “Teacher”), “where are yoʋ staying?”
 JOH 1:39 He said to them, “Come and see.” So they went and saw where he was staying, and stayed with him that day; it was about the tenth hour.
 JOH 1:40 Andrew, the brother of Simon Peter, was one of the two who heard this from John and followed Jesus.
 JOH 1:41 Andrew first found his own brother Simon and said to him, “We have found the Messiah” (which means “Christ”),
 JOH 1:42 and he brought Simon to Jesus. Jesus looked at him and said, “Yoʋ are Simon the son of Jonah; yoʋ shall be called Cephas” (which means “Peter”).
 JOH 1:43 On the next day Jesus decided to go to Galilee. Finding Philip, he said to him, “Follow me.”
 JOH 1:44 (Now Philip was from Bethsaida, the city of Andrew and Peter.)
-JOH 1:45 Philip then found Nathanael and said to him, “We have found him of whom Moses wrote in the law, and of whom the Prophets also wrote—Jesus of Nazareth, the son of Joseph.”
+JOH 1:45 Philip then found Nathanael and said to him, “We have found him of whom Moses wrote in the law, and of whom the prophets also wrote—Jesus of Nazareth, the son of Joseph.”
 JOH 1:46 Nathanael said to him, “Can anything good come from Nazareth?” Philip said to him, “Come and see.”
 JOH 1:47 When Jesus saw Nathanael coming toward him, he said of him, “Behold, an Israelite indeed, in whom there is no deceit.”
 JOH 1:48 Nathanael said to him, “How do yoʋ know me?” Jesus answered him, “Before Philip called yoʋ, when yoʋ were under the fig tree, I saw yoʋ.”
@@ -2975,13 +2975,13 @@ JOH 2:6 Now six stone water jars had been set there for the Jewish rites of puri
 JOH 2:7 Jesus said to the servants, “Fill the jars with water.” So they filled them up to the brim.
 JOH 2:8 Then he said to them, “Now draw some out and take it to the master of the feast.” So they took it,
 JOH 2:9 and the master of the feast tasted the water, which had been turned into wine. He did not know where it had come from, but the servants who had drawn the water knew. Then the master of the feast called the bridegroom aside
-JOH 2:10 and said to him, “Everyone serves the good wine first, and then the inferior wine after the guests have drunk freely; but yoʋ have kept the good wine until now.”
+JOH 2:10 and said to him, “Everyone else serves the good wine first, and then the inferior wine after the guests have drunk freely; but yoʋ have kept the good wine until now.”
 JOH 2:11 Jesus did this in Cana of Galilee as the first of his signs. He revealed his glory, and his disciples believed in him.
 JOH 2:12 After this he went down to Capernaum with his mother, his brothers, and his disciples, and they stayed there for a few days.
 JOH 2:13 Now the Passover of the Jews was near, so Jesus went up to Jerusalem.
 JOH 2:14 In the temple courts he found those who were selling oxen, sheep, and doves, and he also found the money changers sitting at their tables.
 JOH 2:15 So he made a whip of cords and drove them all out of the temple courts, along with their sheep and oxen. He also poured out the coins of the money changers and overturned their tables.
-JOH 2:16 Then he said to those who were selling doves, “Take these things away from here; do not make my Father's house a house of trade.”
+JOH 2:16 Then he said to those who were selling doves, “Take these things away from here; stop making my Father's house a marketplace.”
 JOH 2:17 And his disciples remembered that it is written, “Zeal for yoʋr house will consume me.”
 JOH 2:18 In response the Jews said to him, “What sign can yoʋ show us to prove yoʋr authority to do these things?”
 JOH 2:19 Jesus answered them, “Destroy this temple, and in three days I will raise it up.”
@@ -2991,9 +2991,9 @@ JOH 2:22 So when he was raised from the dead, his disciples remembered that he h
 JOH 2:23 While Jesus was in Jerusalem during the feast of the Passover, many believed in his name because they saw the signs he was doing.
 JOH 2:24 But Jesus did not entrust himself to them, for he knew all men.
 JOH 2:25 He did not need anyone to testify about man, for he himself knew what was in man.
-JOH 3:1 Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
-JOH 3:2 He came to Jesus by night and said to him, “Rabbi, we know that yoʋ are a teacher who has come from God, for no one can do these signs that yoʋ are doing unless God is with him.”
-JOH 3:3 Jesus answered him, “Truly, truly, I say to yoʋ, unless one is born again, he cannot see the kingdom of God.”
+JOH 3:1 Now there was a Pharisee named Nicodemus, who was a ruler of the Jews.
+JOH 3:2 He came to Jesus by night and said to him, “Rabbi, we know that yoʋ are a teacher who has come from God, for no one can do these signs yoʋ are doing unless God is with him.”
+JOH 3:3 Jesus answered him, “Truly, truly, I say to yoʋ, unless someone is born again, he cannot see the kingdom of God.”
 JOH 3:4 Nicodemus said to him, “How can a person be born when he is old? Can he enter the womb of his mother a second time and be born?”
 JOH 3:5 Jesus answered, “Truly, truly, I say to yoʋ, unless one is born of water and the Spirit, he cannot enter the kingdom of God.
 JOH 3:6 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
@@ -3011,12 +3011,12 @@ JOH 3:17 For God did not send his Son into the world to condemn the world, but s
 JOH 3:18 Whoever believes in him is not condemned, but whoever does not believe has been condemned already, because he has not believed in the name of the one and only Son of God.
 JOH 3:19 This is the judgment: The light has come into the world, but people loved the darkness rather than the light because their works were evil.
 JOH 3:20 For whoever does evil hates the light and does not come to the light, so that his works may not be exposed.
-JOH 3:21 But whoever lives by the truth comes to the light, so that it may be evident that his works have been done in God.”
-JOH 3:22 After this Jesus went into the Judean countryside along with his disciples, and he spent some time there with them and baptized.
-JOH 3:23 Now John was also baptizing in Aenon near Salem, because there was much water there, and people were coming to him and being baptized.
+JOH 3:21 But whoever lives by the truth comes to the light, so that it may be evident that his works have been done in obedience to God.”
+JOH 3:22 After this Jesus went into the Judean countryside along with his disciples, and he spent some time there with them, baptizing people.
+JOH 3:23 Now John was also baptizing people in Aenon near Salem, because there was plenty of water there, and people were coming to him and being baptized.
 JOH 3:24 (For John had not yet been thrown into prison.)
 JOH 3:25 Now a discussion arose between the disciples of John and a Jew about purification.
-JOH 3:26 So John's disciples came and said to him, “Rabbi, he who was with yoʋ beyond the Jordan, about whom yoʋ have testified, behold, he is baptizing, and everyone is going to him.”
+JOH 3:26 So John's disciples came and said to him, “Rabbi, he who was with yoʋ beyond the Jordan, about whom yoʋ have testified, behold, he is baptizing people, and everyone is going to him.”
 JOH 3:27 John replied, “A person cannot receive anything unless it is given to him from heaven.
 JOH 3:28 You yourselves can testify that I said, ‘I am not the Christ,’ but rather, ‘I have been sent ahead of him.’
 JOH 3:29 He who has the bride is the bridegroom. But the friend of the bridegroom, who stands and listens for him, rejoices greatly at the bridegroom's voice. So this joy of mine has been made full.
@@ -3035,7 +3035,7 @@ JOH 4:5 So he came to a town of Samaria called Sychar, near the plot of land tha
 JOH 4:6 Jacob's well was there, so Jesus, wearied as he was from the journey, sat by the well. It was about the sixth hour.
 JOH 4:7 When a woman from Samaria came to draw water, Jesus said to her, “Give me some water to drink.”
 JOH 4:8 (For his disciples had gone into the city to buy food.)
-JOH 4:9 So the Samaritan woman said to him, “How is it that yoʋ, being a Jew, ask for water to drink from me, a Samaritan woman?” (For Jews have no dealings with Samaritans.)
+JOH 4:9 So the Samaritan woman said to him, “How is it that yoʋ, a Jew, ask for water to drink from me, a Samaritan woman?” (For Jews have no dealings with Samaritans.)
 JOH 4:10 Jesus answered her, “If yoʋ knew the gift of God and who it is that is saying to yoʋ, ‘Give me some water to drink,’ yoʋ would have asked him, and he would have given yoʋ living water.”
 JOH 4:11 The woman said to him, “Sir, yoʋ do not even have a bucket to draw with, and the well is deep. Where then can yoʋ get this living water?
 JOH 4:12 Are yoʋ greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and livestock?”
@@ -3043,7 +3043,7 @@ JOH 4:13 Jesus answered her, “Everyone who drinks this water will thirst again
 JOH 4:14 but whoever drinks the water I give him will certainly never thirst again. On the contrary, the water I give him will become in him a spring of water welling up to eternal life.”
 JOH 4:15 The woman said to him, “Sir, give me this water so that I will not get thirsty again and have to come here to draw water.”
 JOH 4:16 Jesus said to her, “Go call yoʋr husband and come back here.”
-JOH 4:17 The woman answered, “I have no husband.” Jesus said to her, “Yoʋ have rightly said, ‘I have no husband,’
+JOH 4:17 The woman said in response, “I have no husband.” Jesus said to her, “Yoʋ have rightly said, ‘I have no husband,’
 JOH 4:18 for yoʋ have had five husbands, and the man yoʋ now have is not yoʋr husband; what yoʋ have said is true.”
 JOH 4:19 The woman said to him, “Sir, I see that yoʋ are a prophet.
 JOH 4:20 Our fathers worshiped on this mountain, but you say that the place where people must worship is in Jerusalem.”
@@ -3053,7 +3053,7 @@ JOH 4:23 But an hour is coming, and is now here, when the true worshipers will w
 JOH 4:24 God is spirit, and those who worship him must worship in spirit and truth.”
 JOH 4:25 The woman said to him, “I know that Messiah is coming” (who is called Christ). “When he comes, he will explain everything to us.”
 JOH 4:26 Jesus said to her, “I who speak to yoʋ am he.”
-JOH 4:27 Just then his disciples came back, and they were amazed that he was speaking with a woman. However, no one said, “What do yoʋ seek?” or, “Why are yoʋ speaking with her?”
+JOH 4:27 Just then his disciples came back, and they were amazed that he was speaking with a woman. However, no one said, “What do yoʋ want?” or, “Why are yoʋ speaking with her?”
 JOH 4:28 Then the woman left her water jar, went into the town, and said to the people,
 JOH 4:29 “Come see a man who told me everything I have ever done. Could this be the Christ?”
 JOH 4:30 So they left the town and began coming to him.
@@ -3064,8 +3064,8 @@ JOH 4:34 Jesus said to them, “My food is to do the will of him who sent me and
 JOH 4:35 Do you not say, ‘There are still four months and then comes the harvest’? I tell you, lift up your eyes and see that the fields are already ripe for harvest.
 JOH 4:36 He who reaps receives wages and gathers fruit for eternal life, so that both he who sows and he who reaps may rejoice together.
 JOH 4:37 For in this the true saying is verified: ‘One sows and another reaps.’
-JOH 4:38 I sent you to reap that for which you have not labored; others have labored, and you have entered into their labor.”
-JOH 4:39 Now many of the Samaritans from that town believed in Jesus because of the woman's testimony: “He told me everything I have ever done.”
+JOH 4:38 I sent you to reap what you have not labored for; others have labored, and you have entered into their labor.”
+JOH 4:39 Many of the Samaritans from that town believed in Jesus because of the woman's testimony: “He told me everything I have ever done.”
 JOH 4:40 So when the Samaritans came to him, they asked him to stay with them, and he stayed there for two days.
 JOH 4:41 And many more believed because of his word.
 JOH 4:42 So they said to the woman, “It is no longer because of yoʋr report that we believe, for we ourselves have heard, and we know that this is truly the Christ, the Savior of the world.”
@@ -3078,7 +3078,7 @@ JOH 4:48 Then Jesus said to him, “Unless you see signs and wonders, you will c
 JOH 4:49 The royal official said to him, “Sir, come down before my boy dies.”
 JOH 4:50 Jesus said to him, “Go; yoʋr son will live.” And the man believed what Jesus said to him and went on his way.
 JOH 4:51 As he was going back down to his house, his servants met him and told him, “Yoʋr son is alive.”
-JOH 4:52 So he asked them what hour he began to get better. They said to him, “Yesterday at the seventh hour the fever left him.”
+JOH 4:52 So he asked them the hour when he began to get better. They said to him, “Yesterday at the seventh hour the fever left him.”
 JOH 4:53 Then the father realized that this was the hour when Jesus had said to him, “Yoʋr son will live.” So he believed, along with his entire household.
 JOH 4:54 This was the second sign that Jesus did after coming from Judea to Galilee.
 JOH 5:1 After this came the feast of the Jews, so Jesus went up to Jerusalem.
@@ -3094,7 +3094,7 @@ JOH 5:10 So the Jews said to the man who had been healed, “It is the Sabbath; 
 JOH 5:11 He answered them, “The man who made me well said to me, ‘Pick up yoʋr mat and walk.’ ”
 JOH 5:12 So they asked him, “Who is the man who said to yoʋ, ‘Pick up yoʋr mat and walk’?”
 JOH 5:13 But the man who had been healed did not know who it was, for Jesus had slipped away, since there was a crowd in that place.
-JOH 5:14 After this Jesus found the man in the temple courts and said to him, “Behold, yoʋ have become well; do not sin anymore, lest something worse happen to yoʋ.”
+JOH 5:14 After this Jesus found the man in the temple courts and said to him, “Behold, yoʋ have been made well; do not sin anymore, lest something worse happen to yoʋ.”
 JOH 5:15 Then the man went and told the Jews that it was Jesus who had made him well.
 JOH 5:16 So the Jews began persecuting Jesus and seeking to kill him, because he was doing these things on the Sabbath.
 JOH 5:17 But Jesus responded to them, “My Father is still working even now, and I too am working.”
@@ -3124,9 +3124,9 @@ JOH 5:40 yet you are not willing to come to me so that you may have life.
 JOH 5:41 I do not receive glory from men.
 JOH 5:42 But I know that you do not have the love of God within you.
 JOH 5:43 I have come in the name of my Father, and yet you do not receive me. If another comes in his own name, you will receive him.
-JOH 5:44 How can you believe when you receive glory from one another and do not seek the glory that is from the only God?
+JOH 5:44 How can you believe when you receive glory from one another but do not seek the glory that comes from the one and only God?
 JOH 5:45 Do not think that I will accuse you before the Father. The one who accuses you is Moses, in whom you have set your hope.
-JOH 5:46 If you believed Moses, you would believe me, for he wrote about me.
+JOH 5:46 If you had believed Moses, you would believe me, for he wrote about me.
 JOH 5:47 But if you do not believe his writings, how will you believe my words?”
 JOH 6:1 After this Jesus went away to the other side of the Sea of Galilee (that is, the Sea of Tiberias).
 JOH 6:2 A large crowd was following him because they saw the miraculous signs he was performing on the sick.
@@ -3167,7 +3167,7 @@ JOH 6:36 But as I told you, you have seen me and still you do not believe.
 JOH 6:37 Everyone the Father gives me will come to me, and I will never cast out anyone who comes to me.
 JOH 6:38 For I have come down from heaven not to do my own will, but the will of him who sent me.
 JOH 6:39 And this is the will of the Father who sent me, that I should lose none of those he has given me, but should raise them up on the last day.
-JOH 6:40 And this is the will of him who sent me, that everyone who looks to the Son and believes in him should have eternal life, and I will raise him up on the last day.”
+JOH 6:40 And this is the will of him who sent me, that anyone who looks to the Son and believes in him should have eternal life, and I will raise him up on the last day.”
 JOH 6:41 Then the Jews began to grumble about him because he said, “I am the bread that came down from heaven.”
 JOH 6:42 They said, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then can he say, ‘I have come down from heaven’?”
 JOH 6:43 Jesus answered them, “Do not grumble among yourselves.
@@ -3181,16 +3181,16 @@ JOH 6:50 This is the bread that comes down from heaven, so that anyone may eat o
 JOH 6:51 I am the living bread that has come down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”
 JOH 6:52 Then the Jews began to quarrel with one another, saying, “How can this man give us his flesh to eat?”
 JOH 6:53 So Jesus said to them, “Truly, truly, I say to you, if you do not eat the flesh of the Son of Man and drink his blood, you have no life in yourselves.
-JOH 6:54 Whoever eats my flesh and drinks my blood has eternal life, and I will raise him up on the last day.
+JOH 6:54 Anyone who eats my flesh and drinks my blood has eternal life, and I will raise him up on the last day.
 JOH 6:55 For my flesh is true food, and my blood is true drink.
 JOH 6:56 Whoever eats my flesh and drinks my blood abides in me, and I in him.
 JOH 6:57 Just as the living Father sent me, and I live because of the Father, so whoever feeds on me will also live because of me.
 JOH 6:58 This is the bread that came down from heaven, not as your fathers ate the manna, and died. Whoever eats this bread will live forever.”
 JOH 6:59 He said these things in a synagogue while teaching in Capernaum.
-JOH 6:60 After hearing this, many of his disciples said, “This is a hard saying; who can accept it?”
+JOH 6:60 After hearing this, many of his disciples said, “This teaching is difficult; who can accept it?”
 JOH 6:61 But Jesus, aware that his disciples were grumbling about this, said to them, “Does this offend you?
 JOH 6:62 Then what if you see the Son of Man ascending to where he was before?
-JOH 6:63 It is the Spirit who gives life; the flesh is of no benefit. The words that I speak to you are spirit and life.
+JOH 6:63 It is the Spirit who gives life; the flesh is of no benefit. The words I speak to you are spirit and life.
 JOH 6:64 But there are some among you who do not believe.” (For Jesus knew from the beginning which of them did not believe and who it was that would betray him.)
 JOH 6:65 Then he said, “That is why I told you that no one can come to me unless it has been granted to him by my Father.”
 JOH 6:66 At that point many of his disciples went back and no longer walked with him.
@@ -3210,31 +3210,31 @@ JOH 7:8 You go up to this feast; I am not yet going up to this feast, for my tim
 JOH 7:9 After saying this to them, he remained in Galilee.
 JOH 7:10 However, after his brothers had gone up to the feast, Jesus also went up, not openly but in secret.
 JOH 7:11 Now the Jews were looking for him at the feast, saying, “Where is that man?”
-JOH 7:12 And there was much murmuring about him among the crowds. Some were saying, “He is a good man.” Others were saying, “No, he is deceiving the crowd.”
+JOH 7:12 And there was much murmuring about him among the crowds. Some were saying, “He is a good man.” Others were saying, “No, he is deceiving the people.”
 JOH 7:13 No one, however, was speaking openly about him for fear of the Jews.
 JOH 7:14 Midway through the feast, Jesus went up to the temple courts and began to teach.
-JOH 7:15 The Jews were amazed, saying, “How does this man have such learning, since he has never had formal instruction?”
+JOH 7:15 The Jews were amazed, saying, “How does this man know so much, when he has never had any formal instruction?”
 JOH 7:16 Jesus answered them, “My teaching is not my own; it comes from him who sent me.
-JOH 7:17 If anyone wants to do his will, he will know whether my teaching comes from God or whether I am speaking on my own authority.
+JOH 7:17 If anyone wants to do God's will, he will know whether my teaching comes from God or whether I am speaking on my own authority.
 JOH 7:18 He who speaks on his own authority seeks his own glory, but he who seeks the glory of the one who sent him is true, and there is no unrighteousness in him.
 JOH 7:19 Did not Moses give you the law? Yet none of you keeps the law. Why are you seeking to kill me?”
 JOH 7:20 The crowd answered, “Yoʋ have a demon! Who is seeking to kill yoʋ?”
-JOH 7:21 Jesus answered them, “I did one work, and you are all amazed.
+JOH 7:21 Jesus answered them, “I performed one miracle, and you are all amazed.
 JOH 7:22 Moses gave you circumcision (not that it came from Moses, but from the fathers), and that is why you circumcise a man on the Sabbath.
 JOH 7:23 If a man receives circumcision on the Sabbath so that the law of Moses will not be broken, why are you angry with me because I made a man entirely well on the Sabbath?
 JOH 7:24 Do not judge according to appearance, but judge with right judgment.”
 JOH 7:25 Now some of the people of Jerusalem were saying, “Is this not the man whom they are seeking to kill?
-JOH 7:26 And behold, he is speaking openly, and they are saying nothing to him. Could it be that the rulers indeed know that this is truly the Christ?
+JOH 7:26 And behold, he is speaking openly, and they are saying nothing to him. Could it be that the rulers indeed know that he is truly the Christ?
 JOH 7:27 Yet we know where this man is from, but when the Christ comes, no one will know where he is from.”
 JOH 7:28 Then Jesus cried out as he taught in the temple courts, “You know me and you know where I am from. Yet I have not come on my own authority, but he who sent me is true. You do not know him,
-JOH 7:29 but I know him, because I have come from him, and he sent me.”
-JOH 7:30 So they were seeking to arrest him, but no one laid a hand on him, because his hour had not yet come.
+JOH 7:29 but I know him, because I have come from him, and he is the one who sent me.”
+JOH 7:30 So they were trying to arrest him, but no one laid a hand on him, because his hour had not yet come.
 JOH 7:31 Still, many from among the crowd believed in him and said, “When the Christ comes, will he do more signs than this man has done?”
-JOH 7:32 The Pharisees heard the crowd murmuring these things about him, so the Pharisees and the chief priests sent officers to arrest him.
-JOH 7:33 Then Jesus said, “I am with you for a little while longer, and then I am going to him who sent me.
-JOH 7:34 You will seek me, but you will not find me; and where I am, you cannot come.”
+JOH 7:32 The Pharisees heard the crowd murmuring these things about Jesus, so the Pharisees and the chief priests sent officers to arrest him.
+JOH 7:33 Then Jesus said, “I will be with you for only a little while longer, and then I am going to him who sent me.
+JOH 7:34 You will seek me, but you will not find me; and where I am going, you cannot come.”
 JOH 7:35 Then the Jews said to one another, “Where is this man about to go that we will not find him? Is he about to go to the Jews who are scattered among the Greeks and teach the Greeks?
-JOH 7:36 What does he mean by saying, ‘You will seek me, but you will not find me; and where I am, you cannot come’?”
+JOH 7:36 What does he mean by saying, ‘You will seek me, but you will not find me; and where I am going, you cannot come’?”
 JOH 7:37 On the last day, the great day of the feast, Jesus stood up and cried out, “If anyone is thirsty, let him come to me and drink.
 JOH 7:38 Whoever believes in me, just as the Scripture has said, ‘From his innermost being will flow rivers of living water.’ ”
 JOH 7:39 (He said this about the Spirit, whom those who believed in him were going to receive, for the Holy Spirit had not yet been given, because Jesus had not yet been glorified.)
@@ -3246,8 +3246,8 @@ JOH 7:44 Some of them wanted to arrest him, but no one laid a hand on him.
 JOH 7:45 Then the officers came to the chief priests and Pharisees, who said to them, “Why did you not bring him in?”
 JOH 7:46 The officers answered, “Never has anyone spoken like this man.”
 JOH 7:47 The Pharisees answered them, “Have you also been deceived?
-JOH 7:48 None of the rulers or the Pharisees have believed in him, have they?
-JOH 7:49 But this crowd that does not know the law is accursed.”
+JOH 7:48 Have any of the rulers or the Pharisees believed in him?
+JOH 7:49 No! But this crowd that is following him does not know the law; they are accursed.”
 JOH 7:50 Then Nicodemus, who had gone to Jesus by night and who was one of the rulers, said,
 JOH 7:51 “Does our law condemn a man without first giving him a hearing and finding out what he is doing?”
 JOH 7:52 They answered him, “Are yoʋ also from Galilee? Search and see that no prophet has ever arisen from Galilee.”
@@ -3359,7 +3359,7 @@ JOH 10:4 When he has brought out his own sheep, he goes ahead of them, and the s
 JOH 10:5 They will certainly not follow a stranger, but will flee from him because they do not recognize the voice of strangers.”
 JOH 10:6 Jesus spoke to them with this figure of speech, but they did not understand what he was saying to them.
 JOH 10:7 So Jesus said to them again, “Truly, truly, I say to you, I am the gate for the sheep.
-JOH 10:8 All who came before are thieves and robbers, but the sheep did not listen to them.
+JOH 10:8 All who came previously are thieves and robbers, but the sheep did not listen to them.
 JOH 10:9 I am the gate; if anyone enters through me, he will be saved and will come in and go out and find pasture.
 JOH 10:10 The thief comes only to steal, kill, and destroy. I have come that they may have life, and have it abundantly.
 JOH 10:11 I am the good shepherd; the good shepherd lays down his life for the sheep.
@@ -3367,7 +3367,7 @@ JOH 10:12 But the hired hand is not the shepherd and does not own the sheep. So 
 JOH 10:13 The hired hand flees, for he is a hired hand and does not care about the sheep.
 JOH 10:14 I am the good shepherd. I know my sheep and my sheep know me,
 JOH 10:15 even as the Father knows me and I know the Father. I lay down my life for the sheep.
-JOH 10:16 I have other sheep that are not of this fold. I must bring them also, and they will hear my voice. And there will be one flock, one shepherd.
+JOH 10:16 I have other sheep that are not of this fold. I must bring them in as well, and they will hear my voice. And there will be one flock with one shepherd.
 JOH 10:17 This is why the Father loves me, because I lay down my life so that I may take it up again.
 JOH 10:18 No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. I received this commandment from my Father.”
 JOH 10:19 At these words there was again a division among the Jews.
@@ -3381,27 +3381,27 @@ JOH 10:26 but you do not believe because you are not among my sheep, just as I t
 JOH 10:27 My sheep hear my voice; I know them, and they follow me.
 JOH 10:28 I give them eternal life, and they will certainly never perish, and no one will snatch them out of my hand.
 JOH 10:29 My Father, who has given them to me, is greater than all, and no one is able to snatch them out of my Father's hand.
-JOH 10:30 I and the Father are one.”
+JOH 10:30 The Father and I are one.”
 JOH 10:31 Then the Jews picked up stones again to stone him.
 JOH 10:32 In response Jesus said to them, “I have shown you many good works from my Father; for which of these works are you going to stone me?”
-JOH 10:33 The Jews answered him, “We are not going to stone yoʋ for a good work, but for blasphemy, and because yoʋ, being a man, make yoʋrself out to be God.”
+JOH 10:33 The Jews answered him, “We are not going to stone yoʋ for any good work, but for blasphemy, because yoʋ, who are just a man, make yoʋrself out to be God.”
 JOH 10:34 Jesus answered them, “Is it not written in your law, ‘I said, you are gods’?
 JOH 10:35 If he called them ‘gods,’ to whom the word of God came (and the Scripture cannot be broken),
 JOH 10:36 do you say of him whom the Father consecrated and sent into the world, ‘Yoʋ are blaspheming,’ because I said, ‘I am the Son of God’?
 JOH 10:37 If I do not do the works of my Father, do not believe me.
 JOH 10:38 But if I do them, even if you do not believe me, believe the works, so that you may know and believe that the Father is in me and I in him.”
-JOH 10:39 Again they sought to arrest him, but he eluded their grasp.
+JOH 10:39 Once again they tried to arrest him, but he eluded their grasp.
 JOH 10:40 Then Jesus went away again to the other side of the Jordan, to the place where John had been baptizing at first, and he stayed there.
 JOH 10:41 Many came to him and were saying, “John did no sign, but everything that John said about this man was true.”
-JOH 10:42 And many of the people there believed in him.
+JOH 10:42 And many of the people there believed in Jesus.
 JOH 11:1 Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha.
 JOH 11:2 (Mary was the one who anointed the Lord with ointment and wiped his feet with her hair; it was her brother Lazarus who was sick.)
 JOH 11:3 So the sisters sent word to Jesus, “Lord, behold, the one yoʋ love is sick.”
 JOH 11:4 But when Jesus heard this, he said, “This sickness will not end in death but is for the glory of God, so that the Son of God may be glorified through it.”
-JOH 11:5 Now Jesus loved Martha, her sister, and Lazarus.
+JOH 11:5 Now Jesus loved Martha, her sister Mary, and Lazarus.
 JOH 11:6 But when he heard that Lazarus was sick, he stayed where he was for two more days.
 JOH 11:7 After that he said to the disciples, “Let us go to Judea again.”
-JOH 11:8 The disciples said to him, “Rabbi, the Jews were just now seeking to stone yoʋ, and yet you are going there again?”
+JOH 11:8 The disciples said to him, “Rabbi, the Jews were just recently seeking to stone yoʋ, and yet you are going there again?”
 JOH 11:9 Jesus answered, “Are there not twelve hours in the day? If anyone walks in the day, he does not stumble, because he sees the light of this world.
 JOH 11:10 But if anyone walks in the night, he stumbles, because the light is not in him.”
 JOH 11:11 After saying this, he said to them, “Our friend Lazarus has fallen asleep, but I am going there to wake him up.”
@@ -3411,7 +3411,7 @@ JOH 11:14 Then Jesus told them plainly, “Lazarus has died,
 JOH 11:15 and I rejoice for your sake that I was not there, so that you may believe. But let us go to him.”
 JOH 11:16 Then Thomas (called Didymus) said to his fellow disciples, “Let us go too, so that we may die with him.”
 JOH 11:17 When Jesus arrived, he found that Lazarus had been in the tomb for four days already.
-JOH 11:18 Now Bethany was near Jerusalem, about two miles away,
+JOH 11:18 Now Bethany was less than two miles from Jerusalem,
 JOH 11:19 and many of the Jews had joined the women who were with Martha and Mary, to console them about their brother.
 JOH 11:20 When Martha heard that Jesus was coming, she went to meet him, but Mary remained seated in the house.
 JOH 11:21 Then Martha said to Jesus, “Lord, if yoʋ had been here, my brother would not have died.
@@ -3434,7 +3434,7 @@ JOH 11:37 But some of them said, “Could not he who opened the eyes of the blin
 JOH 11:38 Deeply moved once more, Jesus came to the tomb. (It was a cave, and a stone was lying against it.)
 JOH 11:39 Jesus said, “Take away the stone.” Martha, the sister of the man who had died, said to him, “Lord, there is already a stench, for it is the fourth day.”
 JOH 11:40 Jesus said to her, “Did I not tell yoʋ that if yoʋ believed yoʋ would see the glory of God?”
-JOH 11:41 So they took away the stone from where the dead man was laid. Then Jesus lifted up his eyes and said, “Father, I thank yoʋ that yoʋ have heard me.
+JOH 11:41 So they took away the stone from where the dead man was lying. Then Jesus lifted up his eyes and said, “Father, I thank yoʋ that yoʋ have heard me.
 JOH 11:42 I know that yoʋ always hear me, but I say this for the benefit of the crowd that is standing here, so that they may believe that yoʋ sent me.”
 JOH 11:43 After saying this, he cried out with a loud voice, “Lazarus, come out!”
 JOH 11:44 Then the man who had died came out, his feet and his hands bound with strips of cloth, and his face wrapped in a cloth. Jesus said to them, “Unbind him, and let him go.”
@@ -3444,14 +3444,14 @@ JOH 11:47 So the chief priests and the Pharisees convened a meeting of the Sanhe
 JOH 11:48 If we allow him to continue like this, everyone will believe in him, and the Romans will come and take away our holy place and our nation.”
 JOH 11:49 But one of them, Caiaphas, who was high priest that year, said to them, “You do not know anything,
 JOH 11:50 nor do you consider that it is better for us to have one man die for the people than to have the whole nation perish.”
-JOH 11:51 (He said this not of his own accord, but being high priest that year he prophesied that Jesus was going to die for the nation,
-JOH 11:52 and not only for the nation, but also to gather into one the children of God scattered abroad.)
+JOH 11:51 (He said this not of his own accord, but as high priest that year he prophesied that Jesus was going to die for the nation,
+JOH 11:52 and not only for the nation, but also to gather together and unite the children of God scattered abroad.)
 JOH 11:53 So from that day they plotted together to kill him.
 JOH 11:54 Therefore Jesus no longer went around openly among the Jews. Instead, he departed from there to the region near the wilderness, to a town called Ephraim, where he spent time with his disciples.
 JOH 11:55 Now the Passover of the Jews was near, and many people went up to Jerusalem from the countryside to purify themselves before the Passover.
 JOH 11:56 They were looking for Jesus and saying to one another as they stood in the temple courts, “What do you think? That he will not come to the feast at all?”
-JOH 11:57 (Now the chief priests and the Pharisees had given an order that if anyone knew where Jesus was, he should report it, so that they might arrest him.)
-JOH 12:1 Six days before the Passover, Jesus came to Bethany, where Lazarus was, who had died and whom Jesus had raised from the dead.
+JOH 11:57 (Now the chief priests and the Pharisees had given an order that if anyone knew where Jesus was, he should report it, so that they could arrest him.)
+JOH 12:1 Six days before the Passover, Jesus came to Bethany, where Lazarus was, the man who had died and whom Jesus had raised from the dead.
 JOH 12:2 They prepared a supper for Jesus there. Martha was serving, and Lazarus was one of the people reclining at the table with him.
 JOH 12:3 Then Mary took a pound of expensive ointment made of pure nard, anointed Jesus' feet, and wiped his feet with her hair. The house was filled with the fragrance of the ointment.
 JOH 12:4 Then one of his disciples, Judas Iscariot, Simon's son, who was about to betray him, said,
@@ -3485,18 +3485,18 @@ JOH 12:31 Now is the judgment of this world. Now the ruler of this world will be
 JOH 12:32 And when I am lifted up from the earth, I will draw all people to myself.”
 JOH 12:33 (He said this to indicate the kind of death he was going to die.)
 JOH 12:34 The crowd responded to him, “We have heard from the law that the Christ remains forever, so how can yoʋ say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”
-JOH 12:35 Jesus said to them, “The light is with you for a little while longer. Walk while you have the light, so that the darkness may not overtake you. He who walks in the darkness does not know where he is going.
-JOH 12:36 While you have the light, believe in the light, so that you may become sons of light.” After saying these things, Jesus went away and was hidden from them.
+JOH 12:35 Jesus said to them, “The light is with you for a little while longer. Walk while you have the light, so that the darkness will not overtake you. He who walks in the darkness does not know where he is going.
+JOH 12:36 While you have the light, believe in the light, so that you will become sons of light.” After saying these things, Jesus went away and was hidden from them.
 JOH 12:37 Although he had done so many signs in their presence, they did not believe in him.
 JOH 12:38 This was to fulfill what had been spoken by the prophet Isaiah: “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
 JOH 12:39 For this reason they could not believe, for again Isaiah said,
 JOH 12:40 “He has blinded their eyes and hardened their hearts, lest they should see with their eyes and understand with their hearts and turn back, and I would heal them.”
 JOH 12:41 Isaiah said these things when he saw the Lord's glory and spoke about him.
-JOH 12:42 Nevertheless, many even among the rulers believed in him, but because of the Pharisees they would not confess it, so that they would not be put out of the synagogue.
+JOH 12:42 Nevertheless, many even among the rulers believed in him, but because of the Pharisees they would not declare it openly, so that they would not be put out of the synagogue.
 JOH 12:43 For they loved the glory that comes from men more than the glory that comes from God.
-JOH 12:44 Then Jesus cried out and said, “Whoever believes in me, believes not in me but in him who sent me.
+JOH 12:44 Then Jesus cried out, “Whoever believes in me, believes not in me but in him who sent me.
 JOH 12:45 And whoever sees me sees him who sent me.
-JOH 12:46 I have come into the world as light, so that no one who believes in me should remain in darkness.
+JOH 12:46 I have come into the world as light, so that no one who believes in me will remain in darkness.
 JOH 12:47 If anyone hears my words and does not believe, I do not judge him; for I did not come to judge the world, but to save the world.
 JOH 12:48 He who rejects me and does not receive my words has a judge; the word I have spoken will judge him on the last day.
 JOH 12:49 For I have not spoken on my own authority, but the Father who sent me gave me a commandment as to what I should say and what I should speak.
@@ -3517,8 +3517,8 @@ JOH 13:13 You call me Teacher and Lord, and rightly so, for that is what I am.
 JOH 13:14 So if I, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet.
 JOH 13:15 For I have given you an example so that you should do as I have done for you.
 JOH 13:16 Truly, truly, I say to you, a servant is not greater than his master, nor is a messenger greater than the one who sent him.
-JOH 13:17 If you know these things, you are blessed if you do them.
-JOH 13:18 I am not speaking about all of you; I know those whom I have chosen for myself. But the Scripture must be fulfilled: ‘He who eats bread with me has lifted up his heel against me.’
+JOH 13:17 Now that you know these things, you are blessed if you do them.
+JOH 13:18 I am not speaking about all of you; I know whom I have chosen. But this Scripture must be fulfilled: ‘He who eats bread with me has lifted up his heel against me.’
 JOH 13:19 I am telling you now before it happens, so that when it does happen, you will believe that I am he.
 JOH 13:20 Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives him who sent me.”
 JOH 13:21 After saying these things, Jesus was troubled in his spirit and declared, “Truly, truly, I say to you, one of you will betray me.”
@@ -3528,11 +3528,11 @@ JOH 13:24 So Simon Peter motioned to him to ask Jesus whom he was talking about.
 JOH 13:25 Leaning back on Jesus' chest, he said to him, “Lord, who is it?”
 JOH 13:26 Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then he dipped the morsel and gave it to Judas Iscariot, the son of Simon.
 JOH 13:27 After Judas took the morsel, Satan entered into him. Then Jesus said to him, “What yoʋ are about to do, do quickly.”
-JOH 13:28 (Now none of those reclining at the table knew why he said this to him.
+JOH 13:28 (Now no one at the table knew why he said this to him.
 JOH 13:29 Some were thinking, since Judas had the moneybag, that Jesus was saying to him, “Buy what we need for the feast,” or that he should give something to the poor.)
 JOH 13:30 As soon as Judas took the morsel, he went out. And it was night.
 JOH 13:31 When Judas had gone out, Jesus said, “Now the Son of Man is glorified, and God is glorified in him.
-JOH 13:32 If God is glorified in him, God will also glorify the Son in himself, and will glorify him immediately.
+JOH 13:32 And if God is glorified in him, God will also glorify the Son in himself, and will glorify him immediately.
 JOH 13:33 Little children, I am with you for a little while longer. You will seek me, and just as I said to the Jews, now I say to you also, ‘Where I am going, you cannot come.’
 JOH 13:34 I give you a new commandment, that you love one another. Just as I have loved you, so you must love one another.
 JOH 13:35 By this everyone will know that you are my disciples, if you have love for one another.”
@@ -3540,7 +3540,7 @@ JOH 13:36 Simon Peter said to him, “Lord, where are yoʋ going?” Jesus answe
 JOH 13:37 Peter said to him, “Lord, why can I not follow yoʋ now? I will lay down my life for yoʋ.”
 JOH 13:38 Jesus answered him, “Yoʋ will lay down yoʋr life for me? Truly, truly, I say to yoʋ, a rooster will certainly not crow until yoʋ have denied me three times.”
 JOH 14:1 “Let not your hearts be troubled. Believe in God; believe also in me.
-JOH 14:2 In my Father's house there are many rooms. If it were not so, I would have told you. I go to prepare a place for you.
+JOH 14:2 In my Father's house there are many rooms. If it were not so, I would have told you. I am going there to prepare a place for you.
 JOH 14:3 So when I go, it is to prepare a place for you. I will come again and receive you to myself, so that where I am you also may be.
 JOH 14:4 You know where I am going, and you know the way.”
 JOH 14:5 Thomas said to him, “Lord, we do not know where yoʋ are going, so how can we know the way?”
@@ -3551,7 +3551,7 @@ JOH 14:9 Jesus said to him, “Have I been with you for so long and still yoʋ d
 JOH 14:10 Do yoʋ not believe that I am in the Father and the Father is in me? The words that I speak to you I do not speak on my own authority, but the Father who abides in me does his works.
 JOH 14:11 Believe me that I am in the Father and the Father is in me; but if not, believe me because of the works themselves.
 JOH 14:12 Truly, truly, I say to you, whoever believes in me will also do the works that I do. He will even do greater works than these, because I am going to my Father.
-JOH 14:13 Whatever you ask in my name, I will do so that the Father may be glorified in the Son.
+JOH 14:13 Whatever you ask in my name I will do, so that the Father may be glorified in the Son.
 JOH 14:14 If you ask me anything in my name, I will do it.
 JOH 14:15 “If you love me, keep my commandments.
 JOH 14:16 And I will ask the Father, and he will give you another Helper to abide with you forever—
@@ -3571,16 +3571,16 @@ JOH 14:29 I have told you now before it happens, so that when it does happen, yo
 JOH 14:30 I will not talk with you much longer, for the ruler of the world is coming, but he has no power over me.
 JOH 14:31 Rather, I do just as the Father has commanded me, so that the world may know that I love the Father. Rise, let us go from here.
 JOH 15:1 “I am the true vine, and my Father is the vinedresser.
-JOH 15:2 Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes so that it may bear more fruit.
-JOH 15:3 You are already clean because of the word I have spoken to you.
+JOH 15:2 Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes so that it will bear more fruit.
+JOH 15:3 You have already been pruned by the word I have spoken to you.
 JOH 15:4 Abide in me, and I will abide in you. As the branch cannot bear fruit by itself unless it abides in the vine, neither can you bear fruit unless you abide in me.
 JOH 15:5 I am the vine; you are the branches. Whoever abides in me, and I in him, bears much fruit, because apart from me you can do nothing.
 JOH 15:6 If anyone does not abide in me, he is thrown out like a branch and withers. Such branches are gathered up, thrown into the fire, and burned.
 JOH 15:7 If you abide in me and my words abide in you, you will ask for whatever you wish, and it will be done for you.
-JOH 15:8 My Father is glorified by this, that you bear much fruit, and so you will be my disciples.
+JOH 15:8 My Father is glorified when you bear much fruit, and by doing so you will be my disciples.
 JOH 15:9 Just as the Father has loved me, so have I loved you; abide in my love.
 JOH 15:10 If you keep my commandments, you will abide in my love, just as I have kept my Father's commandments and abide in his love.
-JOH 15:11 I have spoken these things to you so that my joy may abide in you, and so that your joy may be full.
+JOH 15:11 I have told you these things so that my joy may abide in you, and so that your joy may be full.
 JOH 15:12 “This is my commandment, that you love one another, just as I have loved you.
 JOH 15:13 No one has greater love than this, that he lay down his life for his friends.
 JOH 15:14 You are my friends if you do whatever I command you.
@@ -3598,7 +3598,7 @@ JOH 15:25 But this has happened to fulfill what is written in their law: ‘They
 JOH 15:26 “When the Helper comes, whom I will send you from the Father, the Spirit of truth who proceeds from the Father, he will testify about me.
 JOH 15:27 You must also testify, because you have been with me from the beginning.
 JOH 16:1 “I have said these things to you so that you will not fall away.
-JOH 16:2 They will put you out of the synagogues; indeed, an hour is coming when anyone who kills you will think that he is offering service to God.
+JOH 16:2 They will put you out of the synagogues; indeed, an hour is coming when anyone who kills you will think he is offering service to God.
 JOH 16:3 They will do these things because they have not known the Father or me.
 JOH 16:4 But I have said these things to you so that when the hour comes you will remember that I said them to you. I did not say these things to you from the beginning, because I was with you.
 JOH 16:5 “But now I am going to him who sent me, yet none of you asks me, ‘Where are yoʋ going?’
@@ -3611,13 +3611,13 @@ JOH 16:11 and concerning judgment, because the ruler of this world has been cond
 JOH 16:12 “I still have many things to say to you, but you cannot bear them now.
 JOH 16:13 When the Spirit of truth comes, he will guide you into all truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you what is to come.
 JOH 16:14 He will glorify me, for he will receive from me what is mine and declare it to you.
-JOH 16:15 All that the Father has is mine. That is why I said that he will receive from me what is mine and declare it to you.
+JOH 16:15 All that the Father has is mine. That is why I said that the Spirit will receive from me what is mine and declare it to you.
 JOH 16:16 “In a little while you will not see me; and again after a little while, you will see me, for I am going to the Father.”
-JOH 16:17 Then some of his disciples said to one another, “What does he mean by saying to us, ‘In a little while you are not going to see me; and again after a little while, you will see me,’ and, ‘For I am going to the Father’?”
-JOH 16:18 So they kept saying, “What does he mean by saying, ‘A little while’? We do not know what he is talking about.”
+JOH 16:17 Then some of his disciples said to one another, “What does he mean by saying to us, ‘In a little while you will not see me; and again after a little while, you will see me,’ and, ‘for I am going to the Father’?”
+JOH 16:18 So they kept saying, “What does he mean by saying, ‘a little while’? We do not know what he is talking about.”
 JOH 16:19 Jesus knew that they wanted to ask him about this, so he said to them, “Are you asking one another what I meant when I said, ‘In a little while, you will not see me; and again after a little while, you will see me’?
 JOH 16:20 Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn to joy.
-JOH 16:21 When a woman is giving birth, she has pain because her hour has come, but when her baby is born, she no longer remembers the anguish because of her joy that a child has been born into the world.
+JOH 16:21 When a woman is giving birth, she has pain because her hour has come. But when her baby is born, she no longer remembers the anguish because of her joy that a child has been born into the world.
 JOH 16:22 So you also have sorrow now, but I will see you again, and your hearts will rejoice, and no one will take your joy away from you.
 JOH 16:23 In that day you will ask nothing of me. Truly, truly, I say to you, whatever you ask of the Father in my name he will give you.
 JOH 16:24 Until now you have not asked for anything in my name. Ask, and you will receive, so that your joy may be full.
@@ -3631,17 +3631,17 @@ JOH 16:31 Jesus answered them, “Now do you believe?
 JOH 16:32 Behold, an hour is coming, and has now come, when you will be scattered, each to yoʋr own home, and will leave me all alone. Yet I am not alone, for the Father is with me.
 JOH 16:33 I have said these things to you so that in me you may have peace. In the world you will have tribulation, but take heart; I have overcome the world.”
 JOH 17:1 After saying these things, Jesus lifted up his eyes to heaven and said, “Father, the hour has come; glorify yoʋr Son so that yoʋr Son may also glorify yoʋ,
-JOH 17:2 just as yoʋ have given him authority over all flesh, to give eternal life to all whom yoʋ have given him.
+JOH 17:2 just as yoʋ have given him authority over all flesh, to give eternal life to everyone yoʋ have given him.
 JOH 17:3 This is eternal life, that they may know yoʋ, the only true God, and Jesus Christ whom yoʋ have sent.
 JOH 17:4 I have glorified yoʋ on earth. I have completed the work yoʋ have given me to do.
-JOH 17:5 And now, Father, glorify me in yoʋr presence with the glory that I had with yoʋ before the world existed.
+JOH 17:5 And now, Father, glorify me in yoʋr presence with the glory I had with yoʋ before the world existed.
 JOH 17:6 “I have revealed yoʋr name to the people yoʋ have given me out of the world. They were yoʋrs; yoʋ gave them to me, and they have kept yoʋr word.
 JOH 17:7 They now know that everything yoʋ have given me is from yoʋ.
 JOH 17:8 For I have given them the words that yoʋ gave me, and they have received them and truly know that I came from yoʋ. They have also come to believe that yoʋ sent me.
 JOH 17:9 I ask on their behalf; I do not ask on behalf of the world, but on behalf of those yoʋ have given me, for they are yoʋrs.
-JOH 17:10 All I have is yoʋrs, and all yoʋ have is mine, and I have been glorified in them.
+JOH 17:10 All who are mine are also yoʋrs, and all who are yoʋrs are also mine, and I have been glorified in them.
 JOH 17:11 I will no longer remain in the world, but they are in the world, and I am coming to yoʋ. Holy Father, keep them in yoʋr name, which yoʋ have given me, so that they may be one, just as we are one.
-JOH 17:12 While I was with them in the world, I kept them in yoʋr name. I have guarded those yoʋ have given me, and not one of them has perished except the son of destruction, so that the Scripture might be fulfilled.
+JOH 17:12 While I was with them in the world, I kept them safe by the power of yoʋr name. I have guarded those yoʋ have given me, and not one of them has perished except the son of destruction, so that the Scripture might be fulfilled.
 JOH 17:13 But now I am coming to yoʋ, and I speak these things in the world so that they may have my joy made full within them.
 JOH 17:14 I have given them yoʋr word, and the world has hated them because they are not of the world, just as I am not of the world.
 JOH 17:15 I do not ask yoʋ to take them out of the world, but to keep them from the evil one.
@@ -3659,14 +3659,14 @@ JOH 17:26 I have made yoʋr name known to them, and will continue to make it kno
 JOH 18:1 After saying these things, Jesus went out with his disciples across the Kidron Valley, where there was a garden, which he entered along with his disciples.
 JOH 18:2 Now Judas, who betrayed him, also knew the place, because Jesus had often met there with his disciples.
 JOH 18:3 So Judas took a cohort of soldiers and officers from the chief priests and Pharisees, and they went there with lanterns, torches, and weapons.
-JOH 18:4 Then Jesus, knowing everything that would happen to him, went out and said to them, “Whom do you seek?”
+JOH 18:4 Then Jesus, knowing everything that would happen to him, went out and said to them, “Who are you looking for?”
 JOH 18:5 They answered him, “Jesus of Nazareth.” Jesus said to them, “I am he.” (Judas, who betrayed him, was also standing with them.)
 JOH 18:6 When Jesus said to them, “I am he,” they drew back and fell to the ground.
-JOH 18:7 So again he asked them, “Whom do you seek?” They said, “Jesus of Nazareth.”
-JOH 18:8 Jesus answered, “I told you that I am he. So if you are seeking me, let these men go.”
+JOH 18:7 So again he asked them, “Who are you looking for?” They said, “Jesus of Nazareth.”
+JOH 18:8 Jesus answered, “I told you that I am he. So if you are looking for me, let these men go.”
 JOH 18:9 He said this to fulfill the word he had spoken: “I have not lost a single one of those yoʋ have given me.”
 JOH 18:10 Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear. (The servant's name was Malchus.)
-JOH 18:11 But Jesus said to Peter, “Put yoʋr sword back in its sheath; shall I not drink the cup that the Father has given me?”
+JOH 18:11 But Jesus said to Peter, “Put yoʋr sword back in its sheath; shall I not drink the cup the Father has given me?”
 JOH 18:12 Then the cohort of soldiers, along with its commander and the Jewish officers, arrested Jesus, bound him,
 JOH 18:13 and led him away first to Annas, for he was the father-in-law of Caiaphas, who was high priest that year.
 JOH 18:14 (It was Caiaphas who had advised the Jews that it was better for one man to perish for the people.)
@@ -3698,7 +3698,7 @@ JOH 18:39 But you have a custom that I release for you one man at the Passover. 
 JOH 18:40 They all cried out again, “Not this man, but Barabbas!” (Now Barabbas was an insurrectionist.)
 JOH 19:1 Then Pilate took Jesus and flogged him.
 JOH 19:2 The soldiers twisted together a crown of thorns, put it on his head, and then clothed him with a purple garment.
-JOH 19:3 They kept saying, “Hail, King of the Jews!” and striking him on the face.
+JOH 19:3 They kept saying, “Hail, King of the Jews!” and striking him in the face.
 JOH 19:4 Once again Pilate came out and said to the Jews, “Behold, I am bringing him out to you so that you may know that I find no fault in him.”
 JOH 19:5 Jesus then came out wearing the crown of thorns and the purple garment, and Pilate said to them, “Behold, the man!”
 JOH 19:6 When the chief priests and the officers saw him, they cried out, “Crucify, crucify him!” But Pilate said to them, “You take him and crucify him, for I find no fault in him.”
@@ -3733,13 +3733,13 @@ JOH 19:34 Instead, one of the soldiers pierced Jesus' side with a spear, and imm
 JOH 19:35 He who saw this has testified, and his testimony is true, and he knows that he speaks what is true, so that you may believe.
 JOH 19:36 For these things happened so that the Scripture would be fulfilled: “No bone of his will be broken.”
 JOH 19:37 And, as another Scripture says, “They will look on him whom they have pierced.”
-JOH 19:38 After these things, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate if he could take away Jesus' body. Pilate gave him permission, so he came and took the body away.
+JOH 19:38 After these things, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate if he could take away Jesus' body. Pilate gave him permission, so he came and took away the body.
 JOH 19:39 With him came Nicodemus (who had previously come to Jesus by night). He brought a mixture of myrrh and aloes that weighed about seventy-five pounds.
 JOH 19:40 So they took Jesus' body and wrapped it in linen cloths with the spices, as is the custom of the Jews in preparing a body for burial.
 JOH 19:41 Near the place where Jesus was crucified there was a garden, and in the garden there was a new tomb in which no one had ever been laid.
 JOH 19:42 Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
-JOH 20:1 On the first day of the week, Mary Magdalene came to the tomb early, while it was still dark, and she saw that the stone had been taken away from the tomb.
-JOH 20:2 So she ran and went to Simon Peter and to the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.”
+JOH 20:1 On the first day of the week, Mary Magdalene came to the tomb early, while it was still dark, and she saw that the stone had been moved away from the tomb.
+JOH 20:2 So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, “They have taken the Lord out of the tomb, and we do not know where they have laid him.”
 JOH 20:3 So Peter went out, along with the other disciple, and they began making their way to the tomb.
 JOH 20:4 The two were running together, but the other disciple outran Peter and reached the tomb first.
 JOH 20:5 Stooping down to look in, he saw the linen cloths lying there, but he did not go in.
@@ -3752,7 +3752,7 @@ JOH 20:11 But Mary stood near the tomb, weeping outside. As she was weeping, she
 JOH 20:12 and saw two angels in white sitting where Jesus' body had been laid, one at the head and one at the feet.
 JOH 20:13 They said to her, “Woman, why are yoʋ weeping?” She said to them, “They have taken away my Lord, and I do not know where they have laid him.”
 JOH 20:14 After saying this, she turned around and saw Jesus standing there, but she did not know it was Jesus.
-JOH 20:15 Jesus said to her, “Woman, why are yoʋ weeping? Whom are yoʋ seeking?” Supposing that he was the gardener, she said to him, “Sir, if yoʋ have carried him away, tell me where yoʋ have laid him, and I will take him away.”
+JOH 20:15 Jesus said to her, “Woman, why are yoʋ weeping? Who are yoʋ looking for?” Supposing that he was the gardener, she said to him, “Sir, if yoʋ have carried him away, tell me where yoʋ have laid him, and I will take him away.”
 JOH 20:16 Jesus said to her, “Mary!” She turned and said to him, “Rabboni!” (which means “Teacher”).
 JOH 20:17 Jesus said to her, “Do not hold on to me, for I have not yet ascended to my Father. But go to my brothers and tell them that I am ascending to my Father and your Father, to my God and your God.”
 JOH 20:18 So Mary Magdalene went and told the disciples that she had seen the Lord and that he had said these things to her.
@@ -3769,16 +3769,16 @@ JOH 20:28 In response Thomas said to him, “My Lord and my God!”
 JOH 20:29 Then Jesus said to him, “Because yoʋ have seen me, have yoʋ come to believe? Blessed are those who have not seen and yet have come to believe.”
 JOH 20:30 Jesus performed many other signs in the presence of his disciples, which are not written in this book.
 JOH 20:31 But these have been written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
-JOH 21:1 After this Jesus again manifested himself to the disciples, by the Sea of Tiberias. He manifested himself in this way.
+JOH 21:1 After this Jesus again manifested himself to the disciples, by the Sea of Tiberias. He manifested himself in this way:
 JOH 21:2 Simon Peter, Thomas (called Didymus), Nathanael (from Cana of Galilee), the sons of Zebedee, and two of Jesus' other disciples were together.
 JOH 21:3 Simon Peter said to them, “I am going fishing.” They said to him, “We will go with yoʋ.” So they immediately went out and got into the boat, but that night they caught nothing.
 JOH 21:4 When daybreak came, Jesus stood on the shore, but the disciples did not know it was Jesus.
 JOH 21:5 Jesus said to them, “Children, have you caught any fish to eat?” They answered him, “No.”
 JOH 21:6 He said to them, “Cast the net on the right side of the boat, and you will find some.” So they cast it and were unable to draw it in because of the large number of fish.
 JOH 21:7 Then the disciple whom Jesus loved said to Peter, “It is the Lord!” When Simon Peter heard that it was the Lord, he put on his outer garment (for he had taken it off) and plunged into the sea.
-JOH 21:8 But the other disciples came in the small boat, dragging the net full of fish, for they were not far from shore, only about a hundred yards away.
+JOH 21:8 But the other disciples came in the boat, dragging the net full of fish, for they were not far from shore, only about a hundred yards away.
 JOH 21:9 When they had gone ashore, they saw a charcoal fire there with a fish lying on it, and bread.
-JOH 21:10 Jesus said to them, “Bring some of the fish that you have just now caught.”
+JOH 21:10 Jesus said to them, “Bring some of the fish you have just caught.”
 JOH 21:11 So Simon Peter went aboard and drew the net ashore, full of large fish, one hundred fifty-three of them. Although there were so many, the net had not torn.
 JOH 21:12 Then Jesus said to them, “Come eat breakfast.” Now none of the disciples dared to ask him, “Who are yoʋ?” because they knew it was the Lord.
 JOH 21:13 Then Jesus came, took the bread, and gave it to them. He did likewise with the fish.
@@ -3803,7 +3803,7 @@ ACT 1:6 So when they had come together, they asked him, “Lord, are yoʋ going 
 ACT 1:7 He said to them, “It is not for you to know the times or seasons that the Father has set by his own authority,
 ACT 1:8 but you will receive power when the Holy Spirit comes upon you, and you will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the ends of the earth.”
 ACT 1:9 After he said this, he was lifted up as they looked on, and a cloud took him out of their sight.
-ACT 1:10 As he went, they were gazing up into the sky, when behold, two men in white clothing were standing beside them.
+ACT 1:10 As he went, they were gazing up into the sky, when behold, two men in white clothing stood beside them.
 ACT 1:11 They said, “Men of Galilee, why are you standing here staring into the sky? This Jesus who was taken up from you into heaven will come back in the same way you have seen him go into heaven.”
 ACT 1:12 Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away.
 ACT 1:13 After entering the city, they went up to the upper room where they were staying. Those present were Peter, James, John, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James.
@@ -3823,7 +3823,7 @@ ACT 1:26 Then they cast lots for them, and the lot fell to Matthias, so he was a
 ACT 2:1 When the day of Pentecost came, all the believers were in the same place with one accord.
 ACT 2:2 Suddenly a sound like a mighty rushing wind came from heaven, and it filled the whole house where they were sitting.
 ACT 2:3 Divided tongues that looked like fire appeared to them and rested on each one of them.
-ACT 2:4 Then they were all filled with the Holy Spirit and began speaking in other tongues, as the Spirit gave them utterance.
+ACT 2:4 Then they were all filled with the Holy Spirit and began speaking in other tongues as the Spirit enabled them.
 ACT 2:5 Now there were devout Jews from every nation under heaven dwelling in Jerusalem.
 ACT 2:6 When this sound occurred, the multitude came together, and they were bewildered because each one of them heard his own language being spoken.
 ACT 2:7 They were all astonished and amazed, saying to one another, “Behold, are not all these who are speaking Galileans?
@@ -3831,14 +3831,14 @@ ACT 2:8 How then do we each hear them in our own native languages?
 ACT 2:9 Parthians, Medes, Elamites; those who dwell in Mesopotamia, Judea and Cappadocia, Pontus and Asia,
 ACT 2:10 Phrygia and Pamphylia, Egypt and the districts of Libya that are near Cyrene; visitors from Rome (both Jews and converts to Judaism),
 ACT 2:11 Cretans and Arabs—we hear them speaking about the mighty acts of God in our own tongues.”
-ACT 2:12 They were all amazed and greatly perplexed, saying to one another, “What could this mean?”
+ACT 2:12 And they were all amazed and greatly perplexed, saying to one another, “What could this mean?”
 ACT 2:13 But others scoffed at the believers, saying, “They are filled with new wine.”
 ACT 2:14 Then Peter stood up with the eleven, lifted up his voice, and declared to them, “Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words.
 ACT 2:15 These men are not drunk, as you suppose, for it is only the third hour of the day.
 ACT 2:16 But this is what was spoken through the prophet Joel:
 ACT 2:17 ‘In the last days, says God, I will pour out my Spirit upon all flesh. Your sons and your daughters will prophesy, your young men will see visions, and your old men will dream dreams.
 ACT 2:18 Even upon my male and female servants I will pour out my Spirit in those days, and they will prophesy.
-ACT 2:19 I will perform wonders in the heavens above and signs on the earth below: blood, fire, and a mist of smoke.
+ACT 2:19 I will perform wonders in the heavens above and signs on the earth below: blood, fire, and mist of smoke.
 ACT 2:20 The sun will be turned to darkness and the moon to blood, before the coming of the great and glorious day of the Lord.
 ACT 2:21 And everyone who calls upon the name of the Lord will be saved.’
 ACT 2:22 “Men of Israel, listen to these words: Jesus of Nazareth, a man attested to you by God with miracles, wonders, and signs that God did through him in your midst, just as you yourselves well know,
@@ -3861,33 +3861,33 @@ ACT 2:38 Peter said to them, “Repent and be baptized, each one of you, in the 
 ACT 2:39 For this promise is for you, for your children, and for all who are far off, as many as the Lord our God calls to himself.”
 ACT 2:40 With many other words he testified and exhorted them, saying, “Be saved from this crooked generation.”
 ACT 2:41 Then those who gladly received his word were baptized, and about three thousand souls were added on that day.
-ACT 2:42 They devoted themselves to the teaching of the apostles and to fellowship, to the breaking of bread and to prayer.
+ACT 2:42 And they devoted themselves to the teaching of the apostles and to fellowship, to the breaking of bread and to prayer.
 ACT 2:43 A sense of awe came upon every soul, and many wonders and signs were being done by the apostles.
 ACT 2:44 All who believed were together and had all things in common.
 ACT 2:45 They were selling their possessions and belongings, and distributing the proceeds to all, as anyone had need.
 ACT 2:46 Day by day as they continued meeting together with one accord in the temple courts and breaking bread from house to house, they shared food together with gladness and simplicity of heart,
-ACT 2:47 praising God and having favor with all the people. And the Lord added to the church daily those who were being saved.
+ACT 2:47 praising God and enjoying the favor of all the people. And the Lord added to the church daily those who were being saved.
 ACT 3:1 One day Peter and John were going up together to the temple at the hour of prayer, the ninth hour.
 ACT 3:2 And a man who was lame from his mother's womb was being carried in. Every day people would lay him at the gate of the temple called the Beautiful Gate so that he could ask for alms from those who were entering the temple courts.
 ACT 3:3 When he saw Peter and John about to enter the temple courts, he began asking for alms.
 ACT 3:4 But Peter, along with John, looked at him intently and said, “Look at us.”
 ACT 3:5 So the man gave them his attention, expecting to receive something from them.
 ACT 3:6 But Peter said, “I have no silver or gold, but what I do have I give to yoʋ. In the name of Jesus Christ of Nazareth, rise up and walk.”
-ACT 3:7 Then Peter took hold of him by the right hand and raised him up, and at once his feet and ankles were strengthened.
+ACT 3:7 Then Peter took hold of him by the right hand and raised him up, and at once his feet and ankles were made strong.
 ACT 3:8 Leaping up, he stood and began walking. Then he entered the temple courts with them, walking and leaping and praising God.
 ACT 3:9 When all the people saw him walking and praising God,
 ACT 3:10 they recognized him as the man who used to sit at the Beautiful Gate of the temple asking for alms. And they were filled with wonder and amazement at what had happened to him.
 ACT 3:11 As the lame man who had been healed clung to Peter and John, all the people ran together to them at the portico called Solomon's, utterly astonished.
 ACT 3:12 When Peter saw this, he addressed the people: “Men of Israel, why are you amazed at this, or why are you staring at us as though by our own power or godliness we have made this man walk?
-ACT 3:13 The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his servant Jesus, whom you delivered up and denied in the presence of Pilate, even though Pilate had decided to release him.
+ACT 3:13 The God of Abraham, Isaac, and Jacob—the God of our fathers—has glorified his servant Jesus, whom you delivered up and denied in the presence of Pilate, even though Pilate had decided to release him.
 ACT 3:14 Yes, you denied the Holy and Righteous One and asked for a murderer to be granted to you.
 ACT 3:15 You put to death the Author of life, whom God raised from the dead, of which we are witnesses.
-ACT 3:16 By faith in his name, his name has strengthened this man whom you see and know, and the faith that is through Jesus has given him this perfect health in the presence of you all.
+ACT 3:16 By faith in his name, his name has given strength to this man whom you see and know, and the faith that is through Jesus has given him this perfect health in the presence of you all.
 ACT 3:17 “Now, brothers, I know that you acted in ignorance, as did your rulers also.
 ACT 3:18 But in this way God fulfilled what he had foretold through the mouths of all his prophets, that the Christ would suffer.
 ACT 3:19 Therefore repent and turn back so that your sins may be wiped away, that times of refreshing may come from the presence of the Lord,
 ACT 3:20 and that he may send Jesus, the Christ who has been appointed for you.
-ACT 3:21 Heaven must receive him until the time comes for the restoration of all things, which God declared by the mouth of all his holy prophets long ago.
+ACT 3:21 Heaven must receive him until the time comes for the restoration of all things, which God declared by the mouths of all his holy prophets long ago.
 ACT 3:22 For Moses said to our fathers, ‘The Lord our God will raise up for you a prophet like me from among your brothers. You must listen to everything he tells you.
 ACT 3:23 Every soul who does not listen to that prophet will be utterly destroyed from among the people.’
 ACT 3:24 Indeed, all the prophets who have spoken, beginning with Samuel and continuing with those who came afterward, also proclaimed these days.
@@ -3950,7 +3950,7 @@ ACT 5:17 Then the high priest rose up, along with all who were with him (that is
 ACT 5:18 So they arrested the apostles and put them in a public jail.
 ACT 5:19 But during the night an angel of the Lord opened the doors of the prison, brought them out, and said,
 ACT 5:20 “Go stand in the temple courts and tell the people everything about this new life.”
-ACT 5:21 When they heard this, they entered the temple courts at dawn and began teaching. When the high priest came, along with those who were with him, they called together the Sanhedrin—that is, the entire eldership of the sons of Israel—and sent officers to the prison to have the apostles brought before them.
+ACT 5:21 When they heard this, they entered the temple courts at dawn and began teaching. When the high priest came, along with those who were with him, they called together the Sanhedrin—that is, the entire eldership of the people of Israel—and sent officers to the prison to have the apostles brought before them.
 ACT 5:22 But when the officers arrived, they did not find them in the prison. So they returned and reported,
 ACT 5:23 “We found the prison locked up in complete security and the guards standing in front of the doors, but when we opened the doors, we found no one inside.”
 ACT 5:24 When the high priest, the captain of the temple guard, and the chief priests heard this report, they were greatly perplexed by it, wondering what might come of this.
@@ -4014,27 +4014,27 @@ ACT 7:24 When he saw one of them being wronged, he came to the aid of the man wh
 ACT 7:25 Moses assumed that his brothers would understand that God was granting them deliverance by his hand, but they did not understand.
 ACT 7:26 The next day Moses came upon two Israelites who were fighting and urged them to make peace, saying, ‘Men, you are brothers; why are you hurting each other?’
 ACT 7:27 But the one who was hurting his neighbor thrust Moses aside and said, ‘Who appointed yoʋ to be a ruler and judge over us?
-ACT 7:28 Do yoʋ want to kill me as yoʋ killed the Egyptian yesterday?’
+ACT 7:28 Do yoʋ want to kill me as yoʋ killed that Egyptian yesterday?’
 ACT 7:29 At this remark Moses fled and became a sojourner in the land of Midian, where he became the father of two sons.
 ACT 7:30 “After forty years had passed, an angel of the Lord appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.
 ACT 7:31 When Moses saw it, he was amazed at the sight. As he drew near to look at it, the voice of the Lord came to him:
 ACT 7:32 ‘I am the God of yoʋr fathers, the God of Abraham, the God of Isaac, and the God of Jacob.’ Moses began to tremble and did not dare to look.
-ACT 7:33 Then the Lord said to him, ‘Take off the sandals from yoʋr feet, for the place where yoʋ are standing is holy ground.
+ACT 7:33 Then the Lord said to him, ‘Remove the sandals from yoʋr feet, for the place where yoʋ are standing is holy ground.
 ACT 7:34 I have surely seen the mistreatment of my people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send yoʋ to Egypt.’
 ACT 7:35 “This is the same Moses they had rejected, saying, ‘Who appointed yoʋ to be a ruler and judge?’ He is the one God sent as a ruler and redeemer by the hand of the angel who appeared to him in the bush.
 ACT 7:36 He is the one who led them out, performing wonders and signs in the land of Egypt, at the Red Sea, and in the wilderness for forty years.
 ACT 7:37 This is the same Moses who said to the sons of Israel, ‘The Lord our God will raise up for you a prophet like me from among your brothers.’
-ACT 7:38 This is the man who was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. He received a living word to give to us.
+ACT 7:38 This is the man who was with our fathers in the assembly in the wilderness when the angel spoke to him on Mount Sinai. He received a living word to give to us.
 ACT 7:39 Our fathers were unwilling to obey him. Instead, they thrust him aside, and in their hearts they turned back to Egypt,
 ACT 7:40 saying to Aaron, ‘Make us gods who will go before us, for we do not know what has happened to this Moses who led us out of the land of Egypt.’
 ACT 7:41 In those days they made an idol in the form of a calf, brought a sacrifice to the idol, and rejoiced at the works of their hands.
 ACT 7:42 But God turned away from them and gave them up to serve the host of heaven, just as it is written in the book of the prophets: ‘Was it to me that you offered slain beasts and sacrifices for forty years in the wilderness, O house of Israel?
-ACT 7:43 You took up the tabernacle of Molech and the star of your god Remphan, the images you made so that you could worship them, so I will send you into exile beyond Babylon.’
+ACT 7:43 No! You took up the tabernacle of Molech and the star of your god Remphan, the images you made so that you could worship them, so I will send you into exile beyond Babylon.’
 ACT 7:44 “Our fathers had the tabernacle of the testimony in the wilderness, just as God had directed when he spoke to Moses and told him to make it according to the pattern he had seen.
 ACT 7:45 Receiving it in turn, our fathers brought it in with Joshua when they dispossessed the nations whom God drove out from their presence. It remained there until the days of David,
 ACT 7:46 who found favor before God and asked if he could provide a dwelling place for the God of Jacob.
 ACT 7:47 But it was Solomon who built a house for him.
-ACT 7:48 Yet the Most High does not dwell in temples made by hands, just as the prophet says,
+ACT 7:48 Yet the Most High does not dwell in temples made by human hands, just as the prophet says,
 ACT 7:49 ‘Heaven is my throne, and the earth is my footstool. What house will you build for me, says the Lord, or what place is there for my rest?
 ACT 7:50 Has not my hand made all these things?’
 ACT 7:51 “You stiff-necked people, uncircumcised in heart and ears, you always resist the Holy Spirit! As your fathers did, so you do also.
@@ -4793,7 +4793,7 @@ ACT 28:23 When they had arranged a day to meet with Paul, many more came to him 
 ACT 28:24 Some were convinced by what he said, but others refused to believe.
 ACT 28:25 So they were in disagreement with one another and began to leave after Paul made this one final statement: “The Holy Spirit was right in saying to our fathers through the prophet Isaiah:
 ACT 28:26 ‘Go to this people and say, “Although you will hear, you will never understand, and although you will see, you will never perceive.”
-ACT 28:27 For the heart of this people has become dull; with their ears they have barely heard, and their eyes they have closed, lest they should see with their eyes, hear with their ears, and understand with their heart and turn back, and I would heal them.’
+ACT 28:27 For the heart of this people has become calloused; with their ears they have barely heard, and their eyes they have closed, lest they should see with their eyes, hear with their ears, and understand with their heart and turn back, and I would heal them.’
 ACT 28:28 Therefore let it be known to you that the salvation of God has been sent to the Gentiles; they will listen.”
 ACT 28:29 After Paul said these things, the Jews went away and had a great dispute among themselves.
 ACT 28:30 For two whole years Paul stayed in his own rented house and welcomed all who came to him,
@@ -7614,7 +7614,7 @@ REV 2:26 To him who overcomes and keeps my works to the end, I will give authori
 REV 2:27 and he will rule them with a rod of iron; like earthen vessels they will be shattered, just as I have received authority from my Father.
 REV 2:28 I will also give him the morning star.
 REV 2:29 He who has an ear, let him hear what the Spirit is saying to the churches.’
-REV 3:1 “To the angel of the church in Sardis write: ‘These are the words of him who has the seven spirits of God and the seven stars: I know yoʋr works; yoʋ have a reputation for being alive, but yoʋ are dead.
+REV 3:1 “To the angel of the church in Sardis write: ‘These are the words of him who has the seven spirits of God and the seven stars: I know yoʋr works; yoʋ have made a name for yoʋrself and yoʋ are alive, but actually yoʋ are dead.
 REV 3:2 Be watchful and strengthen what remains, which yoʋ were about to throw away, for I have not found yoʋr works to be complete in the sight of my God.
 REV 3:3 So remember what yoʋ have received and heard; obey it and repent. If yoʋ do not wake up, I will come upon yoʋ like a thief, and yoʋ will certainly not know at what hour I will come upon yoʋ.
 REV 3:4 But yoʋ have a few individuals in Sardis who have not defiled their garments. They will walk with me in white, for they are worthy.
@@ -7625,7 +7625,7 @@ REV 3:8 I know yoʋr works. Behold, I have set before yoʋ an open door that no 
 REV 3:9 Those of the synagogue of Satan are liars. They declare themselves to be Jews but are not. Behold, I will make them come and bow down at yoʋr feet, and they will know that I love yoʋ.
 REV 3:10 Because yoʋ have kept my command to persevere, I will keep yoʋ from the hour of trial that is about to come upon the whole world to test those who dwell on the earth.
 REV 3:11 I am coming quickly. Hold fast to what yoʋ have so that no one will take yoʋr crown.
-REV 3:12 The one who overcomes I will make a pillar in the temple of my God, and he will no longer go out at all. I will write on him the name of my God, the name of the city of my God (the new Jerusalem that comes down out of heaven from my God), and my new name.
+REV 3:12 The one who overcomes I will make a pillar in the temple of my God, and he will no longer go out at all. I will write on him the name of my God, the name of the city of my God (the new Jerusalem that comes down out of heaven from my God), and the new name he is to receive.
 REV 3:13 He who has an ear, let him hear what the Spirit is saying to the churches.’
 REV 3:14 “To the angel of the church in Laodicea write: ‘These are the words of the Amen, the faithful and true witness, the origin of God's creation:
 REV 3:15 I know yoʋr works; yoʋ are neither cold nor hot. If only yoʋ were cold or hot!
@@ -7643,7 +7643,7 @@ REV 4:4 Surrounding the throne were twenty-four other thrones, and sitting on th
 REV 4:5 From the throne came flashes of lightning, rumblings, and peals of thunder, and there were seven flaming torches burning before the throne; these are the seven spirits of God.
 REV 4:6 Also before the throne was something like a sea of glass that looked like crystal. Around the throne on each side were four living creatures, full of eyes in front and in back.
 REV 4:7 The first living creature was like a lion, the second living creature was like a calf, the third living creature had the face of a man, and the fourth living creature was like an eagle in flight.
-REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy is the Lord God Almighty, who was and who is and who is to come.”
+REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy, holy, holy, holy, holy, holy, holy, is the Lord God Almighty, who was and who is and who is to come.”
 REV 4:9 And whenever the living creatures give glory, honor, and thanks to him who sits on the throne, who lives forever and ever,
 REV 4:10 the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever. They cast their crowns before the throne and say,
 REV 4:11 “Yoʋ are worthy, our Lord and God, the Holy One, to receive glory, honor, and power; for yoʋ created all things, and by yoʋr will they came into existence and were created.”
@@ -7727,7 +7727,7 @@ REV 9:16 The number of the troops on horse was ten thousand times ten thousand; 
 REV 9:17 Now this is what the horses and their riders looked like in my vision: The riders had breastplates that were fiery red, hyacinth blue, and sulfur yellow. The heads of the horses were like the heads of lions, and out of their mouths came fire, smoke, and sulfur.
 REV 9:18 By these three plagues a third of mankind was killed—by the fire, the smoke, and the sulfur that came out of the horses' mouths.
 REV 9:19 For the power of the horses is in their mouths and in their tails, because their tails have heads like serpents, and with them they inflict harm.
-REV 9:20 The rest of mankind, who were not killed by these plagues, did not repent from the works of their hands; they did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see, hear, or walk.
+REV 9:20 The rest of mankind, who were not killed by these plagues, did not repent from the works of their hands; they did not stop worshiping demons and idols of gold, silver, stone, and wood, which cannot see, hear, or walk.
 REV 9:21 Nor did they repent of their murders, sorceries, fornication, or thefts.
 REV 10:1 Then I saw a mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head; his face was like the sun, and his legs were like pillars of fire.
 REV 10:2 In his hand he held an open scroll. He placed his right foot on the sea and his left foot on the land,
@@ -7785,11 +7785,11 @@ REV 13:6 And he opened his mouth to utter blasphemy against God and to slander h
 REV 13:7 He was permitted to wage war against the saints and conquer them, and he was given authority over every tribe, people, tongue, and nation.
 REV 13:8 All who dwell on the earth will worship him, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who was slain.
 REV 13:9 If anyone has an ear, let him hear:
-REV 13:10 “If anyone has captivity as his lot, away he goes; if anyone kills with the sword, with the sword he must be killed.” This calls for the endurance and the faith of the saints.
+REV 13:10 “If anyone has captivity as his lot, away he goes; if anyone is to be killed with the sword, he must be killed.” This calls for the endurance and the faith of the saints.
 REV 13:11 Then I saw another beast coming up out of the earth. He had two horns like a lamb, but he spoke like a dragon.
 REV 13:12 He exercised all the authority of the first beast in his presence, and made the earth and those who dwell in it worship the first beast, whose mortal wound had been healed.
 REV 13:13 He performed great signs, even making fire come down from heaven to earth in the presence of the people.
-REV 13:14 By the signs he was permitted to do in the presence of the first beast, he deceived my own people who dwell on the earth, telling those who dwell on the earth to make an image of the first beast, who had the wound from the sword but still lived.
+REV 13:14 By the signs he was permitted to do in the presence of the first beast, he deceived my own people who dwell on the earth, telling those who dwell on the earth to make an image of the first beast, who had a wound from the sword but still lived.
 REV 13:15 The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause whoever refused to worship the image to be killed.
 REV 13:16 The second beast required everyone, both small and great, both rich and poor, both free and slave, to receive a mark on their right hand or on their forehead,
 REV 13:17 so that no one could buy or sell unless he had the mark, that is, the name of the beast or the number of his name.
@@ -7811,7 +7811,7 @@ REV 14:14 Then I looked, and behold, there was a white cloud, and sitting on the
 REV 14:15 And another angel came out of the temple, crying out with a loud voice to him who was sitting on the cloud, “Take yoʋr sickle and reap, because the hour to reap has come, for the harvest of the earth is ripe.”
 REV 14:16 So he who was sitting on the cloud swung his sickle over the earth, and the earth was reaped.
 REV 14:17 Then another angel came out of the temple in heaven; he too had a sharp sickle.
-REV 14:18 And another angel, who had authority over the fire, came out from the altar and called out with a loud cry to the angel who had the sharp sickle, “Take yoʋr sharp sickle and gather the clusters from the vintage of the earth, for its grapes are ripe.”
+REV 14:18 And another angel, who had authority over the fire, came out from the altar and called out with a loud cry to the angel who had the sharp sickle, “Take yoʋr sharp sickle and gather the clusters from the vintage of the earth, for the grapes of the earth are ripe.”
 REV 14:19 So the angel swung his sickle across the earth, gathered the vintage of the earth, and threw it into the great winepress of the wrath of God.
 REV 14:20 Then the winepress was trodden outside the city, and blood came out of the winepress, as high as a horse's bridle, for one thousand six hundred stadia.
 REV 15:1 Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, because with them the wrath of God is completed.
@@ -7866,7 +7866,7 @@ REV 18:2 He cried out with a mighty voice, “Fallen is Babylon the great! She h
 REV 18:3 For all the nations have fallen because of the wine of the wrath of her fornication. The kings of the earth have committed fornication with her, and the merchants of the earth have become rich from the power of her luxury.”
 REV 18:4 Then I heard another voice from heaven say, “Come out of her, my people, so that you do not participate in her sins, and so that you do not receive any of her plagues;
 REV 18:5 for her sins are heaped as high as heaven, and God has remembered her unrighteous acts.
-REV 18:6 Render to her as she herself has rendered; repay her double according to her works. Mix a double portion for her in the cup she has mixed.
+REV 18:6 Render to her as she herself has rendered; make it double, as she has done, even according to her works. Mix a double portion for her in the cup she has mixed.
 REV 18:7 As much as she has glorified herself and lived in luxury, give her the same amount of torment and mourning, for in her heart she says, ‘I sit enthroned as a queen; I am not a widow and will never see mourning.’
 REV 18:8 Therefore her plagues will come in a single day— death, mourning, and famine. She will be burned up with fire, for mighty is the Lord God who has judged her.”
 REV 18:9 The kings of the earth who have committed fornication with her and lived in luxury with her will weep and wail over her when they see the smoke of her burning.
@@ -7947,7 +7947,7 @@ REV 21:23 The city has no need of sun or moon to shine upon it, for the glory of
 REV 21:24 The nations will walk by its light, and the kings of the earth will bring the glory and honor of the nations into the city to present to God.
 REV 21:25 Its gates will never be shut at the end of the day, for there will be no night there.
 REV 21:26 They will bring the glory and honor of the nations into the city.
-REV 21:27 But no unclean thing and nothing that causes an abomination or a lie will ever enter it, but only those whose names are written in the Lamb's book of life.
+REV 21:27 But no unclean thing and no one who causes an abomination or a lie will ever enter it, but only those whose names are written in the Lamb's book of life.
 REV 22:1 Then the angel showed me a pure river of the water of life, as bright as crystal, flowing from the throne of God and of the Lamb.
 REV 22:2 In the middle of the city street, and on each side of the river, is the tree of life, bearing twelve kinds of fruit, yielding its fruit each month. And the leaves of the tree are for the healing of the nations.
 REV 22:3 No longer will there be anything accursed, but the throne of God and of the Lamb will be in the city, and his servants will serve him.

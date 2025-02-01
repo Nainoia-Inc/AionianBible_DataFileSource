@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Berean-Standard---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Berean-Standard
-## File Created: 11/13/2024 21:21:08
+## File Created: 12/29/2024 07:54:34
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engbsb
 ## Source File: https://ebible.org/Scriptures/engbsb_vpl.zip
-## Source Date: 11/13/2024 01:19:09
+## Source Date: 12/28/2024 18:52:26
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

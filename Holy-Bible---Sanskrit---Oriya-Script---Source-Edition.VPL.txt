@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---Oriya-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---Oriya-Script
-## File Created: 11/13/2024 21:21:28
+## File Created: 12/29/2024 07:54:57
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=sanori
 ## Source File: https://ebible.org/Scriptures/sanori_vpl.zip
-## Source Date: 11/13/2024 00:32:39
+## Source Date: 12/28/2024 17:59:04
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

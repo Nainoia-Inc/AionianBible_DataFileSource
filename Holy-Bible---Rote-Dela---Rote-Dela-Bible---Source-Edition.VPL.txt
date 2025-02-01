@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Rote-Dela---Rote-Dela-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Rote-Dela---Rote-Dela-Bible
-## File Created: 11/12/2024 11:39:45
+## File Created: 12/29/2024 07:54:56
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=row
 ## Source File: https://ebible.org/Scriptures/row_vpl.zip
-## Source Date: 11/07/2024 03:09:26
+## Source Date: 12/28/2024 17:58:23
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

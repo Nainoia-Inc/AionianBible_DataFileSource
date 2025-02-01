@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Gata---Gata-Didayi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Gata---Gata-Didayi-Bible
-## File Created: 11/13/2024 21:21:13
+## File Created: 12/29/2024 07:54:40
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=gaq
 ## Source File: https://ebible.org/Scriptures/gaq_vpl.zip
-## Source Date: 11/12/2024 22:55:25
+## Source Date: 12/28/2024 16:32:22
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

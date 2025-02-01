@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Twi---Akuapem-Twi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Twi---Akuapem-Twi-Bible
-## File Created: 11/13/2024 21:21:32
+## File Created: 12/29/2024 07:55:01
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=twi
 ## Source File: https://ebible.org/Scriptures/twi_vpl.zip
-## Source Date: 11/13/2024 00:57:22
+## Source Date: 12/28/2024 18:28:29
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0, International
 ## Source Text: unaltered below
 ##
@@ -13978,16 +13978,16 @@ PSA 3:4 Meteɛ mu su frɛ Awurade, na ogye me so fi ne bepɔw kronkron no so.
 PSA 3:5 Metɔ hɔ na meda a, minyan bio, efisɛ Awurade ma migyina.
 PSA 3:6 Merensuro atamfo mpem mpem a wɔatwa me ho ahyia no.
 PSA 3:7 Sɔre, Awurade! Gye me, me Nyankopɔn! Bobɔ mʼatamfo nyinaa abogye; na tutu amumɔyɛfo se.
-PSA 3:8 Awurade hɔ na ogye fi ba. Ma wo nhyira mmra wo nkurɔfo so.
-PSA 4:1 Wɔde ma dwonkyerɛfo. Wɔto wɔ sankuhama so. Dawid dwom. Sɛ misu frɛ wo a, gye me so, me trenee Nyankopɔn. Ma me ɔhome wɔ mʼahohia mu; hu me mmɔbɔ na tie me mpaebɔ.
+PSA 3:8 Awurade hɔ na ogye fi ba. Ma wo nhyira mmra wo nkurɔfo so. Wɔde ma dwonkyerɛfo. Wɔto wɔ sankuhama so.
+PSA 4:1 Dawid dwom. Sɛ misu frɛ wo a, gye me so, me trenee Nyankopɔn. Ma me ɔhome wɔ mʼahohia mu; hu me mmɔbɔ na tie me mpaebɔ.
 PSA 4:2 Enkosi da bɛn na mobɛdan mʼanuonyam ahohora? Enkosi da bɛn na mobɛdɔ nneɛma hunu na moadi ahoni ahuhuw akyi?
 PSA 4:3 Hu sɛ Awurade ayi nea ɔwɔ nyamesu ama ne ho; Awurade betie, sɛ misu mefrɛ no a.
 PSA 4:4 Sɛ mo bo fuw a, monnyɛ bɔne; sɛ modeda mo mpa so a, monyɛ komm na monhwehwɛ mo koma mu.
 PSA 4:5 Mommɔ afɔre a ɛfata na momfa mo werɛ nhyɛ Awurade mu.
 PSA 4:6 Nnipa bebree bisa se: “Hena na ɔde yiyeyɛ bɛbrɛ yɛn?” Awurade, ma wʼanim hann no nhyerɛn yɛn so.
 PSA 4:7 Fa anigye mmoroso hyɛ me koma ma bere a wɔn aburow ne nsa foforo abu so no.
-PSA 4:8 Mɛtɔ hɔ, na mada asomdwoe mu, efisɛ wo nko ara, Awurade, na woma metena dwoodwoo.
-PSA 5:1 Wɔde ma dwonkyerɛfo sɛ wɔmfa atɛntɛbɛn nto. Dawid dwom. Awurade, yɛ aso ma me nsɛm na dwen mʼapinisi ho.
+PSA 4:8 Mɛtɔ hɔ, na mada asomdwoe mu, efisɛ wo nko ara, Awurade, na woma metena dwoodwoo. Wɔde ma dwonkyerɛfo sɛ wɔmfa atɛntɛbɛn nto.
+PSA 5:1 Dawid dwom. Awurade, yɛ aso ma me nsɛm na dwen mʼapinisi ho.
 PSA 5:2 Tie me mmoa ho sufrɛ, me Hene ne me Nyankopɔn, efisɛ wo na mebɔ wo mpae.
 PSA 5:3 Awurade, wote me nne anɔpa; anɔpa, mede mʼadesrɛ ba wʼanim na mede anidaso twɛn.
 PSA 5:4 Wonyɛ Onyankopɔn a wʼani gye bɔne ho; na amumɔyɛfo rentumi ne wo ntena.
@@ -13998,8 +13998,8 @@ PSA 5:8 Awurade kyerɛ me kwan wɔ wo trenee mu mʼatamfo nti, bɔ wo kwan tee w
 PSA 5:9 Wɔn anom asɛm baako mpo nyɛ nokware; ɔsɛe ahyɛ wɔn koma ma. Wɔn menewa yɛ ɔda a so abue wɔde wɔn tɛkrɛma ka nnaadaasɛm.
 PSA 5:10 Onyankopɔn, bu wɔn fɔ! Ma wɔn pɔw bɔne nyɛ wɔn asehwe. Pam wɔn; esiane wɔn bɔne dodow no nti, efisɛ wɔasɔre atia wo.
 PSA 5:11 Nanso ma wɔn a woguan ba wo nkyɛn no ani nnye; ma wɔmfa anigye nto dwom daa. Trɛw wo bammɔ mu wɔ wɔn so, na wɔn a wɔdɔ wo din no ma wɔn ani nnye wɔ wo mu.
-PSA 5:12 Awurade, ampa ara, wuhyira atreneefo; na wode wʼayamye twa wɔn ho hyia sɛ nkatabo.
-PSA 6:1 Wɔde ma dwonkyerɛfo sɛ ɔmfa sankuhama nto wɔ Seminit nne so. Dawid dwom. Awurade nka mʼanim wɔ wʼabufuw mu, na ntwe mʼaso nso wɔ wʼabufuwhyew mu.
+PSA 5:12 Awurade, ampa ara, wuhyira atreneefo; na wode wʼayamye twa wɔn ho hyia sɛ nkatabo. Wɔde ma dwonkyerɛfo sɛ ɔmfa sankuhama nto wɔ Seminit nne so.
+PSA 6:1 Dawid dwom. Awurade nka mʼanim wɔ wʼabufuw mu, na ntwe mʼaso nso wɔ wʼabufuwhyew mu.
 PSA 6:2 Hu me mmɔbɔ, Awurade, efisɛ meyɛ mmrɛw; Awurade sa me yare na me nnompe wɔ ahoyeraw mu.
 PSA 6:3 Me kra wɔ ahohia mu. Enkosi da bɛn, Ao Awurade, enkosi da bɛn?
 PSA 6:4 San bra, Awurade, na begye me nkwa; gye me, wo dɔ a enni nhuammɔ no nti.
@@ -14025,8 +14025,8 @@ PSA 7:13 Wasiesie nʼakode a ɛyɛ hu; ayɛ ne bɛmma a ɛredɛw no krado.
 PSA 7:14 Nea onyinsɛn amumɔyɛ na basabasayɛ ahyɛ no ma no, ɔwo nnaadaa.
 PSA 7:15 Nea otu tokuru, na oyi mu dɔte no hwe tokuru a watu no mu.
 PSA 7:16 Ɔhaw a ɔde ba no dan bɔ nʼankasa so; ne basabasayɛ bɔ nʼankasa ti so.
-PSA 7:17 Mede aseda bɛma Awurade, ne trenee nti, na mato ayeyi dwom ayi Awurade, Ɔsorosoroni no din ayɛ.
-PSA 8:1 Wɔde ma dwonkyerɛfo se wɔnto no “gittit” sanku nne so. Dawid dwom. Awurade, yɛn Awurade, wo din kɛseyɛ ada adi wiase mmaa nyinaa. Wode wʼanuonyam atimtim ɔsoro nohɔ,
+PSA 7:17 Mede aseda bɛma Awurade, ne trenee nti, na mato ayeyi dwom ayi Awurade, Ɔsorosoroni no din ayɛ. Wɔde ma dwonkyerɛfo se wɔnto no “gittit” sanku nne so.
+PSA 8:1 Dawid dwom. Awurade, yɛn Awurade, wo din kɛseyɛ ada adi wiase mmaa nyinaa. Wode wʼanuonyam atimtim ɔsoro nohɔ,
 PSA 8:2 mmofra ne nkokoaa mpo de wɔn ano kamfo wo, wʼatamfo nti; na wode bɔ atamfo ne aweretɔfo ano.
 PSA 8:3 Sɛ mehwɛ wo ɔsorosoro, wo nsateaa ano adwuma; ɔsram ne nsoromma a wode obiara asi nʼafa a,
 PSA 8:4 onipa ne hena a wokae no, na onipa ba nso ne hena a wʼani ku ne ho?
@@ -14034,8 +14034,8 @@ PSA 8:5 Wobɔɔ no ma ɔyɛɛ akumaa kakra sen abɔfo na wode wʼanuonyam ne nid
 PSA 8:6 Woyɛɛ no ɔsodifo maa wo nsa ano nnwuma wode nneɛma nyinaa ahyɛ nʼanan ase:
 PSA 8:7 nguankuw ne anantwikuw nyinaa ne wuram mmoa nso,
 PSA 8:8 wim nnomaa ne po mu mpataa, nea ɛnenam po mu akwan so nyinaa.
-PSA 8:9 Awurade, yɛn Awurade, wo din yɛ kɛse wɔ asase nyinaa so!
-PSA 9:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Ɔba no wu”. Dawid dwom. Awurade, mefi me koma nyinaa mu ada wo ase. Mɛka wʼanwonwade no nyinaa.
+PSA 8:9 Awurade, yɛn Awurade, wo din yɛ kɛse wɔ asase nyinaa so! Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Ɔba no wu”.
+PSA 9:1 Dawid dwom. Awurade, mefi me koma nyinaa mu ada wo ase. Mɛka wʼanwonwade no nyinaa.
 PSA 9:2 Mɛma mʼani agye na madi ahurusi wɔ wo mu. Mɛto ayeyi dwom ama wo din, Ɔsorosoroni.
 PSA 9:3 Mʼatamfo san wɔn akyi; wɔtetew hwe, na wowuwu wɔ wʼanim.
 PSA 9:4 Woadi mʼasɛm ama me, na menya mʼahofadi; woatena wʼahengua so, abu atɛntrenee.
@@ -14072,29 +14072,29 @@ PSA 10:14 Nanso wo, Onyankopɔn, wuhu amanehunufo haw; na wayɛ wʼadwene sɛ wo
 PSA 10:15 Bubu omumɔyɛfo ne ɔbɔnefo aprɛw; frɛ no na ommebu nʼamumɔyɛ ho nkontaa, nʼamumɔyɛ a anka wɔrenhu no.
 PSA 10:16 Awurade yɛ ɔhene daa nyinaa; amanaman no bɛyera nʼasase so.
 PSA 10:17 Awurade, wutie mmɔborɔfo adesrɛ; wohyɛ wɔn nkuran, na wutie wɔn sufrɛ,
-PSA 10:18 na wudi ma ayisaa ne nea wɔhyɛ no so, sɛnea ɛbɛyɛ a ɔdesani a ofi asase mu renhunahuna bio.
-PSA 11:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade mu na mede me werɛ ahyɛ. Adɛn na wutumi ka kyerɛ me se, “Tu te sɛ anomaa kɔ wo bepɔw so.
+PSA 10:18 na wudi ma ayisaa ne nea wɔhyɛ no so, sɛnea ɛbɛyɛ a ɔdesani a ofi asase mu renhunahuna bio. Wɔde ma dwonkyerɛfo.
+PSA 11:1 Dawid dwom. Awurade mu na mede me werɛ ahyɛ. Adɛn na wutumi ka kyerɛ me se, “Tu te sɛ anomaa kɔ wo bepɔw so.
 PSA 11:2 Na hwɛ, amumɔyɛfo akuntun wɔn ta mu, na wɔde wɔn mmɛmma asisi ahama so sɛ wɔbɛtow wɔ sum mu de awɔ koma mu ahotefo.
 PSA 11:3 Sɛ wɔresɛe fapem no a, dɛn na ɔtreneeni betumi ayɛ?”
 PSA 11:4 Awurade wɔ nʼasɔredan kronkron no mu; Awurade te ne soro ahengua so. Ɔhwɛ nnipa mma, nʼani hwehwɛ wɔn mu.
 PSA 11:5 Awurade hwehwɛ ɔtreneeni mu, na amumɔyɛfo ne wɔn a wɔpɛ basabasayɛ de, ne kra kyi wɔn.
 PSA 11:6 Ɔbɛtɔ ogyatannaa ne sufre a ɛredɛw agu amumɔyɛfo so; na mframa a mu yɛ hyew bɛyɛ wɔn kyɛfa.
-PSA 11:7 Awurade yɛ ɔtreneeni, na ɔpɛ atɛntrenee; wɔn a wɔteɛ no behu nʼanim.
-PSA 12:1 Wɔde ma dwonkyerɛfo se wɔnto no wɔ “Seminit” sanku nne so. Dawid dwom. Boa yɛn, Awurade, na nyamesurofo asa; nokwafo ayera wɔ nnipa mu.
+PSA 11:7 Awurade yɛ ɔtreneeni, na ɔpɛ atɛntrenee; wɔn a wɔteɛ no behu nʼanim. Wɔde ma dwonkyerɛfo se wɔnto no wɔ “Seminit” sanku nne so.
+PSA 12:1 Dawid dwom. Boa yɛn, Awurade, na nyamesurofo asa; nokwafo ayera wɔ nnipa mu.
 PSA 12:2 Obiara di atoro kyerɛ ne yɔnko; wɔn ano a ɛdɛfɛdɛfɛ no ka nnaadaasɛm.
 PSA 12:3 Ma Awurade ntwa nnaadaa ano ne tɛkrɛma biara a ɛhoahoa ne ho nkyene;
 PSA 12:4 nea ɛka se, “Yɛde yɛn tɛkrɛma bedi nkonim; yɛn ano bedi ama yɛn, na hena na odi yɛn so tumi?”
 PSA 12:5 “Esiane ɔhyɛ a wɔde hyɛ mmɔborɔni ne ohiani apinisi no nti, mɛsɔre afei,” Awurade na ose. “Mɛbɔ wɔn ho ban afi wɔn a wɔhaw wɔn no ho.”
 PSA 12:6 Awurade asɛm yɛ nokware te sɛ dwetɛ a wɔasɔn so wɔ fononoo mu, na wɔahoa ho mpɛn ason.
 PSA 12:7 Awurade, wobɛkora mmɔborɔni na woabɔ yɛn ho ban afi saa nnipa yi ho afebɔɔ.
-PSA 12:8 Amumɔyɛfo nenam sɛnea wɔpɛ, bere a adesamma de nidi ma afide.
-PSA 13:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade enkosi da bɛn? Wo werɛ befi me afebɔɔ ana? Enkosi da bɛn na wode wʼanim behintaw me?
+PSA 12:8 Amumɔyɛfo nenam sɛnea wɔpɛ, bere a adesamma de nidi ma afide. Wɔde ma dwonkyerɛfo.
+PSA 13:1 Dawid dwom. Awurade enkosi da bɛn? Wo werɛ befi me afebɔɔ ana? Enkosi da bɛn na wode wʼanim behintaw me?
 PSA 13:2 Enkosi da bɛn na mene mʼadwennwene bedi aperepere na awerɛhow ahyɛ me koma mu daa? Mʼatamfo nni me so nkonim nkosi da bɛn?
 PSA 13:3 Twa wʼani hwɛ me na bua me, Awurade, me Nyankopɔn. Ma mʼani so nyɛ hann, na manna owu nna.
 PSA 13:4 Me tamfo bɛka se, “Madi ne so nkonim.” Na mʼahohiahiafo bedi ahurusi bere a mahwe ase.
 PSA 13:5 Nanso mede me ho to wo dɔ a ɛnsa da no so; me koma di ahurusi wɔ wo nkwagye mu.
-PSA 13:6 Mɛto dwom ama Awurade, efisɛ ɔne me adi no yiye.
-PSA 14:1 Wɔde ma dwonkyerɛfo no. Dawid dwom. Ɔkwasea ka wɔ ne koma mu se, “Onyankopɔn bi nni hɔ.” Wɔaporɔw, na wɔn nneyɛe yɛ fi na wɔn mu biara nni hɔ a ɔyɛ ade pa.
+PSA 13:6 Mɛto dwom ama Awurade, efisɛ ɔne me adi no yiye. Wɔde ma dwonkyerɛfo no.
+PSA 14:1 Dawid dwom. Ɔkwasea ka wɔ ne koma mu se, “Onyankopɔn bi nni hɔ.” Wɔaporɔw, na wɔn nneyɛe yɛ fi na wɔn mu biara nni hɔ a ɔyɛ ade pa.
 PSA 14:2 Awurade fi ɔsoro hwɛ adesamma wɔ fam sɛ obehu wɔn mu bi a wɔwɔ ntease, anaa ebinom a wɔhwehwɛ Onyankopɔn.
 PSA 14:3 Nanso nnipa nyinaa atwe wɔn ho afi Onyankopɔn ho; wɔn nyinaa ayɛ bɔne. Obiara nni hɔ a ɔyɛ papa. Ɔbaako mpo nni hɔ.
 PSA 14:4 Enti abɔnefo rensua nyansa ana? Wɔwe me nkurɔfo te sɛnea nnipa di aduan. Wonnsu mfrɛ Awurade?
@@ -14131,8 +14131,8 @@ PSA 17:11 Wɔadi me ntɛntɛ, afei wɔatwa me ho ahyia; wɔn ani abere sɛ wɔb�
 PSA 17:12 Wɔte sɛ gyata a hanam ho kɔm de no, te sɛ gyata kɛse bi a wabutuw wɔ ahintawee.
 PSA 17:13 Sɔre, Awurade! Wone wɔn mfa mmɔ ani na ka wɔn hyɛ; fa wʼafoa no gye me fi amumɔyɛfo no nsam.
 PSA 17:14 Awurade, fa wo nsa gye me fi nnipa a wɔte sɛɛ nsam; asase so nnipa a wɔn akatua wɔ nkwa yi mu no. Womma ɔkɔm nne wɔn a wʼani ku wɔn ho; wɔn mmabarima wɔ bebree, na wɔkora agyapade ma wɔn mma.
-PSA 17:15 Na me trenee mu, mehu wʼanim; sɛ minyan na mihu wo a me koma bɛtɔ me yam.
-PSA 18:1 Wɔde ma dwonkyerɛfo. Awurade akoa Dawid dwom. Ɔtoo saa dwom yi maa Awurade, bere a ogyee no fii nʼatamfo nyinaa ne Saulo nsam no. Medɔ wo, Awurade, mʼahoɔden.
+PSA 17:15 Na me trenee mu, mehu wʼanim; sɛ minyan na mihu wo a me koma bɛtɔ me yam. Wɔde ma dwonkyerɛfo.
+PSA 18:1 Awurade akoa Dawid dwom. Ɔtoo saa dwom yi maa Awurade, bere a ogyee no fii nʼatamfo nyinaa ne Saulo nsam no. Medɔ wo, Awurade, mʼahoɔden.
 PSA 18:2 Awurade ne me botantim; mʼaban ne me gyefo; me Nyankopɔn yɛ me botan. Ne mu na minya me hintabea. Ɔyɛ me nkatabo, me nkwagye abɛn ne mʼabandennen.
 PSA 18:3 Misu frɛ Awurade; ɔno na ayeyi sɛ no, efisɛ ogye me fi mʼatamfo nsam.
 PSA 18:4 Owu nkɔnsɔnkɔnsɔn kyekyeree me; na ɔsɛe asorɔkye bu faa me so.
@@ -14181,8 +14181,8 @@ PSA 18:46 Awurade te ase! Ayeyi nka me Botan! Wɔmma Onyankopɔn, me Gyefo no di
 PSA 18:47 Ɔno ne Onyankopɔn a ɔtɔ were ma me, ɔno na ɔka amanaman hyɛ mʼase,
 PSA 18:48 ɔno na ogye me fi mʼatamfo nsam. Wopagyaw me sii mʼatamfo so, wugyee me fii basabasayɛfo nsam.
 PSA 18:49 Ɛno nti, mɛkamfo wo wɔ amanaman mu, Ao Awurade. Mɛto ayeyi dwom ama wo din.
-PSA 18:50 Wode nkonimdi akɛse ama wo hene; woda ɔdɔ a ɛnsa da adi kyerɛ nea woasra no ngo, wode kyerɛ Dawid, ne nʼasefo afebɔɔ.
-PSA 19:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Ɔsoro ka Onyankopɔn anuonyam! Wim pae mu ka ne nsa ano adwuma,
+PSA 18:50 Wode nkonimdi akɛse ama wo hene; woda ɔdɔ a ɛnsa da adi kyerɛ nea woasra no ngo, wode kyerɛ Dawid, ne nʼasefo afebɔɔ. Wɔde ma dwonkyerɛfo.
+PSA 19:1 Dawid dwom. Ɔsoro ka Onyankopɔn anuonyam! Wim pae mu ka ne nsa ano adwuma,
 PSA 19:2 Da biara, wɔkasa; anadwo biara, wɔda nimdeɛ adi.
 PSA 19:3 Wonni ɔkasa, wɔnnka nsɛm; wɔnnte wɔn nne.
 PSA 19:4 Wɔn nne akodu asase so mmaa nyinaa, na wɔn nsɛm nso akodu asase ano. Onyankopɔn asi ntamadan ama owia wɔ ɔsoro hɔ.
@@ -14195,8 +14195,8 @@ PSA 19:10 Ɛsom bo sen sikakɔkɔɔ ɛsen sikakɔkɔɔ kann; ɛyɛ dɛ sen ɛwo,
 PSA 19:11 Wɔnam so bɔ wo somfo kɔkɔ se, sodi so akatua yɛ bebree.
 PSA 19:12 Hena na ohu nʼankasa mfomso? Fa me mfomso a ahintaw kyɛ me.
 PSA 19:13 Bɔ wʼakoa ho ban fi ɔboayɛ bɔne ho, na anhyɛ me so. Ɛno na ɛbɛma madi bem, a merenni fɔ wɔ bɔne akɛse ho.
-PSA 19:14 Ma mʼanom nsɛm ne me koma mu adwene nyɛ nea ɛsɔ wʼani, Awurade me Botan ne me Gyefo.
-PSA 20:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade ntie wo wɔ wʼahohia mu; Yakob Nyankopɔn din mmɔ wo ho ban.
+PSA 19:14 Ma mʼanom nsɛm ne me koma mu adwene nyɛ nea ɛsɔ wʼani, Awurade me Botan ne me Gyefo. Wɔde ma dwonkyerɛfo.
+PSA 20:1 Dawid dwom. Awurade ntie wo wɔ wʼahohia mu; Yakob Nyankopɔn din mmɔ wo ho ban.
 PSA 20:2 Ɔmfa mmoa mfi kronkronbea hɔ mmrɛ wo, na omfi Sion mmɛhyɛ wo den.
 PSA 20:3 Ɔnkae wʼafɔrebɔ nyinaa, na ɔmma wo hyew afɔre nsɔ nʼani.
 PSA 20:4 Ɔmma wo nea wo koma pɛ, na wo nhyehyɛe nyinaa nyɛ yiye.
@@ -14204,8 +14204,8 @@ PSA 20:5 Yɛbɛbɔ ose bere a woadi nkonim, na yɛama yɛn frankaa so wɔ yɛn N
 PSA 20:6 Afei mahu sɛ Awurade ma nea wasra no no nkonimdi, ofi ne kronkronbea wɔ ɔsoro gye no so, ɔde ne nkonimdi tumi a ɛwɔ ne nsa nifa mu no.
 PSA 20:7 Ebinom de wɔn ho to wɔn nteaseɛnam so na afoforo nso, wɔn apɔnkɔ so, nanso yɛn de, yɛde yɛn ho to Awurade yɛn Nyankopɔn din so.
 PSA 20:8 Wɔbrɛ wɔn ase ma wɔhwehwe ase, na yɛn de, yɛsɔre gyina kirebenn.
-PSA 20:9 Awurade, ma ɔhene nkonimdi! Yɛfrɛ a, gye yɛn so!
-PSA 21:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade, ɔhene di anigye wɔ wʼahoɔden mu. Nʼani gye mmoroso wɔ nkonimdi a woma no nti!
+PSA 20:9 Awurade, ma ɔhene nkonimdi! Yɛfrɛ a, gye yɛn so! Wɔde ma dwonkyerɛfo.
+PSA 21:1 Dawid dwom. Awurade, ɔhene di anigye wɔ wʼahoɔden mu. Nʼani gye mmoroso wɔ nkonimdi a woma no nti!
 PSA 21:2 Woama no nea ne koma pɛ; woamfa nʼabisade ankame no.
 PSA 21:3 Wode nhyira a edi mu hyiaa no na wode sikakɔkɔɔ ankasa ahenkyɛw hyɛɛ no.
 PSA 21:4 Obisaa wo hɔ nkwa, na wode maa no, nna tenten a enni awiei.
@@ -14217,8 +14217,8 @@ PSA 21:9 Bere a wubeyi wo ho adi no wobɛyɛ wɔn sɛ fononoo a mu adɔ. Awurade
 PSA 21:10 Wobɛtɔre wɔn ase wɔ asase so, na wɔn asefo afi adesamma mu.
 PSA 21:11 Ɛwɔ mu sɛ wɔbɔ pɔw tia wo na wɔyɛ nhyehyɛe bɔne, nanso wɔrenni nkonim;
 PSA 21:12 efisɛ wobɛma wɔasan wɔn akyi bere a woatwe bɛmma akyerɛ wɔn so no.
-PSA 21:13 Yɛma wo so, Awurade, wɔ wʼahoɔden mu; yɛbɛto nnwom na yɛakamfo wo kɛseyɛ.
-PSA 22:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Adekyee forote” dwom. Dawid dwom. Me Nyankopɔn, me Nyankopɔn, adɛn nti na woagyaw me? Adɛn nti na me nkwagye ne wo ntam aware, adɛn na mʼapinisi nsɛm ne wo ntam aware?
+PSA 21:13 Yɛma wo so, Awurade, wɔ wʼahoɔden mu; yɛbɛto nnwom na yɛakamfo wo kɛseyɛ. Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Adekyee forote” dwom.
+PSA 22:1 Dawid dwom. Me Nyankopɔn, me Nyankopɔn, adɛn nti na woagyaw me? Adɛn nti na me nkwagye ne wo ntam aware, adɛn na mʼapinisi nsɛm ne wo ntam aware?
 PSA 22:2 Me Nyankopɔn, misu frɛ wo awia, nanso wunnye me so, mefrɛ wo anadwo, nanso minnya ɔhome.
 PSA 22:3 Nanso wɔasi wo hene sɛ Ɔkronkronni; wo na Israel kamfo wo.
 PSA 22:4 Wo mu na yɛn agyanom de wɔn werɛ hyɛe; wogyee wo dii, na wugyee wɔn.
@@ -14332,8 +14332,8 @@ PSA 29:7 Awurade nne pa ma anyinam gya dɛw.
 PSA 29:8 Awurade nne wosow sare so; Awurade wosow Kades sare.
 PSA 29:9 Awurade nne kyinkyim adum na ɛma kwae yɛ kwaterekwa. Nʼasɔredan mufo nyinaa teɛ mu ka se, “Anuonyam nka Onyankopɔn!”
 PSA 29:10 Awurade di hene wɔ nsuyiri so; wɔasi Awurade hene afebɔɔ.
-PSA 29:11 Awurade ma ne nkurɔfo ahoɔden, na ɔde asomdwoe hyira wɔn.
-PSA 30:1 Dwom a wɔto de buee Asɔredan no ano. Dawid dwom. Mɛma wo so, Awurade, efisɛ, woayi me afi bun mu na woamma mʼatamfo anserew me.
+PSA 29:11 Awurade ma ne nkurɔfo ahoɔden, na ɔde asomdwoe hyira wɔn. Dwom a wɔto de buee Asɔredan no ano.
+PSA 30:1 Dawid dwom. Mɛma wo so, Awurade, efisɛ, woayi me afi bun mu na woamma mʼatamfo anserew me.
 PSA 30:2 Awurade me Nyankopɔn, misu frɛɛ wo sɛ boa me na wosaa me yare.
 PSA 30:3 Awurade, wuyii me fii ɔda mu; wode me ho kyɛɛ me na woamma mankɔ amoa mu.
 PSA 30:4 Monto ayeyi nnwom mma Awurade; mo a moyɛ nʼahotewfo! Monkamfo ne din kronkron no.
@@ -14344,8 +14344,8 @@ PSA 30:8 Wo, Awurade na mefrɛɛ wo; wo hɔ na misu mesrɛɛ mmɔborɔhunu se:
 PSA 30:9 “Mfaso bɛn na ɛwɔ me sɛe so, sɛ mɛkɔ amoa mu? Mfutuma beyi wo ayɛ ana? Ɛbɛpae mu aka wo nokwaredi ana?
 PSA 30:10 Tie me, Awurade, na hu me mmɔbɔ! Awurade, yɛ me boafo.”
 PSA 30:11 Wodan mʼagyaadwotwa yɛɛ no asaw; wuyii mʼatweaatam fii me ho na wode anigye furaa me,
-PSA 30:12 sɛ me koma bɛto nnwom ama wo na ɛrenyɛ komm. Awurade me Nyankopɔn, meyi wo ayɛ daa.
-PSA 31:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Wo mu, Awurade na manya guankɔbea; mma mʼanim ngu ase; fi wo trenee mu gye me.
+PSA 30:12 sɛ me koma bɛto nnwom ama wo na ɛrenyɛ komm. Awurade me Nyankopɔn, meyi wo ayɛ daa. Wɔde ma dwonkyerɛfo.
+PSA 31:1 Dawid dwom. Wo mu, Awurade na manya guankɔbea; mma mʼanim ngu ase; fi wo trenee mu gye me.
 PSA 31:2 Yɛ aso ma me, bra ntɛm begye me; yɛ me bammɔ botan, aban a mʼatamfo nsa renka me.
 PSA 31:3 Sɛ woyɛ me botan ne mʼaban nti, wo din nti di mʼanim na kyerɛ me kwan.
 PSA 31:4 Gye me fi afiri a wɔasum me no mu, efisɛ wo ne me guankɔbea.
@@ -14451,8 +14451,8 @@ PSA 35:24 Di mʼasɛm ma me wɔ wo trenee no mu, Awurade me Nyankopɔn; mma wɔn
 PSA 35:25 Mma wɔnnwene nka se, “Yiw, nea yɛpɛ ni!” anaa wɔnnka se, “Yɛanya no.”
 PSA 35:26 Ma wɔn a wɔhwɛ me haw serew me wɔ mʼahohiahia mu no nyinaa anim ngu ase na wɔnyɛ basaa; ma wɔn a wodi me so akokurokosɛm no nhyɛ aniwu ne animguase atade.
 PSA 35:27 Ma wɔn a wodi ahurusi wɔ me bembu ho no mfa anigye ne ahosɛpɛw nteɛ mu bere nyinaa mu; ma wɔnka se, “Momma Awurade so, ɔno na nʼani gye ne somfo yiyedi ho.”
-PSA 35:28 Me tɛkrɛma bɛka wo trenee, ne wʼayeyi, da mu nyinaa.
-PSA 36:1 Wɔde ma dwonkyerɛfo. Awurade somfo Dawid dwom. Nkɔmhyɛ bi wɔ me koma mu a efi Onyankopɔn hɔ a ɛfa omumɔyɛfo mmarato ho. Onyankopɔn suro nni wɔn ani so.
+PSA 35:28 Me tɛkrɛma bɛka wo trenee, ne wʼayeyi, da mu nyinaa. Wɔde ma dwonkyerɛfo.
+PSA 36:1 Awurade somfo Dawid dwom. Nkɔmhyɛ bi wɔ me koma mu a efi Onyankopɔn hɔ a ɛfa omumɔyɛfo mmarato ho. Onyankopɔn suro nni wɔn ani so.
 PSA 36:2 Na ɔno ankasa ani so no ɔdaadaa no ho dodo, nti ɛmma onhu ne bɔne nnyae yɛ.
 PSA 36:3 Nʼanom nsɛm yɛ atirimɔden ne nnaadaa; onnim nyansa bio na wayɛ papa.
 PSA 36:4 Ɔda ne mpa so mpo a ɔbɔ pɔw bɔne; na ogyaa ne ho ma bɔne kwan na ɔmpo nea enye.
@@ -14525,8 +14525,8 @@ PSA 38:18 Meka me mfomso kyerɛ; me bɔne hyɛ me so.
 PSA 38:19 Bebree na wɔyɛ mʼatamfo; wɔn a wɔtan me kwa no dɔɔso.
 PSA 38:20 Wɔn a wɔde bɔne tua me papa so ka no, bɔ me ahohora bere a mereyɛ papa.
 PSA 38:21 Awurade nnyaw me. Me Nyankopɔn, nkɔ akyiri!
-PSA 38:22 Bra ntɛm bɛboa me, Awurade, mʼAgyenkwa.
-PSA 39:1 Wɔde ma dwonkyerɛfo no. Yedutun. Dawid dwom. Mekae se, “Mɛhwɛ mʼakwan yiye na mamfa me tɛkrɛma anyɛ bɔne; mɛto mʼano nnareka bere a amumɔyɛfo bɛn me yi.
+PSA 38:22 Bra ntɛm bɛboa me, Awurade, mʼAgyenkwa. Wɔde ma dwonkyerɛfo no. Yedutun.
+PSA 39:1 Dawid dwom. Mekae se, “Mɛhwɛ mʼakwan yiye na mamfa me tɛkrɛma anyɛ bɔne; mɛto mʼano nnareka bere a amumɔyɛfo bɛn me yi.
 PSA 39:2 Enti meyɛɛ komm a manka asɛm papa biara mpo nanso mʼapinisi mu yɛɛ den.
 PSA 39:3 Me koma ho guan no wɔ me mu. Midwinnwen no, ogya dɛwee; afei mede me tɛkrɛma kasae se:
 PSA 39:4 “Awurade, ma minhu me nkwa awiei ne me nna dodow; ma minhu sɛnea me nkwa si twa mu ntɛm so.
@@ -14538,8 +14538,8 @@ PSA 39:9 Meyɛɛ komm, na mammue mʼano, efisɛ wo na woayɛ eyi.
 PSA 39:10 Yi wʼasotwe fi me so; wo nsa ano amanehunu amene me.
 PSA 39:11 Woka nnipa anim, na wotwe wɔn aso wɔ wɔn bɔne ho; wosɛe wɔn ahonya te sɛ nwewee; onipa biara yɛ ɔhome kɛkɛ.
 PSA 39:12 “Awurade, tie me mpaebɔ, tie me sufrɛ; nsiw wʼaso wɔ me su ho. Me ne wo te hɔ sɛ ɔnanani, sɛnea na mʼagyanom nyinaa te no.
-PSA 39:13 Yi wʼani fi me so na manya nkwa bio, ansa na mafi ha a mente ase bio.”
-PSA 40:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Mede boasetɔ twɛn Awurade; na ɔhwɛɛ me, na ɔtee me sufrɛ.
+PSA 39:13 Yi wʼani fi me so na manya nkwa bio, ansa na mafi ha a mente ase bio.” Wɔde ma dwonkyerɛfo.
+PSA 40:1 Dawid dwom. Mede boasetɔ twɛn Awurade; na ɔhwɛɛ me, na ɔtee me sufrɛ.
 PSA 40:2 Oyii me fii amoa a mu yɛ toro mu, fii dɔte ne dontori mu; ɔde mʼanan sii ɔbotan so na ɔmaa me baabi pa gyinae.
 PSA 40:3 Ɔde dwom foforo hyɛɛ mʼanom, ayeyi dwom a yɛde ma yɛn Nyankopɔn. Bebree behu na wɔasuro, na wɔde wɔn werɛ ahyɛ Awurade mu.
 PSA 40:4 Nhyira ne onipa a ɔde Awurade yɛ nʼahotoso, nea ɔmfa nʼani nto ahomaso so, ne wɔn a wɔman di anyame huhuw akyi.
@@ -14555,8 +14555,8 @@ PSA 40:13 Awurade, ma ɛnsɔ wʼani sɛ wubegye me; Awurade, bra ntɛm bɛboa me
 PSA 40:14 Wɔn a wɔpɛ sɛ wokum me no nyinaa, ma wɔn anim ngu ase na wɔnyɛ basaa; ma wɔn a wɔpɛ sɛ mesɛe no mfa aniwu nsan wɔn akyi.
 PSA 40:15 Ma wɔn a wɔka, “Ɔtwea! Ɔtwea!” kyerɛ me no nsan wɔn akyi, esiane wɔn aniwu nti.
 PSA 40:16 Nanso ma wɔn a wɔhwehwɛ wo nyinaa nsɛpɛw wɔn ho na wɔn ani nnye wɔ wo mu; ma wɔn a wɔdɔ wo nkwagye no nka da biara se, “Awurade yɛ ɔkɛse!”
-PSA 40:17 Nanso meyɛ ohiani ne mmɔborɔni; ma Awurade nnwen me ho. Wo ne me boafo ne me gyefo; wo ne me Nyankopɔn, bra ntɛm.
-PSA 41:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Nhyira ne onipa a mmɔborɔni asɛm ho hia no; Awurade gye no wɔ amanehunu bere mu.
+PSA 40:17 Nanso meyɛ ohiani ne mmɔborɔni; ma Awurade nnwen me ho. Wo ne me boafo ne me gyefo; wo ne me Nyankopɔn, bra ntɛm. Wɔde ma dwonkyerɛfo.
+PSA 41:1 Dawid dwom. Nhyira ne onipa a mmɔborɔni asɛm ho hia no; Awurade gye no wɔ amanehunu bere mu.
 PSA 41:2 Awurade bɛbɔ ne ho ban na wakora ne kra; obehyira no wɔ asase no so; ɔrennyaa no mma nʼatamfo apɛde.
 PSA 41:3 Awurade bɛhwɛ no wɔ ne yare mpa so na wagye no asi hɔ.
 PSA 41:4 Mekae se, “Ao Awurade hu me mmɔbɔ; sa me yare, efisɛ mayɛ bɔne atia wo.”
@@ -14568,8 +14568,8 @@ PSA 41:9 Mpo me yɔnko pa ara a mede me ho too no so, nea me ne no too nsa didii
 PSA 41:10 Nanso wo, Awurade, hu me mmɔbɔ; ma me so, na mintua wɔn so ka.
 PSA 41:11 Minim sɛ wʼani sɔ me, na me tamfo renni me so nkonim.
 PSA 41:12 Me nokwaredi mu, wukura me mu na wode me gyina wʼanim afebɔɔ.
-PSA 41:13 Nhyira nka Awurade, Israel Nyankopɔn, nnɛ ne daa nyinaa.
-PSA 42:1 Wɔde ma dwonkyerɛfo. Koramma “maskil” dwom. Sɛnea ɔforote pere hwehwɛ nsuwansuwa no, saa ara na me kra pere hwehwɛ wo, me Nyankopɔn.
+PSA 41:13 Nhyira nka Awurade, Israel Nyankopɔn, nnɛ ne daa nyinaa. Amen! ne Amen! Wɔde ma dwonkyerɛfo.
+PSA 42:1 Koramma “maskil” dwom. Sɛnea ɔforote pere hwehwɛ nsuwansuwa no, saa ara na me kra pere hwehwɛ wo, me Nyankopɔn.
 PSA 42:2 Onyankopɔn ho sukɔm de me kra, Onyankopɔn teasefo no. Da bɛn na metumi akohyia Onyankopɔn?
 PSA 42:3 Me nisu ayɛ mʼaduan awia ne anadwo, na da mu nyinaa nnipa bisa me se: “Wo Nyankopɔn wɔ he?”
 PSA 42:4 Saa nneɛma yi na mekae bere a mereka me koma mu nsɛm; sɛnea na midi asafokuw anim, na yɛde anigye nteɛteɛmu ne aseda nnwom nantew yuu bɔ mu kɔ Onyankopɔn fi wɔ afahyɛ da no.
@@ -14584,8 +14584,8 @@ PSA 43:1 Me Nyankopɔn, bu me bem, na ka mʼasɛm a etia ɔman a wonsuro wo no m
 PSA 43:2 Woyɛ Onyankopɔn, mʼabandennen. Adɛn nti na woapo me? Adɛn nti na ɛsɛ sɛ menantenantew twa adwo mʼatamfo nhyɛso nti?
 PSA 43:3 Soma wo hann ne wo nokware ma wɔnkyerɛ me kwan; ma wɔmfa me mmra wo Bepɔw Kronkron no so, faako a wote no.
 PSA 43:4 Afei, mɛkɔ Onyankopɔn afɔremuka anim, mʼanigye ne mʼahosɛpɛw Nyankopɔn nkyɛn. Mede sanku beyi wo ayɛ, Onyankopɔn, me Nyankopɔn.
-PSA 43:5 Me kra, adɛn, na woabotow? Adɛn na woayɛ basaa wɔ me mu saa? Fa wo ho to Onyankopɔn so, na mɛkɔ so ayi no ayɛ, mʼAgyenkwa ne me Nyankopɔn.
-PSA 44:1 Dwom a wɔde ma dwonkyerɛfo. Koramma “maskil” dwom. Ao, Onyankopɔn, yɛde yɛn aso ate; yɛn agyanom aka akyerɛ yɛn; nea woyɛɛ wɔ wɔn bere so, wɔ tete mmere no mu.
+PSA 43:5 Me kra, adɛn, na woabotow? Adɛn na woayɛ basaa wɔ me mu saa? Fa wo ho to Onyankopɔn so, na mɛkɔ so ayi no ayɛ, mʼAgyenkwa ne me Nyankopɔn. Dwom a wɔde ma dwonkyerɛfo.
+PSA 44:1 Koramma “maskil” dwom. Ao, Onyankopɔn, yɛde yɛn aso ate; yɛn agyanom aka akyerɛ yɛn; nea woyɛɛ wɔ wɔn bere so, wɔ tete mmere no mu.
 PSA 44:2 Wode wo nsa pam amanaman no na wobɔɔ yɛn agyanom atenase; wodwerɛw nnipa no na womaa yɛn agyanom dii yiye.
 PSA 44:3 Ɛnyɛ wɔn afoa na wɔde nyaa asase no, na ɛnyɛ wɔn nsa na ɛmaa wɔn nkonimdi; ɛyɛ wo nsa nifa, wo basa, ne wʼanim hann, efisɛ na wodɔ wɔn.
 PSA 44:4 Woyɛ me Hene ne me Nyankopɔn, nea ɔhyɛ nkonimdi ma Yakob.
@@ -14610,8 +14610,8 @@ PSA 44:22 Nanso wo nti wokum yɛn daa nyinaa; wobu yɛn sɛ nguan a wɔrekokum w
 PSA 44:23 Nyan, Awurade! Adɛn nti na woada? Keka wo ho! Nnyaw yɛn hɔ afebɔɔ.
 PSA 44:24 Adɛn nti na wode wʼanim ahintaw na wo werɛ fi yɛn ahohia ne nhyɛso?
 PSA 44:25 Wɔabrɛ yɛn ase kɔ dɔte mu na yɛn nipadua aka afam dɔte.
-PSA 44:26 Sɔre bɛboa yɛn; wʼadɔe a ɛnsa da no nti, gye yɛn.
-PSA 45:1 Wɔde ma dwonkyerɛfo. Wɔde “lilie” sanku dwontobea na ɛtoe. Koramma dwom. Ayeforohyia dwom. Botae bi a edi mu akanyan me koma bere a merebɔ ɔhene mmran no; me tɛkrɛma yɛ ɔkyerɛwfo kunini bi kyerɛwdua.
+PSA 44:26 Sɔre bɛboa yɛn; wʼadɔe a ɛnsa da no nti, gye yɛn. Wɔde ma dwonkyerɛfo. Wɔde “lilie” sanku dwontobea na ɛtoe.
+PSA 45:1 Koramma dwom. Ayeforohyia dwom. Botae bi a edi mu akanyan me koma bere a merebɔ ɔhene mmran no; me tɛkrɛma yɛ ɔkyerɛwfo kunini bi kyerɛwdua.
 PSA 45:2 Wudi mu koraa wɔ mmarima mu na wɔde adom bi asra wʼano, esiane sɛ Onyankopɔn ahyira wo afebɔɔ no nti.
 PSA 45:3 Fa wʼafoa bɔ wo nkyɛn mu, okokuroko; fa anuonyam ne kɛseyɛ fura.
 PSA 45:4 Fa wo kɛseyɛ mu kɔ wʼanim nkonimdi so wɔ nokware, ahobrɛase ne trenee mu; ma wo nsa nifa nna wo nnwuma a ɛyɛ nwonwa no adi.
@@ -14627,8 +14627,8 @@ PSA 45:13 Ɔhene babea a ɔwɔ ne pia mu no yɛ onuonyamfo wɔde sikakɔkɔɔ ab
 PSA 45:14 Ɔhyɛ ntade a wɔadi mu adwinni na wɔde no kɔma ɔhene; ne mfɛfo mmabun di nʼakyi na wɔde wɔn nyinaa brɛ wo.
 PSA 45:15 Wɔde ahosɛpɛw ne anigye kɔ mu; wɔhyɛn ɔhempɔn no ahemfi.
 PSA 45:16 Wo mmabarima besi wʼagyanom anan mu wobɛyɛ wɔn mmapɔmma wɔ asase no so nyinaa.
-PSA 45:17 Mɛma wɔakae wo wɔ awo ntoatoaso nyinaa mu; ɛno nti amanaman bɛkamfo wo daa nyinaa.
-PSA 46:1 Wɔde ma dwonkyerɛfo. Koramma dwom. Wɔto no “alamot” sanku nne so. Onyankopɔn ne yɛn guankɔbea ne yɛn ahoɔden, amanehunu mu boafo a ɔwɔ hɔ bere biara.
+PSA 45:17 Mɛma wɔakae wo wɔ awo ntoatoaso nyinaa mu; ɛno nti amanaman bɛkamfo wo daa nyinaa. Wɔde ma dwonkyerɛfo.
+PSA 46:1 Koramma dwom. Wɔto no “alamot” sanku nne so. Onyankopɔn ne yɛn guankɔbea ne yɛn ahoɔden, amanehunu mu boafo a ɔwɔ hɔ bere biara.
 PSA 46:2 Enti sɛ asase ani dan butuw, na mmepɔw tutu kogu po ase a, yɛrensuro,
 PSA 46:3 sɛ po bɔ asorɔkye na ehuru na ɛma nkoko wosow mpo a, yɛrensuro.
 PSA 46:4 Asuten bi wɔ hɔ a ne nsuwansuwa de anigye ba Onyankopɔn kuropɔn mu, beae kronkron a Ɔsorosoroni no te.
@@ -14638,8 +14638,8 @@ PSA 46:7 Asafo Awurade ka yɛn ho. Yakob Nyankopɔn yɛ yɛn aban.
 PSA 46:8 Bra bɛhwɛ Awurade nnwuma, ɔsɛe a ɔde aba asase no so.
 PSA 46:9 Ɔma akodi gyae kosi asase ano. Obubu agyan mu na ɔsɛe peaw; ɔde ogya hyew nkatabo.
 PSA 46:10 Monyɛ komm na munhu sɛ me ne Onyankopɔn; wɔbɛma me so wɔ amanaman no mu, wɔbɛma me so wɔ asase so.
-PSA 46:11 Asafo Awurade ka yɛn ho; Yakob Nyankopɔn yɛ yɛn aban.
-PSA 47:1 Wɔde ma dwonkyerɛfo. Koramma dwom. Amanaman nyinaa, mommɔ mo nsam; momfa anigye nteɛ mu mfrɛ Onyankopɔn.
+PSA 46:11 Asafo Awurade ka yɛn ho; Yakob Nyankopɔn yɛ yɛn aban. Wɔde ma dwonkyerɛfo.
+PSA 47:1 Koramma dwom. Amanaman nyinaa, mommɔ mo nsam; momfa anigye nteɛ mu mfrɛ Onyankopɔn.
 PSA 47:2 Awurade Ɔsorosoroni no ho yɛ nwonwa, Ɔyɛ Ɔhene kɛse wɔ asase nyinaa so!
 PSA 47:3 Ɔde amanaman hyɛɛ yɛn ase, na ɔde nnipa hyɛɛ yɛn anan ase.
 PSA 47:4 Oyii yɛn agyapade maa yɛn, nea ɛyɛ Yakob a ɔdɔ no no ahohoahoade.
@@ -14661,8 +14661,8 @@ PSA 48:10 Ao, Onyankopɔn, wʼayeyi du asase ano te sɛ wo din te; trenee ayɛ w
 PSA 48:11 Sion bepɔw di ahurusi, Yuda nkuraase no ani gye esiane wʼatemmu no nti.
 PSA 48:12 Nantew Sion na twa ho hyia, kan nʼabantenten dodow,
 PSA 48:13 dwene nʼafasu ho yiye, hwɛ nʼabankɛse no, na woaka ho asɛm akyerɛ nkyirimma.
-PSA 48:14 Saa Onyankopɔn yi yɛ yɛn Nyankopɔn daa daa; ɔbɛyɛ yɛn kwankyerɛfo akosi awiei mpo.
-PSA 49:1 Wɔde ma dwonkyerɛfo. Koramma dwom. Muntie, mo saa nnipa yi nyinaa; monyɛ aso, mo a mowɔ wiase yi mu nyinaa,
+PSA 48:14 Saa Onyankopɔn yi yɛ yɛn Nyankopɔn daa daa; ɔbɛyɛ yɛn kwankyerɛfo akosi awiei mpo. Wɔde ma dwonkyerɛfo.
+PSA 49:1 Koramma dwom. Muntie, mo saa nnipa yi nyinaa; monyɛ aso, mo a mowɔ wiase yi mu nyinaa,
 PSA 49:2 nea ɔyɛ abomfiaa ne nea odi mu, adefo ne ahiafo nyinaa.
 PSA 49:3 Mʼano bɛka anyansasɛm; nsɛm a efi me koma mu bɛma nhumu.
 PSA 49:4 Mɛbrɛ mʼaso ase atie mmebusɛm; na sanku na mede bɛkyerɛ mʼabisae ase.
@@ -14704,8 +14704,8 @@ PSA 50:19 Mode mo ano yɛ bɔne, na mode mo tɛkrɛma boaboa nnaadaa ano.
 PSA 50:20 Mokasa tia mo nuabarima bere biara na mosopa mo ankasa na ba.
 PSA 50:21 Moayɛ eyinom nyinaa; nanso manka hwee, enti mususuw sɛ mete sɛ mo. Nanso mɛka mo anim, na mede mo sobo asi mo anim.
 PSA 50:22 “Munnwen eyi ho, mo a mo werɛ fi Onyankopɔn, anyɛ saa a, mɛtetew mo mu nketenkete a obiara remmegye mo;
-PSA 50:23 Nea ɔbɔ aseda afɔre no hyɛ me anuonyam, na osiesie kwan sɛnea mɛda Onyankopɔn nkwagye adi akyerɛ no.”
-PSA 51:1 Wɔde ma dwonkyerɛfo. Dawid dwom a ɔtoo no bere a ɔde ne ho kaa Batseba na odiyifo Natan kɔɔ ne nkyɛn no. Ao, Onyankopɔn hu me mmɔbɔ, sɛnea wʼadɔe a ɛnsa da no te; wʼahummɔbɔ kɛse no nti, pepa me mmarato.
+PSA 50:23 Nea ɔbɔ aseda afɔre no hyɛ me anuonyam, na osiesie kwan sɛnea mɛda Onyankopɔn nkwagye adi akyerɛ no.” Wɔde ma dwonkyerɛfo.
+PSA 51:1 Dawid dwom a ɔtoo no bere a ɔde ne ho kaa Batseba na odiyifo Natan kɔɔ ne nkyɛn no. Ao, Onyankopɔn hu me mmɔbɔ, sɛnea wʼadɔe a ɛnsa da no te; wʼahummɔbɔ kɛse no nti, pepa me mmarato.
 PSA 51:2 Hohoro mʼamumɔyɛ nyinaa na tew me ho fi me bɔne mu!
 PSA 51:3 Na mahu me mmarato, na mekae me bɔne daa.
 PSA 51:4 Mayɛ mfomso atia wo; atia wo nko ara na mayɛ nea ɛyɛ bɔne wɔ wʼani so, enti wudi bem wɔ wʼatemmu mu na woteɛ wɔ wʼatemmu mu.
@@ -14723,8 +14723,8 @@ PSA 51:15 Awurade, bue mʼano fafa, na mede mʼano bɛpae mu aka wʼayeyi.
 PSA 51:16 Wompɛ afɔrebɔ, anka mɛbɔ; wʼani nnye ɔhyew afɔre ho.
 PSA 51:17 Onyankopɔn afɔre yɛ honhom a abotow, Onyankopɔn, worempo ahonu ne ahobrɛase koma.
 PSA 51:18 Ma ɛnyɛ wo fɛ sɛ wobɛma Sion anya nkɔso wɔ wʼanigye mu; na woasi Yerusalem afasu.
-PSA 51:19 Afei wʼani begye ɔtreneeni afɔrebɔ ho, ɔhyew afɔre a edi mu; na wɔde anantwinini bɛbɔ afɔre wʼafɔremuka so.
-PSA 52:1 Wɔde ma dwonkyerɛfo. Dawid “maskil” dwom. Ɔtoo bere a Edomni Doeg bɛka kyerɛɛ Saulo se, “Dawid akɔ Ahimelek fi” no. Ɔkɛse, adɛn nti na wohoahoa wo ho wɔ wo bɔne ho? Adɛn nti na wohoahoa wo ho da mu nyinaa, wo a woyɛ animguasede wɔ Onyankopɔn ani so?
+PSA 51:19 Afei wʼani begye ɔtreneeni afɔrebɔ ho, ɔhyew afɔre a edi mu; na wɔde anantwinini bɛbɔ afɔre wʼafɔremuka so. Wɔde ma dwonkyerɛfo.
+PSA 52:1 Dawid “maskil” dwom. Ɔtoo bere a Edomni Doeg bɛka kyerɛɛ Saulo se, “Dawid akɔ Ahimelek fi” no. Ɔkɛse, adɛn nti na wohoahoa wo ho wɔ wo bɔne ho? Adɛn nti na wohoahoa wo ho da mu nyinaa, wo a woyɛ animguasede wɔ Onyankopɔn ani so?
 PSA 52:2 Wo tɛkrɛma bɔ ɔsɛe ho pɔw; ɛte sɛ oyiwan a ano yɛ nam yiye. Wo a wutwa nkontompo nko ara.
 PSA 52:3 Wʼani gye bɔne ho sen papa, wopɛ atoro sen sɛ wobɛka nokware.
 PSA 52:4 Wodɔ asɛm biara a ɛde ɔhaw ba, wo tɛkrɛma daadaafo!
@@ -14732,21 +14732,21 @@ PSA 52:5 Ampa ara Onyankopɔn de ɔsɛe a enni awiei bɛbrɛ wo; ɔbɛtwe wo afi
 PSA 52:6 Atreneefo behu eyi na wɔasuro; wɔbɛserew no na wɔaka se,
 PSA 52:7 “Hwɛ, onipa no ni, nea wamfa Onyankopɔn anyɛ nʼabandennen na mmom ɔde ne ho too nʼahonya dodow so, na onyaa ahoɔden de sɛee afoforo no!”
 PSA 52:8 Nanso mete sɛ ngodua a ɛrenyin wɔ Onyankopɔn fi: mede me ho to Onyankopɔn dɔ a ɛnsa da no so daa nyinaa.
-PSA 52:9 Meyi wo ayɛ daa wɔ nea woayɛ nti; wo din so na mʼani bɛda, efisɛ eye. Meyi wo ayɛ wɔ wʼahotefo anim.
-PSA 53:1 Wɔde ma dwonkyerɛfo. Wɔde “mahalat” sanku nne na ɛto. Dawid dwom. Ɔkwasea ka wɔ ne koma mu se, “Onyankopɔn bi nni hɔ.” Porɔwee adi wɔn, na wɔn akwan yɛ animguase. Obiara nni hɔ a ɔyɛ ade pa.
+PSA 52:9 Meyi wo ayɛ daa wɔ nea woayɛ nti; wo din so na mʼani bɛda, efisɛ eye. Meyi wo ayɛ wɔ wʼahotefo anim. Wɔde ma dwonkyerɛfo. Wɔde “mahalat” sanku nne na ɛto.
+PSA 53:1 Dawid dwom. Ɔkwasea ka wɔ ne koma mu se, “Onyankopɔn bi nni hɔ.” Porɔwee adi wɔn, na wɔn akwan yɛ animguase. Obiara nni hɔ a ɔyɛ ade pa.
 PSA 53:2 Onyankopɔn fi ɔsoro hwɛ adesamma wɔ fam sɛ obehu wɔn mu bi a wɔwɔ ntease, anaa ebinom a wɔhwehwɛ Onyankopɔn.
 PSA 53:3 Nanso nnipa nyinaa atwe wɔn ho afi Onyankopɔn ho; wɔn nyinaa ayɛ bɔne. Obiara nni hɔ a ɔyɛ papa. Ɔbaako mpo nni hɔ.
 PSA 53:4 Enti abɔnefo rensua nyansa ana? Wɔwe me nkurɔfo sɛnea nnipa di aduan. Wonnsu mfrɛ Onyankopɔn.
 PSA 53:5 Wɔn na wɔwɔ hɔ a wɔabɔ huboa wɔ faako a ehu nni. Onyankopɔn hwetee wɔn a wɔtow hyɛɛ wo so no nnompe mu; wuguu wɔn anim ase, efisɛ Onyankopɔn buu wɔn animtiaa.
-PSA 53:6 Ao, Israel nkwagye mfi Sion mmra! Awurade bɛsan de ne nkurɔfo agyapade ama wɔn. Na Yakob adi ahurusi, na Israel ani agye!
-PSA 54:1 Wɔde ma dwonkyerɛfo. Wɔbɔ no sanku so. Dawid “maskil” dwom. Ɔtoo no bere a Sififo kɔka kyerɛɛ Saulo se, “Dawid abehintaw wɔ yɛn mu.” Ao, Onyankopɔn, gye me wɔ wo din mu; fa wo tumi bu me bem.
+PSA 53:6 Ao, Israel nkwagye mfi Sion mmra! Awurade bɛsan de ne nkurɔfo agyapade ama wɔn. Na Yakob adi ahurusi, na Israel ani agye! Wɔde ma dwonkyerɛfo. Wɔbɔ no sanku so.
+PSA 54:1 Dawid “maskil” dwom. Ɔtoo no bere a Sififo kɔka kyerɛɛ Saulo se, “Dawid abehintaw wɔ yɛn mu.” Ao, Onyankopɔn, gye me wɔ wo din mu; fa wo tumi bu me bem.
 PSA 54:2 Ao, Onyankopɔn, tie me mpaebɔ; tie mʼanom nsɛm.
 PSA 54:3 Ahɔho retow ahyɛ me so. Atirimɔdenfo rehwehwɛ me akum me; nnipa a wɔmmfa Onyankopɔn nyɛ hwee.
 PSA 54:4 Ampa ara, Onyankopɔn ne me boafo; Awurade ne me hwɛfo.
 PSA 54:5 Ma mmusu nkyim mmra wɔn a wodi me ho nseku no so; wo nokwaredi mu, sɛe wɔn.
 PSA 54:6 Mefi me pɛ mu abɔ afɔre ama wo; Awurade, meyi wo din ayɛ, efisɛ eye.
-PSA 54:7 Woagye me afi me haw nyinaa mu, na mʼani ahu nkonimdi wɔ mʼatamfo so.
-PSA 55:1 Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto. Dawid “maskil” dwom. Ao Onyankopɔn, tie me mpaebɔ, mmu wʼani ngu me nkotosrɛ so,
+PSA 54:7 Woagye me afi me haw nyinaa mu, na mʼani ahu nkonimdi wɔ mʼatamfo so. Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto.
+PSA 55:1 Dawid “maskil” dwom. Ao Onyankopɔn, tie me mpaebɔ, mmu wʼani ngu me nkotosrɛ so,
 PSA 55:2 tie me na gye me so. Me dadwen haw me na ama mayɛ basaa,
 PSA 55:3 esiane nea me tamfo reka, esiane omumɔyɛfo ahunahuna nti; efisɛ wɔde amanehunu ba me so; na wofi wɔn abufuw mu kum me.
 PSA 55:4 Me koma wɔ ahoyeraw mu; na owu huboa aba me so.
@@ -14768,8 +14768,8 @@ PSA 55:19 Onyankopɔn a wɔasi no hene afebɔɔ no, ɔbɛte wɔn nka na wahaw w�
 PSA 55:20 Me yɔnko tow hyɛ ne nnamfonom so; na obu nʼapam so.
 PSA 55:21 Ɔwɔ tɛkrɛmawo, nanso ɔtan wɔ ne koma mu. Nʼano asɛm dwudwo sen ngo, nanso ɛyɛ afoa a wɔatwe.
 PSA 55:22 Fa wo haw to Awurade so na ɔno na obegye wo; ɔremma ɔtreneeni nhwe ase.
-PSA 55:23 Nanso wo, Onyankopɔn, wobɛbrɛ amumɔyɛfo ase ama wɔakɔ ɔporɔw amoa mu; mogyapɛfo ne nnaadaafo renni wɔn nkwanna mu fa. Nanso me de, mede me ho to wo so.
-PSA 56:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Aburuburu a osi Akyirikyiri Odum so,” nne so. Dawid dwom a ɔtoo bere a Filistifo kyeree no wɔ Gat no. Onyankopɔn, hu me mmɔbɔ na nnipa taa me anibere so; da mu nyinaa womia wɔn taa no mu.
+PSA 55:23 Nanso wo, Onyankopɔn, wobɛbrɛ amumɔyɛfo ase ama wɔakɔ ɔporɔw amoa mu; mogyapɛfo ne nnaadaafo renni wɔn nkwanna mu fa. Nanso me de, mede me ho to wo so. Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Aburuburu a osi Akyirikyiri Odum so,” nne so.
+PSA 56:1 Dawid dwom a ɔtoo bere a Filistifo kyeree no wɔ Gat no. Onyankopɔn, hu me mmɔbɔ na nnipa taa me anibere so; da mu nyinaa womia wɔn taa no mu.
 PSA 56:2 Wɔn a wɔbɔ me ahohora taa me da mu nyinaa; wɔn a wɔma wɔn ho so tia me no dɔɔso.
 PSA 56:3 Sɛ mebɔ hu a, mede me ho bɛto wo so.
 PSA 56:4 Onyankopɔn a mekamfo nʼasɛm no, mede me ho to Onyankopɔn so, na merensuro. Dɛn na onipa desani betumi ayɛ me?
@@ -14781,8 +14781,8 @@ PSA 56:9 Sɛ mepɛ mmoa fi wo hɔ a, mʼatamfo bɛsan wɔn akyi. Eyi bɛma mahu 
 PSA 56:10 Onyankopɔn a mekamfo nʼasɛm no, Awurade a mekamfo nʼasɛm no,
 PSA 56:11 mede me ho to Onyankopɔn so; na merensuro. Dɛn na ɔdesani betumi ayɛ me?
 PSA 56:12 Me Onyankopɔn, mehyɛ bɔ a mahyɛ wo no ase, mede mʼaseda afɔre bɛbrɛ wo.
-PSA 56:13 Efisɛ, woagye me afi owu mu, na mʼanan anhintiw, na matumi anantew Onyankopɔn anim wɔ nkwa hann no mu.
-PSA 57:1 Wɔde ma dwonkyerɛfo no. Wɔto no sɛnea wɔto “Mma Wɔnnsɛe No” nne so. Dawid dwom a ɔtoo bere a oguan fii Saulo nkyɛn kɔɔ ɔbodan no mu. Hu me mmɔbɔ, me Onyankopɔn, hu me mmɔbɔ, na wo mu na me kra nya guankɔbea. Wo ntaban nwini ase na mɛpɛ guankɔbea kosi sɛ amanehunu no betwa mu.
+PSA 56:13 Efisɛ, woagye me afi owu mu, na mʼanan anhintiw, na matumi anantew Onyankopɔn anim wɔ nkwa hann no mu. Wɔde ma dwonkyerɛfo no. Wɔto no sɛnea wɔto “Mma Wɔnnsɛe No” nne so.
+PSA 57:1 Dawid dwom a ɔtoo bere a oguan fii Saulo nkyɛn kɔɔ ɔbodan no mu. Hu me mmɔbɔ, me Onyankopɔn, hu me mmɔbɔ, na wo mu na me kra nya guankɔbea. Wo ntaban nwini ase na mɛpɛ guankɔbea kosi sɛ amanehunu no betwa mu.
 PSA 57:2 Misu frɛ Onyankopɔn, Ɔsorosoroni no; Onyankopɔn a ɔma ne pɛ ba mu wɔ me ho.
 PSA 57:3 Ɔsoma fi ɔsoro hɔ begye me nkwa, ɔka wɔn a wɔtaa me anibere so no anim; Onyankopɔn soma ne dɔ ne ne nokware.
 PSA 57:4 Gyata atwa me ho ahyia; meda mmoa a wɔwe nam amono mu, nnipa a wɔn se te sɛ mpeaw ne mmɛmma na wɔn tɛkrɛma te sɛ afoa a ɛyɛ nnam.
@@ -14792,8 +14792,8 @@ PSA 57:7 Ao, Onyankopɔn, me koma agyina pintinn, me koma yɛ pintinn; mɛto dwo
 PSA 57:8 Me kra nyan! Sanku ne bɛnta, munnyan! Me nso menyan anɔpahema.
 PSA 57:9 Awurade, mɛkamfo wo wɔ aman no mu; mɛto wo ho nnwom wɔ nnipa mu.
 PSA 57:10 Wʼadɔe so, ɛkorɔn sen ɔsoro; wo nokwaredi du wim.
-PSA 57:11 Ao, Onyankopɔn, wɔmma wo so mmoro ɔsoro; ma wʼanuonyam nkata asase nyinaa so.
-PSA 58:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Mma Wɔnnsɛe No” sanku nne so. Dawid “miktam” dwom. So mo asodifo, ampa ara sɛ, moka asɛm a ɛteɛ ana? Mubu atɛntrenee wɔ nnipa mu ana?
+PSA 57:11 Ao, Onyankopɔn, wɔmma wo so mmoro ɔsoro; ma wʼanuonyam nkata asase nyinaa so. Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Mma Wɔnnsɛe No” sanku nne so.
+PSA 58:1 Dawid “miktam” dwom. So mo asodifo, ampa ara sɛ, moka asɛm a ɛteɛ ana? Mubu atɛntrenee wɔ nnipa mu ana?
 PSA 58:2 Dabi da! Modwene ntɛnkyew wɔ mo koma mu na mo nsa de akakabensɛm ba asase so.
 PSA 58:3 Amumɔyɛfo fom kwan fi awo mu; wɔyɛ mmaratofo fi awotwaa mu na wodi atoro.
 PSA 58:4 Wɔn ano bɔre te sɛ ɔwɔ de, ɛte sɛ ɔprammiri a wawɛn nʼaso,
@@ -14803,8 +14803,8 @@ PSA 58:7 Ma wontwa mu nkɔ sɛ sunsuan; sɛ wɔtwe wɔn agyan a, ma wɔn bɛmma 
 PSA 58:8 Ma wɔnyɛ sɛ nwaw horɔdɔhorɔdɔ bi a ɔrenan agu wɔ bere a ɔretene no. Ma wɔnyɛ sɛ ɔba a owu wɔ awoe a onhu owia koraa.
 PSA 58:9 Ansa na mo nkuku bɛte nsɔe ano yaw, sɛ ɛyɛ amono anaa awo no, wɔbɛpra amumɔyɛfo akɔ.
 PSA 58:10 Sɛ wɔtɔ were ma atreneefo a wɔn ani begye, na wɔbɛhohoro wɔn anan ho wɔ amumɔyɛfo mogya mu.
-PSA 58:11 Afei nnipa bɛka se, “Ampa ara atreneefo kɔ so nya wɔn akatua; na ampa ara Onyankopɔn bi wɔ hɔ a obu wiase atɛn.”
-PSA 59:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Nsɛe No” sanku nne so. Dawid “miktam” dwom. Ɔtoo no bere a Saulo soma kɔwɛn Dawid fi sɛ wonkokum no no. Ao, Onyankopɔn, gye me fi mʼatamfo nsam; bɔ me ho ban fi wɔn a wɔtaa me no ho.
+PSA 58:11 Afei nnipa bɛka se, “Ampa ara atreneefo kɔ so nya wɔn akatua; na ampa ara Onyankopɔn bi wɔ hɔ a obu wiase atɛn.” Wɔde ma dwonkyerɛfo.
+PSA 59:1 Wɔto no sɛnea wɔto “Nsɛe No” sanku nne so. Dawid “miktam” dwom. Ɔtoo no bere a Saulo soma kɔwɛn Dawid fi sɛ wonkokum no no. Ao, Onyankopɔn, gye me fi mʼatamfo nsam; bɔ me ho ban fi wɔn a wɔtaa me no ho.
 PSA 59:2 Gye me fi amumɔyɛfo nsam. Gye me nkwa fi mogyapɛfo nsam.
 PSA 59:3 Hwɛ sɛnea wɔatɛw rehwehwɛ me akum me! Nnipa a wɔn ho yɛ hu bɔ pɔw bɔne tia me a emfi me mfomso anaa bɔne bi, Awurade.
 PSA 59:4 Menyɛɛ mfomso bi, nanso wɔayɛ krado sɛ wɔbɛtow ahyɛ me so. Sɔre begye me; hwɛ mʼamanehunu!
@@ -14820,8 +14820,8 @@ PSA 59:13 sɛe wɔn wɔ abufuwhyew mu, kosi sɛ wɔn ase bɛtɔre. Afei ɛbɛma 
 PSA 59:14 Wɔsan ba anwummere, wɔbobɔ mu sɛ akraman, na wokyinkyin kuropɔn no mu.
 PSA 59:15 Wokyinkyin pɛ aduan na sɛ wɔammee a, wosu bobɔ mu.
 PSA 59:16 Nanso mɛto wʼahoɔden ho dwom, mɛto wʼadɔe ho dwom anɔpa; efisɛ woyɛ mʼabandennen, me guankɔbea wɔ ahohia mmere mu.
-PSA 59:17 Ao mʼAhoɔden, mɛto ayeyi dwom ama wo; wo, Onyankopɔn, ne mʼabandennen, me Nyankopɔn a ɔyɛ ɔdɔ.
-PSA 60:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Susan Edut.” Dawid “Miktam” dwom. Wɔde yɛ nkyerɛkyerɛ. Ɔtoo no bere a ɔne Aram Naharanfo ne Aram Zobafo koe na Yoab san kokum Edomfo mpem dumien wɔ Nkyene Bon mu no. Onyankopɔn, woapo yɛn, woabɔ yɛn agu; wo bo afuw yɛn, nanso gye yɛn bio!
+PSA 59:17 Ao mʼAhoɔden, mɛto ayeyi dwom ama wo; wo, Onyankopɔn, ne mʼabandennen, me Nyankopɔn a ɔyɛ ɔdɔ. Wɔde ma dwonkyerɛfo. Wɔto no sɛnea wɔto “Susan Edut.”
+PSA 60:1 Dawid “Miktam” dwom. Wɔde yɛ nkyerɛkyerɛ. Ɔtoo no bere a ɔne Aram Naharanfo ne Aram Zobafo koe na Yoab san kokum Edomfo mpem dumien wɔ Nkyene Bon mu no. Onyankopɔn, woapo yɛn, woabɔ yɛn agu; wo bo afuw yɛn, nanso gye yɛn bio!
 PSA 60:2 Woawosow asase no na woapae mu; toatoa nea abubu no, efisɛ ɛrehinhim.
 PSA 60:3 Woama wo nkurɔfo ahu mmere bɔne; woama yɛn nsa a ɛma yɛtɔ ntintan.
 PSA 60:4 Nanso wɔn a wosuro wo de, woama wɔn frankaa so sɛ wontu ntia agyan no.
@@ -14832,16 +14832,16 @@ PSA 60:8 Moab yɛ me guasɛn, Edom so na metow me mpaboa gu; na meteɛ mu nkonim
 PSA 60:9 Hena na ɔde me bɛkɔ kuropɔn a wɔabɔ ho ban no mu? Hena na obedi mʼanim akɔ Edom?
 PSA 60:10 Onyankopɔn, ɛnyɛ wo na woapo yɛn na wo ne yɛn asraafo nkɔ ɔsa bio ana?
 PSA 60:11 Boa yɛn tia ɔtamfo no, na ɔdesani mmoa nka hwee.
-PSA 60:12 Onyankopɔn wɔ yɛn afa yi, yebedi nkonim, na obetiatia yɛn atamfo so.
-PSA 61:1 Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto. Dawid dwom. Ao, Onyankopɔn, tie me sufrɛ; tie me mpaebɔ.
+PSA 60:12 Onyankopɔn wɔ yɛn afa yi, yebedi nkonim, na obetiatia yɛn atamfo so. Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto.
+PSA 61:1 Dawid dwom. Ao, Onyankopɔn, tie me sufrɛ; tie me mpaebɔ.
 PSA 61:2 Mifi asase ano frɛ wo, mefrɛ wo, efisɛ me koma atɔ beraw; fa me kɔ ɔbotan a ɛware sen me no so.
 PSA 61:3 Woayɛ me guankɔbea, aban a ɛyɛ den ma ɔtamfo no.
 PSA 61:4 Me kɔn dɔ sɛ metena wo ntamadan no mu afebɔɔ na manya guankɔbea wɔ wo ntaban nwini ase.
 PSA 61:5 Woate me bɔ a mehyɛe no, Onyankopɔn; na wode wɔn a wosuro wo din no agyapade ama me.
 PSA 61:6 To ɔhene nkwanna mu bebree; na ne mfe mfi awo ntoatoaso nkodu awo ntoatoaso.
 PSA 61:7 Ma onni hene wɔ Onyankopɔn anim daa fa wʼadɔe ne wo nokware bɔ ne ho ban.
-PSA 61:8 Afei mɛto ayeyi dwom ama wo din daa na madi me bɔhyɛ so daa nyinaa.
-PSA 62:1 Wɔde ma dwonkyerɛfo. De ma Yedutun. Dawid dwom. Me kra wɔ ahomegye wɔ Onyankopɔn nko ara mu; me nkwagye fi ne nkyɛn.
+PSA 61:8 Afei mɛto ayeyi dwom ama wo din daa na madi me bɔhyɛ so daa nyinaa. Wɔde ma dwonkyerɛfo. De ma Yedutun.
+PSA 62:1 Dawid dwom. Me kra wɔ ahomegye wɔ Onyankopɔn nko ara mu; me nkwagye fi ne nkyɛn.
 PSA 62:2 Ampa, ɔyɛ me botan ne me nkwagye; ɔyɛ mʼabandennen, hwee renhinhim me da.
 PSA 62:3 Mobɛkɔ so ahyɛ onipa so akosi da bɛn, mo nyinaa besum me ahwe fam ana? Ɔfasu a akyea yi, ban a ɛrebu yi?
 PSA 62:4 Ampa, wɔayɛ adwene se wobetu no afi ne dibea a ɛkorɔn no so; wɔn ani gye atorodi ho. Wɔde wɔn ano hyira na wɔn koma mu de, wɔdome.
@@ -14863,8 +14863,8 @@ PSA 63:7 Efisɛ wone me boafo, wo ntaban ase nwini mu na mɛto dwom.
 PSA 63:8 Me kra bata wo ho; na wo nsa nifa kura me mu.
 PSA 63:9 Wɔn a wɔpɛ me akum me no bɛsɛe; wɔbɛkɔ asase ase tɔnn.
 PSA 63:10 Wɔbɛdan wɔn ama afoa na wɔbɛyɛ aduan ama sakraman.
-PSA 63:11 Nanso ɔhene bedi ahurusi wɔ Onyankopɔn mu; wɔn a wɔka ntam wɔ Onyankopɔn din mu nyinaa bɛkamfo no, na wobemua atorofo ano.
-PSA 64:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Me Nyankopɔn, tie me, bere a mereka me haw; bɔ me kra ho ban fi ɔtamfo ahunahuna ho.
+PSA 63:11 Nanso ɔhene bedi ahurusi wɔ Onyankopɔn mu; wɔn a wɔka ntam wɔ Onyankopɔn din mu nyinaa bɛkamfo no, na wobemua atorofo ano. Wɔde ma dwonkyerɛfo.
+PSA 64:1 Dawid dwom. Me Nyankopɔn, tie me, bere a mereka me haw; bɔ me kra ho ban fi ɔtamfo ahunahuna ho.
 PSA 64:2 Fa me sie fi amumɔyɛfo agyinatu ho, ne nnebɔneyɛfo pɔwbɔ ho.
 PSA 64:3 Wɔsew wɔn tɛkrɛma sɛ afoa na wɔde atirimɔden nsɛm sɔn sɛ mmɛmma werɛmfo.
 PSA 64:4 Wofi ahintawee mu, tow bɔ onipa a ne ho nni asɛm; wɔtow bɔ no mpofirim a wonsuro.
@@ -14873,8 +14873,8 @@ PSA 64:6 Wɔbɔ ntɛnkyew ho pɔw na wɔka se, “Yɛayɛ nhyehyɛe a ɛso nni k
 PSA 64:7 Nanso Onyankopɔn bɛto bɛmma abɔ wɔn; na wɔbɛhwe fam prɛko pɛ.
 PSA 64:8 Ɔbɛdan wɔn ankasa tɛkrɛma atia wɔn na ɔde wɔn aba ɔsɛe mu; na wɔn a wobehu wɔn nyinaa de animka bɛbɔ wɔn ti nko.
 PSA 64:9 Adesamma nyinaa besuro; wɔbɛpae mu aka Onyankopɔn nnwuma na wɔasusuw nea wayɛ ho.
-PSA 64:10 Ma atreneefo nni ahurusi wɔ Awurade mu na wɔmpɛ guankɔbea wɔ no mu; ma wɔn a wɔn koma mu tew nyinaa nyi no ayɛ!
-PSA 65:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Yɛn Nyankopɔn, ayeyi retwɛn wo wɔ Sion, na yebedi yɛn bɔ a yɛahyɛ wo no so.
+PSA 64:10 Ma atreneefo nni ahurusi wɔ Awurade mu na wɔmpɛ guankɔbea wɔ no mu; ma wɔn a wɔn koma mu tew nyinaa nyi no ayɛ! Wɔde ma dwonkyerɛfo.
+PSA 65:1 Dawid dwom. Yɛn Nyankopɔn, ayeyi retwɛn wo wɔ Sion, na yebedi yɛn bɔ a yɛahyɛ wo no so.
 PSA 65:2 Wo a woyɛ mpaebɔ tiefo, wo nkyɛn na nnipa nyinaa bɛba.
 PSA 65:3 Bere a yɛn bɔne menee yɛn no, wo na wode yɛn mmarato kyɛɛ yɛn.
 PSA 65:4 Nhyira nka wɔn a wuyi wɔn ma wɔbɛn wo sɛ wɔntena wʼadiwo hɔ! Nneɛma pa a ɛwɔ wo fi ahyɛ yɛn ma, nea ɛwɔ wʼasɔredan kronkron mu no.
@@ -14886,8 +14886,8 @@ PSA 65:9 Wohwɛ asase no gugu so nsu; woma no yɛ asase pa ma ɛboro so. Wode ns
 PSA 65:10 Wofɔw nea woafuntum hɔ no fɔkyee na wokaa nkɔmoa no kataa so; wode nsu petee so ma no yɛɛ bɛtɛɛ na wuhyiraa so afifide.
 PSA 65:11 Wode nnɔbae bebree wiee afe no, na wo nteaseɛnam yɛɛ ma buu so.
 PSA 65:12 Sare so nwura dɔɔso na anigye baa nkoko so.
-PSA 65:13 Nguankuw ahyɛ adidibea hɔ ma na awi akata aku no so; wɔbɔ ose, to ahosɛpɛw dwom.
-PSA 66:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Asase nyinaa momfa ahosɛpɛw nteɛ mu mma Onyankopɔn!
+PSA 65:13 Nguankuw ahyɛ adidibea hɔ ma na awi akata aku no so; wɔbɔ ose, to ahosɛpɛw dwom. Wɔde ma dwonkyerɛfo.
+PSA 66:1 Dawid dwom. Asase nyinaa momfa ahosɛpɛw nteɛ mu mma Onyankopɔn!
 PSA 66:2 Monto ne din anuonyamhyɛ ho dwom; momma nʼayeyi nyɛ anuonyamhyɛ!
 PSA 66:3 Munse Onyankopɔn sɛ, “Wo nneyɛe yɛ nwonwa dodo! Wo tumi so mmoroso a wʼatamfo nyinaa de osuro kotow wʼanim.
 PSA 66:4 Asase nyinaa kotow wo; wɔto ayeyi dwom ma wo, wɔto dwom kamfo wo din.”
@@ -14906,15 +14906,15 @@ PSA 66:16 Mommra mmetie, mo a musuro Onyankopɔn nyinaa; momma menka nea wayɛ a
 PSA 66:17 Mede mʼano su frɛɛ no; na me tɛkrɛma yii no ayɛ.
 PSA 66:18 Sɛ mede bɔne hyɛɛ me koma mu a, anka Awurade antie me.
 PSA 66:19 Nanso nokware, Onyankopɔn atie me, wate me mpaebɔ.
-PSA 66:20 Nhyira nka Onyankopɔn, a wampo me mpaebɔ na wanyi nʼadɔe amfi me so.
-PSA 67:1 Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto. Dwom. Onyankopɔn nnom yɛn na onhyira yɛn ɔmma nʼanim nhyerɛn wɔ yɛn so,
+PSA 66:20 Nhyira nka Onyankopɔn, a wampo me mpaebɔ na wanyi nʼadɔe amfi me so. Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto.
+PSA 67:1 Dwom. Onyankopɔn nnom yɛn na onhyira yɛn ɔmma nʼanim nhyerɛn wɔ yɛn so,
 PSA 67:2 na ɔmma wonhu nʼakwan wɔ asase so, ne ne nkwagye wɔ amanaman no nyinaa mu.
 PSA 67:3 Ma adesamma nyi wo ayɛ, Onyankopɔn; ma nnipa nyinaa nkamfo wo.
 PSA 67:4 Ma amanaman ani nnye na wɔnto ahosɛpɛw dwom, efisɛ wudi nnipa no so trenee mu na woma asase so amanaman no akwankyerɛ.
 PSA 67:5 Ma adesamma nyi wo ayɛ, Onyankopɔn; ma nnipa nyinaa nkamfo wo!
 PSA 67:6 Afei asase no bɛbɔ ne nnɔbae, na Onyankopɔn, yɛn Nyankopɔn ahyira yɛn.
-PSA 67:7 Onyankopɔn behyira yɛn, na asase mmaa nyinaa besuro no.
-PSA 68:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Ma Onyankopɔn nsɔre, ma nʼatamfo nhwete; wɔn a wɔtan no no nguan mfi nʼanim.
+PSA 67:7 Onyankopɔn behyira yɛn, na asase mmaa nyinaa besuro no. Wɔde ma dwonkyerɛfo.
+PSA 68:1 Dawid dwom. Ma Onyankopɔn nsɔre, ma nʼatamfo nhwete; wɔn a wɔtan no no nguan mfi nʼanim.
 PSA 68:2 Sɛnea mframa bɔ wusiw gu no, saa ara na bɔ wɔn gu; sɛnea srade nan wɔ ogya so no, saa ara na amumɔyɛfo nyera mfi Onyankopɔn anim.
 PSA 68:3 Nanso ma atreneefo ani nnye na wɔnsɛpɛw wɔn ho wɔ Onyankopɔn anim; ma wɔn ho ntɔ wɔn na wonni ahurusi.
 PSA 68:4 To dwom ma Onyankopɔn, to dwom yi ne din ayɛ. Ma nea ɔnantew omununkum so no din so. Ne din ne Awurade; ma wʼani nnye wɔ nʼanim.
@@ -14948,8 +14948,8 @@ PSA 68:31 Ananmusifo befi Misraim aba, na Kus de ne ho bɛma Onyankopɔn.
 PSA 68:32 Wiase ahemman, monto dwom mma Onyankopɔn, monto ayeyi nnwom mma Awurade,
 PSA 68:33 monto mma nea ɔte tete ɔsorosoro so no, na ɔde nne kɛse bobɔ mu no.
 PSA 68:34 Mompae mu nka Onyankopɔn tumi, nea ne kɛseyɛ kata Israel so no, na ne tumi wɔ soro ɔsoro no.
-PSA 68:35 Wo ho yɛ hu, Onyankopɔn, wɔ wo kronkronbea hɔ; Israel Nyankopɔn de tumi ne ahoɔden ma ne nkurɔfo. Ayeyi nka Onyankopɔn!
-PSA 69:1 Wɔde ma dwonkyerɛfo. Wɔto no sɛ “Sukooko.” Dawid dwom. Ao, Onyankopɔn, gye me nkwa na nsu no abɛdeda me kɔn mu.
+PSA 68:35 Wo ho yɛ hu, Onyankopɔn, wɔ wo kronkronbea hɔ; Israel Nyankopɔn de tumi ne ahoɔden ma ne nkurɔfo. Ayeyi nka Onyankopɔn! Wɔde ma dwonkyerɛfo. Wɔto no sɛ “Sukooko.”
+PSA 69:1 Dawid dwom. Ao, Onyankopɔn, gye me nkwa na nsu no abɛdeda me kɔn mu.
 PSA 69:2 Meremem wɔ dontori a mu dɔ mu, wɔ baabi a mʼanan nnya sibea. Madu bun mu na nsu abu afa me so.
 PSA 69:3 Mafrɛ abrɛ rehwehwɛ mmoa. Me mene mu ayow. Mʼani so ayɛ kusuu, na merehwehwɛ me Nyankopɔn.
 PSA 69:4 Wɔn a wɔtan me kwa no dɔɔso sen me ti so nwi; wɔn a wɔtan me kwa no dɔɔso, wɔn a wɔhwehwɛ sɛ wɔbɛsɛe me no. Wɔhyɛ me sɛ mennan nea minnwiae no mma.
@@ -14984,8 +14984,8 @@ PSA 69:32 Mmɔborɔni behu na nʼani agye, mo a mohwehwɛ Onyankopɔn no koma be
 PSA 69:33 Awurade tie wɔn a ade ahia wɔn, na ommu ne nkurɔfo nneduafo animtiaa.
 PSA 69:34 Ma ɔsoro ne asase nkamfo no, po ne nea ɛkeka ne ho wɔ mu nyinaa,
 PSA 69:35 efisɛ Onyankopɔn begye Sion nkwa na wakyekye Yuda nkuropɔn no bio. Afei nnipa bɛtena mu na ayɛ wɔn de;
-PSA 69:36 Nʼasomfo asefo na wɔbɛfa hɔ, na wɔn a wɔdɔ ne din no bɛtena hɔ.
-PSA 70:1 Wɔde ma dwonkyerɛfo. Dawid adesrɛ dwom. Ao, Onyankopɔn, yɛ ntɛm gye me nkwa; Awurade bra ntɛm bɛboa me.
+PSA 69:36 Nʼasomfo asefo na wɔbɛfa hɔ, na wɔn a wɔdɔ ne din no bɛtena hɔ. Wɔde ma dwonkyerɛfo.
+PSA 70:1 Dawid adesrɛ dwom. Ao, Onyankopɔn, yɛ ntɛm gye me nkwa; Awurade bra ntɛm bɛboa me.
 PSA 70:2 Ma wɔn a wɔhwehwɛ me kra no anim ngu ase na wɔnyɛ basaa; ma wɔn a wɔhwehwɛ me sɛe no nyinaa mfa animguase nsan wɔn akyi.
 PSA 70:3 Ma wɔn a wɔka, “Ɔtwea! Ɔtwea!” kyerɛ me no nsan wɔn akyi, esiane wɔn aniwu nti.
 PSA 70:4 Nanso ma wɔn a wɔhwehwɛ wo nyinaa nsɛpɛw wɔn ho na wɔn ani nnye wɔ wo mu; ma wɔn a wɔdɔ wo nkwagye no nka da biara se, “Onyankopɔn yɛ ɔkɛse!”
@@ -15084,8 +15084,8 @@ PSA 74:19 Mmfa wʼaborɔnoma nkwa mma nkekaboa; mma wo werɛ mfi wo nkurɔfo a w
 PSA 74:20 Ma wʼapam no ho nhia wo, efisɛ akakabensɛm ahyɛ asase no so sum mu ma.
 PSA 74:21 Mma wɔn a wɔhyɛ wɔn so no mmfa animguase nsan; ma ahiafo ne mmɔborɔfo nkamfo wo din.
 PSA 74:22 Ao, Onyankopɔn, ma wo ho so na ka wo ara wʼasɛm; kae sɛnea nkwaseafo serew wo da mu nyinaa.
-PSA 74:23 Mmu wʼani ngu wɔn a wɔsɔre tia wo no nteɛteɛmu so, wʼatamfo gyegyeegyeyɛ a ɛkɔ soro daa no.
-PSA 75:1 Wɔde ma dwonkyerɛfo no. Wɔnto no sɛnea wɔto “Nsɛe No” nne so. Asaf dwom. Onyankopɔn, yɛda wo ase, yɛda wo ase, efisɛ wo Din abɛn; nnipa ka wʼanwonwade kyerɛ.
+PSA 74:23 Mmu wʼani ngu wɔn a wɔsɔre tia wo no nteɛteɛmu so, wʼatamfo gyegyeegyeyɛ a ɛkɔ soro daa no. Wɔde ma dwonkyerɛfo no. Wɔnto no sɛnea wɔto “Nsɛe No” nne so.
+PSA 75:1 Asaf dwom. Onyankopɔn, yɛda wo ase, yɛda wo ase, efisɛ wo Din abɛn; nnipa ka wʼanwonwade kyerɛ.
 PSA 75:2 Woka se, “Me na mehyɛɛ bere a ɛsɛ no; ɛyɛ me na mibu atɛntrenee.
 PSA 75:3 Sɛ asase ne so nnipa nyinaa wosow a, me na mema nʼafadum gyina hɔ pintinn.
 PSA 75:4 Meka kyerɛ ahantanfo se, ‘Monnhoahoa mo ho bio,’ na meka kyerɛ amumɔyɛfo nso se, ‘Mommma mo mmɛn so.
@@ -15094,8 +15094,8 @@ PSA 75:6 Obiara mmfi apuei anaa atɔe anaa sare no so a obetumi ama obi so.
 PSA 75:7 Ɛyɛ Onyankopɔn na obu atɛn: Ɔbrɛ ɔbaako ase, na ɔma ɔfoforo so.
 PSA 75:8 Kuruwa bi hyɛ Awurade nsam nsa bi a etwa ahuru a wɔde nnuhuam afra ahyɛ no ma; ohwie, na asase so amumɔyɛfo nyinaa nom ma ɛka ase puw.
 PSA 75:9 Me de, mɛpae mu aka eyi daa daa; mɛto ayeyi dwom ama Yakob Nyankopɔn.
-PSA 75:10 Mebubu amumɔyɛfo nyinaa mmɛn, na atreneefo mmɛn de, wɔbɛma so.
-PSA 76:1 Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto. Asaf dwom. Onyankopɔn din ahyeta wɔ Yuda; ne din so wɔ Israel.
+PSA 75:10 Mebubu amumɔyɛfo nyinaa mmɛn, na atreneefo mmɛn de, wɔbɛma so. Wɔde ma dwonkyerɛfo. Wɔde sanku na ɛto.
+PSA 76:1 Asaf dwom. Onyankopɔn din ahyeta wɔ Yuda; ne din so wɔ Israel.
 PSA 76:2 Ne ntamadan si Salem, ne tenabea wɔ Sion.
 PSA 76:3 Ɛhɔ na obubuu mmemma a ɛpa gya, nkatabo ne afoa, akode nyinaa mu.
 PSA 76:4 Wo ho hann no hyerɛn, na woso sen mmepɔw a mmoadoma ahyɛ mu ma no.
@@ -15106,8 +15106,8 @@ PSA 76:8 Wubuu atɛn fii ɔsoro, asase suroe, na ɛyɛɛ komm,
 PSA 76:9 bere a wo, Onyankopɔn, sɔre buu atɛn, de gyee amanehunufo wɔ asase no so no.
 PSA 76:10 Ampa ara wʼabufuwhyew a etia nnipa no de ayeyi brɛ wo, na wɔn a wotumi gyina ano no nya kɔkɔbɔ.
 PSA 76:11 Monhyɛ Awurade mo Nyankopɔn no bɔ na munni so; momma nsase a atwa ne ho ahyia mfa ayɛyɛde mmrɛ Ɔbaako a ɛsɛ sɛ wosuro no no.
-PSA 76:12 Ɔbrɛ sodifonom honhom ase; na asase so ahemfo suro no.
-PSA 77:1 Wɔde ma dwonkyerɛfo. Wɔde ma Yedutun. Asaf dwom. Misu mefrɛɛ Onyankopɔn srɛɛ mmoa; misu mefrɛɛ no sɛ ontie me.
+PSA 76:12 Ɔbrɛ sodifonom honhom ase; na asase so ahemfo suro no. Wɔde ma dwonkyerɛfo. Wɔde ma Yedutun.
+PSA 77:1 Asaf dwom. Misu mefrɛɛ Onyankopɔn srɛɛ mmoa; misu mefrɛɛ no sɛ ontie me.
 PSA 77:2 Bere a mewɔ ahohiahia mu no, mehwehwɛɛ Awurade; metrɛw me nsa a ɛmpa abaw mu anadwo na me kra ampene sɛ wɔbɛkyekye ne werɛ.
 PSA 77:3 Onyankopɔn mekaee wo, na misii apini; medwenee, na me honhom tɔɔ beraw.
 PSA 77:4 Woamma mʼani ankum; amanehunu dodow nti, mantumi ankasa.
@@ -15211,8 +15211,8 @@ PSA 79:9 Onyankopɔn yɛn Agyenkwa, boa yɛn, wo din no anuonyam nti; gye yɛn n
 PSA 79:10 Adɛn nti na ɛsɛ sɛ amanaman ka se, “Wɔn Nyankopɔn wɔ he?” Yɛn anim ha ara, ma wonhu wɔ amanaman mu sɛ wotɔ wʼasomfo mogya a wɔahwie agu no so werɛ.
 PSA 79:11 Ma nneduafo no apinisi nnu wʼanim; fa wo basa ahoɔden no kora wɔn a wɔabu wɔn kumfɔ no.
 PSA 79:12 Awurade, ahohora a yɛn mfɛfo asum agu wo so no, tua wɔn so ka mpɛn ason.
-PSA 79:13 Na yɛn a yɛyɛ wo nkurɔfo, wʼadidibea nguan no, beyi wo ayɛ daa nyinaa; efi awo ntoatoaso kosi awo ntoatoaso, yɛbɛkɔ so aka wʼayeyi akyerɛ.
-PSA 80:1 Wɔde ma dwonkyerɛfo sɛ wɔnto no “Sonannim Edut” sanku nne so. Asaf dwom. Israel guanhwɛfo, tie yɛn, wo a wudii Yosef anim sɛnea wodi nguankuw anim; wo a wote ahengua so wɔ kerubim ntam no, hyerɛn
+PSA 79:13 Na yɛn a yɛyɛ wo nkurɔfo, wʼadidibea nguan no, beyi wo ayɛ daa nyinaa; efi awo ntoatoaso kosi awo ntoatoaso, yɛbɛkɔ so aka wʼayeyi akyerɛ. Wɔde ma dwonkyerɛfo sɛ wɔnto no “Sonannim Edut” sanku nne so.
+PSA 80:1 Asaf dwom. Israel guanhwɛfo, tie yɛn, wo a wudii Yosef anim sɛnea wodi nguankuw anim; wo a wote ahengua so wɔ kerubim ntam no, hyerɛn
 PSA 80:2 wɔ Efraim, Benyamin ne Manase anim. Kanyan wo tumi; bra begye yɛn nkwa.
 PSA 80:3 Ao Onyankopɔn, gye yɛn bio; ma wʼanim nhyerɛn yɛn so, na wɔagye yɛn nkwa.
 PSA 80:4 Asafo Awurade Nyankopɔn, wʼabufuw bɛdɛw akosi da bɛn, wʼabufuw a etia wo nkurɔfo mpaebɔ no?
@@ -15230,8 +15230,8 @@ PSA 80:15 ntin a wo nsa nifa adua no, ɔbabarima a woatetew no ama wo ho no.
 PSA 80:16 Wɔatwa wo bobe no ato fam, ato mu gya ama ahyew; wʼanimka ma wo nkurɔfo ase tɔre.
 PSA 80:17 Fa wo nsa kata ɔbarima a ɔwɔ wo nifa no so, onipa ba a woatetew no ama wo ho no.
 PSA 80:18 Afei yɛrentwe yɛn ho mfi wo nkyɛn; kanyan yɛn, na yɛbɛbɔ wo din.
-PSA 80:19 Asafo Awurade Nyankopɔn, gye yɛn bio, na ma wʼanim nhyerɛn yɛn so, na wɔagye yɛn nkwa.
-PSA 81:1 Wɔde ma dwonkyerɛfo sɛ wɔnto sɛ “gittit” sanku nne so. Asaf dwom. Monto ahurusi dwom mma Onyankopɔn yɛn ahoɔden; mommɔ ose mma Yakob Nyankopɔn no!
+PSA 80:19 Asafo Awurade Nyankopɔn, gye yɛn bio, na ma wʼanim nhyerɛn yɛn so, na wɔagye yɛn nkwa. Wɔde ma dwonkyerɛfo sɛ wɔnto sɛ “gittit” sanku nne so.
+PSA 81:1 Asaf dwom. Monto ahurusi dwom mma Onyankopɔn yɛn ahoɔden; mommɔ ose mma Yakob Nyankopɔn no!
 PSA 81:2 Momma nnwom no so na monwosow akasaa. Mommɔ sanku ne bɛnta dɛdɛ no.
 PSA 81:3 Monhyɛn mmentia ɔsram foforo da no, ne ne kurokumatwa mu, yɛn Aponto da no;
 PSA 81:4 Eyi yɛ Israelfo ahyɛde, Yakob Nyankopɔn mmara.
@@ -15272,8 +15272,8 @@ PSA 83:14 Sɛnea ogya hyew kwae, na ogyatannaa so nkoko mu hyew no no,
 PSA 83:15 saa ara na fa wʼahum taa wɔn na fa wo mframa a ano yɛ den no hunahuna wɔn.
 PSA 83:16 Ma animguase nka wɔn, na ama nnipa ahwehwɛ wo din akyi kwan, Awurade.
 PSA 83:17 Ma wɔn anim ngu ase na wonni yaw; ma wonwuwu wɔ animguase mu.
-PSA 83:18 Ma wonhu sɛ wo a wo din de Awurade no, wo nko ara ne Ɔsorosoroni wɔ asase nyinaa so.
-PSA 84:1 Wɔde ma dwonkyerɛfo sɛ wɔnto no wɔ gittit sanku nne so. Koramma dwom. Awurade Asafo, wʼatenae hɔ yɛ ahomeka!
+PSA 83:18 Ma wonhu sɛ wo a wo din de Awurade no, wo nko ara ne Ɔsorosoroni wɔ asase nyinaa so. Wɔde ma dwonkyerɛfo sɛ wɔnto no wɔ gittit sanku nne so.
+PSA 84:1 Koramma dwom. Awurade Asafo, wʼatenae hɔ yɛ ahomeka!
 PSA 84:2 Me kra pere, mpo ɛtɔ beraw, sɛ ɔbɛkɔ Awurade adiwo; me koma ne me honam teɛ mu frɛ Onyankopɔn teasefo.
 PSA 84:3 Mpo akasanoma anya ofi, na asomfena nso anwen ne berebuw, faako a obesow ne mma wɔ beae bi a ɛbɛn wʼafɔremuka, Awurade Asafo, me Hene ne me Nyankopɔn.
 PSA 84:4 Nhyira nka wɔn a wɔte wo fi; na wɔkamfo wo din daa.
@@ -15284,8 +15284,8 @@ PSA 84:8 Asafo Awurade Nyankopɔn, tie me mpaebɔ; Yakob Nyankopɔn, yɛ aso ma 
 PSA 84:9 Ao, Onyankopɔn, hwɛ yɛn nkatabo; fa ahummɔbɔ hwɛ nea woasra no ngo no.
 PSA 84:10 Wʼadiwo hɔ da koro tena ye sen nnafua apem wɔ baabi foforo; mepɛ sɛ mɛyɛ ɔponanohwɛfo wɔ Onyankopɔn fi sen sɛ mɛtena amumɔyɛfo ntamadan mu.
 PSA 84:11 Efisɛ Awurade Nyankopɔn yɛ owia ne kyɛm; Awurade hu mmɔbɔ na ɔhyɛ anuonyam; ɔmmfa ade pa biara nkame wɔn a wɔteɛ.
-PSA 84:12 Asafo Awurade, nhyira nka onipa a ɔde ne ho to wo so.
-PSA 85:1 Wɔde ma dwonkyerɛfo. Koramma dwom. Wo Awurade, wodom wʼasase; wode Yakob ahonyade san maa no.
+PSA 84:12 Asafo Awurade, nhyira nka onipa a ɔde ne ho to wo so. Wɔde ma dwonkyerɛfo.
+PSA 85:1 Koramma dwom. Wo Awurade, wodom wʼasase; wode Yakob ahonyade san maa no.
 PSA 85:2 Wode wo nkurɔfo bɔne kyɛɛ wɔn na wokataa wɔn nnebɔne nyinaa so.
 PSA 85:3 Wode wʼabufuw nyinaa too nkyɛn na wodan fii wʼabufuwhyew ho.
 PSA 85:4 San gye yɛn bio, Onyankopɔn, yɛn Gyefo, na ma wʼani nnye yɛn ho.
@@ -15321,8 +15321,8 @@ PSA 87:3 Wɔka wo ho anuonyamsɛm Onyankopɔn kuropɔn:
 PSA 87:4 “Mede Rahab ne Babilonia bɛka wɔn a wɔyɛ osetie ma me no ho, Filistia, Tiro ne Kus nso na maka se, ‘Wɔwoo eyinom wɔ Sion.’ ”
 PSA 87:5 Ampa ara wɔbɛka afa Sion ho se, “Wɔwoo oyi ne ɔno wɔ no mu, na Ɔsorosoroni no ankasa de no betim hɔ.”
 PSA 87:6 Awurade bɛkyerɛw wɔ nnipa dinkyerɛw nhoma no mu se, “Wɔwoo oyi wɔ Sion.”
-PSA 87:7 Na wɔbɛto dwom se, “Me ntin nyinaa wɔ wo mu.”
-PSA 88:1 Kora mma dwom a wɔde ma dwonkyerɛfo sɛ wɔnto no “Mahalat Leannot” sanku so. Esrahini Heman ɔhaw ne amanehunu dwom. Awurade, woyɛ me nkwagye Nyankopɔn misu wɔ wʼanim adekyee ne adesae.
+PSA 87:7 Na wɔbɛto dwom se, “Me ntin nyinaa wɔ wo mu.” Kora mma dwom a wɔde ma dwonkyerɛfo sɛ wɔnto no “Mahalat Leannot” sanku so.
+PSA 88:1 Esrahini Heman ɔhaw ne amanehunu dwom. Awurade, woyɛ me nkwagye Nyankopɔn misu wɔ wʼanim adekyee ne adesae.
 PSA 88:2 Ma me mpaebɔ nnu wʼanim; brɛ wʼaso ase tie me sufrɛ.
 PSA 88:3 Ɔhaw ahyɛ me kra ma na me nkwa rebɛn owu.
 PSA 88:4 Wɔkan me fra wɔn a wɔrekɔ ɔda mu no; mete sɛ obi a onni ahoɔden.
@@ -15768,8 +15768,8 @@ PSA 108:9 Moab yɛ me guasɛn, Edom so na metow me mpaboa gu; na meteɛ mu nkoni
 PSA 108:10 Hena na ɔde me bɛkɔ kuropɔn a wɔabɔ ho ban no mu? Hena na obedi mʼanim akɔ Edom?
 PSA 108:11 Onyankopɔn, ɛnyɛ wo na woapo yɛn na wo ne yɛn asraafo nkɔ ɔsa bio ana?
 PSA 108:12 Boa yɛn tia ɔtamfo no, na ɔdesani mmoa nka hwee.
-PSA 108:13 Onyankopɔn wɔ yɛn afa yi, yebedi nkonim, na obetiatia yɛn atamfo so.
-PSA 109:1 Wɔde ma dwonkyerɛfo no. Dawid dwom. Me Nyankopɔn a mekamfo wo, nyɛ komm,
+PSA 108:13 Onyankopɔn wɔ yɛn afa yi, yebedi nkonim, na obetiatia yɛn atamfo so. Wɔde ma dwonkyerɛfo no.
+PSA 109:1 Dawid dwom. Me Nyankopɔn a mekamfo wo, nyɛ komm,
 PSA 109:2 na amumɔyɛfo ne nkontompofo atu wɔn ano agu me so; wɔde atoro tɛkrɛma akasa atia me.
 PSA 109:3 Wɔde nitansɛm atwa me ho ahyia na wɔtow hyɛ me so a menkaa wɔn.
 PSA 109:4 Wɔka nsɛm to me so de tua mʼadɔeyɛ so ka, nanso meyɛ obi a mepɛ mpaebɔ.
@@ -16252,8 +16252,8 @@ PSA 138:4 Awurade, sɛ ahemfo a wɔwɔ wiase nyinaa te nea woahyɛ no a, ma wɔn
 PSA 138:5 Ma wɔnto Awurade akwan ho nnwom, na Awurade anuonyam yɛ kɛse.
 PSA 138:6 Ɛwɔ mu sɛ Awurade wɔ ɔsorosoro de, nanso ɔhwɛ mmɔborɔfo, na ahantanfo de, ohu wɔn wɔ akyirikyiri.
 PSA 138:7 Ɛwɔ mu sɛ menam ɔhaw mu de, nanso wobɔ me nkwa ho ban; woteɛ wo nsa wɔ mʼatamfo abufuw so, na wode wo nsa nifa gye me nkwa.
-PSA 138:8 Awurade bɛma nea wahyehyɛ ama me no aba mu; Awurade, wʼadɔe wɔ hɔ daa, nnyaa wo nsa ano nnwuma akyidi.
-PSA 139:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade, woahwehwɛ me mu na woahu me.
+PSA 138:8 Awurade bɛma nea wahyehyɛ ama me no aba mu; Awurade, wʼadɔe wɔ hɔ daa, nnyaa wo nsa ano nnwuma akyidi. Wɔde ma dwonkyerɛfo.
+PSA 139:1 Dawid dwom. Awurade, woahwehwɛ me mu na woahu me.
 PSA 139:2 Wunim mʼasetena ne me sɔre; wufi akyirikyiri hu mʼadwene mu.
 PSA 139:3 Wunim mʼadifi ne me nnae mu; wunim mʼakwan nyinaa mu.
 PSA 139:4 Ansa na mebue mʼano akasa no Awurade, na wunim ne nyinaa dedaw.
@@ -16276,8 +16276,8 @@ PSA 139:20 Wɔde adwemmɔne ka wo ho asɛm; wʼatamfo mmmɔ wo din pa.
 PSA 139:21 Awurade, metan wɔn a wɔtan wo, na mikyi wɔn a wɔsɔre tia wo no ana?
 PSA 139:22 Minni hwee sɛ ɔtan a mewɔ ma wɔn; mefa wɔn sɛ mʼatamfo.
 PSA 139:23 Hwehwɛ me mu, Onyankopɔn, na hu me koma; sɔ me hwɛ, na hu mʼadwene.
-PSA 139:24 Hwɛ sɛ bɔne bi wɔ me mu a, na di mʼanim fa daa nkwa kwan so.
-PSA 140:1 Wɔde ma dwonkyerɛfo. Dawid dwom. Awurade, gye me fi nnebɔneyɛfo nsam; bɔ me ho ban fi basabasayɛfo nsam,
+PSA 139:24 Hwɛ sɛ bɔne bi wɔ me mu a, na di mʼanim fa daa nkwa kwan so. Wɔde ma dwonkyerɛfo.
+PSA 140:1 Dawid dwom. Awurade, gye me fi nnebɔneyɛfo nsam; bɔ me ho ban fi basabasayɛfo nsam,
 PSA 140:2 wɔn a wodwen bɔne wɔ wɔn koma mu na wɔhwanyan ɔko mu da biara.
 PSA 140:3 Wɔsew wɔn tɛkrɛma ano te sɛ ɔwɔ de; nhurutoa bɔre wɔ wɔn ano.
 PSA 140:4 Awurade, yi me fi amumɔyɛfo nsam; bɔ me ho ban fi basabasayɛfo a wodwen sɛ wobetwintwan mʼanan mu no ho.
