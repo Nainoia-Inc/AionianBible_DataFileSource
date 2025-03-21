@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Gods-Living-Word---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Gods-Living-Word
-## File Created: 12/29/2024 07:54:35
+## File Created: 03/20/2025 06:45:46
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=eng-glw
 ## Source File: https://ebible.org/Scriptures/eng-glw_vpl.zip
-## Source Date: 12/28/2024 16:16:38
+## Source Date: 03/18/2025 05:09:41
 ## Source Copyright: Creative Commons Attribution NoDerivatives 4.0
 ## Source Text: unaltered below
 ##

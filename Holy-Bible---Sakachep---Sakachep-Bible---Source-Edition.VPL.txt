@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sakachep---Sakachep-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sakachep---Sakachep-Bible
-## File Created: 12/29/2024 07:54:56
+## File Created: 03/20/2025 06:46:04
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=sch
 ## Source File: https://ebible.org/Scriptures/sch_vpl.zip
-## Source Date: 12/28/2024 18:00:18
+## Source Date: 03/18/2025 07:03:59
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

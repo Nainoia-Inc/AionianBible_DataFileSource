@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Estonian---Contemporary---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Estonian---Contemporary
-## File Created: 01/25/2025 07:40:50
+## File Created: 03/20/2025 06:45:49
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,10 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: 
+## Source URL: https://ebible.org/details.php?id=ekk
 ## Source File: https://ebible.org/Scriptures/ekk_vpl.zip
-## Source Date: 01/09/2025 14:53:13
-## Source Copyright: 
+## Source Date: 03/18/2025 05:08:08
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

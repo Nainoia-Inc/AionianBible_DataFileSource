@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Ahirani---Gospels---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Ahirani---Gospels
-## File Created: 12/29/2024 07:54:26
+## File Created: 03/20/2025 06:45:39
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=ahr
 ## Source File: https://ebible.org/Scriptures/ahr_vpl.zip
-## Source Date: 12/28/2024 15:16:13
+## Source Date: 03/18/2025 03:50:53
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Blackfoot---Matthew---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Blackfoot---Matthew
-## File Created: 12/29/2024 07:54:30
+## File Created: 03/20/2025 06:45:41
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=bla
 ## Source File: https://ebible.org/Scriptures/bla_vpl.zip
-## Source Date: 12/28/2024 15:42:29
+## Source Date: 03/18/2025 04:26:08
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

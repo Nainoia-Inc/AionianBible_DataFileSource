@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Open-English-Bible-US---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Open-English-Bible-US
-## File Created: 12/29/2024 07:54:37
+## File Created: 03/20/2025 06:45:47
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engoebus
 ## Source File: https://ebible.org/Scriptures/engoebus_vpl.zip
-## Source Date: 12/28/2024 18:45:10
+## Source Date: 03/18/2025 07:50:44
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
@@ -133,7 +133,7 @@ EST 2:7 Mordecai had adopted Hadassah, that is, Esther, his uncle’s daughter, 
 EST 2:8 When the king’s command and decree were known, many girls were gathered together to Susa the capital under the custody of Hegai. Esther was also taken into the king’s palace and placed under the custody of Hegai, who had charge of the women.
 EST 2:9 The girl pleased him and gained his favor, so that he quickly gave her the cosmetics she needed to enhance her beauty and her allowance of food and the seven maids selected from the king’s household. He also transferred her and her maids to the best place in the harem.
 EST 2:10 Esther had not revealed her people nor her family background because Mordecai had ordered her not to.
-EST 2:11 Every day Mordecai would to walk in front of the courtyard of the harem and ask after Esther’s health and what was happening to her.
+EST 2:11 Every day Mordecai would walk in front of the courtyard of the harem and ask after Esther’s health and what was happening to her.
 EST 2:12 The girls were prepared for meeting King Ahasuerus for twelve months: six months being treated with oil of myrrh and six months with perfumes and cosmetics. After the twelve months,
 EST 2:13 each girl went in to the king. She was allowed to take with her whatever she wished from the women’s quarters,
 EST 2:14 and would enter the palace in the evening and return the next morning to another part of the harem under the care of the king’s eunuch Shaashgaz who was in charge of concubines. She would not go to the king again unless he desired her and summoned her by name.
@@ -2373,7 +2373,7 @@ PSA 119:143 Stress and strain are upon me, but your commandments are my delight.
 PSA 119:144 Right are your charges forever, instruct me that I may live.
 PSA 119:145 With my whole heart I cry; O answer me. I would keep your statutes, O Lord.
 PSA 119:146 I cry to you: O save me, and I will observe your charges.
-PSA 119:147 Ere the dawn I cry for your help: in your word do I hope.
+PSA 119:147 Before dawn I cry for your help: in your word do I hope.
 PSA 119:148 Awake I meet the night-watches, to muse upon your sayings.
 PSA 119:149 Hear my voice in your kindness: O Lord, by your judgments revive me.
 PSA 119:150 Near me are wicked tormentors, who are far from thoughts of your law;
@@ -2410,13 +2410,13 @@ PSA 120:4 Arrows of warrior, sharpened, with glowing broom coals together.
 PSA 120:5 Woe is me that I sojourn in Meshech, that I live by the tents of Kedar.
 PSA 120:6 Already too long have I dwelt among those who hate peace.
 PSA 120:7 I am for peace: but when I speak of it, they are for war.
-PSA 121:1 A song of ascents. I will lift up my eyes to the mountains. O whence shall help for me come?
-PSA 121:2 From the Lord comes help to me the creator of heaven and earth.
-PSA 121:3 Your foot he will not let totter: he who guards you will not sleep.
-PSA 121:4 The guardian of Israel will neither slumber nor sleep.
-PSA 121:5 The Lord is he who guards you your shelter upon your right hand.
-PSA 121:6 The sun by day shall not strike you, nor the moon by night.
-PSA 121:7 From all evil the Lord will guard you, he will guard your life.
+PSA 121:1 A song of ascents. I lift up my eyes to the mountains. From where will help for me come?
+PSA 121:2 My help will come from the Lord the creator of heaven and earth.
+PSA 121:3 Your foot he will not let stumble: he who guards you will not sleep.
+PSA 121:4 He who watches over Israel will neither slumber nor sleep.
+PSA 121:5 The Lord himself protects you, is your shelter beside you.
+PSA 121:6 The sun by day will not strike you, nor the moon by night.
+PSA 121:7 From all harm the Lord will guard you, will watch over your life.
 PSA 121:8 The Lord will guard your going and coming from now and for evermore.
 PSA 122:1 A song of ascents. Of David. I was glad when they said to me, “We will go to the house of the Lord.”
 PSA 122:2 Now we are standing, within your gates, O Jerusalem.
@@ -2749,7 +2749,7 @@ HOS 2:6 That is why I am going to hedge up her ways with thorns, and build a wal
 HOS 2:7 She will pursue her lovers, but will not overtake them. She will seek them, but not find them. In time she will say, “I will go back to my first husband, I was better off then than now.”
 HOS 2:8 She herself did not know that it was I who gave her the grain, the sweet wine, and the oil, who lavished on her silver and gold – that they used in worshipping Baal!
 HOS 2:9 So I will take back my grain at the harvest, and my sweet wine in its season. I will withdraw my wool and my flax, given to cover her nakedness;
-HOS 2:10 and so I will strip her naked before her lovers, and no one shall deliver her out of my hand.
+HOS 2:10 and so I will strip her naked before her lovers, and no one can deliver her out of my hand.
 HOS 2:11 I will end all her celebrations, her yearly feasts, her new moons, and her sabbaths, all her festivals.
 HOS 2:12 I will lay waste her vines and her fig trees, of which she says, “These are my wages which my lovers have given me.” I will make them a thicket, and the wild animals will eat them.
 HOS 2:13 In this way I will punish her for the days of the Baals, in which she made offerings to them, and decked herself with earrings and jewels, and went after her lovers, but forgot me, – declares the Lord.
@@ -2903,7 +2903,7 @@ HOS 12:13 The Lord brought Israel up from Egypt by a prophet, and by a prophet I
 HOS 12:14 Ephraim has given bitter provocation. His Lord will leave upon him his guilt of bloodshed, and for his contempt he will repay him.
 HOS 13:1 When Ephraim used to speak there was trembling; a prince was he in Israel. But he incurred guilt through Baal and died.
 HOS 13:2 And now they go on sinning. They make for themselves molten gods – idols of silver, skillfully made, wholly the work of smiths. Yet to such they sacrifice! And they who sacrifice kiss calf idols!
-HOS 13:3 Therefore they shall be like the morning mist, like the dew that early disappears, like the chaff which blows away from the threshing floor, like the smoke from the window.
+HOS 13:3 Therefore they will be like the morning mist, like the dew that early disappears, like the chaff which blows away from the threshing floor, like the smoke from the window.
 HOS 13:4 Yet it was I, the Lord your God, ever since the land of Egypt, you know no other god but me, nor has there been any savior except me.
 HOS 13:5 It was I who shepherded you in the wilderness, in the land of burning heat.
 HOS 13:6 When they were pastured they became full, when they were full their hearts became proud. Therefore they forgot me!
@@ -2915,7 +2915,7 @@ HOS 13:11 I give you kings in my anger, and take them away in my wrath.
 HOS 13:12 Ephrahn’s iniquity is gathered up, his sin is laid by in store.
 HOS 13:13 The pangs of childbirth come upon him, but he is an unwise child. For this is no time to refuse to leave the womb!
 HOS 13:14 Should I deliver them from the power of Sheol? Should I redeem them from death? Death, where are your plagues? Sheol, where is your pestilence? Compassion is forever hidden from my eyes.
-HOS 13:15 Though he is flourishing among his brothers, there will come an east wind, the Lord’s wind, coming up from the wilderness. His fountain will dry up, his spring shall be parched. The wind will strip the treasury, all the precious things.
+HOS 13:15 Though he is flourishing among his brothers, there will come an east wind, the Lord’s wind, coming up from the wilderness. His fountain will dry up, his spring will be parched. The wind will strip the treasury, all the precious things.
 HOS 13:16 Samaria will bear her guilt, for she has rebelled against her God. They will fall by the sword, their children dashed to pieces, their pregnant women ripped open.
 HOS 14:1 Return, Israel, to the Lord your God, for you have stumbled in your iniquity.
 HOS 14:2 Take words of repentance with you, and return to the Lord your God. Say to him: Wholly pardon our iniquity, accept that which is good, instead of sacrificing bulls, we offer our praise.
@@ -2923,7 +2923,7 @@ HOS 14:3 Assyria will not save us, nor Egyptian warhorses, and we will no more c
 HOS 14:4 “I will heal their apostasy, I will love them freely, now that my anger is turned away from them,
 HOS 14:5 I will be as dew to Israel. He will blossom like the lily, he will plant his roots like the cedars of Lebanon,
 HOS 14:6 his saplings will spread out, his beauty will be like that of the olive tree, his fragrance like the cedars of Lebanon.
-HOS 14:7 People will return and dwell in my shade, they will bring life to new grain. They shall sprout like the vine, and their renown will be like that of the wine of Lebanon.
+HOS 14:7 People will return and dwell in my shade, they will bring life to new grain. They will sprout like the vine, and their renown will be like that of the wine of Lebanon.
 HOS 14:8 Ephraim – what have I to do with idols! It is I the Lord who respond to him and look after him. I am like an evergreen cypress, from me is your fruit found.
 HOS 14:9 Whoever is wise, let him discern these things, prudent, let him perceive them; For the Lord’s ways are straight, and the righteous walk in them, but the wicked stumble in them.
 JOE 1:1 The Lord’s message that came to Joel, son of Pethuel.
@@ -3005,7 +3005,7 @@ AMO 1:3 The Lord says: For Damascus’ three crimes – no, four! – I will not
 AMO 1:4 Therefore I will send fire on Hazael’s house, it will devour the palaces of Ben-hadad.
 AMO 1:5 I will break open the gate of Damascus, I will wipe out those who live in the valley of Aven and the sceptered ruler of Beth-Eden. The people of Aram will go into captivity in Kir, says the Lord.
 AMO 1:6 The Lord says: For Gaza’s three crimes – no, four! – I will not rescind my judgment. They carried away captive a whole nation, sold them as slaves to Edom.
-AMO 1:7 Therefore I will send fire on the wall of Gaza, and it shall devour her palaces.
+AMO 1:7 Therefore I will send fire on the wall of Gaza, and it will devour her palaces.
 AMO 1:8 And I will wipe out those who live in Ashdod, and the sceptered ruler of Askelon. I will turn my hand against Ekron, and the remnant of the Philistines will perish, says the Lord.
 AMO 1:9 The Lord says: For Tyre’s three crimes – no, four! – I will not rescind my judgment. They carried away captive a whole people into exile in Edom, and did not remember the brotherly covenant.
 AMO 1:10 So I will send fire on the walls of Tyre. It will devour her palaces.
@@ -3138,7 +3138,7 @@ AMO 9:5 It is the Lord the God of hosts, who touches the earth and it trembles, 
 AMO 9:6 The one who builds in the heavens, who sets the dome of the sky over the earth, who summons the waters of the sea and pours them out on the face of the earth: the Lord is his name.
 AMO 9:7 To me, Israelites, you are just like the Cushites, says the Lord. Yes, I brought Israel up out of the land of Egypt, but also the Philistines from Caphtor, and the Arameans from Kir!
 AMO 9:8 Behold the eyes of the Lord God are on the sinful kingdom: I will destroy it from the face of the earth! But I will not completely destroy the house of Jacob, says the Lord.
-AMO 9:9 For behold I am about to give the command, and I will shake the house of Israel among all the nations just as one shakes grain in a sieve, but not a pebble shall fall to the ground.
+AMO 9:9 For behold I am about to give the command, and I will shake the house of Israel among all the nations just as one shakes grain in a sieve, but not a pebble will fall to the ground.
 AMO 9:10 All the sinners of my people, who deny that disaster will touch or befall them, will die by the sword.
 AMO 9:11 On that day I will raise up the fallen house of David, I will wall up its gaps and raise up its ruins, I will rebuild it as it was long ago.
 AMO 9:12 They will possess again the rest of Edom, and all the nations which once you ruled for me, says the Lord, who will do this.
@@ -3196,10 +3196,10 @@ JON 2:10 And the Lord spoke to the fish, and it threw up Jonah upon the dry land
 JON 3:1 This message from the Lord came to Jonah the second time,
 JON 3:2 “Arise, go to that great city, Nineveh, and proclaim to it the message that I tell you.”
 JON 3:3 So Jonah started for Nineveh, as the Lord commanded. Now Nineveh was so large a city that it took three days’ journey to cross it.
-JON 3:4 Jonah began by going a day’s journey into the city, and he proclaimed, “Forty days more and Nineveh shall be overthrown.”
+JON 3:4 Jonah began by going a day’s journey into the city, and he proclaimed, “Forty days more and Nineveh will be overthrown.”
 JON 3:5 And the people of Nineveh believed God; and they ordered a fast and put on sackcloth, from the greatest to the least of them.
 JON 3:6 And when word came to the king of Nineveh, he rose from his throne, took off his robe, dressed in sackcloth, and sat in ashes.
-JON 3:7 And he made this proclamation and published it in Nineveh: “By the decree of the king and his nobles: People, beast, herd, and flock shall not taste anything; let them not eat nor drink water.
+JON 3:7 And he made this proclamation and published it in Nineveh: “By the decree of the king and his nobles: People, beast, herd, and flock must not taste anything; let them not eat nor drink water.
 JON 3:8 Let both people and animals put on sackcloth and let them cry earnestly to God; let them each turn from their evil ways and from the deeds of violence which they are doing.
 JON 3:9 Who knows? God may relent and avert his fierce anger, so that we may not die.”
 JON 3:10 When God saw that they turned from their evil course, he relented the evil which he said he would do to them, and did not do it.
@@ -3229,7 +3229,7 @@ MIC 1:12 The inhabitants of Maroth wait anxiously for good! But the Lord has sen
 MIC 1:13 Harness the horse to the chariot, inhabitants of Lachish. You led the daughter of Zion, Jerusalem, into sin, in you are found the crimes of Israel.
 MIC 1:14 Therefore you must give parting gifts to Moresheth-gath. Beth-achzib will betray the kings of Israel.
 MIC 1:15 I will hand you to a conqueror, people of Mareshah, the leaders of Israel will hide in Adullam Cave!
-MIC 1:16 Shave your head in morning for the children you love, until you are bald as vultures, because they have left you for exile.
+MIC 1:16 Shave your head in mourning for the children you love, until you are bald as vultures, because they have left you for exile.
 MIC 2:1 Woe to those who lie awake planning evil, who in the light of morning carry out their plan because they have the power to do it.
 MIC 2:2 They covet fields and seize them, desire houses and take them, they crush householder and his household, people and their possessions.
 MIC 2:3 Therefore the Lord says: “I am planning disaster from which you cannot save your neck, nor walk proudly because it will be a terrible time.
@@ -3248,7 +3248,7 @@ MIC 3:2 Haters of that which is good and lovers of evil!
 MIC 3:3 “They devour the flesh of my people, and their hide they strip from off them, and break in pieces and serve up their bones, like meat in a pot or the cooking pan!
 MIC 3:4 “Then they will cry out to the Lord, but he will not pay attention to them. He will hide his face from them at that time because they have committed such crimes.”
 MIC 3:5 Therefore the Lord says: “To the prophets who lead my people astray, who when they have food between their teeth declare peace, but against one who puts nothing in their mouths, they proclaim an open war!
-MIC 3:6 “Night will overtake you so that you have no vision, and darkness so that there will be no divination, and the sun will go down on the prophets, and the day shall be dark over them.
+MIC 3:6 “Night will overtake you so that you have no vision, and darkness so that there will be no divination, and the sun will go down on the prophets, and the day will be dark over them.
 MIC 3:7 “The seers will be ashamed, and the diviners will turn pale, all of them will cover their mouths. For there will be no answer from God.
 MIC 3:8 “But I, on the contrary am full of power, and the sense of justice and strength, to make known to Jacob his crime, and to Israel his sin.
 MIC 3:9 “Hear this, leaders of the house of Jacob, judges of the house of Israel, you who spurn justice, and make all that is straight crooked,
@@ -3285,7 +3285,7 @@ MIC 5:14 I will uproot your sacred poles, and destroy your idols.
 MIC 5:15 In my wrath and my anger I will seek vengeance on the nations that ignore me.”
 MIC 6:1 Hear now what the Lord is saying: Arise, present your complaint before the mountains, let the hills hear your voice!
 MIC 6:2 Hear, mountains, the Lord’s accusation, listen, foundations of the earth. For the Lord has a case against his people. He has a dispute with Israel.
-MIC 6:3 “My people, what have I done to you. How have I displeased you? Answer me!
+MIC 6:3 “My people, what have I done to you? How have I displeased you? Answer me!
 MIC 6:4 For I brought you up from the land of Egypt, from the land of slavery I redeemed you. I sent Moses, Aaron, and Miriam to lead you.
 MIC 6:5 My people, what did Balak, king of Moab counsel? And how did Balaam, the son of Beor, answer him? Remember now the journey from Shittim to Gilgal, so that you might realize the just deeds of the Lord.”
 MIC 6:6 With what should I come before the Lord? Bow myself before the God on high? Should I come before him with burnt-offerings, with calves a year old?
@@ -3496,9 +3496,9 @@ HAG 2:3 Who is left among you that saw this temple in its former glory? And how 
 HAG 2:4 The Lord says: Yet now be strong, Zerubbabel, be strong, Joshua, son of Jehozadak, the high priest, be strong, all you people of the land. The Lord says: Begin the work, for I am with you. The Lord of hosts says:
 HAG 2:5 When your ancestors left Egypt I made a promise to you, and I am still with you. Do not be afraid!
 HAG 2:6 The Lord of hosts says: In a little while, I will shake the heavens, and the earth, and the sea, and the land.
-HAG 2:7 And I will shake all nations, and the precious things of all nations shall come here; and I will fill this temple with glory. The Lord of hosts says:
+HAG 2:7 And I will shake all nations, and the precious things of all nations will come here; and I will fill this temple with glory. The Lord of hosts says:
 HAG 2:8 The silver is mine, and the gold is mine,
-HAG 2:9 The later glory of this temple shall be greater than the former. The Lord of hosts says: In this place I will grant prosperity. This is the message of the Lord of hosts.
+HAG 2:9 The later glory of this temple will be greater than the former. The Lord of hosts says: In this place I will grant prosperity. This is the message of the Lord of hosts.
 HAG 2:10 In the twenty-fourth day of the ninth month, in the second year of Darius, this message from the Lord came to Haggai the prophet:
 HAG 2:11 The Lord of hosts says: “Ask the priests for a ruling:
 HAG 2:12 ‘If one carries consecrated meat in the fold of his garment, and with that garment touches bread, or stew, or wine, or oil, or any food, will it become holy?’” And the priests answered: “No.”
@@ -3511,7 +3511,7 @@ HAG 2:18 ‘Think back from this day, think! From the twenty-fourth day of the n
 HAG 2:19 The seed is in the granary, but the vine and the fig tree and the pomegranate and the olive tree have not yet brought forth fruit. From this day will I bless you.’”
 HAG 2:20 This message from the Lord came to Haggai a second time on the twenty-fourth day of the month:
 HAG 2:21 Tell Zerubbabel, governor of Judah: I will shake the heavens and the earth;
-HAG 2:22 and I will overthrow the throne of kingdoms; and I will destroy the strength of the kingdoms of the nations; and I will overthrow the chariots, and those who ride in them; and the horses and their riders shall come down, each by the sword of his fellow.
+HAG 2:22 and I will overthrow the throne of kingdoms; and I will destroy the strength of the kingdoms of the nations; and I will overthrow the chariots, and those who ride in them; and the horses and their riders will come down, each by the sword of his fellow.
 HAG 2:23 In that day, the Lord of hosts says, I will take you, Zerubbabel, my servant, the son of Shealtiel, the Lord says, and will make you like a signet ring, for I have chosen you, the Lord of hosts says.
 ZEC 1:1 In the eighth month in the second year of Darius, this message of the Lord came to the prophet Zechariah, the son of Berechiah, the son of Iddo:
 ZEC 1:2 The Lord was furious with your ancestors.
@@ -3573,7 +3573,7 @@ ZEC 4:13 He answered me, “Don’t you now what these are?” And I said, “No
 ZEC 4:14 Then he explained, “They are the two anointed ones who attend the Lord of all the earth.”
 ZEC 5:1 Then again I looked up and saw a flying scroll.
 ZEC 5:2 He said to me, “What do you see?” I answered, “I see a flying scroll; twenty cubits long, ten cubits wide.”
-ZEC 5:3 Then he said to me, “This is the curse that goes over the whole land. Every thief will be banished according to the writing on one side and everyone who lies under oath shall be banished according to the writing on the other side.
+ZEC 5:3 Then he said to me, “This is the curse that goes over the whole land. Every thief will be banished according to the writing on one side and everyone who lies under oath will be banished according to the writing on the other side.
 ZEC 5:4 I have sent it out, says the Lord of hosts, and it will enter into the house of the thief, and into the house of anyone who swears falsely by my name. It will remain in the midst of his house and will consume it with its timber and its stones.”
 ZEC 5:5 Then the messenger who talked with me came forward, and said to me, “Look up and see what is now coming.”
 ZEC 5:6 I said. “What is it?” He said, “It is a measuring basket, full of the guilt of the land.”
@@ -3640,7 +3640,7 @@ ZEC 9:3 Tyre built for herself a fortress. Heaped up silver as dust, and gold li
 ZEC 9:4 But now the Lord will dispossess her, cast down her rampart into the sea. She will be consumed in fire.
 ZEC 9:5 Ashkelon will see and fear, and Gaza writhe in anguish, Ekron, also for her hope will be put to shame. The king will perish from Gaza, Ashkelon will remain uninhabited.
 ZEC 9:6 A foreign people will settle in Ashdod, and I will humble the pride of the Philistines.
-ZEC 9:7 I will take their blood from their mouth, and their abominations from between their teeth. They also will be a remnant for our God, like a clan in Judah, and Ekron will be like the Jebusites.
+ZEC 9:7 I will take their blood from their mouth, and their abominations from between their teeth. They also will be a remnant for our God, like a tribe in Judah, and Ekron will be like the Jebusites.
 ZEC 9:8 But I will encamp as a guard about my house, so that none will pass through or return, and no oppressor will pass through them again, for now I have seen with my own eyes.
 ZEC 9:9 Rejoice greatly, daughter of Zion! Shout aloud, daughter of Jerusalem! Look, your king comes to you. Vindicated and victorious is he, humble, and riding on a donkey, on a colt, the foal of a donkey.
 ZEC 9:10 He will cut off chariots from Ephraim, and war horses from Jerusalem. The battle bow will be cut off, and he will speak peace to the nations. His rule will be from sea to sea, from the river to the ends of the earth.
@@ -3717,7 +3717,7 @@ ZEC 14:11 Jerusalem will be inhabited, for never again will it be doomed to dest
 ZEC 14:12 This is the plague with which the Lord will strike all the peoples who array themselves against Jerusalem: he will make their flesh rot while they stand on their feet, and their eyes will rot in their sockets, and their tongues will rot in their mouth.
 ZEC 14:13 On that day a great panic sent by the Lord will fall on them. Everyone will seize their neighbours and attack them.
 ZEC 14:14 Even Judah will fight at Jerusalem, and the wealth of the surrounding nations will be gathered up – gold and silver and piles of clothing.
-ZEC 14:15 Plague will fall upon the horses, mules, camels, and asses, and on all the animals in all those camps.
+ZEC 14:15 Plague will fall upon the horses, mules, camels, and donkeys, and on all the animals in all those camps.
 ZEC 14:16 All who are left of all the nations which fought against Jerusalem will come up from year to year to worship the King, the Lord of hosts, and to keep the pilgrim-feast of tabernacles.
 ZEC 14:17 Whoever of all the peoples of the earth will not come up to Jerusalem to worship the King, the Lord of hosts, on them there will be no rain.
 ZEC 14:18 If the family of Egypt does not go up nor enter in, on them also will come the plague with which the Lord will strike the nations.
@@ -3958,7 +3958,7 @@ MAT 7:4 How will you say to your friend ‘Let me take out the speck from your e
 MAT 7:5 Hypocrite! Take out the plank from your own eye first, and then you will see clearly how to take out the speck from your friend’s.
 MAT 7:6 “Do not give what is sacred to dogs; they will turn and maul you. Do not throw your pearls before pigs; they will trample them underfoot.
 MAT 7:7 Ask, and it will be given to you; search, and you will find; knock, and the door will be opened to you.
-MAT 7:8 For the person who asks receives, the person who searches finds, and to the door will be opened to the person who knocks.
+MAT 7:8 For the person who asks receives, the person who searches finds, and the door will be opened to the person who knocks.
 MAT 7:9 Who among you, when their child asks them for bread, will give them a stone,
 MAT 7:10 or when they ask for a fish, will give them a snake?
 MAT 7:11 If you, then, wicked though you are, know how to give good gifts to your children, how much more will your Father who is in heaven give what is good to those who ask him!
@@ -4017,7 +4017,7 @@ MAT 8:34 At the news the whole town went out to meet Jesus, and, when they saw h
 MAT 9:1 Afterward Jesus got into a boat, and, crossing over, came to his own city.
 MAT 9:2 There some people brought to him a paralyzed man on a bed. When Jesus saw their faith, he said to the man, “Courage, child! Your sins are forgiven.”
 MAT 9:3 Then some of the teachers of the Law said to themselves, “This man is blaspheming!”
-MAT 9:4 Knowing their thoughts, Jesus exclaimed, “Why do your cherish such wicked thoughts?
+MAT 9:4 Knowing their thoughts, Jesus exclaimed, “Why do you cherish such wicked thoughts?
 MAT 9:5 Which, I ask, is the easier? – to say ‘Your sins are forgiven’? Or to say ‘Get up, and walk’?
 MAT 9:6 But to show you that the Son of Man has power on earth to forgive sins” – then he said to the paralyzed man – “Get up, take up your bed, and return to your home.”
 MAT 9:7 The man got up and went to his home.
@@ -4054,7 +4054,7 @@ MAT 9:37 and he said to his disciples, “The harvest is abundant, but the labor
 MAT 9:38 Therefore pray to the owner of the harvest to send laborers to gather in his harvest.”
 MAT 10:1 Calling his twelve Disciples to him, Jesus gave them authority over foul spirits, so that they could drive them out, as well as the power of curing every kind of disease and every kind of sickness.
 MAT 10:2 The names of the twelve apostles are these, First Simon, also known as Peter, and his brother Andrew; James the son of Zebedee, and his brother John;
-MAT 10:3 Philip and Bartholomew; Thomas and Matthew the tax-gather; James the son of Alphaeus, and Thaddaeus;
+MAT 10:3 Philip and Bartholomew; Thomas and Matthew the tax-gatherer; James the son of Alphaeus, and Thaddaeus;
 MAT 10:4 Simon the Zealot, and Judas Iscariot – the apostle who betrayed him.
 MAT 10:5 These twelve Jesus sent out as his messengers, after giving them these instructions – “Do not go to the Gentiles, nor enter any Samaritan town,
 MAT 10:6 but make your way rather to the lost sheep of Israel.
@@ -4127,7 +4127,7 @@ MAT 11:30 for my yoke is easy, and my burden is light.”
 MAT 12:1 About the same time Jesus walked through the cornfields one Sabbath. His disciples were hungry, and began to pick some ears of wheat and eat them.
 MAT 12:2 But, when the Pharisees saw this, they said, “Look! Your disciples are doing what it is not allowable to do on a Sabbath!”
 MAT 12:3 “Haven’t you read,” replied Jesus, “what David did, when he and his companions were hungry –
-MAT 12:4 how he went into the house of God, and how they ate the consecrated bread, through it was not allowable for him or his companions to eat it, but only for the priests?
+MAT 12:4 how he went into the house of God, and how they ate the consecrated bread, though it was not allowable for him or his companions to eat it, but only for the priests?
 MAT 12:5 And haven’t you read in the law that, on the Sabbath, the priest in the Temple break the Sabbath and yet are not guilty?
 MAT 12:6 Here, however, I tell you, there is something greater than the Temple!
 MAT 12:7 Had you learned the meaning of the words – ‘I desire mercy, and not sacrifice,’ you would not have condemned those who are not guilty.
@@ -4271,7 +4271,7 @@ MAT 14:36 begging him merely to let them touch the tassel of his cloak; and all 
 MAT 15:1 Then some Pharisees and teachers of the Law came to Jesus, and said,
 MAT 15:2 “How is it that your disciples break the traditions of our ancestors? For they do not wash their hands when they eat food.”
 MAT 15:3 His reply was, “How is it that you on your side break God’s commandments out of respect for your own traditions?
-MAT 15:4 For God said – ‘Honor your father and mother,’ and ‘Anyone who abuses his father or mother shall suffer death,’
+MAT 15:4 For God said – ‘Honor your father and mother,’ and ‘Anyone who abuses his father or mother must suffer death,’
 MAT 15:5 but you say ‘Whenever anyone says to his father or mother “Whatever of mine might have been of service to you is set apart for God,”
 MAT 15:6 he is in no way bound to honor his father.’ In this way you have nullified the words of God for the sake of your traditions.
 MAT 15:7 Hypocrites! It was well said by Isaiah when he prophesied about you –
@@ -4329,14 +4329,14 @@ MAT 16:19 I will give you the keys of the kingdom of heaven. Whatever you forbid
 MAT 16:20 Then he charged his disciples not to tell anyone that he was the Christ.
 MAT 16:21 At that time Jesus Christ began to explain to his disciples that he must go to Jerusalem, and undergo much suffering at the hands of the elders, and chief priests, and teachers of the Law, and be put to death, and rise on the third day.
 MAT 16:22 But Peter took Jesus aside, and began to rebuke him. “Master,” he said, “please God that will never be your fate!”
-MAT 16:23 Jesus, however, turning to Peter, said, “Out of my way, Satan! You are a hindrance to me; for you look at things, not as God does, but as person does.”
+MAT 16:23 Jesus, however, turning to Peter, said, “Out of my way, Satan! You are a hindrance to me; for you look at things, not as God does, but as a person does.”
 MAT 16:24 Then Jesus said to his disciples, “If anyone wishes to walk in my steps, they must renounce self, and take up their cross, and follow me.
 MAT 16:25 For whoever wishes to save his life will lose it, and whoever, for my sake, loses his life will find it.
 MAT 16:26 What good will it do a person to gain the whole world, if he forfeits his life? Or what will a person give that is of equal value with his life?
 MAT 16:27 For the Son of Man is to come in his Father’s glory, with his angels, and then he will give to everyone what his actions deserve.
 MAT 16:28 I tell you, some of those who are standing here will not know death until they have seen the Son of Man coming into his kingdom.”
 MAT 17:1 Six days later, Jesus took with him Peter, and the brothers James and John, and led them up a high mountain alone.
-MAT 17:2 There his appearance was transformed before their eyes; his face shown like the sun, and his clothes became as white as the light.
+MAT 17:2 There his appearance was transformed before their eyes; his face shone like the sun, and his clothes became as white as the light.
 MAT 17:3 All at once Moses and Elijah appeared to them, talking with Jesus.
 MAT 17:4 “Master,” exclaimed Peter, interposing, “it is good to be here; if you wish, I will make three tents here, one for you, one for Moses, and one for Elijah.”
 MAT 17:5 While he was still speaking, a bright cloud enveloped them, and there was a voice from the cloud that said – “This is my dearly loved son, who brings me great joy; listen to him.”
@@ -4358,7 +4358,7 @@ MAT 17:20 “Because you have so little faith!” he answered, “For, I tell yo
 MAT 17:21 
 MAT 17:22 While Jesus and his disciples were together in Galilee, he said to them, “The Son of Man is destined to be betrayed into human hands,
 MAT 17:23 and they will put him to death, but on the third day he will rise.” The disciples were greatly distressed.
-MAT 17:24 After they had reached Capernaum, the collectors of the Temple taz came up to Peter, and said, “Does not your Master pay the Temple tax?”
+MAT 17:24 After they had reached Capernaum, the collectors of the Temple tax came up to Peter, and said, “Does not your Master pay the Temple tax?”
 MAT 17:25 “Yes,” answered Peter. But, on going into the house, before he could speak, Jesus said, “What do you think, Simon? From whom do earthly kings take taxes or tribute? From their sons, or from others?”
 MAT 17:26 “From others,” answered Peter. “Well then,” continued Jesus, “their sons go free.
 MAT 17:27 Still, so we don’t offend them, go and throw a line into the sea; take the first fish that rises, open its mouth, and you will find in it a piece of money. Take that, and give it to the collectors for both of us.”
@@ -4370,7 +4370,7 @@ MAT 18:5 And anyone who, for the sake of my name, welcomes even one little child
 MAT 18:6 But, if anyone puts temptation in the way of one of these little ones who believe in me, it would be best for them to be sunk in the depths of the sea with a great millstone hung around their neck.
 MAT 18:7 Alas for the world because of such temptations! There cannot but be temptations but sorrow awaits the person who does the tempting!
 MAT 18:8 “If your hand or your foot causes you to sin, cut it off, and throw it away. It would be better for you to enter life maimed or lame, than to have both hands, or both feet, and be thrown into the fire that never goes out.
-MAT 18:9 If your eye causes you to sin, take it out, and throw it away. It would be better for you to enter the life with only one eye, than to have both eyes and be thrown into the fires of Gehenna.
+MAT 18:9 If your eye causes you to sin, take it out, and throw it away. It would be better for you to enter life with only one eye, than to have both eyes and be thrown into the fires of Gehenna.
 MAT 18:10 Beware of despising one of these little ones, for in heaven, I tell you, their angels always see the face of my Father who is in heaven.
 MAT 18:11 
 MAT 18:12 “What think you? If a person owns a hundred sheep, and one of them strays, will the person not leave the ninety-nine on the hills, and go and search for the one that is straying?
@@ -4413,7 +4413,7 @@ MAT 19:13 Then some little children were brought to Jesus, for him to place his 
 MAT 19:14 Jesus, however, said, “Let the little children come to me, and do not hinder them, for it is to the childlike that the kingdom of heaven belongs.”
 MAT 19:15 So he placed his hands on them, and then went on his way.
 MAT 19:16 A man came up to Jesus, and said, “Teacher, what good thing must I do to obtain eternal life?”
-MAT 19:17 “Why ask me about goodness?” answered Jesus. “There is but One who is good. If you want to enter the life, keep the commandments.”
+MAT 19:17 “Why ask me about goodness?” answered Jesus. “There is only one who is good. If you want to enter life, keep the commandments.”
 MAT 19:18 “What commandments?” asked the man. “These,” answered Jesus, – “‘You must not kill. You must not commit adultery. You must not steal. You must not say what is false about others.
 MAT 19:19 Honor your father and your mother.’ And ‘You must love your neighbor as you love yourself.’”
 MAT 19:20 “I have observed all these,” said the young man. “What is still wanting in me?”
@@ -4481,7 +4481,7 @@ MAT 21:17 Then he left them, and went out of the city to Bethany, and spent the 
 MAT 21:18 The next morning, in returning to the city, Jesus became hungry;
 MAT 21:19 and, noticing a solitary fig tree by the roadside, he went up to it, but found nothing on it but leaves. So he said to it, “Never again will fruit be gathered off you.” And suddenly the fruit tree withered up.
 MAT 21:20 When the disciples saw this, they exclaimed in astonishment, “How suddenly the fig tree withered up!”
-MAT 21:21 “I tell you,” replied Jesus, “if you have faith, without ever a doubt, you will do what not only what has been done to the fig tree, but, even if you should say to this hill ‘Be lifted up and hurled into the sea!’ it would be done.
+MAT 21:21 “I tell you,” replied Jesus, “if you have faith and don’t doubt, you will not only do what has been done to the fig tree, but even if you were to say to this hill ‘Be lifted up and hurled into the sea!’ it would be done.
 MAT 21:22 And whatever you ask for in your prayers will, if you have faith, be granted you.”
 MAT 21:23 After Jesus had come into the Temple Courts, the chief priests and the elders of the people came up to him as he was teaching, and said, “What authority have you to do these things? Who gave you this authority?”
 MAT 21:24 “I, too,” said Jesus in reply, “will ask you one question; if you will give me an answer to it, then I, also, will tell you what authority I have to act as I do.
@@ -4497,7 +4497,7 @@ MAT 21:33 “Listen to another parable. A man, who was an employer, once planted
 MAT 21:34 When the time for the grape harvest drew near, he sent his servants to the tenants, to receive his share of the produce.
 MAT 21:35 But the tenants seized his servants, beat one, killed another, and stoned a third.
 MAT 21:36 A second time the owner sent some servants, a larger number than before, and the tenants treated them in the same way.
-MAT 21:37 As a last resource he sent his son to them. ‘They will respect my son,’ he said.
+MAT 21:37 As a last resort he sent his son to them. ‘They will respect my son,’ he said.
 MAT 21:38 But the tenants, on seeing his son, said to each other ‘Here is the heir! Come, let us kill him, and get his inheritance.’
 MAT 21:39 So they seized him, and threw him outside the vineyard, and killed him.
 MAT 21:40 Now, when the owner of the vineyard comes, what will he do to those tenants?”
@@ -4561,7 +4561,7 @@ MAT 23:5 All their actions are done to attract attention. They widen their phyla
 MAT 23:6 and like to have the place of honor at dinner, and the best seats in the synagogues,
 MAT 23:7 and to be greeted in the markets with respect, and to be called ‘Rabbi’ by everybody.
 MAT 23:8 But do not allow yourselves to be called ‘Rabbi,’ for you have only one teacher, and you yourselves are all brothers and sisters.
-MAT 23:9 And do not call anyone on the earth your ‘Father,’ for your have only one Father, the heavenly Father.
+MAT 23:9 And do not call anyone on the earth your ‘Father,’ for you have only one Father, the heavenly Father.
 MAT 23:10 Nor must you allow yourselves to be called ‘leaders,’ for you have only one leader, the Christ.
 MAT 23:11 The person who wants to be the greatest among you must be your servant.
 MAT 23:12 Whoever exalts themselves will be humbled, and whoever humbles themselves will be exalted.
@@ -4587,7 +4587,7 @@ MAT 23:31 By doing this you are furnishing evidence against yourselves that you 
 MAT 23:32 Go on then, finish what your ancestors began!
 MAT 23:33 You snakes and children of snakes! How can you escape being sentenced to Gehenna?
 MAT 23:34 That is why I send you prophets, wise people, and teachers of the Law, some of whom you will crucify and kill, and some of whom you will scourge in your synagogues, and persecute from town to town;
-MAT 23:35 so that on your heads may fall every drop of innocent blood split on earth, from the blood of innocent Abel down to that of Zechariah, Barachiah’s son, whom you murdered between the Temple and the altar.
+MAT 23:35 so that on your heads may fall every drop of innocent blood spilt on earth, from the blood of innocent Abel down to that of Zechariah, Barachiah’s son, whom you murdered between the Temple and the altar.
 MAT 23:36 All this, I tell you, will come home to the present generation.
 MAT 23:37 Jerusalem! Jerusalem! She who slays the prophets and stones the messengers sent to her – Oh, how often have I wished to gather your children around me, as a hen gathers her brood under her wings, and you would not come!
 MAT 23:38 Verily, your house is left to you desolate!
@@ -4629,8 +4629,8 @@ MAT 24:34 I tell you, even the present generation will not pass away, until all 
 MAT 24:35 The heavens and the earth will pass away, but my words will never pass away.
 MAT 24:36 But about that day and hour, no one knows – not even the angels of heaven, not even the Son – but only the Father himself.
 MAT 24:37 For, just as in the days of Noah, so will it be at the coming of the Son of Man.
-MAT 24:38 In those days before the flood they went on eating and drinking, marrying and being married, up to the very day on which Noah entered the ark,
-MAT 24:39 taking not notice until the flood came and swept them one and all away; and so will it be at the coming of the Son of Man.
+MAT 24:38 In those days before the flood they went on eating and drinking, marrying and being married, up to the very day on which Noah entered the ark.
+MAT 24:39 They didn’t realize what was going to happen until the flood came and swept them one and all away; and so will it be at the coming of the Son of Man.
 MAT 24:40 At that time, of two men on a farm one will be taken and one left;
 MAT 24:41 of two women grinding with a hand-mill one will be taken and one left.
 MAT 24:42 Therefore watch; for you cannot be sure on what day your Master is coming.
@@ -4664,7 +4664,7 @@ MAT 25:18 But the servant who had received the one bag went and dug a hole in th
 MAT 25:19 After a long time the master of those servants returned, and settled accounts with them.
 MAT 25:20 The servant who had received the five bags of gold came up and brought five bags more. ‘Sir,’ he said, ‘you entrusted me with five bags of gold; look, I have made another five bags!’
 MAT 25:21 ‘Well done, good, trustworthy servant!’ said his master. ‘You have been trustworthy with a small sum; now I will place a large one in your hands; come and share your master’s joy!’
-MAT 25:22 Then the one who had received the two bags of gold came up and said ‘Sir, you entrusted me with two bags pounds; look, I have made another two!’
+MAT 25:22 Then the one who had received the two bags of gold came up and said ‘Sir, you entrusted me with two bags of gold. Look, I have made another two!’
 MAT 25:23 ‘Well done, good, trustworthy servant!’ said his master. ‘You have been trustworthy with a small sum; now I will place a large one in your hands; come and share your master’s joy!’
 MAT 25:24 The man who had received the single bag of gold came up, too, and said ‘Sir, I knew that you were a hard man; you reap where you have not sown, and gather up where you have not winnowed;
 MAT 25:25 and, in my fear, I went and hid your money in the ground; look, here is what belongs to you!’
@@ -5088,7 +5088,7 @@ MAR 6:43 and they picked up enough broken pieces to fill twelve baskets, as well
 MAR 6:44 The people who ate the bread were five thousand in number.
 MAR 6:45 Immediately afterward Jesus made his disciples get into the boat, and cross over in advance, in the direction of Bethsaida, while he himself was dismissing the crowd.
 MAR 6:46 After he had taken leave of the people, he went away up the hill to pray.
-MAR 6:47 When evening fell, the boat was out in the middle of the sea, and Jesus on the shore alone.
+MAR 6:47 When evening fell, the boat was out in the middle of the sea, and Jesus was on the shore alone.
 MAR 6:48 Seeing them laboring at the oars – for the wind was against them – about three hours after midnight Jesus came towards them, walking on the water, intending to join them.
 MAR 6:49 But, when they saw him walking on the water, they thought it was a ghost, and cried out;
 MAR 6:50 for all of them saw him, and were terrified. But Jesus at once spoke to them. “Courage!” he said, “it is I; do not be afraid!”
@@ -5151,7 +5151,7 @@ MAR 8:13 So he left them to themselves, and, getting into the boat again, went a
 MAR 8:14 Now the disciples had forgotten to take any bread with them, one loaf being all that they had in the boat.
 MAR 8:15 So Jesus gave them this warning. “Take care,” he said, “beware of the leaven of the Pharisees and the leaven of Herod.”
 MAR 8:16 They began talking to one another about their being short of bread;
-MAR 8:17 and, noticing this, Jesus said to them, “Why are you talking about your being short of bread? Don’t you yet see or understand? Are your minds still so slow or comprehension?
+MAR 8:17 and, noticing this, Jesus said to them, “Why are you talking about your being short of bread? Don’t you yet see or understand? Are your minds still so slow of comprehension?
 MAR 8:18 Though you have eyes, do you not see? And though you have ears, do you not hear? Don’t you remember,
 MAR 8:19 when I broke up the five loaves for the five thousand, how many baskets of broken pieces you picked up?” “Twelve,” they said.
 MAR 8:20 “And when the seven for the four thousand, how many basketfuls of broken pieces did you pick up?” “Seven,” they said.
@@ -5215,9 +5215,9 @@ MAR 9:39 “None of you must prevent the man,” answered Jesus, “for no one w
 MAR 9:40 He who is not against us is for us.
 MAR 9:41 If anyone gives you a cup of water because you belong to Christ, I tell you, he will assuredly not lose his reward.
 MAR 9:42 “And, if anyone puts temptation in the way of one of these little ones who believe in me, it would be far better for him if he had been thrown into the sea with a great millstone around his neck.
-MAR 9:43 If your hand causes you to sin, cut it off. It would be better for you to enter the life maimed, than to have both your hands and go into Gehenna, into the fire that cannot be put out.
+MAR 9:43 If your hand causes you to sin, cut it off. It would be better for you to enter life maimed, than to have both your hands and go into Gehenna, into the fire that cannot be put out.
 MAR 9:44 
-MAR 9:45 If your foot causes you to sin, cut it off. It would be better for you to enter the life lame, than to have both your feet and be thrown into Gehenna.
+MAR 9:45 If your foot causes you to sin, cut it off. It would be better for you to enter life lame, than to have both your feet and be thrown into Gehenna.
 MAR 9:46 
 MAR 9:47 If your eye causes you to sin, tear it out. It would be better for you to enter the kingdom of God with only one eye, than to have both eyes and be thrown into Gehenna,
 MAR 9:48 where their worm does not die, and the fire is not put out.
@@ -5267,7 +5267,7 @@ MAR 10:41 On hearing of this, the ten others were at first very indignant about 
 MAR 10:42 But Jesus called the ten to him, and said, “Those who are regarded as ruling among the Gentiles lord it over them, as you know, and their great men oppress them.
 MAR 10:43 But among you it is not so. No, whoever wants to become great among you must be your servant,
 MAR 10:44 and whoever wants to take the first place among you must be the servant of all;
-MAR 10:45 for even the Son of Man came, not be served, but to serve, and to give his life as a ransom for many.”
+MAR 10:45 for even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”
 MAR 10:46 They came to Jericho. When Jesus was going out of the town with his disciples and a large crowd, Bartimaeus, the son of Timaeus, a blind beggar, was sitting by the roadside.
 MAR 10:47 Hearing that it was Jesus the Nazarene, he began to call out, “Jesus, Son of David, take pity on me.”
 MAR 10:48 Many of the people kept telling him to be quiet; but the man continued to call out all the louder, “Son of David, take pity on me.”
@@ -5527,7 +5527,7 @@ MAR 16:16 He who believes and is baptized will be saved; but he who refuses to b
 MAR 16:17 Moreover these signs will attend those who believe. In my name they will drive out demons; they will speak in new languages;
 MAR 16:18 they will take up snakes in their hands; and, if they drink any poison, it will not hurt them; they will place their hands on sick people and they will recover.”
 MAR 16:19 So the Lord Jesus, after he had spoken to them, was taken up into heaven, and sat at the right hand of God.
-MAR 16:20 But they set out, and made the proclamation everywhere, the Lord working with them, and confirming the message by the signs which attended it. But all that had been revealed to them they reported briefly to Peter and his companions. Afterward Jesus himself sent them out, from east to west, the sacred and imperishable proclamation of eternal salvation.
+MAR 16:20 But they set out, and made the proclamation everywhere, the Lord working with them, and confirming the message by the signs which attended it. But all that had been revealed to them they reported briefly to Peter and his companions. Afterward Jesus himself sent out through them, from east to west, the sacred and imperishable proclamation of eternal salvation.
 LUK 1:1 To his Excellency, Theophilus. Many attempts have been already made to draw up an account of those events which have reached their conclusion among us,
 LUK 1:2 just as they were reported to us by those who from the beginning were eye-witnesses, and afterward became bearers of the message.
 LUK 1:3 And, therefore, I also, since I have investigated all these events with great care from their very beginning, have resolved to write a connected history of them for you,
@@ -5546,7 +5546,7 @@ LUK 1:15 For he will be great in the sight of the Lord; he will not drink any wi
 LUK 1:16 and will reconcile many of the Israelites to the Lord their God.
 LUK 1:17 He will go before him in the spirit and with the power of Elijah, to reconcile fathers to their children and the disobedient to the wisdom of the righteous, and so make ready for the Lord a people prepared for him.”
 LUK 1:18 “How can I be sure of this?” Zechariah asked the angel. “For I am an old man and my wife is advanced in years.”
-LUK 1:19 “I am Gabriel,” the angel answered, “who stand in the presence of God, and I have been sent to speak to you and to bring you this good news.
+LUK 1:19 “I am Gabriel,” the angel answered, “who stands in the presence of God, and I have been sent to speak to you and to bring you this good news.
 LUK 1:20 And now you will be silent and unable to speak until the day when this takes place, because you did not believe what I said, though my words will be fulfilled in due course.”
 LUK 1:21 Meanwhile the people were watching for Zechariah, wondering at his remaining so long in the Temple.
 LUK 1:22 When he came out, he was unable to speak to them, and they perceived that he had seen a vision there. But Zechariah kept making signs to them, and remained dumb.
@@ -5719,7 +5719,7 @@ LUK 4:18 ‘The Spirit of the Lord is on me, for he has consecrated me to bring 
 LUK 4:19 to proclaim the year of the Lord’s favor.’
 LUK 4:20 Then, closing the book and returning it to the attendant, he sat down. The eyes of all in the synagogue were fixed on him,
 LUK 4:21 and Jesus began, “This very day this passage has been fulfilled in your hearing.”
-LUK 4:22 All who were present spoke well of him, and were astonished at the beautiful words that fell from his lips. “Isn’t Joseph’s son?” they asked.
+LUK 4:22 All who were present spoke well of him, and were astonished at the beautiful words that fell from his lips. “Isn’t this Joseph’s son?” they asked.
 LUK 4:23 “Doubtless,” said Jesus, “you will remind me of the saying – ‘Doctor, cure yourself;’ and you will say ‘Do here in your own country all that we have heard that has been done at Capernaum.’
 LUK 4:24 I tell you,” he continued, “that no prophet is acceptable in his own country.
 LUK 4:25 There were, doubtless, many widows in Israel in Elijah’s days, when the heavens were closed for three years and six months, and a severe famine prevailed throughout the country;
@@ -5788,7 +5788,7 @@ LUK 6:4 That he went into the house of God, and took the consecrated bread and a
 LUK 6:5 Then Jesus added, “The Son of Man is lord even of the Sabbath.”
 LUK 6:6 On another Sabbath Jesus went into the synagogue and taught; and there was a man there whose right hand was withered.
 LUK 6:7 The teachers of the Law and the Pharisees watched Jesus closely, to see if he would work cures on the Sabbath, so that they might find a charge to bring against him.
-LUK 6:8 Jesus, however, knew what was in the their minds, and said to the man whose hand was withered, “Stand up and come out into the middle.” The man stood up;
+LUK 6:8 Jesus, however, knew what was in their minds, and said to the man whose hand was withered, “Stand up and come out into the middle.” The man stood up,
 LUK 6:9 and Jesus said to them, “I ask you, is it allowable to do good on the Sabbath – or harm? To save a life, or let it perish?”
 LUK 6:10 Then, looking around at them all, he said to the man, “Stretch out your hand.” The man did so; and his hand had become sound.
 LUK 6:11 But the teachers of the Law and the Pharisees were mad with rage, and consulted together what they could do to Jesus.
@@ -5830,11 +5830,11 @@ LUK 6:46 Why do you call me ‘Master! Master!’ and yet fail to do what I tell
 LUK 6:47 Everyone who comes to me and listens to my teaching and acts on it – I will show you to whom they may be compared.
 LUK 6:48 They may be compared to a person building a house, who dug, and went deep, and laid the foundation on the rock. Then, when a flood came, the river swept down on that house, but had no power to shake it, because it had been built well.
 LUK 6:49 But those who have listened and not acted on what they have heard may be compared to a person who built a house on the ground without any foundation. The river swept down on it, and the house immediately collapsed; and great was the crash that followed.”
-LUK 7:1 When Jesus had brought to a conclusion all that he had then had to say to the people, he entered Capernaum.
+LUK 7:1 When Jesus had finished all he had to say to the people, he entered Capernaum.
 LUK 7:2 A centurion in the Roman army had a slave whom he valued, and who was seriously ill – almost at the point of death.
 LUK 7:3 And, hearing about Jesus, he sent some Jewish elders to him, with the request that he would come and save his slave’s life.
-LUK 7:4 When they found Jesus, they earnestly implored him to do so. “He deserves the favor from you,” they said,
-LUK 7:5 “For he is devoted to our nation, and himself built our synagogue for us.”
+LUK 7:4 When they found Jesus, they earnestly implored him to help. “He deserves this favor from you.” they said,
+LUK 7:5 “He is devoted to our people, and even built our synagogue for us.”
 LUK 7:6 So Jesus went with them. But, when he was no great distance from the house, the centurion sent some friends with the message – “Do not trouble yourself, Sir; for I am unworthy to receive you under my roof.
 LUK 7:7 That was why I did not even venture to come to you myself; but speak, and let my manservant be cured.
 LUK 7:8 For I myself am a man under the orders of others, with soldiers under me; and if I say to one of them ‘Go,’ he goes, and to another ‘Come,’ he comes, and to my slave ‘Do this,’ he does it.”
@@ -6068,7 +6068,7 @@ LUK 11:25 but, on coming there, it finds it unoccupied, swept, and put in order.
 LUK 11:26 Then it goes and brings with it seven other spirits more wicked than itself, and they go in, and make their home there; and the last state of that person proves to be worse than the first.”
 LUK 11:27 As Jesus was saying this, a woman in the crowd, raising her voice, exclaimed, “Happy was the mother who bore you and nursed you!”
 LUK 11:28 But Jesus replied, “Rather, happy are those who listen to God’s message and keep it.”
-LUK 11:29 As the crowds increased, Jesus began to speak, “This generation is a wicked generation. It is asking a sign, but no sign will be given it except the sign of Jonah.
+LUK 11:29 As the crowds increased, Jesus began to speak, “This generation is a wicked generation. It demands a sign, but no sign will be given it except the sign of Jonah.
 LUK 11:30 For, as Jonah became a sign to the people of Nineveh, so will the Son of Man be to this generation.
 LUK 11:31 At the judgment the Queen of the South will rise up with the people of this generation, and will condemn them, because she came from the ends of the earth to listen to the wisdom of Solomon; and here is more than a Solomon!
 LUK 11:32 At the judgment the men of Nineveh will stand up with this generation, and will condemn it, because they repented at Jonah’s proclamation; and here is more than a Jonah!
@@ -6227,7 +6227,7 @@ LUK 15:1 The tax collectors and the outcasts were all drawing near to Jesus to l
 LUK 15:2 but the Pharisees and the teachers of the Law found fault. “This man always welcomes outcasts, and takes meals with them!” they complained.
 LUK 15:3 So Jesus told them this parable –
 LUK 15:4 “Who among you who has a hundred sheep, and has lost one of them, does not leave the ninety-nine out in the open country, and go after the lost sheep until he finds it?
-LUK 15:5 And, when he has found it, he puts in on his shoulders rejoicing;
+LUK 15:5 And, when he has found it, he puts it on his shoulders rejoicing;
 LUK 15:6 and, on reaching home, he calls his friends and his neighbors together, and says ‘Come and rejoice with me, for I have found my sheep which was lost.’
 LUK 15:7 So, I tell you, there will be more rejoicing in heaven over one outcast who repents, than over ninety-nine religious people, who have no need to repent.
 LUK 15:8 Or again, what woman who has ten silver coins, if she loses one of them, does not light a lamp, and sweep the house, and search carefully until she finds it?
@@ -6254,7 +6254,7 @@ LUK 15:28 This made him angry, and he would not go in. But his father came out a
 LUK 15:29 ‘No,’ he said to his father, ‘look at all the years I have been serving you, without ever once disobeying you, and yet you have never given me even a young goat, so that I might have a party with my friends.
 LUK 15:30 But, no sooner has this son of yours come, who has eaten up your property in the company of prostitutes, than you have killed the fattened calf for him.’
 LUK 15:31 ‘Child,’ the father answered, ‘you are always with me, and everything that I have is yours.
-LUK 15:32 We could but make merry and rejoice, for here is your brother who was dead, and is alive; who was lost, and is found.’”
+LUK 15:32 But how could we not celebrate and rejoice? Here is your brother who was dead and is alive, who was lost and is found.’”
 LUK 16:1 Jesus said to his disciples, “There was a rich man who had a steward; and this steward was maliciously accused to him of wasting his estate.
 LUK 16:2 So the master called him and said ‘What is this that I hear about you? Give in your accounts, for you cannot act as steward any longer.’
 LUK 16:3 ‘What am I to do,’ the steward asked himself, ‘now that my master is taking the steward’s place away from me? I have not strength to dig, and I am ashamed to beg.
@@ -6281,9 +6281,9 @@ LUK 16:23 In Hades he looked up in his torment, and saw Abraham at a distance an
 LUK 16:24 So he called out ‘Pity me, Father Abraham, and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am suffering agony in this flame.’
 LUK 16:25 ‘Child,’ answered Abraham, ‘remember that you in your lifetime received what you thought desirable, just as Lazarus received what was not desirable; but now he has his consolation here, while you are suffering agony.
 LUK 16:26 And not only that, but between you and us there lies a great chasm, so that those who wish to pass from here to you cannot, nor can they cross from there to us.’
-LUK 16:27 ‘Then, Father,’ he said, ‘I beg you to send Lazarus to my father’s house –
-LUK 16:28 For I have five brothers to warn them, so that they may not come to this place of torture also.’
-LUK 16:29 ‘They have the writings of Moses and the prophets,’ replied Abraham; ‘let them listen to them.’
+LUK 16:27 ‘Then, Father,’ he said, ‘I beg you to send Lazarus to my father’s house
+LUK 16:28 where I have five brothers, to warn them, so that they will not also come to this place of torture.’
+LUK 16:29 ‘They have the writings of Moses and the prophets,’ replied Abraham. ‘Let them listen to them.’
 LUK 16:30 ‘But, Father Abraham,’ he urged, ‘if someone from the dead were to go to them, they would repent.’
 LUK 16:31 ‘If they do not listen to Moses and the prophets,’ answered Abraham, ‘they will not be persuaded, even if someone were to rise from the dead.’”
 LUK 17:1 Jesus said to his disciples, “It is inevitable that there should be temptations but sorrow awaits the person who does the tempting!
@@ -6540,7 +6540,7 @@ LUK 22:38 “Master,” they exclaimed, “look, here are two swords!” “Enou
 LUK 22:39 Jesus then went out, and made his way as usual to the Mount of Olives, followed by his disciples.
 LUK 22:40 And, when he reached the spot, he said to them, “Pray that you may not fall into temptation.”
 LUK 22:41 Then he withdrew about a stone’s throw, and knelt down and began to pray.
-LUK 22:42 “Father,” he said, “if it is your pleasure, spare me this cup; only, not my will but your be done.”
+LUK 22:42 “Father,” he said, “if it is your pleasure, spare me this cup; only, not my will but yours be done.”
 LUK 22:43 Presently there appeared to him an angel from heaven, who strengthened him.
 LUK 22:44 And, as his anguish became intense, he prayed still more earnestly, while his sweat was like great drops of blood falling on the ground.
 LUK 22:45 Then he rose from praying, and came to the disciples and found them sleeping for sorrow.
@@ -6654,7 +6654,7 @@ LUK 24:25 Then Jesus said to them, “Foolish men, slow to accept all that the p
 LUK 24:26 Was not the Christ bound to undergo this suffering before entering into his glory?”
 LUK 24:27 Then, beginning with Moses and all the prophets, he explained to them all through the scriptures the passages that referred to himself.
 LUK 24:28 When they got near the village to which they were walking, Jesus appeared to be going further;
-LUK 24:29 but they pressed him not to do so. “Stay with us,” they said, “for it is getting towards evening, and the sun in already low.” So Jesus went in to stay with them.
+LUK 24:29 but they pressed him not to do so. “Stay with us,” they said, “for it is getting towards evening, and the sun is already low.” So Jesus went in to stay with them.
 LUK 24:30 After he had taken his place at the table with them, he took the bread and said the blessing, and broke it, and gave it to them.
 LUK 24:31 Then their eyes were opened and they recognized him; but he disappeared from their sight.
 LUK 24:32 “How our hearts glowed,” the disciples said to each other, “while he was talking to us on the road, and when he explained the scriptures to us!”
@@ -6739,7 +6739,7 @@ JOH 2:6 There were standing there six stone water-jars, in accordance with the J
 JOH 2:7 Jesus said to the servants, “Fill the water-jars with water.”
 JOH 2:8 And, when they had filled them to the brim, he added, “Now take some out, and carry it to the Master of the feast.” The servants did so.
 JOH 2:9 And, when the Master of the feast had tasted the water which had now become wine, not knowing where it had come from – although the servants who had taken out the water knew –
-JOH 2:10 He called the groom and said to him, “Everyone puts good wine on the table first, and inferior wine afterward, when his guests have drunk freely; but you have kept back the good wine till now!”
+JOH 2:10 He called the groom and said to him, “Everyone puts good wine on the table first, and inferior wine afterward, when his guests have drunk freely; but you have kept back the good wine until now!”
 JOH 2:11 This, the first sign of his mission, Jesus gave at Cana in Galilee, and by it revealed his glory; and his disciples believed in him.
 JOH 2:12 After this, Jesus went down to Capernaum – he, his mother, his brothers, and his disciples; but they stayed there only a few days.
 JOH 2:13 Then, as the Jewish Passover was near, Jesus went up to Jerusalem.
@@ -6881,7 +6881,7 @@ JOH 5:33 You have yourselves sent to John, and he has testified to the truth.
 JOH 5:34 But the testimony which I receive is not from people; I am saying this for your salvation.
 JOH 5:35 He was the Lamp that was burning and shining, and you were ready to rejoice, for a time, in his light.
 JOH 5:36 But the testimony which I have is of greater weight than John’s; for the work that the Father has given me to carry out – the work that I am doing – is in itself proof that the Father has sent me as his messenger.
-JOH 5:37 The Father who has sent me has himself borne testimony to me. You have neither listened to his voice, not seen his form;
+JOH 5:37 The Father who has sent me has himself borne testimony to me. You have neither listened to his voice nor seen his form,
 JOH 5:38 and you have not taken his message home to your hearts, because you do not believe him whom he sent as his messenger.
 JOH 5:39 You search the scriptures, because you think that you find in them immortal life; and, though it is those scriptures that bear testimony to me,
 JOH 5:40 you refuse to come to me to have life.
@@ -7198,8 +7198,8 @@ JOH 11:37 but some of them said, “Could not this man, who gave sight to the bl
 JOH 11:38 Again groaning inwardly, Jesus came to the tomb. It was a cave, and a stone lay against the mouth of it.
 JOH 11:39 “Move the stone away,” said Jesus. “Master,” said Martha, the sister of the dead man, “by this time the smell must be offensive, for this is the fourth day since his death.”
 JOH 11:40 “Didn’t I tell you,” replied Jesus, “that, if you would believe in me, you should see the glory of God?”
-JOH 11:41 So they moved the stone away; and Jesus, with uplifted eyes, said, “Father, I thank you that you have heard my prayer;
-JOH 11:42 I know that you always hear me; but I say this for the sake of the people standing near, so that they may believe that you has sent me as your messenger.”
+JOH 11:41 So they moved the stone away; and Jesus, with uplifted eyes, said, “Father, I thank you that you have heard my prayer.
+JOH 11:42 I know that you always hear me; but I say this for the sake of the people standing near, so that they may believe that you have sent me as your messenger.”
 JOH 11:43 Then, after saying this, Jesus called in a loud voice, “Lazarus! Come out!”
 JOH 11:44 The dead man came out, wrapped hand and foot in a winding-sheet; his face, too, had been wrapped in a cloth. “Set him free,” said Jesus, “and let him go.”
 JOH 11:45 In consequence of this, many of the people, who had come to visit Mary and had seen what Jesus did, put their faith in him.
@@ -7323,7 +7323,7 @@ JOH 14:17 The world cannot receive this Spirit, because it does not see him or r
 JOH 14:18 I will not leave you bereaved; I will come to you.
 JOH 14:19 In a little while the world will see me no more, but you will still see me; because I am living, you will be living also.
 JOH 14:20 At that time you will recognize that I am in union with the Father, and you with me, and I with you.
-JOH 14:21 It is they who have my commands and lays them to heart who loves me; and the person who loves me will be loved by my Father, and I will love them, and will reveal myself to them.”
+JOH 14:21 It is the person who has my commands and lays them to heart who loves me; and the person who loves me will be loved by my Father, and I will love them, and will reveal myself to them.”
 JOH 14:22 “What has happened, Master,” said Judas (not Judas Iscariot), “that you are going to reveal yourself to us, and not to the world?”
 JOH 14:23 “Whoever loves me,” Jesus answered, “will lay my message to heart; and my Father will love him, and we will come to him and make our home with him.
 JOH 14:24 The person who does not love me will not lay my message to heart; and the message to which you are listening is not my own, but comes from the Father who sent me.
@@ -7338,7 +7338,7 @@ JOH 15:1 “I am the true vine, and my Father is the vine-grower.
 JOH 15:2 Any unfruitful branch in me he takes away, and he cleanses every fruitful branch, so that it may bear more fruit.
 JOH 15:3 You are already clean because of the message that I have given you.
 JOH 15:4 Remain united to me, and I will remain united to you. As a branch cannot bear fruit by itself, unless it remains united to the vine; no more can you, unless you remain united to me.
-JOH 15:5 I am the vine, you are the branches. If you remains united to me, while I remain united to you – you bear fruit plentifully; for you can do nothing apart from me.
+JOH 15:5 I am the vine, you are the branches. If you remain united to me, while I remain united to you – you bear fruit plentifully; for you can do nothing apart from me.
 JOH 15:6 If anyone does not remain united to me, they are thrown away, as a branch would be, and withers up. Such branches are collected and thrown into the fire, and are burnt.
 JOH 15:7 If you remain united to me, and my teaching remains in your hearts, ask whatever you wish, and it will be yours.
 JOH 15:8 It is by your bearing fruit plentifully, and so showing yourselves my disciples, that my Father is honored.
@@ -7716,7 +7716,7 @@ ACT 5:19 An angel of the Lord, however, opened the prison doors at night and led
 ACT 5:20 “Go,” he said, “and stand in the Temple Courts, and tell the people the whole message of this new life.”
 ACT 5:21 When they heard this, they went at daybreak into the Temple Courts, and began to teach. The high priest and his party, on their arrival, summoned the High Council, including all the leaders of the people among the Israelites, and sent to the jail to fetch the apostles.
 ACT 5:22 But, when the officers got there, they did not find them in the prison; so they returned and reported that,
-ACT 5:23 while they had found the goal barred securely and the guards posted at the doors, yet, on opening them, they had not found anyone inside.
+ACT 5:23 while they had found the jail barred securely and the guards posted at the doors, yet, on opening them, they had not found anyone inside.
 ACT 5:24 When the officer in charge at the Temple and the chief priests heard their story, they were perplexed about the apostles and as to what all this would lead to.
 ACT 5:25 Presently, however, someone came and told them, that the men whom they had put in prison were actually standing in the Temple Courts, teaching the people.
 ACT 5:26 Then, the officer went with his men and fetched the apostles – without using violence, for they were afraid of being stoned by the people –
@@ -7930,7 +7930,7 @@ ACT 10:33 Accordingly I sent to you at once, and you have been so good as to com
 ACT 10:34 Then Peter began. “I see, beyond all doubt,” he said, “that God does not show partiality,
 ACT 10:35 but that in every nation he who reverences him and does what is right is acceptable to him.
 ACT 10:36 God has sent his message to the Israelites and told them, through Jesus Christ, the good news of peace – and Jesus is Lord of all!
-ACT 10:37 You yourselves know the story which spread through all Judea, how, beginning form Galilee, after the baptism which John proclaimed –
+ACT 10:37 You yourselves know the story which spread through all Judea, how, beginning from Galilee, after the baptism which John proclaimed –
 ACT 10:38 the story, I mean, of Jesus of Nazareth, and how God consecrated him his Christ by enduing him with the Holy Spirit and with power; and how he went about doing good and curing all who were under the power of the devil, because God was with him.
 ACT 10:39 We are ourselves, too, witnesses to all that he did in Judea and in Jerusalem; yet they put him to death by hanging him on a cross!
 ACT 10:40 This Jesus God raised on the third day, and enabled him to appear,
@@ -8145,7 +8145,7 @@ ACT 16:24 On receiving so strict an order, the Governor put them into the inner 
 ACT 16:25 About midnight, while Paul and Silas were praying and singing hymns to God, and while the prisoners were listening to them,
 ACT 16:26 suddenly there was an earthquake of such violence that the jail was shaken to its foundations; all the doors flew open, and all the prisoners’ chains were loosened.
 ACT 16:27 Roused from his sleep, and seeing the prison doors open, the Governor drew his sword intending to kill himself, in the belief that the prisoners had escaped.
-ACT 16:28 But Paul called our loudly, “Do not harm yourself; we are all here.”
+ACT 16:28 But Paul called out loudly, “Do not harm yourself! We are all here.”
 ACT 16:29 Calling for a light, the Governor rushed in, and flung himself trembling at the feet of Paul and Silas.
 ACT 16:30 Then he led them out, and said, “What must I do to be saved?”
 ACT 16:31 “Believe in Jesus, our Lord,” they replied, “and you will be saved, you and your household too.”
@@ -8235,7 +8235,7 @@ ACT 19:12 so that people would carry home to the sick handkerchiefs or aprons th
 ACT 19:13 An attempt was made by some itinerant Jews, who were exorcists, to use the name of the Lord Jesus over those who had wicked spirits in them. “I order you,” they would say, “by the Jesus, whom Paul preaches.”
 ACT 19:14 The seven sons of Sceva, a Jewish chief priest, were doing this;
 ACT 19:15 but the wicked spirit answered them, “Jesus I acknowledge, and Paul I know, but you – who are you?”
-ACT 19:16 Then the man, in whom this wicked spirit was, sprang on them, mastered both of them, and so completely overpowered them, that they fled out of the house, stripped of their clothes, and wounded.
+ACT 19:16 Then the man with the wicked spirit sprang on them, overpowered them, with such violence that they fled out of the house, stripped of their clothes and wounded.
 ACT 19:17 This incident came to the knowledge of all the Jews and Greeks living at Ephesus; they were all awe-struck, and the name of the Lord Jesus was held in the highest honor.
 ACT 19:18 Many, too, of those who had become believers in Christ came with a full confession of their practices;
 ACT 19:19 while a number of people, who had practiced magic, collected their books and burnt them publicly; and on reckoning up the price of these, they found it amounted to fifty thousand silver coins.
@@ -8261,7 +8261,7 @@ ACT 19:38 If, however, Demetrius and the artisans who are acting with him have a
 ACT 19:39 But if you want anything more, it will have to be settled in the regular Assembly.
 ACT 19:40 For I tell you that we are in danger of being proceeded against for today’s riot, there being nothing to account for it; and in that case we will be at a loss to give any reason for this disorderly gathering.”
 ACT 19:41 With these words he dismissed the Assembly.
-ACT 20:1 When the uproar had ceased, Paul sent for the disciples, and, with encouraging words, bade them goodbye, and started on his journey to Macedonia.
+ACT 20:1 When the uproar had ceased, Paul sent for the disciples, and, with encouraging words, said goodbye to them, and started on his journey to Macedonia.
 ACT 20:2 After going through those districts and speaking many encouraging words to the disciples, he went into Greece, where he stayed three months.
 ACT 20:3 He was about to sail to Syria, when he learned that a plot had been laid against him by several of the Jewish leaders; so he decided to return by way of Macedonia.
 ACT 20:4 He was accompanied by Sopater the son of Pyrrhus, of Beroea, Aristarchus and Secundus from Thessalonica, Gaius of Derbe, and Timothy, as well as by Tychicus and Trophimus of Roman Asia.
@@ -8272,7 +8272,7 @@ ACT 20:8 There were a good many lamps in the upstairs room, where we had met;
 ACT 20:9 and a young man named Eutychus, sitting at the window, was gradually overcome with great drowsiness, as Paul continued his address. At last, quite overpowered by his drowsiness, he fell from the third story to the ground, and was picked up for dead.
 ACT 20:10 But Paul went down, threw himself on him, and put his arms around him. “Do not be alarmed,” he said, “he is still alive.”
 ACT 20:11 Then he went upstairs; and, after breaking and partaking of the bread, he talked with them at great length until daybreak, and then left.
-ACT 20:12 Meanwhile they had taken the lad away alive, and were greatly comforted.
+ACT 20:12 Meanwhile they had taken the boy away alive, and were greatly comforted.
 ACT 20:13 We started first, went on board ship, and sailed for Assos, intending to take Paul on board there. This was by his own arrangement, as he intended to go by land himself.
 ACT 20:14 So, when he met us at Assos, we took him on board and went on to Mitylene.
 ACT 20:15 The day after we had sailed from there, we arrived off Chios, touched at Samos the following day, and the next day reached Miletus;
@@ -8385,12 +8385,12 @@ ACT 23:13 There were more than forty in the plot;
 ACT 23:14 and they went to the chief priests and the elders, and said, “We have taken a solemn oath not to touch food until we have killed Paul.
 ACT 23:15 So we want you now, with the consent of the Council, to suggest to the commanding officer that he should bring Paul down before you, as though you intended to go more fully into his case; but, before he comes here, we will be ready to make away with him.”
 ACT 23:16 However, the son of Paul’s sister, hearing of the plot, went to the Fort, and on being admitted, told Paul about it.
-ACT 23:17 Paul called one of the garrison centurion and asked him to take the lad to the commanding officer, as he had something to tell him.
-ACT 23:18 The centurion went with the lad to the commanding officer, and said, “The prisoner Paul called me and asked me to bring this lad to you, as he has something to tell you.”
-ACT 23:19 The commanding officer took the lad by the hand, and, stepping aside, asked what it was he had to tell him.
-ACT 23:20 “Some men have agreed,” answered the lad, “to ask you to bring Paul down before the Council tomorrow, on the plea of your making further inquiry into his case.
+ACT 23:17 Paul called one of the garrison centurion and asked him to take the young man to the commanding officer, as he had something to tell him.
+ACT 23:18 The centurion went with him to the commanding officer, and said, “The prisoner Paul called me and asked me to bring this young man to you, as he has something to tell you.”
+ACT 23:19 The commanding officer took the young man by the hand, and, stepping aside, asked what it was he had to tell him.
+ACT 23:20 “Some men have agreed,” he answered, “to ask you to bring Paul down before the Council tomorrow, on the plea of your making further inquiry into his case.
 ACT 23:21 But do not let them persuade you, for more than forty of them are lying in wait for him, who have taken an oath that they will not eat or drink, until they have made away with him; and they are at this very moment in readiness, counting on your promise.”
-ACT 23:22 The commanding officer then dismissed the lad, cautioning him not to mention to anybody that he had given him that information.
+ACT 23:22 The commanding officer then dismissed the young man, cautioning him not to mention to anybody that he had given him that information.
 ACT 23:23 Then he called two Captains, and ordered them to have two hundred soldiers ready to go to Caesarea, as well as seventy troopers and two hundred lancers, by nine o’clock that night,
 ACT 23:24 and to have horses ready for Paul to ride, so that they might take him safely to Felix, the Governor.
 ACT 23:25 He also wrote a letter along these lines:
@@ -11612,11 +11612,11 @@ REV 16:18 There followed flashes of lightning, cries, and peals of thunder; and 
 REV 16:19 and the great city was torn in three, and the cities of the nation fell, and God remembered Babylon the Great, and gave her the maddening wine-cup of his wrath;
 REV 16:20 and every island vanished, and the mountains disappeared.
 REV 16:21 Great hailstones, a pound in weight, are falling on men from the heavens. And men blasphemed God because of the curse of the hail, for it was a very terrible curse.
-REV 17:1 Then one of the seven angels who held the seven bowls came and spoke to me. ‘Come here,’ he said, ‘and I will show you the sentence passed on that Great Harlot who is seated at the meeting of many waters,
+REV 17:1 Then one of the seven angels who held the seven bowls came and spoke to me. ‘Come here,’ he said, ‘and I will show you the sentence passed on that infamous prostitute who is seated at the meeting of many waters,
 REV 17:2 and with whom all the kings of the earth have had licentious intercourse; while all who live on the earth have been make drunk by the wine of her licentiousness.’
 REV 17:3 And he bore me away in a trance to a lonely place, and I saw a woman seated on a scarlet Beast, which was covered with blasphemous names; it had seven heads and ten horns.
 REV 17:4 The woman was clothed in purple and scarlet, and glittering with gold ornaments, precious stones, and pearls. In her hand she held a gold cup, full of idolatrous abominations, and the unclean fruits of her licentiousness;
-REV 17:5 while on her forehead there was written this mystic name – ‘BABYLON THE GREAT, THE MOTHER OF HARLOTS AND OF ALL IDOLATROUS ABOMINATIONS ON EARTH.’
+REV 17:5 while on her forehead was inscribed a name that had a hidden meaning: ‘Babylon the Great, mother of all prostitutes, source of all obscenities on earth.’
 REV 17:6 And I saw the woman drunk with the blood of Christ’s people and with the blood of the martyrs for Jesus. When I saw her, I was amazed beyond measure;
 REV 17:7 but the angel said to me – ‘Why were you amazed? I will tell you the mystic meaning of the vision of this woman, and of the Beast, with the seven heads and ten horns, that carries her.
 REV 17:8 The Beast that you saw was, but is not, and is about to rise out of the bottomless pit, and is on its way to destruction. Those who are living on earth will be amazed – those whose names have not been written in the book of life from the foundation of the world – when they see that the Beast was, but is not, and yet will come.’
@@ -11626,8 +11626,8 @@ REV 17:11 So must the Beast that was, but is not. He counts as an eighth king, a
 REV 17:12 The ten horns that you saw are ten kings, who have not yet received their kingdoms, but for an hour they receive the authority of kings, together with the Beast.
 REV 17:13 These kings are of one mind in surrendering their power and authority to the Beast.
 REV 17:14 They will fight with the Lamb, but the Lamb will conquer them, for he is Lord of lords and King of kings; so, too, will those with him who have received the call and are chosen and faithful.
-REV 17:15 And the angel said to me – ‘The waters that you saw, where the Harlot is seated, are throngs of people and men of all nations and languages.
-REV 17:16 The ten horns that you saw, and the Beast – they will hate the Harlot, and cause her to become deserted and strip her bare; they will eat her flesh and utterly consume her with fire.
+REV 17:15 And the angel said to me – ‘The waters that you saw, where the prostitute is seated, are throngs of people and men of all nations and languages.
+REV 17:16 The ten horns that you saw, and the Beast – they will hate the prostitute, and cause her to become deserted and strip her bare; they will eat her flesh and utterly consume her with fire.
 REV 17:17 For God has put it into their minds to carry out his purpose, in carrying out their common purpose and surrendering their kingdoms to the Beast, until God’s decrees will be executed.
 REV 17:18 As for the woman whom you saw, she is the great city that holds sway over all the kings of the earth.’
 REV 18:1 After this I saw another angel, descending from heaven, invested with great authority; and the earth was illuminated by his splendor.
@@ -11655,7 +11655,7 @@ REV 18:22 No more will the music of harpers, or minstrels, or flute players, or 
 REV 18:23 no more will the light of a lamp shine in you; no more will the voices of groom and bride be heard in you. Your merchants were the great men of the earth, for all the nations were deceived by your magical charms.”
 REV 18:24 Yes, and in her was to be found the blood of the prophets and of Christ’s people, and of all who have been put to death on the earth.
 REV 19:1 After this, I heard what seemed to be a great shout from a vast throng in heaven, crying – ‘Hallelujah! To our God belong salvation, and glory, and Power,
-REV 19:2 for true and righteous are his judgments. For he has passed judgment on the Great Harlot who was corrupting the earth by her licentiousness, and he has taken vengeance on her for the blood of his servants.’
+REV 19:2 for true and righteous are his judgments. For he has passed judgment on the infamous prostitute who was corrupting the earth by her licentiousness, and he has taken vengeance on her for the blood of his servants.’
 REV 19:3 Again they cried – ‘Hallelujah!’ And the smoke from her ruins rises for ever and ever.
 REV 19:4 Then the twenty-four elders and the Four creatures prostrated themselves and worshiped God who was seated on the throne, crying – ‘Amen, Hallelujah!’;
 REV 19:5 and from the throne there came a voice which said – ‘Praise our God all you who serve him, You who worship him, both high and low.’

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 01/31/2025 07:25:37
+## File Created: 03/20/2025 06:46:03
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyGurbet
 ## Source File: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 01/30/2025 23:37:44
+## Source Date: 03/18/2025 06:58:59
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -176,7 +176,7 @@ LUK 3:25 O Josif sasa čhavo e Matatijaso. O Matatij sasa čhavo e Amoseso. O Am
 LUK 3:26 O Nangej sasa čhavo e Maateso. O Maat sasa čhavo e Matatijaso. O Matatij sasa čhavo e Semeinaso. O Semein sasa čhavo e Josiheso. O Josih sasa čhavo e Jodaso.
 LUK 3:27 O Joda sasa čhavo e Joananaso. O Joanan sasa čhavo e Risaso. O Risa sasa čhavo e Zorovaveleso. O Zorovavel sasa čhavo e Salatiilaso. O Salatiil sasa čhavo e Nirijaso.
 LUK 3:28 O Niri sasa čhavo e Melhijaso. O Melhi sasa čhavo e Adijeso. O Adija sasa čhavo e Kosamaso. O Kosam sasa čhavo e Elmadameso. O Elmadam sasa čhavo e Ireso.
-LUK 3:29 O Er sasa čhavo e Isuseso. O Isus sasa čhavo e Eliezereso. O Eliezer sasa čhavo e Jorimaso. O Jorim sasa čhavo e Matatoso. O Matat sasa čhavo e Leviso,
+LUK 3:29 O Er sasa čhavo e Isuseso. O Isus sasa čhavo e Eliezereso. O Eliezer sasa čhavo e Jorimaso. O Jorim sasa čhavo e Matatoso. O Matat sasa čhavo e Levijaso,
 LUK 3:30 O Levi sasa čhavo e Simeoneso, O Simeon sasa čhavo e Judaso. O Juda sasa čhavo e Josifeso. O Josif sasa čhavo e Jonameso. O Jonam sasa čhavo e Eliakimeso.
 LUK 3:31 O Eliakim sasa čhavo e Melejaso. O Meleja sasa čhavo e Menaso. O Mena sasa čhavo e Matateso. O Matata sasa čhavo e Nataneso. O Natan sasa čhavo e Davideso.
 LUK 3:32 O David sasa čhavo e Jesejeso. O Jesej sasa čhavo e Jovideso, O Jovid sasa čhavo e Voozeso. O Vooz sasa čhavo e Salmoneso. O Salmon sasa čhavo e Naasoneso.
@@ -432,7 +432,7 @@ LUK 9:5 Te ni manglje tumen ane nesavo foro, ikljen gothar thaj tresin o praho t
 LUK 9:6 E sikade đele thaj phirde taro gav dži ko gav. Propovedisade o Lačho Lafi thaj sastarde e manušen ke sa e thana.
 LUK 9:7 Kana o Irod, o vladari e Galilejako, šunda tare sa so sasa, sasa zbunimo golese kaj nesave vaćarde kaj o Jovane o Krstitelj uštilo tare mule.
 LUK 9:8 Thaj avera vaćarde kaj ki phuv sikadilo o Ilija, a nesave vaćarde kaj uštilo tare mule nesavo proroko taro purano vreme.
-LUK 9:9 Thaj vaćarda o Irod: “E Jovaneso šoro me čhindem,. Savo si akana kava kastar gasave čudura šunav?” Thaj manglja te dičhol e Isuse.
+LUK 9:9 Thaj vaćarda o Irod: “E Jovaneso šoro me čhindem. Savo si akana kava kastar gasave čudura šunav?” Thaj manglja te dičhol e Isuse.
 LUK 9:10 Kana irisajle e apostolura, vaćarde e Isusese sa so ćerde. O Isus tegani inđarda e sikaden pesa thaj katane đele pašo foro savo akhardol Vitsaida te šaj aven korkore.
 LUK 9:11 Al but manuša šunde kaj đelo o Isus, thaj lije te džan pale leste. O Isus primisada len thaj lija te propovedil lenđe taro Carstvo e Devleso thaj sastarda kolen saven trubuja sastipe.
 LUK 9:12 Kana lija o đive te načhol, avile e dešuduj (12) apostolura pašo Isus thaj vaćarde: “Mukh e manušen. Nek džan ane pašutne gava thaj ane thana kaj šaj te aračhen khanči xamase thaj kaj šaj te soven, golese kaj sam ko than kaj naj khanči.”
@@ -1087,7 +1087,7 @@ LUK 23:26 Kana inđarde e vojnikura e Isuse, dolde nesave Simone taro foro Kirin
 LUK 23:27 Palo Isus đele pherdo manuša thaj džuvlja save ruje thaj žalisade le.
 LUK 23:28 O Isus irisajlo premal lende thaj vaćarda: “Čhejalen taro Jerusalim! Ma roven pale mande. Nego, roven pale tumende thaj pale tumare čhave.
 LUK 23:29 Golese kaj dikh, aven e đivesa ane save ka vaćaren: ‘Blagoslovime kola džuvlja save našti bijanen, blagoslovime e vođa save ni bijande, thaj blagoslovime e čuča save ni parvarde!’
-LUK 23:30 Tegani ‘ka vaćaren e planinenđe: “Peren pe amende!” thaj e bregurenđe: “Učharen amen!”’
+LUK 23:30 Tegani ‘ka vaćaren e planinenđe: “Peren pe amende!”, thaj e bregurenđe: “Učharen amen!”’
 LUK 23:31 Golese kaj, ako kava e manuša ćeren e zelenone kaštesa, so ka avol e šuće kaštesa?”
 LUK 23:32 Katane e Isusesa inđarde duje bilačhe manušen te aven mudarde.
 LUK 23:33 Kana avile ke kova than savo akhardola “Kokalo e šoreso”, gothe čhute ko krsto e Isuse thaj lesa i e duje bilačhe manušen, jekhe tari lesi desno rig a avere tari levo rig.

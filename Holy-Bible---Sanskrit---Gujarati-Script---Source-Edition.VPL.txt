@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---Gujarati-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---Gujarati-Script
-## File Created: 12/29/2024 07:54:56
+## File Created: 03/20/2025 06:46:05
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=sanguj
 ## Source File: https://ebible.org/Scriptures/sanguj_vpl.zip
-## Source Date: 12/28/2024 17:58:22
+## Source Date: 03/18/2025 07:01:50
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
