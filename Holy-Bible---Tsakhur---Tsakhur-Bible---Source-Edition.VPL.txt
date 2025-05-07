@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Tsakhur---Tsakhur-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Tsakhur---Tsakhur-Bible
-## File Created: 03/20/2025 06:46:09
+## File Created: 04/18/2025 06:14:18
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=tkr
 ## Source File: https://ebible.org/Scriptures/tkr_vpl.zip
-## Source Date: 03/18/2025 07:20:22
+## Source Date: 04/18/2025 03:01:09
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

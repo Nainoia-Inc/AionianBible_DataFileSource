@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Open-English-Bible-US---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Open-English-Bible-US
-## File Created: 03/20/2025 06:45:47
+## File Created: 04/18/2025 06:13:55
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engoebus
 ## Source File: https://ebible.org/Scriptures/engoebus_vpl.zip
-## Source Date: 03/18/2025 07:50:44
+## Source Date: 04/18/2025 03:36:03
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

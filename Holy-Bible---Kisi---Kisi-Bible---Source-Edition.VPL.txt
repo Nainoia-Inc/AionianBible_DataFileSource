@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Kisi---Kisi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Kisi---Kisi-Bible
-## File Created: 03/20/2025 06:45:56
+## File Created: 04/18/2025 06:14:05
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=kiz
 ## Source File: https://ebible.org/Scriptures/kiz_vpl.zip
-## Source Date: 03/18/2025 06:06:49
+## Source Date: 04/18/2025 01:47:14
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

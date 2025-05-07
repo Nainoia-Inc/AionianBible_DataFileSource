@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Textus-Receptus-Boyd---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-Textus-Receptus-Boyd
-## File Created: 03/20/2025 06:45:51
+## File Created: 04/18/2025 06:14:00
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=grctr
 ## Source File: https://ebible.org/Scriptures/grctr_vpl.zip
-## Source Date: 03/18/2025 08:01:26
+## Source Date: 04/18/2025 03:44:08
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

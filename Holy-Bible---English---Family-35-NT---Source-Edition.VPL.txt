@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Family-35-NT---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Family-35-NT
-## File Created: 03/20/2025 06:45:45
+## File Created: 04/18/2025 06:13:54
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engf35
 ## Source File: https://ebible.org/Scriptures/engf35_vpl.zip
-## Source Date: 03/18/2025 07:49:22
+## Source Date: 04/18/2025 03:31:46
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

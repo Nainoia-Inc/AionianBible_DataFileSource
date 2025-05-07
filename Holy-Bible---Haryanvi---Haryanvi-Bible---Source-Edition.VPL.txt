@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Haryanvi---Haryanvi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Haryanvi---Haryanvi-Bible
-## File Created: 03/20/2025 06:45:52
+## File Created: 04/26/2025 08:39:19
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=bgc
 ## Source File: https://ebible.org/Scriptures/bgc_vpl.zip
-## Source Date: 03/18/2025 04:18:51
+## Source Date: 04/25/2025 19:53:53
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

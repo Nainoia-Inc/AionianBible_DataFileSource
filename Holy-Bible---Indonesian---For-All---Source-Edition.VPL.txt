@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Indonesian---For-All---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Indonesian---For-All
-## File Created: 03/20/2025 06:45:55
+## File Created: 04/18/2025 06:14:03
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=indags
 ## Source File: https://ebible.org/Scriptures/indags_vpl.zip
-## Source Date: 03/18/2025 05:56:26
+## Source Date: 04/18/2025 01:36:50
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

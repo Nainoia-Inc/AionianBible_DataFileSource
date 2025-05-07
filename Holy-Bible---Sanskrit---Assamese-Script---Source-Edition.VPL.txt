@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---Assamese-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---Assamese-Script
-## File Created: 03/20/2025 06:46:04
+## File Created: 04/18/2025 06:14:13
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=sanasm
 ## Source File: https://ebible.org/Scriptures/sanasm_vpl.zip
-## Source Date: 03/18/2025 07:01:07
+## Source Date: 04/18/2025 02:41:31
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 03/20/2025 06:45:47
+## File Created: 05/02/2025 17:23:06
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engtcent
 ## Source File: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 03/19/2025 23:29:52
+## Source Date: 05/01/2025 00:35:32
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -39,7 +39,7 @@ MAT 1:20 But as he thought about these things, behold, an angel of the Lord appe
 MAT 1:21 She will give birth to a son, and yoʋ shall name him Jesus, for he will save his people from their sins.”
 MAT 1:22 All this took place to fulfill what the Lord had spoken through the prophet:
 MAT 1:23 “Behold, the virgin will conceive and give birth to a son, and they will name him Immanuel” (which means, “God with us”).
-MAT 1:24 When Joseph awoke from his sleep, he did as the angel of the Lord had commanded him. He took his wife
+MAT 1:24 When Joseph woke from his sleep, he did as the angel of the Lord had commanded him. He took his wife
 MAT 1:25 but had no marital relations with her until she had given birth to her firstborn son. And he named him Jesus.
 MAT 2:1 After Jesus was born in Bethlehem of Judea, in the days of Herod the king, behold, wise men from the east arrived in Jerusalem,
 MAT 2:2 saying, “Where is the child who has been born king of the Jews? For we saw his star in the east and have come to worship him.”
@@ -6873,10 +6873,10 @@ HEB 3:7 Therefore, as the Holy Spirit says, “Today, if you hear his voice,
 HEB 3:8 do not harden your hearts as in the rebellion, on the day of testing in the wilderness,
 HEB 3:9 where your fathers tried me, tested me, and saw my works for forty years.
 HEB 3:10 Therefore I was angry with that generation and said, ‘They always go astray in their hearts; they have not known my ways.’
-HEB 3:11 As I swore in my wrath, ‘They will not enter my rest!’ ”
+HEB 3:11 As I swore in my wrath, ‘They shall never enter my rest!’ ”
 HEB 3:12 Brothers, make sure that none of you has an evil heart of unbelief that turns away from the living God.
 HEB 3:13 But encourage one another each day, as long as it is called “Today,” so that none of you will be hardened by the deceitfulness of sin.
-HEB 3:14 For we have become sharers in Christ, if indeed we hold our original confidence firm to the end.
+HEB 3:14 For we have come to share in Christ, but only if we hold our original confidence firm to the end.
 HEB 3:15 As it is said, “Today, if you hear his voice, do not harden your hearts as in the rebellion.”
 HEB 3:16 For some did rebel when they heard God's voice, but not all whom Moses led out of Egypt.
 HEB 3:17 Now with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
@@ -6884,9 +6884,9 @@ HEB 3:18 And to whom did God swear that they would not enter his rest, if not to
 HEB 3:19 So we see that it was because of their unbelief that they were not able to enter.
 HEB 4:1 Therefore, while the promise of entering his rest remains open, let us proceed with fear so that none of you may be found to have fallen short of it.
 HEB 4:2 For we also have received good news just as they did. But the message they heard did not benefit them, since they were not united by faith with those who listened.
-HEB 4:3 For we who have believed enter that rest. As for the others, God has said, “As I swore in my wrath, ‘They will not enter my rest!’ ” Now God's works have been finished from the foundation of the world.
+HEB 4:3 For we who have believed enter that rest. As for the others, God has said, “As I swore in my wrath, ‘They shall never enter my rest!’ ” Now God's works have been finished from the foundation of the world.
 HEB 4:4 For in one place it speaks about the seventh day as follows: “On the seventh day God rested from all his works.”
-HEB 4:5 But again, God says in the passage above: “They will not enter my rest!”
+HEB 4:5 But again, God says in the passage above: “They shall never enter my rest!”
 HEB 4:6 Therefore, since God's rest remains open for some to enter, and those who formerly received good news did not enter because of their disobedience,
 HEB 4:7 he again designates a certain day, calling it “Today,” as he says through David much later, in the passage already quoted, “Today, if you hear his voice, do not harden your hearts.”
 HEB 4:8 For if Joshua had given them rest, God would not have spoken later about another day.
@@ -7580,8 +7580,8 @@ REV 1:12 Then I turned in that direction to see the voice that was speaking to m
 REV 1:13 and in the midst of the seven lampstands I saw one like a son of man, clothed with a robe reaching down to his feet and with a golden sash wrapped around his chest.
 REV 1:14 His head and his hair were white like wool, as white as snow. His eyes were like a flame of fire,
 REV 1:15 his feet were like burnished bronze refined in a furnace, and his voice was like the roar of many waters.
-REV 1:16 In his right hand he held seven stars, and out of his mouth came a sharp two-edged sword. His face was like the sun shining in its strength.
-REV 1:17 When I saw him, I fell at his feet as dead. But he placed his right hand on me and said, “Do not be afraid. I am the first and the last,
+REV 1:16 In his right hand he held seven stars, out of his mouth came a sharp two-edged sword, and his face was like the sun shining in its strength.
+REV 1:17 When I saw him, I fell at his feet as though I were dead. But he placed his right hand upon me and said, “Do not be afraid. I am the first and the last,
 REV 1:18 the living one. I was dead, but behold, I am alive forevermore. Amen. I have the keys of Death and Hades.
 REV 1:19 Therefore write what yoʋ have seen, what is now and what will take place after this.
 REV 1:20 This is the mystery of the seven stars that yoʋ saw in my right hand and the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
@@ -7597,41 +7597,41 @@ REV 2:9 I know yoʋr works, yoʋr tribulation, and yoʋr poverty—yet yoʋ are 
 REV 2:10 Do not be afraid of what yoʋ are about to suffer. Behold, the devil is about to throw some of you into prison so that you may be tested, and you will have tribulation for ten days. Be faithful, even to the point of death, and I will give yoʋ the crown of life.
 REV 2:11 He who has an ear, let him hear what the Spirit is saying to the churches. He who overcomes will certainly not be harmed by the second death.’
 REV 2:12 “To the angel of the church in Pergamum write: ‘These are the words of him who has the sharp two-edged sword:
-REV 2:13 I know yoʋr works and where yoʋ dwell, where Satan's throne is. Yet yoʋ hold fast to my name, and yoʋ did not deny my faith in the days when Antipas was my faithful witness, who was killed among you, where Satan dwells.
-REV 2:14 But I have a few things against yoʋ: Yoʋ have some there who hold to the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel and to eat food sacrificed to idols and commit fornication.
+REV 2:13 I know yoʋr works and where yoʋ dwell, where Satan's throne is. Yet yoʋ hold fast to my name, and yoʋ did not deny yoʋr faith in me in the days when Antipas was my faithful witness, who was killed among you, where Satan dwells.
+REV 2:14 But I have a few things against yoʋ: Yoʋ have some there who hold to the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel and to eat food sacrificed to idols and to commit fornication.
 REV 2:15 In the same way, yoʋ also have some who hold to the teaching of the Nicolaitans.
 REV 2:16 Therefore repent. Otherwise, I will come to yoʋ quickly and make war against them with the sword of my mouth.
 REV 2:17 He who has an ear, let him hear what the Spirit is saying to the churches. To him who overcomes I will give some of the hidden manna. I will also give him a white stone, and on the stone will be written a new name that no one knows except the one who receives it.’
 REV 2:18 “To the angel of the church in Thyatira write: ‘These are the words of the Son of God, whose eyes are like a flame of fire and whose feet are like burnished bronze:
 REV 2:19 I know yoʋr works, yoʋr love and faith, yoʋr service and endurance, and that yoʋr latter works are greater than the ones yoʋ did at first.
-REV 2:20 But I have this against yoʋ: Yoʋ tolerate yoʋr wife Jezebel, who calls herself a prophetess while teaching and seducing my servants to commit fornication and eat food sacrificed to idols.
+REV 2:20 But I have this against yoʋ: Yoʋ tolerate yoʋr wife Jezebel, who calls herself a prophetess while teaching and seducing my servants to commit fornication and to eat food sacrificed to idols.
 REV 2:21 I gave her time to repent, but she refuses to repent of her fornication.
 REV 2:22 Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent from her works.
 REV 2:23 I will strike her children dead. Then all the churches will know that I am he who searches minds and hearts, and I will give to each of you according to your works.
 REV 2:24 But to the rest of you who are in Thyatira, who do not hold to this teaching and have not learned what some call the deep things of Satan—to you I say: I place no further burden upon you.
-REV 2:25 Only hold fast to what you have until I open the door for you.
+REV 2:25 Only hold fast to what you have until I come.
 REV 2:26 To him who overcomes and keeps my works to the end, I will give authority over the nations,
 REV 2:27 and he will rule them with a rod of iron; like earthen vessels they will be shattered, just as I have received authority from my Father.
 REV 2:28 I will also give him the morning star.
 REV 2:29 He who has an ear, let him hear what the Spirit is saying to the churches.’
 REV 3:1 “To the angel of the church in Sardis write: ‘These are the words of him who has the seven spirits of God and the seven stars: I know yoʋr works; yoʋ have made a name for yoʋrself and yoʋ are alive, but actually yoʋ are dead.
 REV 3:2 Be watchful and strengthen what remains, which yoʋ were about to throw away, for I have not found yoʋr works to be complete in the sight of my God.
-REV 3:3 So remember what yoʋ have received, and repent. If yoʋ do not wake up, I will come upon yoʋ like a thief, and yoʋ will certainly not know at what hour I will come upon yoʋ.
+REV 3:3 So remember what yoʋ have received and heard; obey it and repent. If yoʋ do not wake up, I will come upon yoʋ like a thief, and yoʋ will certainly not know at what hour I will come upon yoʋ.
 REV 3:4 But yoʋ have a few individuals in Sardis who have not defiled their garments. They will walk with me in white, for they are worthy.
-REV 3:5 He who overcomes will be clothed in white garments. I will certainly not blot out his name from the book of life, but will confess his name before my Father and before his angels.
+REV 3:5 He who overcomes will be clothed in white garments. I will certainly not blot out his name from the book of life, but will confess his name before my Father and his angels.
 REV 3:6 He who has an ear, let him hear what the Spirit is saying to the churches.’
 REV 3:7 “To the angel of the church in Philadelphia write: ‘These are the words of him who is holy and true, who has the key of David and opens doors that no one else can open or shut:
 REV 3:8 I know yoʋr works. Behold, I have set before yoʋ an open door that no one can shut. I know that yoʋ have little strength, but yoʋ have kept my word and have not denied my name.
 REV 3:9 Those of the synagogue of Satan are liars. They declare themselves to be Jews but are not. Behold, I will make them come and bow down at yoʋr feet, and they will know that I love yoʋ.
 REV 3:10 Because yoʋ have kept my command to persevere, I will keep yoʋ from the hour of trial that is about to come upon the whole world to test those who dwell on the earth.
 REV 3:11 I am coming quickly. Hold fast to what yoʋ have so that no one will take yoʋr crown.
-REV 3:12 The one who overcomes I will make a pillar in the temple of my God, and he will no longer go out at all. I will write on him the name of my God, the name of the city of my God (the new Jerusalem that comes down out of heaven from my God), and the new name he is to receive.
+REV 3:12 The one who overcomes I will make a pillar in the temple of my God, and he will no longer go out at all. I will write on him the name of my God, the name of the city of my God (the new Jerusalem that comes down from heaven from my God), and the new name he is to receive.
 REV 3:13 He who has an ear, let him hear what the Spirit is saying to the churches.’
 REV 3:14 “To the angel of the church in Laodicea write: ‘These are the words of the Amen, the faithful and true witness, the origin of God's creation:
 REV 3:15 I know yoʋr works; yoʋ are neither cold nor hot. If only yoʋ were cold or hot!
 REV 3:16 So, because yoʋ are lukewarm, and not hot or cold, I am about to spit yoʋ out of my mouth.
 REV 3:17 For yoʋ say, “I am rich; I have become wealthy and need nothing,” but yoʋ do not realize that yoʋ are wretched, pitiful, poor, blind, and naked.
-REV 3:18 I counsel yoʋ to buy from me gold refined by fire so that yoʋ may be rich, and white garments so that yoʋ may clothe yoʋrself and the shame of yoʋr nakedness may not be revealed, and eye salve to anoint yoʋr eyes so that yoʋ may see.
+REV 3:18 I counsel yoʋ to buy from me gold refined by fire so that yoʋ can become rich, and white garments so that yoʋ can clothe yoʋrself and the shame of yoʋr nakedness will not be exposed, and eye salve to anoint yoʋr eyes so that yoʋ can see.
 REV 3:19 Those whom I love, I reprove and discipline. Therefore be zealous and repent.
 REV 3:20 Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and dine with him, and he with me.
 REV 3:21 To him who overcomes I will give the right to sit with me on my throne, just as I overcame and sat down with my Father on his throne.
@@ -7642,22 +7642,22 @@ REV 4:3 like jasper and carnelian in appearance. And around the throne was a rai
 REV 4:4 Surrounding the throne were twenty-four other thrones, and sitting on the thrones were the twenty-four elders. They were clothed in white garments and had golden crowns on their heads.
 REV 4:5 From the throne came flashes of lightning, rumblings, and peals of thunder, and there were seven flaming torches burning before the throne, which are the seven spirits of God.
 REV 4:6 Also before the throne was something like a sea of glass that looked like crystal. Around the throne on each side were four living creatures, full of eyes in front and in back.
-REV 4:7 The first living creature was like a lion, the second living creature was like a calf, the third living creature had the face of a man, and the fourth was like an eagle in flight.
-REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy, holy, holy, holy, holy, holy, holy, is the Lord God Almighty, who was and who is and who is to come.”
+REV 4:7 The first living creature was like a lion, the second living creature was like a calf, the third living creature had the face of a man, and the fourth living creature was like an eagle in flight.
+REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy, is the Lord God Almighty, who was and who is and who is to come.”
 REV 4:9 And whenever the living creatures give glory, honor, and thanks to him who sits on the throne, who lives forever and ever,
 REV 4:10 the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever. They cast their crowns before the throne and say,
 REV 4:11 “Yoʋ are worthy, our Lord and God, the Holy One, to receive glory, honor, and power; for yoʋ created all things, and by yoʋr will they came into existence and were created.”
 REV 5:1 Then I saw in the right hand of him who sits on the throne a scroll written on the inside and outside, sealed with seven seals.
 REV 5:2 And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”
-REV 5:3 But no one in heaven above or on earth or under the earth could open the scroll or look into it.
-REV 5:4 So I began to weep loudly because no one was found who was worthy to open the scroll or look into it.
+REV 5:3 But no one in heaven above or on earth or under the earth could open the scroll or look inside it.
+REV 5:4 So I began to weep loudly because no one was found who was worthy to open the scroll or look inside it.
 REV 5:5 Then one of the elders said to me, “Do not weep; behold, the Lion of the tribe of Judah, the Root of David, has conquered; he is the one who can open the scroll and its seven seals.”
 REV 5:6 Then I saw a Lamb that looked like it had been slain; he was standing among the elders in the midst of the throne and the four living creatures. He had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.
 REV 5:7 He went and took the scroll out of the right hand of him who was sitting on the throne.
-REV 5:8 When he took the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each of them had a harp and golden bowls full of incense, which contain the prayers of the saints.
+REV 5:8 When he took the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each of them had a harp and golden bowls full of incense, which are the prayers of the saints.
 REV 5:9 And they sang a new song: “Worthy are yoʋ to take the scroll and open its seals, for yoʋ were slain, and by yoʋr blood yoʋ redeemed us for God out of every tribe, tongue, people, and nation.
 REV 5:10 Yoʋ have made them kings and priests to our God, and they will reign on the earth.”
-REV 5:11 Then I looked, and I heard something like the voice of many angels coming from around the throne, the living creatures, and the elders. Their number was myriads of myriads and thousands of thousands,
+REV 5:11 Then I looked, and I heard something like the voice of many angels surrounding the throne, the living creatures, and the elders. Their number was myriads of myriads and thousands of thousands,
 REV 5:12 and they were saying with a loud voice, “Worthy is the Lamb who was slain to receive power and riches, wisdom and strength, honor, glory, and blessing!”
 REV 5:13 Then I heard every creature in heaven, on earth, under the earth, in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb, be blessing and honor, glory and power, forever and ever! Amen.”
 REV 5:14 And I heard the four living creatures saying, “Amen.” And the elders fell down and worshiped.
@@ -7670,7 +7670,7 @@ REV 6:6 Then I heard a voice from among the four living creatures saying, “A m
 REV 6:7 When the Lamb opened the fourth seal, I heard the fourth living creature say, “Come and see.”
 REV 6:8 And behold, there was a pale green horse! The name of its rider was Death, and Hades followed him. He was given authority over a fourth of the earth to kill by the sword, by famine and pestilence, and by the wild beasts of the earth.
 REV 6:9 When the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain because of the word of God and because of the testimony of the Lamb which they had upheld.
-REV 6:10 They cried out with a loud voice, “How long, O Master, Holy and True, will yoʋ not judge and avenge our blood on those who dwell on the earth?”
+REV 6:10 They cried out with a loud voice, “How long, O Master, Holy and True, will yoʋ not judge those who dwell on the earth and avenge our blood?”
 REV 6:11 They were each given a white robe and told to rest a while longer, until their fellow servants and their brothers, who were about to be killed just as they had been, should complete their course.
 REV 6:12 Then I watched as the Lamb opened the sixth seal, and there was a great earthquake. The sun became as black as sackcloth made of goat hair, the entire moon became like blood,
 REV 6:13 and the stars of the sky fell to the earth like a fig tree dropping its unripe figs when it is shaken by a strong wind.
@@ -7691,9 +7691,9 @@ REV 7:10 They were crying out with a loud voice, “Salvation belongs to our God
 REV 7:11 And all the angels stood around the throne and around the elders and the four living creatures, and they fell on their faces before the throne and worshiped God,
 REV 7:12 saying, “Amen! Blessing, glory, and wisdom, thanksgiving and honor, power and strength, be to our God forever and ever! Amen.”
 REV 7:13 In response one of the elders said to me, “Who are these people clothed in white robes, and where did they come from?”
-REV 7:14 I said to him, “Sir, yoʋ know.” And he said to me, “These are the ones coming out of the great tribulation. They have broadened their robes and made them white in the blood of the Lamb.
+REV 7:14 I said to him, “Sir, yoʋ know.” And he said to me, “These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.
 REV 7:15 Therefore they are before the throne of God, and they serve him day and night in his temple, and he who sits on the throne will spread his tabernacle over them.
-REV 7:16 They will hunger and thirst no more; the sun will certainly not beat down upon them, nor will any scorching heat,
+REV 7:16 They will hunger and thirst no more; the sun will certainly not beat down upon them, and neither will any scorching heat,
 REV 7:17 for the Lamb in the midst of the throne shepherds them; he leads them to springs of living water, and God will wipe away every tear from their eyes.”
 REV 8:1 When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 REV 8:2 And I saw the seven angels who stand before God, and seven trumpets were given to them.
@@ -7701,7 +7701,7 @@ REV 8:3 Then another angel with a golden censer came and stood at the altar. He 
 REV 8:4 And the smoke of the incense, with the prayers of the saints, ascended up to God from the hand of the angel.
 REV 8:5 Then the angel took the censer, filled it with fire from the altar, and threw it to the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
 REV 8:6 Then the seven angels who had the seven trumpets prepared to sound them.
-REV 8:7 The first angel sounded his trumpet, and hail and fire, mixed with blood, were hurled down to the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
+REV 8:7 The first sounded his trumpet, and hail and fire, mixed with blood, were hurled down to the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
 REV 8:8 The second angel sounded his trumpet, and something like a great burning mountain was thrown into the sea. A third of the sea became blood,
 REV 8:9 a third of the living creatures in the sea died, and a third of the ships were destroyed.
 REV 8:10 The third angel sounded his trumpet, and a great star fell from heaven, burning like a torch. It fell upon a third of the rivers and upon the springs of water.
@@ -7709,7 +7709,7 @@ REV 8:11 The name of the star is Wormwood, and a third of the waters became bitt
 REV 8:12 The fourth angel sounded his trumpet, and a third of the sun was struck, and a third of the moon and a third of the stars, so that a third of them were darkened. A third of the day was without light, and also a third of the night.
 REV 8:13 Then I looked, and I heard an eagle saying with a loud voice as it flew directly overhead, “Woe, woe, woe to those who dwell on the earth, because of the remaining blasts of the trumpet from the three angels who are about to sound!”
 REV 9:1 The fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and the star was given the key to the pit of the abyss.
-REV 9:2 From the pit rose smoke like the smoke of a burning furnace. The sun and the air were darkened by the smoke from the pit.
+REV 9:2 He opened the pit of the abyss, and from the pit rose smoke like the smoke of a burning furnace. The sun and the air were darkened by the smoke from the pit.
 REV 9:3 Then out of the smoke locusts descended upon the earth, and they were given power like that of the scorpions of the earth.
 REV 9:4 They were told not to harm the grass of the earth or any green thing or any tree, but only those who do not have the seal of God on their foreheads.
 REV 9:5 They were permitted to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone.
@@ -7727,7 +7727,7 @@ REV 9:16 The number of the troops on horse was ten thousand times ten thousand; 
 REV 9:17 Now this is what the horses and their riders looked like in my vision: The riders had breastplates that were fiery red, hyacinth blue, and sulfur yellow. The heads of the horses were like the heads of lions, and out of their mouths came fire, smoke, and sulfur.
 REV 9:18 By these three plagues a third of mankind was killed—by the fire, the smoke, and the sulfur that came out of the horses' mouths.
 REV 9:19 For the power of the horses is in their mouths and in their tails, because their tails have heads like serpents, and with them they inflict harm.
-REV 9:20 The rest of mankind, who were not killed by these plagues, did not repent from the works of their hands; they did not stop worshiping demons and idols of gold, silver, stone, and wood, which cannot see, hear, or walk.
+REV 9:20 The rest of mankind, who were not killed by these plagues, did not repent from the works of their hands; they did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see, hear, or walk.
 REV 9:21 Nor did they repent of their murders, sorceries, fornication, or thefts.
 REV 10:1 Then I saw a mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head; his face was like the sun, and his legs were like pillars of fire.
 REV 10:2 In his hand he held an open scroll. He placed his right foot on the sea and his left foot on the land,
@@ -7785,8 +7785,8 @@ REV 13:6 And he opened his mouth to utter blasphemy against God and to slander h
 REV 13:7 He was permitted to wage war against the saints and conquer them, and he was given authority over every tribe, people, tongue, and nation.
 REV 13:8 All who dwell on the earth will worship him, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who was slain.
 REV 13:9 If anyone has an ear, let him hear:
-REV 13:10 “If anyone has captivity as his lot, away he goes; if anyone is to be killed with the sword, he must be killed.” This calls for the endurance and the faith of the saints.
-REV 13:11 Then I saw another beast coming up out of the earth. He had horns like a lamb, but he spoke like a dragon.
+REV 13:10 “If anyone has captivity as his lot, away he goes; if anyone kills with the sword, with the sword he must be killed.” This calls for the endurance and the faith of the saints.
+REV 13:11 Then I saw another beast coming up out of the earth. He had two horns like a lamb, but he spoke like a dragon.
 REV 13:12 He exercised all the authority of the first beast in his presence, and made the earth and those who dwell in it worship the first beast, whose mortal wound had been healed.
 REV 13:13 He performed great signs, even making fire come down from heaven to earth in the presence of the people.
 REV 13:14 By the signs he was permitted to do in the presence of the first beast, he deceived my own people who dwell on the earth, telling those who dwell on the earth to make an image of the first beast, who had a wound from the sword but still lived.
@@ -7815,7 +7815,7 @@ REV 14:18 And another angel, who had authority over the fire, came out from the 
 REV 14:19 So the angel swung his sickle across the earth, gathered the vintage of the earth, and threw it into the great winepress of the wrath of God.
 REV 14:20 Then the winepress was trodden outside the city, and blood came out of the winepress, as high as a horse's bridle, for one thousand six hundred stadia.
 REV 15:1 Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, because with them the wrath of God is completed.
-REV 15:2 I also saw something like a sea of glass mixed with fire, and those who had overcome the image, the beast himself, and the number of his name were standing by the sea of glass, holding the harps of God.
+REV 15:2 I also saw something like a sea of glass mixed with fire, and those who had overcome the beast, his image, and the number of his name were standing by the sea of glass, holding the harps of God.
 REV 15:3 They sang the song of Moses, the servant of God, and the song of the Lamb: “Great and marvelous are yoʋr works, O Lord God, the Almighty! Righteous and true are yoʋr ways, O King of the nations!
 REV 15:4 Who could not fear yoʋ, O Lord, and glorify yoʋr name? For yoʋ alone are holy. All will come and worship before yoʋ, for yoʋr righteous acts have been revealed.”
 REV 15:5 After this I looked, and the sanctuary of the tent of witness in heaven was opened,
@@ -7867,23 +7867,23 @@ REV 18:3 For all the nations have fallen because of the wine of the wrath of her
 REV 18:4 Then I heard another voice from heaven say, “Come out of her, my people, so that you do not participate in her sins, and so that you do not receive any of her plagues;
 REV 18:5 for her sins are heaped as high as heaven, and God has remembered her unrighteous acts.
 REV 18:6 Render to her as she herself has rendered; make it double, as she has done, even according to her works. Mix a double portion for her in the cup she has mixed.
-REV 18:7 As much as she has glorified herself and lived in luxury, give her the same amount of torment and mourning, for in her heart she says, ‘I am like a queen; I am not a widow and will never see mourning.’
+REV 18:7 As much as she has glorified herself and lived in luxury, give her the same amount of torment and mourning, for in her heart she says, ‘I sit enthroned as a queen; I am not a widow and will never see mourning.’
 REV 18:8 Therefore her plagues will come in a single day— death, mourning, and famine. She will be burned up with fire, for mighty is the Lord God who has judged her.”
 REV 18:9 The kings of the earth who have committed fornication with her and lived in luxury with her will weep and wail over her when they see the smoke of her burning.
 REV 18:10 In fear of her torment they will stand at a distance and say, “Alas, alas, for the great city, Babylon, the mighty city! For in a single hour yoʋr judgment has come.”
 REV 18:11 The merchants of the earth will weep and mourn over her, because no one buys their cargo anymore,
 REV 18:12 cargo of gold, silver, precious stones, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of citron wood, all kinds of articles made of ivory, all kinds of articles made of costly wood, bronze, iron, and marble;
-REV 18:13 cargo of cinnamon, incense, myrrh, frankincense, oil, fine flour, wheat, sheep, cattle, horses and chariots, and bodies and souls of men.
+REV 18:13 cargo of cinnamon, incense, myrrh, frankincense, wine, oil, fine flour, wheat, sheep, cattle, horses and chariots, and bodies and souls of men.
 REV 18:14 “The ripe fruit that was the desire of yoʋr soul has gone from yoʋ, and all yoʋr delicacies and splendors are lost to yoʋ; yoʋ will never find them again!”
 REV 18:15 The merchants of these wares, who became rich from her, will stand at a distance in fear of her torment, weeping and mourning aloud,
-REV 18:16 “Alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with precious stone and pearls!
+REV 18:16 “Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with precious stone and pearls!
 REV 18:17 For in a single hour such great wealth has been laid waste!” And every shipmaster and seafaring man, sailors and all whose trade is on the sea, stood at a distance
 REV 18:18 and cried out as they saw the smoke of her burning, “What city is like the great city?”
 REV 18:19 They threw dust on their heads and cried out, weeping and mourning aloud, “Alas, alas, for the great city, where all who had ships at sea grew rich from her valuable merchandise! For in a single hour she has been laid waste.
 REV 18:20 Rejoice over her, O heaven, and you saints, apostles, and prophets, for God has given judgment for you against her.”
 REV 18:21 Then a mighty angel picked up a stone like a great millstone and threw it into the sea, and said, “With such violence Babylon the great city will be thrown down, never to be found again.
 REV 18:22 The sound of harpists, musicians, flutists, and trumpeters will never be heard in yoʋ again. No craftsman of any trade will ever be found in yoʋ again. The sound of a mill will never be heard in yoʋ again.
-REV 18:23 The light of a lamp will never shine in yoʋ again. The voice of bridegroom and bride will never be heard in yoʋ again. Yoʋr merchants were the magnates of the earth because all the nations were deceived by yoʋr sorcery.”
+REV 18:23 The light of a lamp will never shine in yoʋ again. The voice of bridegroom and bride will never be heard in yoʋ again, for yoʋr merchants were the magnates of the earth, and all the nations were deceived by yoʋr sorcery.”
 REV 18:24 And in her was found the blood of prophets and of saints, and of all who have been slain on the earth.
 REV 19:1 After this I heard what sounded like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God,
 REV 19:2 for true and just are his judgments; he has judged the great prostitute, who corrupted the earth with her fornication. He has avenged the blood of his servants shed by her hand.”
@@ -7892,15 +7892,15 @@ REV 19:4 Then the twenty-four elders and the four living creatures fell down and
 REV 19:5 And a voice came out from the throne, saying, “Praise our God, all you his servants, you who fear him, both small and great.”
 REV 19:6 Then I heard what sounded like the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, saying, “Hallelujah! For the Lord our God the Almighty reigns.
 REV 19:7 Let us rejoice and be glad and give him the glory, for the marriage of the Lamb has come, and his bride has made herself ready.
-REV 19:8 To her it has been granted to be clothed with fine linen, bright and pure.” For the fine linen is the righteous acts of the saints.
+REV 19:8 It has been granted to her to be clothed with fine linen, bright and pure.” For the fine linen represents the righteous acts of the saints.
 REV 19:9 Then the angel said to me, “Write: ‘Blessed are those who are invited to the marriage supper of the Lamb.’ ” He also said to me, “These are the true words of God.”
-REV 19:10 Then I fell at his feet to worship him, but he said to me, “Do not do that! I am a fellow servant of yoʋrs, and of yoʋr brothers who hold to the testimony of Jesus. Worship God.” For the testimony of Jesus is the spirit of prophecy.
+REV 19:10 Then I fell at his feet to worship him, but he said to me, “Do not do that! I am a fellow servant of yoʋrs and of yoʋr brothers who hold to the testimony of Jesus. Worship God.” For the testimony of Jesus is the spirit of prophecy.
 REV 19:11 Then I saw heaven opened, and behold, a white horse! Its rider is called Faithful and True, and in righteousness he judges and wages war.
 REV 19:12 His eyes are a flame of fire, and on his head are many diadems. Names were written on him, including a name that no one knows but he himself.
 REV 19:13 He is clothed with a garment dipped in blood, and his name is the Word of God.
 REV 19:14 The armies of heaven, clothed in fine linen, white and pure, were following him on white horses.
 REV 19:15 Out of his mouth comes a sharp two-edged sword with which he can strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God, the Almighty.
-REV 19:16 On his garment and on his thigh is written the name: “King of kings and Lord of lords.”
+REV 19:16 On his garment and on his thigh a name is written: King of kings and Lord of lords.
 REV 19:17 Then I saw an angel standing in the sun, and he cried out with a loud voice, saying to all the birds that were flying directly overhead, “Come, gather together for the great supper of God,
 REV 19:18 so that you may eat the flesh of kings, the flesh of commanders, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great.”
 REV 19:19 Then I saw the beast, the kings of the earth, and their armies gathered together to wage war against the rider on the horse and against his army.
@@ -7911,12 +7911,12 @@ REV 20:2 He seized the dragon, the ancient serpent, who is the devil and Satan, 
 REV 20:3 He threw him into the abyss and locked and sealed it over him, so that he would no longer deceive the nations until the thousand years were completed. After that he must be released for a short time.
 REV 20:4 Then I saw thrones, and those who sat on them were given authority to judge. I also saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God. They had not worshiped the beast or his image and had not received the mark on their foreheads or their hands. They came to life and reigned with Christ for the thousand years.
 REV 20:5 (The rest of the dead did not come to life until the thousand years were completed.) This is the first resurrection.
-REV 20:6 Blessed and holy are those who take part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ, and will reign with him for a thousand years.
-REV 20:7 When the thousand years are completed, Satan will be released from his prison
+REV 20:6 Blessed and holy are those who take part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ, and they will reign with him for a thousand years.
+REV 20:7 After the thousand years, Satan will be released from his prison
 REV 20:8 and will go out to deceive the nations that are at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea.
 REV 20:9 They marched up over the breadth of the earth and surrounded the camp of the saints and the beloved city, but fire came down out of heaven from God and devoured them.
 REV 20:10 And the devil, who had deceived them, was thrown into the lake of fire and sulfur, where the beast and the false prophet had been thrown, and they will be tormented day and night forever and ever.
-REV 20:11 Then I saw a great white throne and one who sat upon it. The earth and the sky fled from his face, and no place was found for them.
+REV 20:11 Then I saw a great white throne and one who sat upon it. The earth and the sky fled from his presence, and no place was found for them.
 REV 20:12 And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to their works.
 REV 20:13 Then the sea gave up the dead who were in it, and Death and Hades gave up the dead who were in them, and each person was judged according to his works.
 REV 20:14 Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.
@@ -7925,34 +7925,34 @@ REV 21:1 Then I saw a new heaven and a new earth, for the first heaven and the f
 REV 21:2 I also saw the holy city, new Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband.
 REV 21:3 And I heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men. He will dwell with them, and they will be his people, and God himself will be with them.
 REV 21:4 He will wipe away every tear from their eyes. Death will be no more, and there will no longer be mourning, crying, or pain, for the former things have passed away.”
-REV 21:5 Then he who sits on the throne said, “Behold, I am making all things new.” And he said to me, “Write this down, for these words are true and trustworthy.”
+REV 21:5 Then he who sits on the throne said, “Behold, I am making all things new.” And he said, “Write this down, for these are the trustworthy and true words of God.”
 REV 21:6 He also said to me, “I am the Alpha and the Omega, the beginning and the end. To him who thirsts I will freely give from the spring of the water of life.
-REV 21:7 He who overcomes will inherit these things; I will be his God, and he will be my son.
+REV 21:7 I will give these things to him who overcomes; I will be his God, and he will be my son.
 REV 21:8 But as for the cowardly, the faithless, the sinful, the detestable, the murderers, the fornicators, the sorcerers, the idolaters, and all liars, their portion is in the lake that burns with fire and sulfur, which is the second death.”
 REV 21:9 Then one of the seven angels who had the seven bowls full of the seven final plagues came and said to me, “Come, I will show yoʋ the wife, the bride of the Lamb.”
-REV 21:10 And he carried me away in the Spirit to a great and high mountain and showed me the great city, the holy Jerusalem, coming down out of heaven from God.
+REV 21:10 And he carried me away in the Spirit to a great and high mountain and showed me the holy city Jerusalem coming down out of heaven from God.
 REV 21:11 The city shone with the glory of God, and its radiance was like a very precious stone, like a jasper stone, clear as crystal.
 REV 21:12 It had a great, high wall with twelve gates. Twelve angels were at the gates, and on the gates were written the names of the twelve tribes of the sons of Israel.
 REV 21:13 There were three gates on the east, three gates on the north, three gates on the south, and three gates on the west.
 REV 21:14 The wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.
-REV 21:15 The angel who spoke to me had a golden measuring rod to measure the city and its gates.
-REV 21:16 The city is laid out as a square; its length is the same as its width. The angel measured the city with the rod and found it to be twelve thousand stadia. (The length, width, and height were all equal, each measuring twelve thousand stadia.)
+REV 21:15 The angel who spoke to me had a golden measuring rod to measure the city, its gates, and its wall.
+REV 21:16 The city is laid out as a square; its length is the same as its width. The angel measured the city with the rod and found it to be twelve thousand and twelve stadia. (The length, width, and height are all equal.)
 REV 21:17 Its wall was one hundred forty-four cubits according to human measurement, which the angel was using.
 REV 21:18 The wall was made of jasper, while the city was pure gold, like clear glass.
 REV 21:19 The foundations of the city wall were adorned with every kind of precious stone. The first foundation stone was jasper; the second, sapphire; the third, agate; the fourth, emerald;
 REV 21:20 the fifth, sardonyx; the sixth, carnelian; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; and the twelfth, amethyst.
-REV 21:21 The twelve gates were twelve pearls, each one of the gates was made of a single pearl, and the street of the city was pure gold, like transparent glass.
+REV 21:21 The twelve gates were twelve pearls—each one of the gates was made of a single pearl—and the street of the city was pure gold, like transparent glass.
 REV 21:22 I did not see a temple in the city, for the Lord God Almighty is its temple, and so is the Lamb.
-REV 21:23 The city has no need of sun or moon to shine upon it, for the glory of God gives it light, and its lamp is the Lamb.
-REV 21:24 The nations will walk by its light, and the kings of the earth will bring the glory and honor of the nations into the city to present to God.
+REV 21:23 The city has no need for the sun or moon to shine, for the glory of God itself gives it light, and its lamp is the Lamb.
+REV 21:24 The nations will walk by its light, and the kings of the earth will bring the glory and honor of the nations to the city to present to God.
 REV 21:25 Its gates will never be shut at the end of the day, for there will be no night there.
-REV 21:26 They will bring the glory and honor of the nations into the city.
-REV 21:27 But no unclean thing and no one who causes an abomination or a lie will ever enter it, but only those whose names are written in the Lamb's book of life.
-REV 22:1 Then the angel showed me a pure river of the water of life, as bright as crystal, flowing from the throne of God and of the Lamb.
-REV 22:2 In the middle of the city street, and on each side of the river, is the tree of life, bearing twelve kinds of fruit, yielding its fruit each month. And the leaves of the tree are for the healing of the nations.
+REV 21:26 They will bring the glory and honor of the nations to the city, so that they may enter in.
+REV 21:27 No unclean thing and no one who causes an abomination or a lie will ever enter it, but only those whose names are written in the Lamb's book of life.
+REV 22:1 Then the angel showed me a pure river of the water of life, as bright as crystal, flowing from the throne of God and of the Lamb
+REV 22:2 through the middle of the street of the city. On each side of the river is the tree of life, bearing twelve kinds of fruit, with each month yielding its own fruit. And the leaves of the tree are for the healing of the nations.
 REV 22:3 No longer will there be anything accursed, but the throne of God and of the Lamb will be in the city, and his servants will serve him.
 REV 22:4 They will see his face, and his name will be on their foreheads.
-REV 22:5 There will be no night there, and they will not need any lamp or the light of the sun, for the Lord God will give them light, and they will reign forever and ever.
+REV 22:5 There will be no night there, and there will be no need for any lamp or light, for the Lord God will give them light, and they will reign forever and ever.
 REV 22:6 Then the angel said to me, “These words are trustworthy and true. The Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.
 REV 22:7 “Behold, I am coming quickly. Blessed is he who keeps the words of the prophecy of this book.”
 REV 22:8 I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me.
@@ -7961,7 +7961,7 @@ REV 22:10 Then he said to me, “Do not seal up the words of the prophecy of thi
 REV 22:11 Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”
 REV 22:12 “Behold, I am coming quickly, and my reward is with me, to repay each person according to their works.
 REV 22:13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
-REV 22:14 Blessed are those who keep his commandments, so that they may have the right to the tree of life and may enter the city by its gates.
+REV 22:14 Blessed are those who keep God's commandments, so that they may have the right to the tree of life and may enter the city by its gates.
 REV 22:15 Outside are the dogs, the sorcerers, the fornicators, the murderers, the idolaters, and everyone who loves and practices falsehood.
 REV 22:16 “I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and offspring of David, the bright morning star.”
 REV 22:17 The Spirit and the bride say, “Come.” Let anyone who hears say, “Come.” Let anyone who is thirsty come. And let anyone who wishes to do so take the water of life freely.

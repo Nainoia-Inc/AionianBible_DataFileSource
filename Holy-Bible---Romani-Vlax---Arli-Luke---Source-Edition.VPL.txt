@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 03/20/2025 06:46:03
+## File Created: 05/02/2025 17:23:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyArli
 ## Source File: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 03/19/2025 16:18:04
+## Source Date: 05/01/2025 23:31:22
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -966,7 +966,7 @@ LUK 21:14 Adalese zapamtinen: ma pripreminen tumen angleder save lafencar ka bra
 LUK 21:15 Adalese so me ka dav tumen mudrost hem lafija ko save nijekh tumaro protivniko naka šaj te irini lafi.
 LUK 21:16 A ka izdajinen tumen čak hem tumare dada hem o daja, tumare phralja, tumari familija hem tumare amala; hem nesaven tumendar ka mudaren.
 LUK 21:17 I sare ka mrzinen tumen zbog mande,
-LUK 21:18 ali ni jekh bal tumare šerestar naka perel.
+LUK 21:18 ali nijekh bal tumare šerestar naka perel.
 LUK 21:19 Adaleja so ka ačhoven verna, ka dobinen o večno dživdipe.”
 LUK 21:20 O Isus phenđa hem akava: “I kad ka dikhen sar o Jerusalim opkolime e vojskendar, te džanen da alo lesoro vreme te ovel uništime.
 LUK 21:21 Tegani okola kola živinena ani e judejakiri regija nek našen ko gore. Okola kola živinena ano Jerusalim nek ikljon avri, a kolai ko polje, te na đerdinen ani diz.

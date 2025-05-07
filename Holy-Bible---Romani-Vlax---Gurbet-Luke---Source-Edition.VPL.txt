@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 03/20/2025 06:46:03
+## File Created: 05/02/2025 17:23:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyGurbet
 ## Source File: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 03/18/2025 06:58:59
+## Source Date: 05/01/2025 00:19:41
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -987,7 +987,7 @@ LUK 21:35 Golese so ka avol sar zamka pe sa e manuša so živin pi kaja phuv.
 LUK 21:36 Golese aven džungade sa o vreme thaj molin tumen te bi šaj crdena tumen tare sa o bilačhipe so trubul te avol, thaj te ačhen bizi ladž ano radujipe angle mande, anglo Čhavo e manušeso.”
 LUK 21:37 O Isus svako đive sikada ano Hram a ki rat suta ko Maslinsko brego.
 LUK 21:38 Thaj sa e manuša avena tari sabalin ke leste ano Hram te šunen le.
-LUK 22:1 Paše sasa e Prazniko e bikvasacose mangrenđe savo akhardol Pasha.
+LUK 22:1 Paše sasa o Prazniko e bikvasacose mangrenđe savo akhardol Pasha.
 LUK 22:2 E šorutne sveštenikura thaj e učitelja tare Mojsijaso zakon rodije sar te mudaren e Isuse, al darajle tare manuša te ni bunin pe.
 LUK 22:3 Tegani o Satana dija ano Juda Iskariotsko, savo sasa jekh tare dešuduj (12) apostolura.
 LUK 22:4 Vov đelo thaj vaćarda e šorutne sveštenikurencar thaj e hramese zapovednikurencar sar ka izdajil e Isuse.
@@ -1011,7 +1011,7 @@ LUK 22:21 A akh, mingro izdajniko bešol mancar kate ko astali.
 LUK 22:22 Thaj me, o Čhavo e manušeso, mora te merav sar so si phendo, al pharo e manušese savo ka izdol man!”
 LUK 22:23 Thaj e sikade lije maškar peste te pučen pe ko lendar bi ćerola gova.
 LUK 22:24 E sikade lije te ćeren čingara maškare peste ko lendar si embaro.
-LUK 22:25 O Isus vaćarda lenđe: “E carura tare kava sveto vladin pe pe manuša thaj isi len vlast pe lende. Von korkore pese vaćaren kaj si ‘manuša save but den šukaripe’.
+LUK 22:25 O Isus vaćarda lenđe: “E carura tare kava sveto vladin pire manušencar thaj isi len vlast pe lende. Von korkore pese vaćaren kaj si ‘manuša save but den šukaripe’.
 LUK 22:26 Al tumen ma ćeren gijate! Nego ko si tumendar embaro te avol emcikno, thaj ko vladil nek avol kova savo služil.
 LUK 22:27 Golese kaj ko si embaro? Kova savo bešol ko astali il savo služil? Naj li kova savo bešol ko astali? Al me sem maškar tumende kova savo služil.
 LUK 22:28 Tumen sen gola save ačhile mancar ane mingre iskušenjura.

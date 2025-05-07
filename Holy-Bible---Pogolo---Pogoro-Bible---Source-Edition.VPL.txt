@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Pogolo---Pogoro-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Pogolo---Pogoro-Bible
-## File Created: 03/20/2025 06:46:03
+## File Created: 04/18/2025 06:14:12
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=poy
 ## Source File: https://ebible.org/Scriptures/poy_vpl.zip
-## Source Date: 03/18/2025 06:53:57
+## Source Date: 04/18/2025 02:33:52
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

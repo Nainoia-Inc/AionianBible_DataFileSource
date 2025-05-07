@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Finnish---Open-Living-News---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Finnish---Open-Living-News
-## File Created: 03/20/2025 06:45:49
+## File Created: 05/02/2025 17:23:06
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=fin
 ## Source File: https://ebible.org/Scriptures/fin_vpl.zip
-## Source Date: 03/18/2025 05:25:33
+## Source Date: 05/01/2025 20:26:54
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
