@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Kuvi---Kuvi-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Kuvi---Kuvi-Bible
-## File Created: 04/18/2025 06:14:06
+## File Created: 05/10/2025 23:22:07
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=kxv
 ## Source File: https://ebible.org/Scriptures/kxv_vpl.zip
-## Source Date: 04/18/2025 01:55:09
+## Source Date: 05/07/2025 18:35:44
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

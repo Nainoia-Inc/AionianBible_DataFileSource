@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Mwera---Mwera-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Mwera---Mwera-Bible
-## File Created: 04/18/2025 06:14:08
+## File Created: 05/18/2025 07:55:50
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=mwe
 ## Source File: https://ebible.org/Scriptures/mwe_vpl.zip
-## Source Date: 04/18/2025 02:15:23
+## Source Date: 05/16/2025 17:15:27
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
@@ -3736,16 +3736,16 @@ JOH 19:36 Pabha genega gashinkutendeka nkupinga Majandiko ga Ukonjelo gatimilile
 JOH 19:37 Na majandiko gana gakuti, “Shibhannolanje jubhanng'omilenje lipanga jula.”
 JOH 19:38 Gakapiteje genego, a Yoshepu bha ku Alimataya, gubhaajujile a Pilato bhatole shiilu sha a Yeshu. A Yoshepu pubhaliji bhaajiganywa bha a Yeshu, ikabheje kwa nng'iyo, pabha bhatendaga kwaajogopanga ashikalongolele bha Shiyaudi. Bhai, a Pilato gubhajitishiye. Kwa nneyo a Yoshepu gubhapite shoya shiilu sha a Yeshu.
 JOH 19:39 Na bhalabho a Nikodemo bhene bhaajendele a Yeshu shilo gwa ntai bhala, gubhapite na a Yoshepu bhali bhajigele mauta ga nunjila, gaengenywe na manemane na lubhani kilo makumi gatatu.
-JOH 19:40 Bhai, gubhatolilenje shiilu sha a Yeshu shila, gubhailijililenje shanda shammbone sha katani bhali bhatajilenje mauta malinga pugwaliji nkubho gwa Bhayaudi nkushika.
+JOH 19:40 Bhai, gubhatolilenje shiilu sha a Yeshu shila, gubhailijililenje shanda shammbone sha kitani bhali bhatajilenje mauta malinga pugwaliji nkubho gwa Bhayaudi nkushika.
 JOH 19:41 Pubhabhambilwe munshalabha a Yeshu pala, jashinkupagwa bhushitani na nkati jakwe lyashinkupagwa likabhuli lya ambi likanabhe shikwa mundu jojowe.
 JOH 19:42 Pabha Bhayaudi pubhalinginji nkukolokoya ga Lyubha lya Pumulila, na likabhulilyo pulyaaliji pa tome, bhai gubhaabhishilenje a Yeshu mwenemo.
 JOH 20:1 Lyambape Jumapili kuli na lubhindu a Malia Magidalena gubhapite kulikabhuli, gubhalibhweni liganga lila lishoshiywe pannango gwa likabhuli.
-JOH 20:2 12 Bhai, gubhabhujile lubhilo kubhaaliji a Shimoni Petili na bhaajiganywa bhaanonyelaga a Yeshu bhala, nikwaabhalanjilanga, “Bhashikwaashoyanga Bhakulungwa nnikabhuli mula, wala tukakukumanya kubhaabhishilenje.”
+JOH 20:2 Bhai, gubhabhujile lubhilo kubhaaliji a Shimoni Petili na bhaajiganywa bhaanonyelaga a Yeshu bhala, nikwaabhalanjilanga, “Bhashikwaashoyanga Bhakulungwa nnikabhuli mula, wala tukakukumanya kubhaabhishilenje.”
 JOH 20:3 Bhai a Petili na nkujiganywa juna jula, gubhapitengene kulikabhuli.
 JOH 20:4 Gubhapitengene lubhilo bhowe bhanabhili, ikabheje nkujiganywa juna jula ashinkubhutuka kwaapunda a Petili, gwalongolele kuika kulikabhuli.
 JOH 20:5 Gwakotime kuulumila nnikabhuli, gwajibhweni shanda, ikabheje jwangajinjila nkati.
 JOH 20:6 Bhai gubhaishe na a Shimoni Petili, gubhajinjile nnikabhuli, mwenemo gubhajibhweni shanda,
-JOH 20:7 na shitambaa shibhailijilwe a Yeshu kuntwe. Shene shitambaasho shikaliji pamo na shanda jila, ikabhe shashinkuiligwa kunyenje pa jikape.
+JOH 20:7 na shitambaa shibhailijilwe a Yeshu ku ntwe. Shene shitambaasho shikaliji pamo na shanda jila, ikabhe shashinkuiligwa kunyenje pa jikape.
 JOH 20:8 Kungai bhaajiganywa bhalongolele kuika kulikabhuli bhala, na bhalabho gubhajinjile nkati, gubhalolile nigubhakulupalile.
 JOH 20:9 Pabha bhakagamanyinjiji Majandiko ga Ukonjelo gatayaga kuti, yashinkupinjikwa a Yeshu bhawaga, bhayushe.
 JOH 20:10 Bhai, bhaajiganywa bhala gubhabhujengenenje kwenda kunngwabhonji.
@@ -4256,7 +4256,7 @@ ACT 13:19 Bhakaabhulaganjeje bhandunji bha makabhila shabha ku Kanaani, nigubhaa
 ACT 13:20 Yaka mia nsheshe na makumi nng'ano guipitile.” “Kungai gubhaapelenje bhaukumulanga bhaalongoyanje mpaka mobha ga a Shamweli ankulondola bha a Nnungu.
 ACT 13:21 Bhai gubhajujilenje bhapegwanje mpalume, a Nnungu gubhaapelenje a Shauli bhanabhabho a Kishi, bha kabhila ja a Bhenjamini, bhabhe a mpalume bhabhonji kwa yaka makumi nsheshe.
 ACT 13:22 Bhakaashoyeje a Shauli, a Nnungu gubhaagwile a Daudi kubha bhakulungwa bhabhonji. A Nnungu gubhalangwile shibhashite engwa bhalinkuti. ‘Nimmweni Daudi mwana gwabho a Yeshe, anonyela muntima gwangu, mumdu apinga tenda yowe ingupinga nne.’
-ACT 13:23 Kukoposhela nnubheleko luka jwene mundujo, a Nnungu malinga shibhashite lajila, bhandu bha pa Ishilaeli bhashikumpeleshelanga nkugombola, yani a Yeshu.
+ACT 13:23 Kukoposhela nnubheleko luka jwene mundujo, a Nnungu malinga shibhashite lajila, bhandu bha pa Ishilaeli bhashikumpeleshelanga Bhaatapula, yani a Yeshu.
 ACT 13:24 A Yeshu bhakanabhe tandubha liengo lyabho, a Yowana bhashinkwaalongolela bhalilunguya kuti bhandunji bhowe bha pa Ishilaeli bhanaapinjikwanga bhaipetanje na bhatishwa.
 ACT 13:25 A Yowana bhalimaliya liengo lyabho bhabhelekete nnei. ‘Punkuganishiyanga kuti nne gani? Nne nngabha bhunkwaalolelangabho. Bhenebho bhanakwiya nnyuma jangu na nne ngapinjikwa nkali kugopola mbundo ya ilatu yabho.’ ”
 ACT 13:26 “Ashaapwanga, mmanganyanji nninginji bha shipinga sha a Bhulaimu na bhandunji bhangabha Bhayaudi bhakwaajogopanga a Nnungu! Malobhe ga ntapulo gatuishile.
@@ -7684,7 +7684,7 @@ REV 6:15 Na bhapalume bha pa shilambolyo, na bhakulungwanji, na bhakulungwanji b
 REV 6:16 Nigubhaishemilenje itumbi na mandandawe bhalinkutinji, “Ntugwilanje, ntuiyanje na lubhombo lwa bhene bhaatama pa shitengu sha ukulungwa na ntuembuyanje na nnjimwa jika Mwana Ngondolo.
 REV 6:17 Pabha lyubha lya nnjimwa jabhonji liishe. Gani shaalame?”
 REV 7:1 Gakapiteje genega, gunaabhweninji ashimalaika nsheshe bhali bhajimingenenje nndumba nsheshe ya shilambolyo, bhaliibhilanga mbungo nsheshe ya shilambolyo, nkupinga panapagwe mbungo ja puga pa shilambolyo, na pantundu bhaali, wala panani nkongo gogowe.
-REV 7:2 9 Nigunimmwene malaika juna aliikwela kukopoka kulikoposhela lyubha, ali na lulembo lwa a Nnungu bhakwete gumi. Nigwabhashemilenje kwa lilobhe lya utiya ashimalaika nsheshe bhapegwilwenje mashili ga kushiangabhanya shilambolyo na bhaali alinkuti,
+REV 7:2 Nigunimmwene malaika juna aliikwela kukopoka kulikoposhela lyubha, ali na lulembo lwa a Nnungu bhakwete gumi. Nigwabhashemilenje kwa lilobhe lya utiya ashimalaika nsheshe bhapegwilwenje mashili ga kushiangabhanya shilambolyo na bhaali alinkuti,
 REV 7:3 “Nnashiangabhanyanje shilambolyo wala bhaali, na wala mikongo, mpaka pushitubhishe lulembo pa shenyi sha kila ntumishi jwa a Nnungu bhetu.”
 REV 7:4 Penepo nigumbilikene ishabhu ja bhabhishilwenje lulembo, yani bhandunji 144,000 kukoposhela ku makabhila gowe ga Ishilaeli.
 REV 7:5 Kukoposhela ku likabhila lya a Yuda bhandunji 12,000, kukoposhela ku likabhila lya a Lubheni bhandunji 12,000, kukoposhela ku likabhila lya a Gadi bhandunji 12,000,

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Gurbet-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Gurbet-Luke
-## File Created: 05/02/2025 17:23:07
+## File Created: 06/13/2025 23:28:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyGurbet
 ## Source File: https://ebible.org/Scriptures/rmyGurbet_vpl.zip
-## Source Date: 05/01/2025 00:19:41
+## Source Date: 06/13/2025 20:55:12
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -176,15 +176,15 @@ LUK 3:25 O Josif sasa čhavo e Matatijaso. O Matatij sasa čhavo e Amoseso. O Am
 LUK 3:26 O Nangej sasa čhavo e Maateso. O Maat sasa čhavo e Matatijaso. O Matatij sasa čhavo e Semeinaso. O Semein sasa čhavo e Josiheso. O Josih sasa čhavo e Jodaso.
 LUK 3:27 O Joda sasa čhavo e Joananaso. O Joanan sasa čhavo e Risaso. O Risa sasa čhavo e Zorovaveleso. O Zorovavel sasa čhavo e Salatiilaso. O Salatiil sasa čhavo e Nirijaso.
 LUK 3:28 O Niri sasa čhavo e Melhijaso. O Melhi sasa čhavo e Adijeso. O Adija sasa čhavo e Kosamaso. O Kosam sasa čhavo e Elmadameso. O Elmadam sasa čhavo e Ireso.
-LUK 3:29 O Er sasa čhavo e Isuseso. O Isus sasa čhavo e Eliezereso. O Eliezer sasa čhavo e Jorimaso. O Jorim sasa čhavo e Matatoso. O Matat sasa čhavo e Levijaso,
+LUK 3:29 O Ir sasa čhavo e Isuseso. O Isus sasa čhavo e Eliezereso. O Eliezer sasa čhavo e Jorimaso. O Jorim sasa čhavo e Matatoso. O Matat sasa čhavo e Levijaso,
 LUK 3:30 O Levi sasa čhavo e Simeoneso, O Simeon sasa čhavo e Judaso. O Juda sasa čhavo e Josifeso. O Josif sasa čhavo e Jonameso. O Jonam sasa čhavo e Eliakimeso.
-LUK 3:31 O Eliakim sasa čhavo e Melejaso. O Meleja sasa čhavo e Menaso. O Mena sasa čhavo e Matateso. O Matata sasa čhavo e Nataneso. O Natan sasa čhavo e Davideso.
+LUK 3:31 O Eliakim sasa čhavo e Melejaso. O Meleja sasa čhavo e Menaso. O Mena sasa čhavo e Matateso. O Matat sasa čhavo e Nataneso. O Natan sasa čhavo e Davideso.
 LUK 3:32 O David sasa čhavo e Jesejeso. O Jesej sasa čhavo e Jovideso, O Jovid sasa čhavo e Voozeso. O Vooz sasa čhavo e Salmoneso. O Salmon sasa čhavo e Naasoneso.
 LUK 3:33 O Naason sasa čhavo e Aminadaveso. O Aminadav sasa čhavo e Admineso. O Admin sasa čhavo e Arnijeso. O Arni sasa čhavo e Esromeso. O Esrom sasa čhavo e Fareseso. O Fares sasa čhavo e Judaso.
-LUK 3:34 O Juda sasa čhavo e Jakoveso. O Jakov sasa čhavo e Isaakoso. O Isaak sasa čhavo e Avraameso. O Avraam sasa čhavo e Taraso. O Tara sasa čhavo e Nahoreso.
+LUK 3:34 O Juda sasa čhavo e Jakoveso. O Jakov sasa čhavo e Isaakoso. O Isaak sasa čhavo e Avraameso. O Avraam sasa čhavo e Tareso. O Tara sasa čhavo e Nahoreso.
 LUK 3:35 O Nahor sasa čhavo e Seruheso, O Seruh sasa čhavo e Ragaveso. O Ragav sasa čhavo e Falekeso. O Falek sasa čhavo e Evereso. O Ever sasa čhavo e Salaso.
 LUK 3:36 O Sala sasa čhavo e Kainameso. O Kainam sasa čhavo e Arfaksadeso. O Arfaksad sasa čhavo e Simeso. O Sim sasa čhavo e Nojaso. O Noja sasa čhavo e Lameheso.
-LUK 3:37 O Lameh sasa čhavo e Matusaleso. O Matusal sasa čhavo e Enoheso. O Enoh sasa čhavo e Jareteso. O Jaret sasa čhavo e Malaleileso. O Malaleil sasa čhavo e Kainameso.
+LUK 3:37 O Lameh sasa čhavo e Matusaleso. O Metusala sasa čhavo e Enoheso. O Enoh sasa čhavo e Jareteso. O Jaret sasa čhavo e Malaleileso. O Malaleil sasa čhavo e Kainameso.
 LUK 3:38 O Kainam sasa čhavo e Enoseso. O Enos sasa čhavo e Siteso. O Sit sasa čhavo e Adameso. O Adam sasa čhavo e Devleso.
 LUK 4:1 O Isus pherdo Svetone Duxosa irisajlo tari len o Jordan. O Duxo inđarda le ani pustinja,
 LUK 4:2 kaj iskušisada le o beng saranda (40) đive. Ane gola đivesa o Isus khanči ni xalja thaj kana nakhle saranda (40) đive, bokhajlo.
@@ -759,7 +759,7 @@ LUK 16:13 Nijekh sluga našti služil tari jekh drom duje gospodaren. Il jekhe k
 LUK 16:14 Sa kava šunde i e fariseja, save sesa pohlepna parenđe, thaj marde muj e Isusesa.
 LUK 16:15 O Isus phenda lenđe: “Tumen ćeren tumen pravedna angle manuša, al o Dol džanol tumare ile. So si vredno ane manušenđe jakha, si gadno ane Devlese jakha.”
 LUK 16:16 Tegani o Isus vaćarda: “E Mojsijaso zakon thaj e lila save pisisade e prorokura, sikljona sa dži kaj o Jovane o Krstitelj ni avilo. Od tegani propovedil pe o Lačho Lafi taro Carstvo e Devleso thaj savore den zor te džan ane leste.
-LUK 16:17 Al gova ni značil kaj o Zakon više ni vredil, golese so poločhe si te načhen o nebo thaj i phuv, nego jekh slovo andaro Zakon te properol.
+LUK 16:17 Al gova ni značil kaj o Zakon više ni vredil, golese so poločhe si te naćhen o nebo thaj i phuv, nego jekh slovo andaro Zakon te properol.
 LUK 16:18 Dži jekh savo mučhol pe romnja thaj lol avera, preljuba ćerol; thaj savo lol džuvlja sava lako rom mukhlja, preljuba ćerol.”
 LUK 16:19 O Isus vaćarda vadži jekh paramič: “Sasa jekh barvalo manuš. Sasa urado ane barvale šeja thaj živisada ano barvalipe, but xalja thaj pilja svako đive.
 LUK 16:20 Angle leso vudar pašljola jekh phumbalo – sasa čoro thaj sasa le but čirura – leso alav sasa Lazar.
@@ -768,7 +768,7 @@ LUK 16:22 Kana mulo o čoro, e anđelura inđarde le ani angali e Avraamese. Tha
 LUK 16:23 Ano than kaj si e mule, ane bare muke, o barvalo vazdija pe jakha thaj odural dikhlja e Lazare ani angali e Avraamese.
 LUK 16:24 Thaj dija vika: ‘Dade Avraame! Smilui tut pe mande thaj bičhal e Lazare te čhuvol piro naj ano paj, te šudarol mingri čhib, golese kaj sem but mučimo ane kaja jag.’
 LUK 16:25 Al o Avraam phenda: ‘Čhaveja! De tut gođi kaj ane ćiro džuvdipe sasa tut sa šukar, a e Lazare sa bilačhipe. Akana lese kate si šukar, a tu muči tut.
-LUK 16:26 Thaj prekale sa gova, maškare amende si bari provalija. Kola save manđen te načhen katar odori tumende, našti; ni gothar te načhen amende.’
+LUK 16:26 Thaj prekale sa gova, maškare amende si bari provalija. Kola save manđen te naćhen katar odori tumende, našti; ni gothar te naćhen amende.’
 LUK 16:27 Tegani vaćarda o barvalo manuš: ‘Moliv tut, dade Avraame, te bičhale e Lazare ano čher mingre dadeso.
 LUK 16:28 Golese kaj isi man pandž phrala. Nek vaćarol lenđe te ne bi i von avena ke kava than e mučimaso.’
 LUK 16:29 O Avraam phenda lese: ‘Len isi e Mojsijaso zakon thaj e lila save pisisade e prorokura. Len nek šunen.’
@@ -846,7 +846,7 @@ LUK 18:32 Ka den man ke manuša save ni džanen e Devlese thaj ka maren muj manc
 LUK 18:33 Ka šibin man thaj ka mudaren man, al me o trito đive ka uštav tare mule.”
 LUK 18:34 E sikade khanči ni haljarde tare gova so vaćarda o Isus. O značenje tare kala lafura sasa lendar garado thaj ni džanglje so sasa lenđe vaćardo.
 LUK 18:35 Kana o Isus reslo pašo foro Jerihon, sasa jekh koro manuš savo bešindoj mangljarola ko drom.
-LUK 18:36 Kana o koro šunda kaj pherdo manuša načhen, pučlja: “So si gova?”
+LUK 18:36 Kana o koro šunda kaj pherdo manuša naćhen, pučlja: “So si gova?”
 LUK 18:37 Vaćarde lese kaj načhol o Isus taro foro Nazaret.
 LUK 18:38 Tegani o koro dija vika: “Isuse, Čhaveja e Davideso, smilui tut pe mande!”
 LUK 18:39 Nesave manuša save đele anglo Isus, phende lese te ma dol vika gaći, al vov vadži pozurale dija vika: “Čhaveja e Davideso, smilui tut pe mande!”
@@ -981,7 +981,7 @@ LUK 21:29 Tegani o Isus vaćarda lenđe kaja paramič: “Dičhen pi smokva thaj
 LUK 21:30 Kana dičhen kaj ikljen e luluđa lenđe, džanen kaj paše si o milaj.
 LUK 21:31 Gijate i tumen, kana ka dičhen kaj sa avol gija sar so phendem, džanen kaj si paše o Carstvo e Devleso.
 LUK 21:32 Čače vaćarav tumenđe, kaj kaja generacija ni ka načhol dok sa kava ni avol.
-LUK 21:33 O nebo thaj i phuv ka načhen, al mingre lafura ni ka načhen.”
+LUK 21:33 O nebo thaj i phuv ka naćhen, al mingre lafura ni ka naćhen.”
 LUK 21:34 Pale gova o Isus vaćarda: “Aračhen tumen ma tumare ile te aven opteretime ano halanipe, matipe thaj ane brige kale svetose thaj ma gova đive te resol tumen tari jekh drom.
 LUK 21:35 Golese so ka avol sar zamka pe sa e manuša so živin pi kaja phuv.
 LUK 21:36 Golese aven džungade sa o vreme thaj molin tumen te bi šaj crdena tumen tare sa o bilačhipe so trubul te avol, thaj te ačhen bizi ladž ano radujipe angle mande, anglo Čhavo e manušeso.”

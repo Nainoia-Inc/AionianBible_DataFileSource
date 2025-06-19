@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Baiso---Basio-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Baiso---Basio-Bible
-## File Created: 05/02/2025 17:23:05
+## File Created: 06/13/2025 23:28:12
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,10 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: 
+## Source URL: https://ebible.org/details.php?id=bswe
 ## Source File: https://ebible.org/Scriptures/bswe_vpl.zip
-## Source Date: 04/29/2025 16:34:25
-## Source Copyright: 
+## Source Date: 06/13/2025 11:33:17
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

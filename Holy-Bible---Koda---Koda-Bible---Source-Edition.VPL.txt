@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Koda---Koda-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Koda---Koda-Bible
-## File Created: 05/02/2025 17:23:07
+## File Created: 06/13/2025 23:28:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,10 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: 
+## Source URL: https://ebible.org/details.php?id=cdz
 ## Source File: https://ebible.org/Scriptures/cdz_vpl.zip
-## Source Date: 04/29/2025 19:23:00
-## Source Copyright: 
+## Source Date: 06/13/2025 12:03:03
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

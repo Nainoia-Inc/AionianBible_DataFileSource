@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Open-English-Bible-Commonwealth---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Open-English-Bible-Commonwealth
-## File Created: 04/18/2025 06:13:55
+## File Created: 06/13/2025 23:28:18
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engoebcw
 ## Source File: https://ebible.org/Scriptures/engoebcw_vpl.zip
-## Source Date: 04/18/2025 03:33:18
+## Source Date: 06/13/2025 21:30:45
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Chergash-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Chergash-Luke
-## File Created: 05/02/2025 17:23:07
+## File Created: 06/13/2025 23:28:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyChergash
 ## Source File: https://ebible.org/Scriptures/rmyChergash_vpl.zip
-## Source Date: 04/30/2025 14:14:27
+## Source Date: 06/13/2025 20:54:55
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -464,7 +464,7 @@ LUK 9:37 A kana thejara o đes o Isus thaj lešće učenikurja fuljistine katar 
 LUK 9:38 Askal varesosko manuš savo sas maškar o them čhuta muj: “Učiteljina, moliv tut dik mungre čhave, kaj si manđe jedinco.
 LUK 9:39 Inćarel les o bilačho duho. Andar jekhvar počnil te čhol muj; čhudel pes thaj e spuma del lešće po muj. Gata nikada či mućel les thaj uništil les.
 LUK 9:40 Molisardem ćire učenikonen te traden e bilačhe duho andar leste avri ali von našti tradine les.”
-LUK 9:41 A o Isus phendas lenđe: “O bilačhe thaj bi paćako manušalen! Kozom semasa tumenca, a tumen či paćan. Phuča man kozom još trpiva tumen! An akaring ćire čhave!”
+LUK 9:41 A o Isus phendas lenđe: “O bilačhe thaj bi paćako manušalen! Kozom semasa tumenca, a tumen či paćan. Phučla man kozom još trpiva tumen! An akaring ćire čhave!”
 LUK 9:42 Dok o čhavro avelas paše, o bilačho duho harada les pe phuv thaj ćhinosarda les. A o Isus zapretisardas e bilačhe duhošće thaj odma sastarda e čhave thaj dijale lešće dadešće.
 LUK 9:43 Savora divisajle okolešće so o Isus ćerda. Thaj dok savora čudinas pe okolešće so ćerelas o Isus, o Isus phendas pire učenikonenđe:
 LUK 9:44 “Lačhe zapamtin so phenav tumenđe: Me, o Čhavo e Manušesko, avava dino ande vas e manušenđe.”
@@ -821,7 +821,7 @@ LUK 18:7 Kaj o Del strpljivo čhola kan ke lenđe molitve thaj pobrinila pe te d
 LUK 18:8 Phenav tumenđe kaj brzo dela len pravda. Ali kana me, o Čhavo e Manušesko, boldava man pe phuv, dali arakhava kasavo paćipe?”
 LUK 18:9 Askal o Isus phendas još akaja usporedba varesavenđe save sas uverime ande piri vlastito pravednost, a averen prezirisarenas:
 LUK 18:10 “Duj manuša đele ando Hramo te molin pe. Jek sas fariseji a aver cariniko.
-LUK 18:11 O fariseji ačhelas thaj molilas pe pale peste: ‘Devla, nais tuće kaj naj sem sago aver manuša, grabežljivo, nepravedno, preljubniko, ili sago akava cariniko.
+LUK 18:11 O fariseji ačhelas thaj molilas pe pale peste: ‘Devla, najs tuće kaj naj sem sago aver manuša, grabežljivo, nepravedno, preljubniko, ili sago akava cariniko.
 LUK 18:12 Me postiv duvar ando kurko; dav deš posto katar sa so si man.’
 LUK 18:13 A o cariniko, ačhelas majdur, thaj či usudilas pe ni pe jakha te vazdel prema o nebo, nego pećelas pe ando kolin te sikavel piri tuga thaj phenelas: ‘Devla av milostivo manđe bezehalešće!’
 LUK 18:14 Phenav tumenđe: vo bolda pe ćhere pravedno anglo Del, a na o fariseji! Kaj svako ko korkoro pes uzvisil, avela ponizime, a ko korkoro pes ponizil, avela uzvisime.”

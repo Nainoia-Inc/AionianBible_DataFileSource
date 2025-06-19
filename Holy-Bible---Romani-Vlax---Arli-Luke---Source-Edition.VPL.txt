@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 05/02/2025 17:23:07
+## File Created: 06/13/2025 23:28:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyArli
 ## Source File: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 05/01/2025 23:31:22
+## Source Date: 06/13/2025 20:54:38
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -739,7 +739,7 @@ LUK 15:25 A lesoro phureder čhavo ćerela ine buti ki njiva. I ko iriba, sar av
 LUK 15:26 Tegani vičinđa jekhe sluga te pučel le so ulo adava.
 LUK 15:27 O sluga phenđa lese: ‘To phral irinđa pe čhere. To dad čhinđa e thuljarde telco adalese so dikhlja le dživde hem saste.’
 LUK 15:28 I o phureder čhavo holjanđa hem na manglja te đerdini ko čher. Tegani lesoro dad iklilo hem molinđa le te đerdini.
-LUK 15:29 A ov phenđa ple dadese: ‘Ače, sa edobor berša sar robo kandava tut hem nikad na phagljum to lafi, a nijekhvar na dinđan man ni buzore te šaj mle amalencar te veselinav man.
+LUK 15:29 A ov phenđa ple dadese: ‘Ače, sa edobor berša sar robo kandava tut hem nikad na phagljum to lafi, a nijekhvar na dinđan man ni jarco te šaj mle amalencar te veselinav man.
 LUK 15:30 A kad alo akava to čhavo, kova halja to barvalipe e kurvencar, tu čhinđan lese thuljarde telco.’
 LUK 15:31 A lesoro dad phenđa lese: ‘Mlo čhavo, tu stalno injan mancar. I sa soi mlo – kloi.
 LUK 15:32 Ali, valjanđam ađahar te veselina amen hem te radujina amen adalese so akava, to phral, inele mulo, a akana oživinđa; inele našaldo, a akanai arakhlo!’ ”
@@ -1060,7 +1060,7 @@ LUK 22:70 A on sare pučle e Isuse: “Znači tu injan o Čhavo e Devlesoro?” 
 LUK 22:71 Tegani on phende: “Na valjani amenđe više avera svedoci. Sare amen šunđam da korkoro pes osudinđa!”
 LUK 23:1 Tegani sare kola inele ko sabor uštine hem legarde e Isuse koro Pilat, koro upravniko e rimesoro,
 LUK 23:2 hem lelje te vaćeren protiv oleste: “Akale manuše arakhljam sar zavodini amare narodo hem vaćeri lenđe te na platinen o porez e carose, a pese vaćeri dai o Hrist, o caro.”
-LUK 23:3 Tegani o Pilat pučlja e Isuse: “Tu li injan o caro e Jevrejengoro?” A o Isus phenđa: “Ađahari sar so pheneja.”
+LUK 23:3 Tegani o Pilat pučlja e Isuse: “Tu li injan o caro e Jevrejengoro?” A o Isus phenđa: “Tu adava pheneja.”
 LUK 23:4 Tegani o Pilat phenđa e šerutne sveštenikonenđe hem e narodose: “Na arakhava nisavi krivica upro akava manuš!”
 LUK 23:5 Ali on na ačhavde te vičinen: “Ple sikavibnaja vazdela pobuna maškaro manuša ki sa i phuv e Jevrejengiri. Lelja te ćerel adava ani regija Galileja hem alo čak đi akate ani diz Jerusalim!”
 LUK 23:6 A kad o Pilat šunđa adava, pučlja len nane li o Isus Galilejco.

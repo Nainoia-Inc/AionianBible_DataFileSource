@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Setswana---Open-Tswana-Living---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Setswana---Open-Tswana-Living
-## File Created: 04/18/2025 06:14:15
+## File Created: 05/21/2025 07:41:14
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=tsn
 ## Source File: https://ebible.org/Scriptures/tsn_vpl.zip
-## Source Date: 04/18/2025 03:04:54
+## Source Date: 05/20/2025 21:03:46
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0, International
 ## Source Text: unaltered below
 ##
