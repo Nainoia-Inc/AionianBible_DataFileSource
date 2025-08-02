@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Alaba-Kabeena---Alaba-Kabeena-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Alaba-Kabeena---Alaba-Kabeena-Bible
-## File Created: 06/13/2025 23:28:11
+## File Created: 07/31/2025 13:05:56
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=alw
 ## Source File: https://ebible.org/Scriptures/alw_vpl.zip
-## Source Date: 06/13/2025 09:20:00
+## Source Date: 07/30/2025 11:53:53
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

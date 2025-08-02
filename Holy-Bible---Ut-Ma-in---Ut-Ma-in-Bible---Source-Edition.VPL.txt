@@ -1,7 +1,7 @@
 ## Aionian Bible
-## File Name: Holy-Bible---ut-Ma-in---ut-Ma-in-Bible---Source-Edition.VPL.txt
-## File Usage: Holy-Bible---ut-Ma-in---ut-Ma-in-Bible
-## File Created: 05/24/2025 15:28:00
+## File Name: Holy-Bible---Ut-Ma-in---Ut-Ma-in-Bible---Source-Edition.VPL.txt
+## File Usage: Holy-Bible---Ut-Ma-in---Ut-Ma-in-Bible
+## File Created: 07/31/2025 13:07:06
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=gel
 ## Source File: https://ebible.org/Scriptures/gel_vpl.zip
-## Source Date: 05/01/2025 22:35:53
+## Source Date: 07/26/2025 14:44:26
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

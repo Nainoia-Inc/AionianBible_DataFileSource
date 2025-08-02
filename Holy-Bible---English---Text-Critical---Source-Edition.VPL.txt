@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 06/13/2025 23:28:18
+## File Created: 07/31/2025 13:06:18
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engtcent
 ## Source File: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 06/13/2025 21:47:21
+## Source Date: 07/30/2025 14:42:45
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -7216,7 +7216,7 @@ JAM 4:8 Draw near to God, and he will draw near to you. Cleanse your hands, you 
 JAM 4:9 Grieve, mourn, and weep. Turn your laughter into mourning and your joy into gloom.
 JAM 4:10 Humble yourselves before the Lord, and he will exalt you.
 JAM 4:11 Do not speak evil against one another, brothers. He who speaks evil against a brother and judges his brother, speaks evil against the law and judges the law. Now if yoʋ judge the law, yoʋ are not a doer of the law but a judge.
-JAM 4:12 There is only one lawgiver—he who is able to save and destroy. But who are yoʋ to judge another?
+JAM 4:12 There is only one lawgiver and judge—he who is able to save and destroy. But who are yoʋ to judge another?
 JAM 4:13 Come now, you who say, “Today and tomorrow let us go to such and such a city, spend a year there, trade, and make a profit.”
 JAM 4:14 You do not know what will happen tomorrow. What is your life? It is a vapor that appears for a little while and then vanishes away.
 JAM 4:15 Instead you ought to say, “If the Lord wills, let us live and do this or that.”
@@ -7268,7 +7268,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 1:24 For, “All flesh is like grass, and all the glory of man is like a flower of grass. The grass withers, and its flower falls,
 1PE 1:25 but the word of the Lord endures forever.” This word is the good news that was preached to you.
 1PE 2:1 So put aside all wickedness, all deceit, hypocrisy, envy, and all slander.
-1PE 2:2 Like newborn babies, long for pure spiritual milk, so that by it you may grow,
+1PE 2:2 Like newborn babies, long for pure spiritual milk, so that by it you may grow into salvation,
 1PE 2:3 if indeed you have tasted that the Lord is good.
 1PE 2:4 As you come to him, a living stone rejected by men but chosen and precious in the sight of God,
 1PE 2:5 you yourselves, like living stones, are being built up as a spiritual house, a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
@@ -7309,7 +7309,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 3:15 but sanctify the Lord God in your hearts. Always be ready to make a defense to anyone who asks you for an explanation of the hope you have within you, with gentleness and respect,
 1PE 3:16 keeping a clear conscience, so that, when those who revile your good conduct in Christ speak against you as evildoers, they may be put to shame.
 1PE 3:17 For it is better to suffer for doing good, if that is God's will, than to suffer for doing evil.
-1PE 3:18 For Christ also suffered for sins once for all, the righteous for the unrighteous, so that he might bring you to God. He was put to death in the flesh, but made alive in the spirit,
+1PE 3:18 For Christ also suffered for sins once for all, the righteous for the unrighteous, so that he might bring us to God. He was put to death in the flesh, but made alive in the spirit,
 1PE 3:19 in which he went and preached to the spirits in prison,
 1PE 3:20 who disobeyed long ago when God waited patiently in the days of Noah, while the ark was being prepared, in which a few, that is, eight people, were saved through water.
 1PE 3:21 Baptism, which corresponds to this, now saves us—not by removing dirt from the body, but as an appeal to God for a clear conscience—through the resurrection of Jesus Christ,
@@ -7321,7 +7321,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 4:5 But they will give an account to him who is ready to judge the living and the dead.
 1PE 4:6 For this is the reason the gospel was preached even to the dead, so that, though they have been judged in the flesh as men are, they might live in the spirit as God does.
 1PE 4:7 The end of all things has drawn near. Therefore be alert and sober-minded for the sake of your prayers.
-1PE 4:8 Above all, maintain a deep love for one another, because love will cover a multitude of sins.
+1PE 4:8 Above all, maintain a deep love for one another, because love covers a multitude of sins.
 1PE 4:9 Be hospitable to one another without grumbling.
 1PE 4:10 As each of you has received a gift, use it to serve one another, as good stewards of the manifold grace of God.
 1PE 4:11 If anyone speaks, he should do so as one who speaks the oracles of God; if anyone serves, he should do so as one who serves from strength as God supplies it, so that in all things God may be glorified through Jesus Christ. To him be the glory and the power forever and ever. Amen.
@@ -7340,7 +7340,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 5:5 In the same way, you who are younger must submit to your elders. And all of you must clothe yourselves with humility as you submit to one another, for “God opposes the proud but gives grace to the humble.”
 1PE 5:6 Humble yourselves therefore under the mighty hand of God, so that he may exalt you in due time,
 1PE 5:7 casting all your anxiety on him, because he cares for you.
-1PE 5:8 Be sober-minded and watchful; your adversary the devil walks around like a roaring lion, seeking whom he may devour.
+1PE 5:8 Be sober-minded and watchful; your adversary the devil walks around like a roaring lion, seeking someone to devour.
 1PE 5:9 Resist him, standing firm in the faith, because you know that your brothers throughout the world are enduring the same kinds of suffering.
 1PE 5:10 And after you have suffered for a little while, may the God of all grace, who called you to his eternal glory in Christ Jesus, himself perfect you; he will establish, strengthen, and settle you.
 1PE 5:11 To him be the glory and the power forever and ever. Amen.
@@ -7411,7 +7411,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 1:1 We declare to you what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the word of life.
 1JO 1:2 This life was revealed; we have seen it, and we testify and declare to you the eternal life that was with the Father and that was revealed to us.
 1JO 1:3 What we have seen and heard we declare to you, so that you also may have fellowship with us, and indeed our fellowship is with the Father and with his Son Jesus Christ.
-1JO 1:4 We are writing these things to you so that our joy may be full.
+1JO 1:4 We are writing these things to you so that your joy may be full.
 1JO 1:5 This is the message that we have heard from him and proclaim to you, that God is light, and in him there is no darkness at all.
 1JO 1:6 If we say that we have fellowship with him and yet walk in the darkness, we lie and do not live by the truth.
 1JO 1:7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin.
@@ -7445,8 +7445,8 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 2:25 And this is what he has promised us—eternal life.
 1JO 2:26 I have written these things to you concerning those who are trying to deceive you.
 1JO 2:27 But the anointing you received from him abides in you, and you have no need for anyone to teach you. But the same anointing teaches you about all things; it is true, not a lie. So, just as it has taught you, you must abide in him.
-1JO 2:28 And now, little children, abide in him, so that when he is revealed we may have confidence and not shrink away from him in shame when he comes back.
-1JO 2:29 If you know that he is righteous, you know that everyone who practices righteousness has been born of him.
+1JO 2:28 And now, little children, abide in him, so that when he is revealed we may have confidence and not shrink back from him in shame when he comes back.
+1JO 2:29 If you perceive that he is righteous, you know that everyone who practices righteousness has been born of him.
 1JO 3:1 See what great love the Father has lavished upon us, that we should be called children of God! The reason the world does not know you is that it did not know him.
 1JO 3:2 Beloved, now we are children of God, and what we will be has not yet been revealed. But we know that when he appears, we will be like him, because we will see him as he is.
 1JO 3:3 Everyone who places this hope in him purifies himself, just as he is pure.
@@ -7472,7 +7472,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 3:23 And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he commanded.
 1JO 3:24 Whoever keeps his commandments abides in God, and God abides in him. And we know that he abides in us because of the Spirit he has given us.
 1JO 4:1 Beloved, do not believe every spirit, but test the spirits to see if they are from God, because many false prophets have gone out into the world.
-1JO 4:2 By this the Spirit of God is known: Every spirit that confesses that Jesus Christ has come in the flesh is from God,
+1JO 4:2 By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God,
 1JO 4:3 but every spirit that does not confess that Jesus Christ has come in the flesh is not from God. This is the spirit of the antichrist, which you have heard is coming and is now in the world already.
 1JO 4:4 You are from God, little children, and you have overcome them, because greater is he who is in you than he who is in the world.
 1JO 4:5 They are from the world; therefore what they say is from the world, and the world listens to them.
@@ -7495,7 +7495,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 5:1 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves him who has begotten also loves the one begotten of him.
 1JO 5:2 By this we know that we love the children of God, when we love God and keep his commandments.
 1JO 5:3 For this is the love of God, that we keep his commandments. And his commandments are not burdensome.
-1JO 5:4 For everyone who has been born of God overcomes the world. This is the victory that has overcome the world—our faith.
+1JO 5:4 For everyone who has been born of God overcomes the world. This is the victory that has overcome the world—your faith.
 1JO 5:5 Who is it that overcomes the world but he who believes that Jesus is the Son of God?
 1JO 5:6 This is he who came by water and blood—Jesus Christ. He did not come by water only, but by water and blood. It is the Spirit who testifies, because the Spirit is the truth.
 1JO 5:7 For there are three that testify:

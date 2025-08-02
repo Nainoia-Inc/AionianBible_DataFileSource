@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Cung---Chung-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Cung---Chung-Bible
-## File Created: 05/24/2025 15:27:53
+## File Created: 07/31/2025 13:06:11
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=cug
 ## Source File: https://ebible.org/Scriptures/cug_vpl.zip
-## Source Date: 04/30/2025 18:07:06
+## Source Date: 07/26/2025 14:01:32
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

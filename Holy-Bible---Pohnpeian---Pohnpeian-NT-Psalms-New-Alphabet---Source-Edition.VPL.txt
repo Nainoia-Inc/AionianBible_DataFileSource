@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Pohnpeian---Pohnpeian-NT-Psalms-New-Alphabet---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Pohnpeian---Pohnpeian-NT-Psalms-New-Alphabet
-## File Created: 04/18/2025 06:14:12
+## File Created: 07/31/2025 13:06:49
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=pon-pdn
 ## Source File: https://ebible.org/Scriptures/pon-pdn_vpl.zip
-## Source Date: 04/18/2025 03:44:47
+## Source Date: 07/26/2025 19:27:15
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Hungarian---Magyar-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Hungarian---Magyar-Bible
-## File Created: 05/03/2025 13:31:32
+## File Created: 07/31/2025 13:06:32
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=hun
 ## Source File: https://ebible.org/Scriptures/hun_vpl.zip
-## Source Date: 05/02/2025 22:24:33
+## Source Date: 07/26/2025 15:14:27
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0, International
 ## Source Text: unaltered below
 ##

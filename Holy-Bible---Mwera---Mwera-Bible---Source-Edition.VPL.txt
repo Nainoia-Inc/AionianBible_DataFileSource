@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Mwera---Mwera-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Mwera---Mwera-Bible
-## File Created: 05/18/2025 07:55:50
+## File Created: 07/31/2025 13:06:43
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=mwe
 ## Source File: https://ebible.org/Scriptures/mwe_vpl.zip
-## Source Date: 05/16/2025 17:15:27
+## Source Date: 07/26/2025 16:32:51
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

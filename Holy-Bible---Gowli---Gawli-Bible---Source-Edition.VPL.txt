@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Gowli---Gawli-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Gowli---Gawli-Bible
-## File Created: 05/24/2025 15:27:56
+## File Created: 07/31/2025 13:06:26
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=gok
 ## Source File: https://ebible.org/Scriptures/gok_vpl.zip
-## Source Date: 05/02/2025 16:56:28
+## Source Date: 07/26/2025 14:48:36
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

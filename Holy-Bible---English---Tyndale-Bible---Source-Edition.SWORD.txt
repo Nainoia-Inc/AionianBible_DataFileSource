@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Tyndale-Bible---Source-Edition.SWORD.txt
 ## File Usage: Holy-Bible---English---Tyndale-Bible
-## File Created: 06/09/2025 12:16:05
+## File Created: 07/01/2025 21:02:01
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Tyndale
 ## Source File: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Tyndale.zip
-## Source Date: 06/09/2025 03:46:24
+## Source Date: 07/01/2025 20:24:57
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##
@@ -1058,7 +1058,8 @@ Genesis 34:24 And vnto Hemor and Sichem his sonneharkened all that went out at t
 Genesis 34:25 And the third daye when it was paynefull to them ij. of the sonnes of Iacob Simeon and Leui Dinas brethren toke ether of them his swerde and went in to the cyte boldly and slewe all yt was male
 Genesis 34:26 and slewe also Hemor and Sichem his sonne with the edge of the swerde ad toke Dina their sister out of Sichems house and went their waye.
 Genesis 34:27 Than came the sonnes of Iacob vpon the deede and spoyled the cyte because they had defyled their sister:
-Genesis 34:28 and toke their shepe oxen asses and what so euer was in the cyte and also in ye feldes29. And all their goodes all their childern and their wyues toke they captyue and made havock of all that was in the houses.
+Genesis 34:28 and toke their shepe oxen asses and what so euer was in the cyte and also in ye feldes.
+Genesis 34:29 And all their goodes all their childern and their wyues toke they captyue and made havock of all that was in the houses.
 Genesis 34:30 And Iacob sayde to Simeon and Leui: ye haue troubled me ad made me styncke vnto the inhabitatours of the lande both to the Canaanytes and also vnto the Pherezites. And I am fewe in nombre. Wherfore they shall gather them selves together agaynst me and sley me and so shall I and my house be dystroyed.
 Genesis 34:31 And they answered: shuld they deall with oure sister as wyth an whoore?  <chapter eID="Gen.34-aka- "/>
 Genesis 35:0 <chapter n=" " osisID="Gen.35" sID="Gen.35-aka- "/><div eID="gen36" type="x-p"/>  <div sID="gen37" type="x-p"/>
@@ -1252,7 +1253,8 @@ Genesis 40:21 And restored the chefe buttelar vnto his buttelarshipe agayne and 
 Genesis 40:22 ad hanged the chefe baker: eue as Ioseph had interpretated vnto the.
 Genesis 40:23 Notwithstonding the chefe buttelar remembred not Ioseph but forgat hym.  <chapter eID="Gen.40-aka- "/>
 Genesis 41:0 <chapter n=" " osisID="Gen.41" sID="Gen.41-aka- "/><div eID="gen42" type="x-p"/>  <div sID="gen43" type="x-p"/>
-Genesis 41:1 And it fortuned at .ij. yeres end that Pharao dreamed and thought that he stode by a ryuers syde and that there came out of the ryver2.vij. goodly kyne and fatt fleshed and fedd in a medowe.
+Genesis 41:1 And it fortuned at .ij. yeres end that Pharao dreamed and thought that he stode by a ryuers syde and that there came out of the ryver
+Genesis 41:2 .vij. goodly kyne and fatt fleshed and fedd in a medowe.
 Genesis 41:3 And him though that .vij. other kyne came vp after them out of the ryver euelfauored and leane fleshed and stode by the other vpon the brynke of the ryuer.
 Genesis 41:4 And the evill favored and Ienefleshed kyne ate vp the .vij. welfauored and fatt kyne: and be awoke their with.
 Genesis 41:5 And he slepte agayne and dreamed the second tyme that .vij. eares of corne grewe apon one stalke rancke and goodly.
@@ -2446,7 +2448,8 @@ Exodus 29:13 ad take all the fatt that couereth the inwardes, ad the kall that i
 Exodus 29:14 But the flesh of the oxe and his skynne and his donge, shalt thou burne with fyre, without the hoste. For it is a synneofferynge.
 Exodus 29:15 Then take one of the rammes, ad let Aaron and his sonnes put their hondes apon the heade of the ram,
 Exodus 29:16 and cause him to be slayne, ad take of his bloude and sprenkell it rounde aboute apon the alter,
-Exodus 29:17 and cutt the ram in peces and whesh the inwardes of him and his legges, ad put them vnto the peces ad vnto his heed18, ad burne the hole ram apon the alter. For it is a burntofferyng vnto the Lorde, and a swete sauoure of the Lordes sacrifice.
+Exodus 29:17 and cutt the ram in peces and whesh the inwardes of him and his legges, ad put them vnto the peces ad vnto his heed,
+Exodus 29:18 ad burne the hole ram apon the alter. For it is a burntofferyng vnto the Lorde, and a swete sauoure of the Lordes sacrifice.
 Exodus 29:19 And take the other ram and let Aaron and hys sonnes, put their hondes apon hys heed
 Exodus 29:20 and let him than be kylled. And take of his bloude and put it apon the typpe of the righte eare of Aaron and of his sonnes, and apon the thombe of their righte handes, and apon the great too of their ryghte fete: and sprenkell the bloude apon the alter rounde aboute.
 Exodus 29:21 Than take of the bloude that is apon the alter and of the anoyntynge oyle, ad sprekell it apon Aaron and his vestimetes, ad apo his sonnes ad apo their garmetes also. Tha is he ad his clothes holy ad his sonnes ad their clothes holye also
@@ -2507,7 +2510,8 @@ Exodus 30:28 and the alter of burntsacrifice and all his vessels, and the lauer 
 Exodus 30:29 And sacrifie them that they maye be most holye: so that no man twyche them but they that be halowed.
 Exodus 30:30 And anoynte Aaron and his sonnes and consecrate the to ministre vnto me.
 Exodus 30:31 And thou shalt speake vnto the childre of Israel saynge: this shalbe an holye oyntynge oyle vnto me, thorow out youre generacions.
-Exodus 30:32 No mans flesh shalbe anoynted therewith: nether shall ye make any other after the makynge of it for it is holye, se therfore that ye take it for holye33. whosoeuer maketh like that, or whosoeuer putteth any of it apon a straunger, shall perysh from amonge his people.
+Exodus 30:32 No mans flesh shalbe anoynted therewith: nether shall ye make any other after the makynge of it for it is holye, se therfore that ye take it for holye.
+Exodus 30:33 whosoeuer maketh like that, or whosoeuer putteth any of it apon a straunger, shall perysh from amonge his people.
 Exodus 30:34 And the Lord sayd vnto Moses: take vnto the swete spices: stacte, onycha, swete galbanu ad pure frakesens, of etch like moch:
 Exodus 30:35 ad make cens of them copounde after the crafte of the apoticarye, myngled together, that it maye be made pure and holye.
 Exodus 30:36 And beat it to powder and put it before the witnesse in the tabernacle of witnesse, where I will mete the, but let it be vnto you holye.
@@ -5058,7 +5062,8 @@ Numbers 36:12 of the kynred of the childern of Manasse the sonne of Ioseph: ad s
 Numbers 36:13 These are the commaundmentes and lawes which the Lorde commaunded thorow Moses vnto the childern of Israel in the feldes of Moab apon Iordayne nye vnto Iericho.  <chapter eID="Num.36-aka- "/><div eID="gen158" type="x-p"/> <div eID="gen122" osisID="Num" type="book"/>
 Deuteronomy 0:0 <div osisID="Deut" sID="gen159" type="book"/> 
 Deuteronomy 1:0 <chapter n=" " osisID="Deut.1" sID="Deut.1-aka- "/>  <div sID="gen160" type="x-p"/>
-Deuteronomy 1:1 These be the wordes which Moses spake vnto all Israel, on the other syde Iordayne in the wildernesse and in the feldes by the red see, betwene Phara ad Tophel, Laban, Hazeroth and Disahab2.xij. dayes iurney from Horeb vnto Cades bernea, by the waye that leadeth vnto mount Seir.
+Deuteronomy 1:1 These be the wordes which Moses spake vnto all Israel, on the other syde Iordayne in the wildernesse and in the feldes by the red see, betwene Phara ad Tophel, Laban, Hazeroth and Disahab
+Deuteronomy 1:2 .xij. dayes iurney from Horeb vnto Cades bernea, by the waye that leadeth vnto mount Seir.
 Deuteronomy 1:3 And it fortuned the first daye of the .xi. moneth in the fortieth yere, that Moses spake vnto the childern of Israel acordinge vnto all that the Lorde had geuen him in commaundment vnto them,
 Deuteronomy 1:4 after that he had smote Sihon the kynge of the Amorites which dwelt in Hesbon, and Og kinge of Basan which dwelt at Astaroth in Edrei.
 Deuteronomy 1:5 On the other syde Iordayne in the londe of Moab, Moses begane to declare this lawe saynge:
@@ -5213,7 +5218,8 @@ Deuteronomy 4:38 to thrust out nations greater ad myghtyer then thou before the,
 Deuteronomy 4:39 Vnderstonde therfore this daye and turne it to thine herte, that the Lorde he is God in heauen aboue and vppon the erth beneth there is no moo:
 Deuteronomy 4:40 kepe therfore his ordynaunces, and his commaundmentes which I commaunde the this daye, that it maye goo well with the and with thi childern after the and that thou mayst prolonge thy dayes vppon the erth which the Lorde thi God geueth the for euer.
 Deuteronomy 4:41 Then Moses seuered .iij. cities on the other syde Iordane towarde the sonne rysynge,
-Deuteronomy 4:42 that he shulde fle thiter which had kylled his neyghboure vnwares and hated him not in tyme past and therfore shulde fle vnto one of the same cities and lyue43: Bezer in the wildernesse euen in the playne contre amonge the Rubenites: and Ramoth in Gilead amonge the Gaddites and Solan in Basan amonge the Manassites.
+Deuteronomy 4:42 that he shulde fle thiter which had kylled his neyghboure vnwares and hated him not in tyme past and therfore shulde fle vnto one of the same cities and lyue:
+Deuteronomy 4:43 Bezer in the wildernesse euen in the playne contre amonge the Rubenites: and Ramoth in Gilead amonge the Gaddites and Solan in Basan amonge the Manassites.
 Deuteronomy 4:44 This is the lawe which Moses set before the childern of Israel,
 Deuteronomy 4:45 and these are the witnesse, ordinaunces and statutes which Moses tolde the childern of Israel after they came out of Egipte,
 Deuteronomy 4:46 on the other syde Iordayne in the valey besyde Beth Peor in the londe of Siho kinge of the Amorites which dwelt at Hesbon, whom Moses and the childern of Israel smote after they were come out of Egipte,
@@ -9246,10 +9252,13 @@ John 5:1 After that ther was a feast of the Iewes and Iesus went vp to Ierusalem
 John 5:2 And ther is at Ierusalem by ye slaughterhousse a pole called in ye Ebrue toge Bethseda havinge five porches
 John 5:3 in which laye a greate multitude of sicke folke of blinde halt and wyddered waytinge for the movinge of the water.
 John 5:4 For an angell wet doune at a certayne ceason into ye pole and troubled ye water. Whosoever then fyrst after the steringe of the water stepped in was made whoale of what soever disease he had.
-John 5:5 And a certayne ma was theare which had bene diseased .xxxviii. yeares6. When Iesus sawe him lye and knewe that he now longe tyme had bene diseased he sayde vnto him. Wilt thou be made whoale?
+John 5:5 And a certayne ma was theare which had bene diseased .xxxviii. yeares.
+John 5:6 When Iesus sawe him lye and knewe that he now longe tyme had bene diseased he sayde vnto him. Wilt thou be made whoale?
 John 5:7 The sicke answered him: Syr I have no man whe the water is troubled to put me into the pole. But in the meane tyme whill I am about to come another steppeth doune before me.
 John 5:8 And Iesus sayde vnto him: ryse take vp thy beed and walke.
-John 5:9 And immediatly the man was made whole and toke vp his beed and went. And the same daye was the Saboth daye10. The Iewes therfore sayde vnto him that was made whole. It is ye Saboth daye it is not laufull for the to cary thy beed11. He answered them: he that made me whole sayde vnto me: take vp thy beed and get the hence.
+John 5:9 And immediatly the man was made whole and toke vp his beed and went. And the same daye was the Saboth daye.
+John 5:10 The Iewes therfore sayde vnto him that was made whole. It is ye Saboth daye it is not laufull for the to cary thy beed.
+John 5:11 He answered them: he that made me whole sayde vnto me: take vp thy beed and get the hence.
 John 5:12 Then axed they him: what man is that which sayde vnto the take vp thy beed and walke.
 John 5:13 And he yt was healed wist not who it was. For Iesus had gotte him selfe awaye be cause yt ther was preace of people in ye place.
 John 5:14 And after that Iesus founde him in the teple and sayd vnto him: beholde thou arte made whole synne no moore lest a worsse thinge happe vnto the.
@@ -9339,7 +9348,8 @@ John 6:49 Youre fathers dyd eate Mana in ye wildernes and are deed.
 John 6:50 This is that breed which cometh fro heave yt he which eateth of it shuld also not dye.
 John 6:51 I am that lyvinge breed which came doune from heave. Yf eny man eate of this breed he shall live forever. And the breed that I will geve is my flesshe which I will geve for the lyfe of ye worlde
 John 6:52 And the Iewes strove amoge them selves sayinge: How can this felowe geve vs his flesshe to eate?
-John 6:53 Then Iesus sayde vnto them: Verely verely I saye vnto you except ye eate ye flesshe of ye sonne of man and drinke his bloude ye shall not have lyfe in you54. Whosoever eateth my flesshe and drinketh my bloude hath eternall lyfe: and I will rayse him vp at the last daye.
+John 6:53 Then Iesus sayde vnto them: Verely verely I saye vnto you except ye eate ye flesshe of ye sonne of man and drinke his bloude ye shall not have lyfe in you.
+John 6:54 Whosoever eateth my flesshe and drinketh my bloude hath eternall lyfe: and I will rayse him vp at the last daye.
 John 6:55 For my flesshe is meate in dede: and my bloude is drynke in dede.
 John 6:56 He that eateth my flesshe and drynketh my bloude dwelleth in me and I in him.
 John 6:57 As the lyvinge father hath sent me even so lyve I by my father: and he that eateth me shall live by me.
@@ -9699,7 +9709,8 @@ John 13:30 Assone then as he had receaved the soppe he wet immediatly out. And i
 John 13:31 Whe he was gone out Iesus sayde: now is the sonne of man glorified. And God is glorified by him.
 John 13:32 Yf God be glorified by him God shall also glorify him in him selfe: and shall strayght waye glorify him.
 John 13:33 Deare chyldren yet a lytell whyle am I with you. Ye shall seke me and as I sayde vnto the Iewes whither I goo thither can ye not come. Also to you saye I nowe.
-John 13:34 A newe commaundment geve I vnto you that ye love to gedder as I have loved you that even so ye love one another35. By this shall all me knowe yt ye are my disciples yf ye shall have love one to another.
+John 13:34 A newe commaundment geve I vnto you that ye love to gedder as I have loved you that even so ye love one another.
+John 13:35 By this shall all me knowe yt ye are my disciples yf ye shall have love one to another.
 John 13:36 Simon Peter sayd vnto him: Lorde whither goest thou? Iesus answered him: whither I goo thou canst not folowe me now but thou shalt folowe me afterwardes.
 John 13:37 Peter sayd vnto him: Lorde why canot I folowe the now? I will geve my lyfe for thy sake?
 John 13:38 Iesus answered him: wilt thou geve thy lyfe for my sake? Verely verely I saye vnto the the cocke shall not crowe tyll thou have denyed me thryse.  <chapter eID="John.13-aka- "/>
@@ -9784,8 +9795,10 @@ John 16:17 Then sayd some of his disciples bitwene them selves: what is this yt 
 John 16:18 They sayd therfore: what is this that he sayth after a whyle? we canot tell what he sayth.
 John 16:19 Iesus perceaved yt they wolde axe him and sayd vnto them: This is it that ye enquyre of bitwene youre selves that I sayd after a whyle ye shall not se me and agayne after a whyle ye shall se me.
 John 16:20 Verely verely I saye vnto you: ye shall wepe and lamet and the worlde shall reioyce. Ye shall sorowe: but youre sorowe shalbe tourned to ioye.
-John 16:21 A woman when she traveyleth hath sorowe because her houre is come: but assone as she is delivered of the chylde she remembreth no moare the anguysshe for ioye that a man is borne in to the worlde22. And ye now are in sorowe: but I will se you agayne and youre hertes shall reioyce and youre ioye shall no ma take fro you.
-John 16:23 And in that daye shall ye axe me no question. Verely verely I saye vnto you whatsoever ye shall axe the father in my name he will geve it you24. Hitherto have ye axed nothinge in my name. Axe and ye shall receave it: that youre ioye maye be full.
+John 16:21 A woman when she traveyleth hath sorowe because her houre is come: but assone as she is delivered of the chylde she remembreth no moare the anguysshe for ioye that a man is borne in to the worlde.
+John 16:22 And ye now are in sorowe: but I will se you agayne and youre hertes shall reioyce and youre ioye shall no ma take fro you.
+John 16:23 And in that daye shall ye axe me no question. Verely verely I saye vnto you whatsoever ye shall axe the father in my name he will geve it you.
+John 16:24 Hitherto have ye axed nothinge in my name. Axe and ye shall receave it: that youre ioye maye be full.
 John 16:25 These thinges have I spoken vnto you in proverbes. The tyme will come when I shall no moare speake to you in proverbes: but I shall shewe you playnly from my father.
 John 16:26 At that daye shall ye axe in myne name. And I saye not vnto you that I will speake vnto my father for you
 John 16:27 For ye father him selfe loveth you because ye have loved me and have beleved that I came out from God.
@@ -10129,7 +10142,8 @@ Acts 5:21 When they hearde that they entred into the temple erly in the morninge
 Acts 5:22 When the ministres came and founde them not in the preson they returned and tolde
 Acts 5:23 sayinge: the preson founde we shut as sure as was possible and the kepers stondynge with out before ye dores. But whe we had opened we founde no man with in.
 Acts 5:24 When the chefe prest of all and the ruler of the temple and the hye prestes hearde these thinges they douted of them whervnto this wolde growe.
-Acts 5:25 Then came one and shewed them: beholde ye men yt ye put in preson stonde in the teple and teache the people.26. Then went the ruler of the teple with ministers and brought the with out violence. For they feared the people lest they shuld have bene stoned.
+Acts 5:25 Then came one and shewed them: beholde ye men yt ye put in preson stonde in the teple and teache the people.
+Acts 5:26 Then went the ruler of the teple with ministers and brought the with out violence. For they feared the people lest they shuld have bene stoned.
 Acts 5:27 And when they had brought them they set them before the counsell. And ye chefe preste axed the
 Acts 5:28 sayinge: dyd not we straytely comaunde you that ye shuld not teache in this name? And beholde ye have filled Ierusalem with youre doctrine and ye intende to brynge this mans bloud vpon vs.
 Acts 5:29 Peter and the other Apostles answered and sayde: We ought moare to obey God then men.
@@ -11581,7 +11595,8 @@ I Corinthians 7:0 <chapter n=" " osisID="1Cor.7" sID="1Cor.7-aka- "/><div eID="g
 I Corinthians 7:1 As concerninge the thinges wherof ye wrote vnto me: it is good for a ma not to touche a woman.
 I Corinthians 7:2 Neverthelesse to avoyde fornicacio let every man have his wyfe: and let every woman have her husbande.
 I Corinthians 7:3 Let the man geve vnto the wyfe due benevolence. Lykwyse also the wyfe vnto the man.
-I Corinthians 7:4 The wyfe hath not power over her awne body: but the husbande. And lykewyse the man hath not power over his awne body: but the wyfe5. Withdrawe not youre selves one from another excepte it be with consent for a tyme for to geve youre selves to fastynge and prayer. And afterwarde come agayne to the same thynge lest Satan tempt you for youre incontinencye.
+I Corinthians 7:4 The wyfe hath not power over her awne body: but the husbande. And lykewyse the man hath not power over his awne body: but the wyfe.
+I Corinthians 7:5 Withdrawe not youre selves one from another excepte it be with consent for a tyme for to geve youre selves to fastynge and prayer. And afterwarde come agayne to the same thynge lest Satan tempt you for youre incontinencye.
 I Corinthians 7:6 This I saye of faveour not of comaundement.
 I Corinthians 7:7 For I wolde that all men were as I my selfe am: but every man hath his proper gyfte of God one after this maner another after that.
 I Corinthians 7:8 I saye vnto the vnmaried men and widdowes: it is good for them yf they abyde eve as I do.
@@ -11646,7 +11661,8 @@ I Corinthians 9:11 Yf we sowe vnto you spirituall thynges: is it a greate thynge
 I Corinthians 9:12 Yf other be parttakers of this power over you? wherfore are not we rather.Neverthelesse we have not vsed this power: but suffre all thinges lest we shuld hynder the gospell of Christ.
 I Corinthians 9:13 Do ye not vnderstoder how that they which minister in the temple have their fyndynge of the temple? And they which wayte at the aulter are partakers with ye aultre?
 I Corinthians 9:14 Even so also dyd ye lorde ordayne that they which preache ye gospell shuld live of the gospell.
-I Corinthians 9:15 But I have vsed none of these thinges. Nether wrote I these thinges that it shuld be so done vnto me. For it were better for me to dye the yt eny man shnld take this reioysinge from me16. In that I preache the gospell I have nothinge to reioyce of. For necessite is put vnto me. Wo is it vnto me yf I preache not the gospell.
+I Corinthians 9:15 But I have vsed none of these thinges. Nether wrote I these thinges that it shuld be so done vnto me. For it were better for me to dye the yt eny man shnld take this reioysinge from me.
+I Corinthians 9:16 In that I preache the gospell I have nothinge to reioyce of. For necessite is put vnto me. Wo is it vnto me yf I preache not the gospell.
 I Corinthians 9:17 If I do it with a good will I have a rewarde. But yf I do it agaynst my will an office is committed vnto me.
 I Corinthians 9:18 What is my rewarde then? Verely that whe I preache the gospell I make the gospell of Christ fre yt I misvse not myne auctorite in ye gospel
 I Corinthians 9:19 For though I be fre from all men yet have I made my silfe servaunt vnto all men that I myght wynne the moo.
@@ -12311,7 +12327,8 @@ Galatians 6:2 Beare ye one anothers burthe and so fulfill the lawe of Christ.
 Galatians 6:3 If eny ma seme to him silfe that he is somwhat whe in dede he is nothynge the same deceaveth hym silfe in his ymaginacion.
 Galatians 6:4 Let every man prove his awne worke and then shall he have reioysinge in his awne silfe and not in another
 Galatians 6:5 For every man shall beare his awne burthen.
-Galatians 6:6 Let him that is taught in ye worde minister vnto him yt teacheth him in all good thinges7. Be not deceaved God is not mocked. For what soever a man soweth yt shall he reepe.
+Galatians 6:6 Let him that is taught in ye worde minister vnto him yt teacheth him in all good thinges.
+Galatians 6:7 Be not deceaved God is not mocked. For what soever a man soweth yt shall he reepe.
 Galatians 6:8 He that soweth in his flesshe shall of ye flesshe reepe corrupcio. But he yt soweth in ye sprete shall of the sprete reepe lyfe everlastinge.
 Galatians 6:9 Let vs not be wery of well doynge. For when the tyme is come we shall repe with out werines.
 Galatians 6:10 Whill we have therfore tyme let vs do good vnto all men and specially vnto them which are of the housholde of fayth.
@@ -12995,7 +13012,8 @@ II Timothy 2:11 It is a true sayinge if we be deed wt him we also shall live wit
 II Timothy 2:12 Yf we be pacient we shall also raigne wt him. If we denye him he also shall denye vs.
 II Timothy 2:13 Yf we beleve not yet abideth he faithfull. He cannot denye him silfe.
 II Timothy 2:14 Of these thynges put them in remembraunce and testifie before the lorde that they stryve not about wordes which is to no proffet but to pervert the hearers.
-II Timothy 2:15 Study to shewe thy silfe laudable vnto god a workman yt nedeth not to be a shamed dividynge the worde of trueth iustly16. Vngostly and vayne voyces passe over. For they shall encreace vnto greater vngodlynes
+II Timothy 2:15 Study to shewe thy silfe laudable vnto god a workman yt nedeth not to be a shamed dividynge the worde of trueth iustly.
+II Timothy 2:16 Vngostly and vayne voyces passe over. For they shall encreace vnto greater vngodlynes
 II Timothy 2:17 and their wordes shall fret even as doeth a cancre: of whose nombre ys Hymeneos and Philetos
 II Timothy 2:18 which as concernynge the trueth have erred sayinge that the resurreccion is past all redy and do destroye the fayth of divers persones.
 II Timothy 2:19 But the sure grounde of god remayneth and hath this seale: the lorde knoweth them that are his and let every man that calleth on the name of Christ departe from iniquite.
@@ -13908,7 +13926,8 @@ Revelation of John 1:4 Ihon to the .vii. congregacios in Asia. Grace be with you
 Revelation of John 1:5 and from Iesus Christ which is a faythfull witnes and fyrst begotte of the deed: and Lorde over the kinges of the erth. Vnto him that loved vs and wesshed vs fro synnes in his awne bloud
 Revelation of John 1:6 and made vs kinges and Prestes vnto God his father be glory and dominion for ever more. Amen.
 Revelation of John 1:7 Beholde he commeth with cloudes and all eyes shall se him: and they also which peersed him. And all kinredes of ye erth shall wayle. Even so. Amen.
-Revelation of John 1:8 I am Alpha and Omega the begynninge and the endinge sayth the Lorde almyghty which is and which was and which is to come.  I Ihon youre brother and companyon in tribulacion and in the kyngdom and pacience which is in Iesu Christe was in the yle of Pathmos for the worde of god and for ye witnessynge of Iesu Christe.
+Revelation of John 1:8 I am Alpha and Omega the begynninge and the endinge sayth the Lorde almyghty which is and which was and which is to come.
+Revelation of John 1:9 I Ihon youre brother and companyon in tribulacion and in the kyngdom and pacience which is in Iesu Christe was in the yle of Pathmos for the worde of god and for ye witnessynge of Iesu Christe.
 Revelation of John 1:10 I was in the sprete on a sondaye and herde behynde me a gret voyce as it had bene of a trompe
 Revelation of John 1:11 sayinge: I am Alpha and Omega the fyrst and the laste. That thou seist write in a boke and sende it vnto the congregacions which are in Asia vnto Ephesus and vnto Smyrna and vnto Pargamos and vnto Thiatira and vnto Sardis and vnto Philadelphia and vnto Laodicia.
 Revelation of John 1:12 And I turned backe to se the voyce that spake to me. And when I was turned: I sawe .vii golde candelstyckes

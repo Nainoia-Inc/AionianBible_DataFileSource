@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Hebrew---Salkinson-Hebrew-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Hebrew---Salkinson-Hebrew-Bible
-## File Created: 06/08/2025 14:14:27
+## File Created: 07/31/2025 13:06:31
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=hebsg
 ## Source File: https://ebible.org/Scriptures/hebsg_vpl.zip
-## Source Date: 05/23/2025 20:34:31
+## Source Date: 07/26/2025 14:59:36
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

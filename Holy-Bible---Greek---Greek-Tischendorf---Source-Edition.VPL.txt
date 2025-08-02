@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-Tischendorf---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-Tischendorf
-## File Created: 04/18/2025 06:14:00
+## File Created: 07/31/2025 13:06:27
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=grc-tisch
 ## Source File: https://ebible.org/Scriptures/grc-tisch_vpl.zip
-## Source Date: 04/18/2025 01:16:03
+## Source Date: 07/26/2025 14:50:30
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

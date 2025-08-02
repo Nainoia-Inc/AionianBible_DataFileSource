@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Chinese---Mandarin-Bible-Traditional---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Chinese---Mandarin-Bible-Traditional
-## File Created: 05/24/2025 15:27:53
+## File Created: 07/31/2025 13:06:09
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=cmncbt
 ## Source File: https://ebible.org/Scriptures/cmncbt_vpl.zip
-## Source Date: 04/30/2025 16:29:15
+## Source Date: 07/26/2025 13:54:23
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

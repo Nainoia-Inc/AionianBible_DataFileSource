@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Satawalese---Satawalese-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Satawalese---Satawalese-Bible
-## File Created: 04/27/2025 08:53:50
+## File Created: 07/31/2025 13:06:55
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -9,10 +9,10 @@
 ## Publisher Mission: https://www.AionianBible.org/Preface
 ## Publisher Website: https://NAINOIA-INC.signedon.net
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
-## Source URL: 
+## Source URL: https://ebible.org/details.php?id=stw
 ## Source File: https://ebible.org/Scriptures/stw_vpl.zip
-## Source Date: 04/18/2025 02:49:19
-## Source Copyright: 
+## Source Date: 07/26/2025 17:44:14
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
 

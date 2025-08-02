@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Tagin---Tagin-First-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Tagin---Tagin-First-Bible
-## File Created: 04/18/2025 06:14:17
+## File Created: 07/31/2025 13:07:00
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=tgj
 ## Source File: https://ebible.org/Scriptures/tgj_vpl.zip
-## Source Date: 04/18/2025 02:59:45
+## Source Date: 07/26/2025 18:02:21
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -2496,7 +2496,7 @@ LUK 16:19 “Ho hoka nyi nyitvnv ako dooto nw kainv arv doonv vjia kooto okv ach
 LUK 16:20 Ho hoka heemanv nyi ako dooto aminv Lajaras, ungvtarv ngv rara nvgo, hum nyitv nyi gv naam agi lo vvpvkinamgo,
 LUK 16:21 nyitv nyi gv dvkulo dvala hoolin nama dvpa yare vla mvngnv go. Iki vka aala ninyigv ungngv nga dvriak riakbwngto.”
 LUK 16:22 “Heemanv nyi angv sitoku okv nyidogindung vdwv ninyia gvvtoku Abrahamnyi lvkobv nyidomooku gv dvpam lo doomuto. Nyitv nyi v sitoku okv nyibung riitoku,
-LUK 16:23 okv uyumooku bolo nw achialvbv hirukaya toku, nw kaadung kunamv adukoyo lo Abraham okv ninyigv lvkobv Lajarasnyi doodubv kaapa toku.
+LUK 16:23 okv Uyumooku bolo nw achialvbv hirukaya toku, nw kaadung kunamv adukoyo lo Abraham okv ninyigv lvkobv Lajarasnyi doodubv kaapa toku.
 LUK 16:24 Vkvlvgabv nw goklin toku, ‘Abu Abraham! nga aya labvka, okv Lajarasnyi ninyigv lakching nga isi lo chibok mogvrila achok godaka ngoogv riu sum chapke molabvka, ogulvgavbolo ngo si vmv arwng si achialvbv hirukaya dvkukv!’
 LUK 16:25 Vbvritola Abraham minto, ‘Mvngpa tokuka, ngoogv kuunyilo nga, noogv turla singrilo nam alvnv mvnwngnga jimiro, Lajaras hoka alvmanv mvnwngnga paariato. Vbvritola vjak nw soka atuv himpu pumin dukunv, no hoka hirukaya rikulo.
 LUK 16:26 So ogu mvnwng sum kayu tvla, no gvla ngoogv pingko si kairungnv kobung go doodunv, vkvlvgabv yvvdw sokv noogv hoka vngrap dubv ritv nvngv vbv rinyu madunv, vmajeka yvvka noogv hokvkongv ngonugv so linyu madunv.’

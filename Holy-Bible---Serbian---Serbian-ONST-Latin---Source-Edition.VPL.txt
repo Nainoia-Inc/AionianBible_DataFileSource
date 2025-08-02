@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Serbian---Serbian-ONST-Latin---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Serbian---Serbian-ONST-Latin
-## File Created: 06/15/2025 20:49:51
+## File Created: 07/31/2025 13:06:56
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=srponstl
 ## Source File: https://ebible.org/Scriptures/srponstl_vpl.zip
-## Source Date: 05/20/2025 19:23:34
+## Source Date: 07/26/2025 17:44:37
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

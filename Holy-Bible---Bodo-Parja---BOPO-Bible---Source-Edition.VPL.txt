@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Bodo-Parja---BOPO-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Bodo-Parja---BOPO-Bible
-## File Created: 06/13/2025 23:28:14
+## File Created: 07/31/2025 13:06:04
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=bdv
 ## Source File: https://ebible.org/Scriptures/bdv_vpl.zip
-## Source Date: 06/13/2025 10:25:53
+## Source Date: 07/26/2025 12:42:58
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

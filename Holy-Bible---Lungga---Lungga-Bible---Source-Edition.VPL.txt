@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Lungga---Lungga-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Lungga---Lungga-Bible
-## File Created: 05/24/2025 15:27:58
+## File Created: 07/31/2025 13:06:39
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=lga
 ## Source File: https://ebible.org/Scriptures/lga_vpl.zip
-## Source Date: 05/09/2025 15:58:18
+## Source Date: 07/26/2025 16:01:50
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
