@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 07/31/2025 13:06:18
+## File Created: 08/29/2025 06:42:36
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engtcent
 ## Source File: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 07/30/2025 14:42:45
+## Source Date: 08/29/2025 01:30:11
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -3820,7 +3820,7 @@ ACT 1:23 So they put forward two men, Joseph called Barsabas (who was given the 
 ACT 1:24 Then they prayed, “Lord, yoʋ know the hearts of all; show us which of these two men yoʋ have chosen
 ACT 1:25 to receive the share of this ministry and apostleship from which Judas turned away to go to his own place.”
 ACT 1:26 Then they cast lots for them, and the lot fell to Matthias, so he was added to the eleven apostles.
-ACT 2:1 When the day of Pentecost came, all the believers were in the same place with one accord.
+ACT 2:1 When the day of Pentecost came, they were all in the same place with one accord.
 ACT 2:2 Suddenly a sound like a mighty rushing wind came from heaven, and it filled the whole house where they were sitting.
 ACT 2:3 Divided tongues that looked like fire appeared to them and rested on each one of them.
 ACT 2:4 Then they were all filled with the Holy Spirit and began speaking in other tongues as the Spirit enabled them.
@@ -3888,7 +3888,7 @@ ACT 3:18 But in this way God fulfilled what he had foretold through the mouths o
 ACT 3:19 Therefore repent and turn back so that your sins may be wiped away, that times of refreshing may come from the presence of the Lord,
 ACT 3:20 and that he may send Jesus, the Christ who has been appointed for you.
 ACT 3:21 Heaven must receive him until the time comes for the restoration of all things, which God declared by the mouths of all his holy prophets long ago.
-ACT 3:22 For Moses said to our fathers, ‘The Lord our God will raise up for you a prophet like me from among your brothers. You must listen to everything he tells you.
+ACT 3:22 For Moses said to our fathers, ‘The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to everything he tells you.
 ACT 3:23 Every soul who does not listen to that prophet will be utterly destroyed from among the people.’
 ACT 3:24 Indeed, all the prophets who have spoken, beginning with Samuel and continuing with those who came afterward, also proclaimed these days.
 ACT 3:25 You are the sons of the prophets and of the covenant that God made with our fathers when he said to Abraham, ‘In yoʋr offspring all the families of the earth will be blessed.’
@@ -3904,12 +3904,12 @@ ACT 4:8 Then Peter, filled with the Holy Spirit, said to them, “Rulers of the 
 ACT 4:9 if we are being examined today about a good deed done to a disabled man and by what means he has been healed,
 ACT 4:10 let it be known to you all, and to all the people of Israel, that this man is standing before you in good health by the name of Jesus Christ of Nazareth, whom you crucified and whom God raised from the dead.
 ACT 4:11 This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone.
-ACT 4:12 There is salvation in no other, for there is no other name given among men by which we must be saved.”
+ACT 4:12 There is salvation in no other, for there is no other name under heaven given among men by which we must be saved.”
 ACT 4:13 When they saw the boldness of Peter and John, and when they realized that they were uneducated and untrained men, they were amazed and recognized that they had been with Jesus.
 ACT 4:14 But since they could see the man who had been healed standing there with them, they had nothing to say in opposition.
 ACT 4:15 So they ordered Peter and John to step out from the Sanhedrin while they conferred with one another,
 ACT 4:16 saying, “What should we do with these men? For it is evident to all who dwell in Jerusalem that a notable sign has been done through them, and we cannot deny it.
-ACT 4:17 But so that it may not spread any further among the people, we will strictly warn them to speak no more in this name to any of the people.”
+ACT 4:17 But so that it may not spread any further among the people, let us strictly warn them to speak no more in this name to any of the people.”
 ACT 4:18 Then they called them in and ordered them not to speak or teach at all in the name of Jesus.
 ACT 4:19 But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, you must judge.
 ACT 4:20 For we cannot help but speak about what we have seen and heard.”
@@ -6338,7 +6338,7 @@ COL 1:2 to the saints and faithful brothers in Christ who are in Colossae: Grace
 COL 1:3 We always give thanks to the God and Father of our Lord Jesus Christ when we pray for you,
 COL 1:4 because we have heard of your faith in Christ Jesus and your love for all the saints,
 COL 1:5 the faith and love that spring from the hope that is laid up for you in heaven. You have already heard about this hope in the message of the truth of the gospel
-COL 1:6 that has come to you. This gospel has gone out into all the world, where it is bearing fruit and increasing, just as it has been doing among you since the day you heard it and understood the grace of God in truth.
+COL 1:6 that has come to you. This gospel has gone out into all the world, where it is bearing fruit, just as it has been doing among you since the day you heard it and understood the grace of God in truth.
 COL 1:7 You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on your behalf
 COL 1:8 and who also told us about your love in the Spirit.
 COL 1:9 For this reason, from the day we heard this, we have not ceased praying for you and asking that you may be filled with the knowledge of God's will in all wisdom and spiritual understanding,
@@ -7232,7 +7232,7 @@ JAM 5:7 Therefore be patient, brothers, until the coming of the Lord. Behold, th
 JAM 5:8 You also must be patient. Establish your hearts, for the coming of the Lord has drawn near.
 JAM 5:9 Do not complain against one another, brothers, so that you will not be judged. Behold, the Judge is standing at the door.
 JAM 5:10 As an example of suffering and patience, my brothers, take the prophets, who spoke in the name of the Lord.
-JAM 5:11 Behold, we regard as blessed those who endure. You have heard of the endurance of Job. Now consider the purpose of the Lord, how he is full of compassion and mercy.
+JAM 5:11 Behold, we regard as blessed those who endure. You have heard of the endurance of Job, and you have seen the purpose of the Lord, how he is full of compassion and mercy.
 JAM 5:12 Above all, my brothers, do not swear, neither by heaven, nor by earth, nor by any other oath. But let your “Yes” be “Yes” and your “No” be “No,” so that you will not fall into hypocrisy.
 JAM 5:13 Is anyone among you suffering? He should pray. Is anyone of good cheer? He should sing praise.
 JAM 5:14 Is anyone among you sick? He should call for the elders of the church, and they should pray over him, anointing him with oil in the name of the Lord.
@@ -7268,7 +7268,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 1:24 For, “All flesh is like grass, and all the glory of man is like a flower of grass. The grass withers, and its flower falls,
 1PE 1:25 but the word of the Lord endures forever.” This word is the good news that was preached to you.
 1PE 2:1 So put aside all wickedness, all deceit, hypocrisy, envy, and all slander.
-1PE 2:2 Like newborn babies, long for pure spiritual milk, so that by it you may grow into salvation,
+1PE 2:2 Like newborn babies, long for pure spiritual milk, so that by it you may grow,
 1PE 2:3 if indeed you have tasted that the Lord is good.
 1PE 2:4 As you come to him, a living stone rejected by men but chosen and precious in the sight of God,
 1PE 2:5 you yourselves, like living stones, are being built up as a spiritual house, a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
@@ -7321,7 +7321,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 4:5 But they will give an account to him who is ready to judge the living and the dead.
 1PE 4:6 For this is the reason the gospel was preached even to the dead, so that, though they have been judged in the flesh as men are, they might live in the spirit as God does.
 1PE 4:7 The end of all things has drawn near. Therefore be alert and sober-minded for the sake of your prayers.
-1PE 4:8 Above all, maintain a deep love for one another, because love covers a multitude of sins.
+1PE 4:8 Above all, maintain a deep love for one another, because love will cover a multitude of sins.
 1PE 4:9 Be hospitable to one another without grumbling.
 1PE 4:10 As each of you has received a gift, use it to serve one another, as good stewards of the manifold grace of God.
 1PE 4:11 If anyone speaks, he should do so as one who speaks the oracles of God; if anyone serves, he should do so as one who serves from strength as God supplies it, so that in all things God may be glorified through Jesus Christ. To him be the glory and the power forever and ever. Amen.
@@ -7411,7 +7411,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 1:1 We declare to you what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the word of life.
 1JO 1:2 This life was revealed; we have seen it, and we testify and declare to you the eternal life that was with the Father and that was revealed to us.
 1JO 1:3 What we have seen and heard we declare to you, so that you also may have fellowship with us, and indeed our fellowship is with the Father and with his Son Jesus Christ.
-1JO 1:4 We are writing these things to you so that your joy may be full.
+1JO 1:4 We are writing these things to you so that our joy may be full.
 1JO 1:5 This is the message that we have heard from him and proclaim to you, that God is light, and in him there is no darkness at all.
 1JO 1:6 If we say that we have fellowship with him and yet walk in the darkness, we lie and do not live by the truth.
 1JO 1:7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin.
@@ -7446,7 +7446,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 2:26 I have written these things to you concerning those who are trying to deceive you.
 1JO 2:27 But the anointing you received from him abides in you, and you have no need for anyone to teach you. But the same anointing teaches you about all things; it is true, not a lie. So, just as it has taught you, you must abide in him.
 1JO 2:28 And now, little children, abide in him, so that when he is revealed we may have confidence and not shrink back from him in shame when he comes back.
-1JO 2:29 If you perceive that he is righteous, you know that everyone who practices righteousness has been born of him.
+1JO 2:29 If you know that he is righteous, you know that everyone who practices righteousness has been born of him.
 1JO 3:1 See what great love the Father has lavished upon us, that we should be called children of God! The reason the world does not know you is that it did not know him.
 1JO 3:2 Beloved, now we are children of God, and what we will be has not yet been revealed. But we know that when he appears, we will be like him, because we will see him as he is.
 1JO 3:3 Everyone who places this hope in him purifies himself, just as he is pure.
