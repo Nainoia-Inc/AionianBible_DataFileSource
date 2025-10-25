@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Glavda---Glavda-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Glavda---Glavda-Bible
-## File Created: 07/31/2025 13:06:25
+## File Created: 09/13/2025 13:24:52
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=glwl
 ## Source File: https://ebible.org/Scriptures/glwl_vpl.zip
-## Source Date: 07/26/2025 14:46:12
+## Source Date: 09/10/2025 01:10:34
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

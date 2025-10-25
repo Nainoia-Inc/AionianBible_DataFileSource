@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Romani-Vlax---Arli-Luke---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Romani-Vlax---Arli-Luke
-## File Created: 08/30/2025 00:56:59
+## File Created: 10/23/2025 22:35:16
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=rmyArli
 ## Source File: https://ebible.org/Scriptures/rmyArli_vpl.zip
-## Source Date: 08/29/2025 17:57:28
+## Source Date: 10/23/2025 18:15:49
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -411,7 +411,7 @@ LUK 8:40 A kad o Isus irinđa pe ki aver strana oto jezero, but manuša inele ra
 LUK 8:41 I dikh, alo o manuš palo anav Jair, kova inele vođa ani sinagoga. I perindoj anglo pre e Isusesere, phenđa: “Molinava tut, ava maje ano čher.”
 LUK 8:42 Adalese so e Jairesiri jekhori čhaj, kola ine dešu duj berš, inele anglo meriba. I sar o Isus džala ine palo Jair, o narodo gurini pe ano leste.
 LUK 8:43 A maškaro narodo inele jekh đuvli kolatar dešu duj berš thavdinđa rat. Oj sa plo barvalipe dinđa ko doktorija, ali nijekh našti ine te sasljari la.
-LUK 8:44 Nakhini oto palal e Isusese hem dolinđa pe upro lesere fostanesoro krajo hem otojekhvar ačhilo te thavdel latar o rat.
+LUK 8:44 Nakhini odpalal e Isusese hem dolinđa pe upro lesere fostanesoro krajo hem otojekhvar ačhilo te thavdel latar o rat.
 LUK 8:45 I o Isus pučlja: “Ko dolinđa pe upra mande?” A kad svako olendar phende: “Na injum me”, o Petar phenđa: “Gospodarona, sar te džana kad but džene čedinde pe hem gurinena pe uzala tute.”
 LUK 8:46 A o Isus phenđa: “Neko namerno dolinđa pe upra mande. Osetinđum sar ikljola mandar o zoralipe.”
 LUK 8:47 A i đuvli dikhlja so našti te garaj pe, tresindoj oti dar ali hem peli mujeja đi phuv anglo leste hem vaćerđa anglo sa o manuša sose dolinđa pe upro leste hem sar otojekhvar inele sasljardi.
@@ -614,7 +614,7 @@ LUK 12:29 Tumen ma oven zabrinuta zako adava so ka han hem so ka pijen,
 LUK 12:30 adalese so adava rodena okola kola na džanen e Devlese. Tumaro Dad, o Devel, džanel da valjani tumenđe sa adava.
 LUK 12:31 Nego roden o carstvo e Devlesoro, a ov ka del tumen sa adava so valjani tumenđe!
 LUK 12:32 Ma daran, mlo tikoro stado! Tumare Dadesiri volja inele te del tumen o carstvo.
-LUK 12:33 Bikninen so isi tumen hem o pare den e čororenđe! Ćeren tumenđe kese zako pare save na properena hem barvalipe ko nebo savo nikad na tikorini. Niko naka šaj te avel adari te čorel tumaro barvalipe hem nijekh moljco naka uništini le.
+LUK 12:33 Biknen so isi tumen hem o pare den e čororenđe! Ćeren tumenđe kese zako pare save na properena hem barvalipe ko nebo savo nikad na tikorini. Niko naka šaj te avel adari te čorel tumaro barvalipe hem nijekh moljco naka uništini le.
 LUK 12:34 Adalese so tumaro vilo ka ovel adari kaj tumaro barvalipe.”
 LUK 12:35 O Isus ple učenikonenđe phenđa hem akava: “Oven spremna, urjavde zaki buti hem tumare svetiljke te oven tharde,
 LUK 12:36 sar sluge kola adžićerena ple gospodare te irini pe čhere taro bijav. Kad irini pe o gospodari hem kad khuvela ko udar, o slugei spremna te phraven lese.
@@ -1095,7 +1095,7 @@ LUK 23:34 O Isus phenđa: “Dade, oprostin lenđe, adalese so na džanen so će
 LUK 23:35 O narodo terdino adari te dikhelfse, a e jevrejengere vođe marde muj e Isuseja vaćerindoj: “Averen spasinđa; akana nek spasini korkoro pes tei čače ov o Hrist e Devlesoro, lesoro Izabirime!”
 LUK 23:36 Hem o vojnici marde muj e Isuseja. Ale uzalo leste hem kaninde le ušli mol,
 LUK 23:37 vaćerindoj: “Te injan o caro e jevrejengoro, spasin tut!”
-LUK 23:38 A upreder lesoro šero terdino znako kote inele pisime: Akavai o caro e jevrejengoro .
+LUK 23:38 A upreder lesoro šero terdino znako kote inele pisime: Akavai o caro e jevrejengoro.
 LUK 23:39 Jekh okole zločinconendar vređinđa e Isuse vaćerindoj: “Te injan o Hrist, sose na spasineja tut hem amen?”
 LUK 23:40 A o dujto zločinco ukorinđa adale so vređinđa e Isuse: “Sar na daraja e Devlestar? Hem tu injan ađahar osudime sar soi ov.
 LUK 23:41 Amen pravedno injam kaznime zbog amare bišukar buća, a ov na ćerđa nisavo bišukaripe.”

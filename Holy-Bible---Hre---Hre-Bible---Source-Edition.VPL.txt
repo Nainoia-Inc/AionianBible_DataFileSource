@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Hre---Hre-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Hre---Hre-Bible
-## File Created: 08/21/2025 07:53:39
+## File Created: 09/13/2025 13:24:56
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=hrebt
 ## Source File: https://ebible.org/Scriptures/hrebt_vpl.zip
-## Source Date: 08/18/2025 23:40:31
+## Source Date: 09/10/2025 01:27:57
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

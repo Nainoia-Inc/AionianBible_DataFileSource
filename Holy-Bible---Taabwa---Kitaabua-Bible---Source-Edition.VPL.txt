@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Taabwa---Kitaabua-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Taabwa---Kitaabua-Bible
-## File Created: 07/31/2025 13:06:59
+## File Created: 09/13/2025 13:25:27
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=tap
 ## Source File: https://ebible.org/Scriptures/tap_vpl.zip
-## Source Date: 07/26/2025 17:53:35
+## Source Date: 09/10/2025 03:02:36
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

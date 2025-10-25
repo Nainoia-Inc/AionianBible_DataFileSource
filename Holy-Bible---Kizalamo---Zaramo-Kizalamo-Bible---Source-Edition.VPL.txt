@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Kizalamo---Zaramo-Kizalamo-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Kizalamo---Zaramo-Kizalamo-Bible
-## File Created: 07/31/2025 13:06:37
+## File Created: 09/13/2025 13:25:00
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=zajp
 ## Source File: https://ebible.org/Scriptures/zajp_vpl.zip
-## Source Date: 07/26/2025 18:52:27
+## Source Date: 09/10/2025 03:34:43
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

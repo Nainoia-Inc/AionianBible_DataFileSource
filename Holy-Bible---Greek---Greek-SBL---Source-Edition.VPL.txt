@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-SBL---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Greek---Greek-SBL
-## File Created: 07/31/2025 13:06:26
+## File Created: 09/13/2025 13:24:53
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=grcsbl
 ## Source File: https://ebible.org/Scriptures/grcsbl_vpl.zip
-## Source Date: 07/26/2025 19:25:21
+## Source Date: 09/10/2025 03:51:45
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

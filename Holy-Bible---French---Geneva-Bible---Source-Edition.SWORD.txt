@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---French---Geneva-Bible---Source-Edition.SWORD.txt
 ## File Usage: Holy-Bible---French---Geneva-Bible
-## File Created: 08/24/2025 19:59:54
+## File Created: 10/05/2025 08:06:59
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://crosswire.org/sword/modules/ModInfo.jsp?modName=FreGeneve1669
 ## Source File: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/FreGeneve1669.zip
-## Source Date: 08/22/2025 12:05:14
+## Source Date: 09/28/2025 05:35:59
 ## Source Copyright: Public Domain
 ## Source Text: unaltered below
 ##

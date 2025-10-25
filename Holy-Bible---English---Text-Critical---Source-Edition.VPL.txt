@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---English---Text-Critical---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---English---Text-Critical
-## File Created: 08/29/2025 06:42:36
+## File Created: 10/23/2025 22:35:13
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=engtcent
 ## Source File: https://ebible.org/Scriptures/engtcent_vpl.zip
-## Source Date: 08/29/2025 01:30:11
+## Source Date: 10/23/2025 00:29:29
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##
@@ -727,7 +727,7 @@ MAT 21:26 But we are afraid of what the crowd might do if we say, ‘From men,�
 MAT 21:27 So they answered Jesus, “We do not know.” Then he said to them, “Neither will I tell you by what authority I am doing these things.
 MAT 21:28 “But what do you think? A man had two sons. He went to his first son and said, ‘Son, go work today in my vineyard.’
 MAT 21:29 His son answered, ‘I will not,’ but afterward he changed his mind and went.
-MAT 21:30 Then the man went to his second son and said the same thing. His second son answered, ‘I will go, sir,’ but he did not go.
+MAT 21:30 Then the man went to his other son and said the same thing. His other son answered, ‘I will go, sir,’ but he did not go.
 MAT 21:31 Which of the two did the will of his father?” They said to him, “The first.” Jesus said to them, “Truly I say to you, tax collectors and prostitutes are entering the kingdom of God ahead of you.
 MAT 21:32 For John came to you in the way of righteousness, and you did not believe him, but tax collectors and prostitutes believed him. Yet even after you saw it, you did not change your minds and believe him.
 MAT 21:33 “Listen to another parable: There was a master of a house who planted a vineyard, put a fence around it, dug a winepress in it, built a tower, leased it to farmers, and left the country.
@@ -1224,7 +1224,7 @@ MAR 4:26 He also said, “The kingdom of God is like a man who scatters seed on 
 MAR 4:27 He sleeps and rises night and day, and the seed sprouts and grows; he does not know how.
 MAR 4:28 For the earth produces a crop by itself: first the stalk, then the head, then the full grain in the head.
 MAR 4:29 When the crop is ready, the man immediately sends in the sickle, for the harvest has come.”
-MAR 4:30 Then Jesus said, “To what can we compare the kingdom of God? Or what parable can we use to describe it?
+MAR 4:30 Then Jesus said, “To what shall we compare the kingdom of God? Or what parable can we use to describe it?
 MAR 4:31 It is like a grain of mustard seed, which, when it is sown on the ground, is smaller than all the seeds on earth.
 MAR 4:32 Yet when it is sown, it grows and becomes larger than all the garden plants and produces large branches, so that the birds of the sky can nest in its shade.”
 MAR 4:33 With many similar parables he spoke the word to them, to the extent that they were able to understand it.
@@ -1596,7 +1596,7 @@ MAR 13:4 “Tell us, when will these things happen? And what will be the sign th
 MAR 13:5 Jesus began to say to them in response, “Make sure no one leads you astray.
 MAR 13:6 For many will come in my name, saying, ‘I am he,’ and will lead many astray.
 MAR 13:7 When you hear of wars and rumors of wars, do not be alarmed, for these things must take place, but the end is not yet.
-MAR 13:8 For nation will rise up against nation, and kingdom against kingdom. There will be earthquakes in various places, along with famines and riots. These are the beginning of the labor pains.
+MAR 13:8 For nation will rise up against nation, and kingdom against kingdom. There will be earthquakes in various places, along with famines and riots. These are the beginnings of the labor pains.
 MAR 13:9 “You must watch out for yourselves, for they will deliver you up to councils, and you will be beaten in synagogues. For my sake you will even be set before governors and kings as witnesses to them.
 MAR 13:10 And the gospel must first be proclaimed to all nations.
 MAR 13:11 When they lead you away and hand you over, do not be anxious beforehand about what you should say. Do not give it much thought, but say whatever is given to you in that hour, for it will not be you speaking, but the Holy Spirit.
@@ -1729,7 +1729,7 @@ MAR 15:28 So the Scripture was fulfilled that says, “He was numbered with the 
 MAR 15:29 Those who passed by reviled him, shaking their heads and saying, “Ha! Yoʋ who would destroy the temple and build it in three days,
 MAR 15:30 save yoʋrself and come down from the cross!”
 MAR 15:31 In the same way the chief priests also, along with the scribes, were mocking him among themselves, saying, “He saved others, but he cannot save himself.
-MAR 15:32 Let the Christ, the king of Israel, come down now from the cross, so that we may see it and believe him.” The men who were crucified with him were also insulting him.
+MAR 15:32 Let the Christ, the king of Israel, come down now from the cross, so that we may see it and believe.” The men who were crucified with him were also insulting him.
 MAR 15:33 From the sixth hour until the ninth hour, there was darkness over the whole land.
 MAR 15:34 And at the ninth hour Jesus cried out with a loud voice, “Eloi, Eloi, lima sabachthani?” which means, “My God, my God, why have yoʋ forsaken me?”
 MAR 15:35 When some of those standing nearby heard this, they said, “Behold, he is calling for Elijah.”
@@ -1929,7 +1929,7 @@ LUK 3:29 the son of Jose, the son of Eliezer, the son of Jorim, the son of Matth
 LUK 3:30 the son of Simeon, the son of Judah, the son of Joseph, the son of Jonan, the son of Eliakim,
 LUK 3:31 the son of Melea, the son of Mainan, the son of Mattatha, the son of Nathan, the son of David,
 LUK 3:32 the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,
-LUK 3:33 the son of Amminadab, the son of Ram, the son of Hezron, the son of Perez, the son of Judah,
+LUK 3:33 the son of Amminadab, the son of Ram, the son of Joram, the son of Hezron, the son of Perez, the son of Judah,
 LUK 3:34 the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,
 LUK 3:35 the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
 LUK 3:36 the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,
@@ -2194,7 +2194,7 @@ LUK 9:18 Once when Jesus was praying in private and the disciples were with him,
 LUK 9:19 They answered, “Some say John the Baptist, others say Elijah, and others say that one of the ancient prophets has risen.”
 LUK 9:20 Then he said to them, “But who do you say that I am?” Peter answered, “The Christ of God.”
 LUK 9:21 Jesus then warned them and instructed them to tell this to no one,
-LUK 9:22 saying, “The Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and he must be killed and on the third day rise again.”
+LUK 9:22 saying, “The Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and he must be killed and on the third day be raised up.”
 LUK 9:23 Then he said to them all, “If anyone wants to be one of my disciples, he must deny himself, take up his cross, and follow me.
 LUK 9:24 For whoever wants to save his life will lose it, but whoever loses his life for my sake will save it.
 LUK 9:25 For what does it benefit a person if he gains the whole world but loses or forfeits himself?
@@ -2559,7 +2559,7 @@ LUK 17:33 Whoever seeks to save his life will lose it, but whoever loses his lif
 LUK 17:34 I tell you, on that night two people will be in one bed; one will be taken and the other will be left.
 LUK 17:35 Two women will be grinding grain together; one will be taken and the other will be left.”
 LUK 17:37 Then the disciples said to him in response, “Where, Lord?” He said to them, “Where the body is, there the vultures will be gathered together.”
-LUK 18:1 Then Jesus told them a parable about the need to pray at all times and not lose heart.
+LUK 18:1 Then Jesus told them a parable about the need for them to pray at all times and not lose heart.
 LUK 18:2 He said, “In a certain city there was a judge who neither feared God nor respected man.
 LUK 18:3 There was also a widow in that city who kept coming to him and saying, ‘Give me justice against my adversary.’
 LUK 18:4 For a while he would not do so, but afterward he said to himself, ‘Though I neither fear God nor respect man,
@@ -2764,7 +2764,7 @@ LUK 22:26 But it must not be so with you; rather the greatest among you must bec
 LUK 22:27 For who is greater? The one who reclines at the table or the one who serves? Is it not the one who reclines at the table? But I am among you as one who serves.
 LUK 22:28 “You have stayed with me in my trials.
 LUK 22:29 And I bestow on you a kingdom, just as my Father bestowed one on me,
-LUK 22:30 so that you may eat and drink at my table. And you will sit on thrones judging the twelve tribes of Israel.”
+LUK 22:30 so that you may eat and drink at my table in my kingdom. And you will sit on thrones judging the twelve tribes of Israel.”
 LUK 22:31 Then the Lord said, “Simon, Simon, behold, Satan has demanded to have you, so that he might sift you like wheat.
 LUK 22:32 But I have prayed for yoʋ that yoʋr faith may not fail. Once yoʋ have turned back, strengthen yoʋr brothers.”
 LUK 22:33 Peter said to him, “Lord, I am ready to go with yoʋ both to prison and to death.”
@@ -3309,7 +3309,7 @@ JOH 8:54 Jesus answered, “If I glorify myself, my glory is nothing. It is my F
 JOH 8:55 You do not know him, but I know him. If I were to say that I do not know him, I would be a liar like you. But I do know him, and I keep his word.
 JOH 8:56 Your father Abraham was glad that he would see my day. He saw it and rejoiced.”
 JOH 8:57 Then the Jews said to him, “Yoʋ are not yet fifty years old, and yoʋ have seen Abraham?”
-JOH 8:58 Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”
+JOH 8:58 So Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”
 JOH 8:59 So they picked up stones to throw at him, but Jesus hid himself and went out from the temple grounds. And passing through the crowd, he walked away.
 JOH 9:1 As Jesus walked along, he saw a man who had been blind from birth.
 JOH 9:2 His disciples asked him, “Rabbi, who sinned, this man or his parents, that he should be born blind?”
@@ -3826,7 +3826,7 @@ ACT 2:3 Divided tongues that looked like fire appeared to them and rested on eac
 ACT 2:4 Then they were all filled with the Holy Spirit and began speaking in other tongues as the Spirit enabled them.
 ACT 2:5 Now there were devout Jews from every nation under heaven dwelling in Jerusalem.
 ACT 2:6 When this sound occurred, the multitude came together, and they were bewildered because each one of them heard his own language being spoken.
-ACT 2:7 They were all astonished and amazed, saying to one another, “Behold, are not all these who are speaking Galileans?
+ACT 2:7 They were astonished and amazed, saying to one another, “Behold, are not all these who are speaking Galileans?
 ACT 2:8 How then do we each hear them in our own native languages?
 ACT 2:9 Parthians, Medes, Elamites; those who dwell in Mesopotamia, Judea and Cappadocia, Pontus and Asia,
 ACT 2:10 Phrygia and Pamphylia, Egypt and the districts of Libya that are near Cyrene; visitors from Rome (both Jews and converts to Judaism),
@@ -3869,7 +3869,7 @@ ACT 2:46 Day by day as they continued meeting together with one accord in the te
 ACT 2:47 praising God and enjoying the favor of all the people. And the Lord added to the church daily those who were being saved.
 ACT 3:1 One day Peter and John were going up together to the temple at the hour of prayer, the ninth hour.
 ACT 3:2 And a man who was lame from his mother's womb was being carried in. Every day people would lay him at the gate of the temple called the Beautiful Gate so that he could ask for alms from those who were entering the temple courts.
-ACT 3:3 When he saw Peter and John about to enter the temple courts, he began asking for alms.
+ACT 3:3 When he saw Peter and John about to enter the temple courts, he began asking them for alms.
 ACT 3:4 But Peter, along with John, looked at him intently and said, “Look at us.”
 ACT 3:5 So the man gave them his attention, expecting to receive something from them.
 ACT 3:6 But Peter said, “I have no silver or gold, but what I do have I give to yoʋ. In the name of Jesus Christ of Nazareth, rise up and walk.”
@@ -3909,7 +3909,7 @@ ACT 4:13 When they saw the boldness of Peter and John, and when they realized th
 ACT 4:14 But since they could see the man who had been healed standing there with them, they had nothing to say in opposition.
 ACT 4:15 So they ordered Peter and John to step out from the Sanhedrin while they conferred with one another,
 ACT 4:16 saying, “What should we do with these men? For it is evident to all who dwell in Jerusalem that a notable sign has been done through them, and we cannot deny it.
-ACT 4:17 But so that it may not spread any further among the people, let us strictly warn them to speak no more in this name to any of the people.”
+ACT 4:17 But so that it may not spread any further among the people, we will strictly warn them to speak no more in this name to any of the people.”
 ACT 4:18 Then they called them in and ordered them not to speak or teach at all in the name of Jesus.
 ACT 4:19 But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, you must judge.
 ACT 4:20 For we cannot help but speak about what we have seen and heard.”
@@ -3970,7 +3970,7 @@ ACT 5:37 After this man, Judas the Galilean rose up in the days of the census an
 ACT 5:38 So I say to you now, keep away from these men and leave them alone, for if this plan or this undertaking is of men, it will be stopped;
 ACT 5:39 but if it is of God, you cannot put a stop to it. You will only find yourselves fighting against God.”
 ACT 5:40 They were persuaded by him, and after calling in the apostles, they beat them, commanded them not to speak in the name of Jesus, and released them.
-ACT 5:41 So the apostles went out from the presence of the Sanhedrin, rejoicing that they had been considered worthy to suffer dishonor for the name of Jesus.
+ACT 5:41 So the apostles went out from the presence of the Sanhedrin, rejoicing that they had been considered worthy to suffer dishonor for the Name.
 ACT 5:42 And every day, in the temple courts and from house to house, they did not cease teaching and preaching the good news that Jesus is the Christ.
 ACT 6:1 In those days, as the disciples increased in number, a complaint arose against the Hebrews on the part of the Hellenists that their widows were being overlooked in the daily distribution of food.
 ACT 6:2 So the twelve called the multitude of the disciples together and said, “It is not proper for us to neglect the word of God to wait on tables.
@@ -4023,8 +4023,8 @@ ACT 7:33 Then the Lord said to him, ‘Remove the sandals from yoʋr feet, for t
 ACT 7:34 I have surely seen the mistreatment of my people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send yoʋ to Egypt.’
 ACT 7:35 “This is the same Moses they had rejected, saying, ‘Who appointed yoʋ to be a ruler and judge?’ He is the one God sent as a ruler and redeemer by the hand of the angel who appeared to him in the bush.
 ACT 7:36 He is the one who led them out, performing wonders and signs in the land of Egypt, at the Red Sea, and in the wilderness for forty years.
-ACT 7:37 This is the same Moses who said to the sons of Israel, ‘The Lord our God will raise up for you a prophet like me from among your brothers.’
-ACT 7:38 This is the man who was with our fathers in the assembly in the wilderness when the angel spoke to him on Mount Sinai. He received a living word to give to us.
+ACT 7:37 This is the same Moses who said to the sons of Israel, ‘The Lord your God will raise up for you a prophet like me from among your brothers.’
+ACT 7:38 This is the man who was with our fathers in the assembly in the wilderness when the angel spoke to him on Mount Sinai. He received living oracles to give to us.
 ACT 7:39 Our fathers were unwilling to obey him. Instead, they thrust him aside, and in their hearts they turned back to Egypt,
 ACT 7:40 saying to Aaron, ‘Make us gods who will go before us, for we do not know what has happened to this Moses who led us out of the land of Egypt.’
 ACT 7:41 In those days they made an idol in the form of a calf, brought a sacrifice to the idol, and rejoiced at the works of their hands.
@@ -4270,7 +4270,7 @@ ACT 13:35 Therefore it also says in another place: ‘Yoʋ will not let yoʋr Ho
 ACT 13:36 For when David had served God's purpose in his own generation, he fell asleep, was added to his fathers, and saw corruption.
 ACT 13:37 But he whom God raised up did not see corruption.
 ACT 13:38 Therefore let it be known to you, brothers, that through this man remission of sins is proclaimed to you,
-ACT 13:39 and by this man everyone who believes is set free from everything from which you could not be set free by the law of Moses.
+ACT 13:39 and by this man everyone who believes is acquitted of everything you could not be acquitted of by the law of Moses.
 ACT 13:40 So beware that what is said in the prophets does not happen to you:
 ACT 13:41 ‘Behold, you scoffers, be amazed and perish, for I am doing a work in your days that you will certainly not believe, even if someone tells you about it.’ ”
 ACT 13:42 Now as Paul and Barnabas were going out from the synagogue of the Jews, the Gentiles were urging them to speak about these things on the next Sabbath.
@@ -4529,7 +4529,7 @@ ACT 20:31 Therefore be watchful, remembering that, night and day, for three year
 ACT 20:32 And now, brothers, I entrust you to God and to the word of his grace, which is able to build you up and give you an inheritance among all who are sanctified.
 ACT 20:33 I coveted no one's silver, gold, or clothing.
 ACT 20:34 You yourselves know that these hands of mine ministered to my own needs and to the needs of those who were with me.
-ACT 20:35 In all things I have shown you that we must labor in this way and help those who are weak, remembering what the Lord Jesus himself said, ‘It is more blessed to give than to receive.’ ”
+ACT 20:35 In all things I have shown you that we must labor in this way and help those who are weak, remembering what the Lord Jesus himself said: ‘It is more blessed to give than to receive.’ ”
 ACT 20:36 After saying these things, Paul knelt down and prayed with them all.
 ACT 20:37 There was much weeping among them all, and they threw their arms around Paul's neck and kissed him,
 ACT 20:38 being especially grieved over his statement that they would see his face no more. Then they accompanied him to the ship.
@@ -4677,7 +4677,7 @@ ACT 25:10 Paul said, “I am standing before the judgment seat of Caesar, where 
 ACT 25:11 If I am in the wrong and have done something that deserves death, I do not seek to escape death. But if none of the things these men accuse me of is true, no one can hand me over to them. I appeal to Caesar.”
 ACT 25:12 After conferring with the council, Festus answered, “Yoʋ have appealed to Caesar; to Caesar yoʋ shall go.”
 ACT 25:13 After several days had passed, King Agrippa and Bernice arrived at Caesarea and greeted Festus.
-ACT 25:14 Since the king was staying there for several days, Festus presented Paul's case to him, saying, “There is a man who was left as a prisoner by Felix.
+ACT 25:14 Since he was staying there for several days, Festus presented Paul's case to him, saying, “There is a man who was left as a prisoner by Felix.
 ACT 25:15 When I was in Jerusalem, the chief priests and the elders of the Jews presented their case and asked for a judgment against him.
 ACT 25:16 I answered them that it is not the custom of the Romans to hand anyone over for destruction before the accused faces his accusers and has an opportunity to make his defense concerning the charges.
 ACT 25:17 So when they had assembled here, I did not postpone the case, but on the next day I sat on the judgment seat and ordered the man to be brought in.
@@ -5175,7 +5175,7 @@ ROM 14:24 Now to him who is able to establish you according to my gospel and the
 ROM 14:25 but has now been revealed, and through the prophetic Scriptures has been made known to all the Gentiles, according to the commandment of the eternal God, to bring about the obedience of faith—
 ROM 14:26 to the only wise God be glory forever through Jesus Christ. Amen.
 ROM 15:1 Now we who are strong ought to bear with the weaknesses of those who are without strength; we ought not to please ourselves.
-ROM 15:2 Let each of us please his neighbor for his good, to build him up.
+ROM 15:2 Each of us should please his neighbor for his good, to build him up.
 ROM 15:3 For even Christ did not please himself, but as it is written, “The reproaches of those who reproached yoʋ fell on me.”
 ROM 15:4 For everything that was written in former times was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.
 ROM 15:5 Now may the God of endurance and encouragement grant you to have the same mind toward one another, following the example of Christ Jesus,
@@ -5328,7 +5328,7 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 1CO 5:4 So when you are gathered together in the name of our Lord Jesus Christ and I am with you in spirit, along with the power of our Lord Jesus Christ,
 1CO 5:5 hand this man over to Satan for the destruction of his flesh, so that his spirit may be saved in the day of the Lord Jesus.
 1CO 5:6 Your boasting is not good. Do you not know that a little leaven leavens the whole lump?
-1CO 5:7 Purge out the old leaven so that you may be a new lump of dough, since you really are unleavened. For Christ, our Passover lamb, has been sacrificed for us.
+1CO 5:7 Therefore purge out the old leaven so that you may be a new lump of dough, since you really are unleavened. For Christ, our Passover lamb, has been sacrificed for us.
 1CO 5:8 So then, let us celebrate the feast, not with old leaven, nor with the leaven of malice and evil, but with the unleavened bread of sincerity and truth.
 1CO 5:9 I wrote to you in my letter not to associate with fornicators.
 1CO 5:10 Yet I certainly did not mean the fornicators of this world or the greedy or swindlers or idolaters, since you would then need to go out of the world.
@@ -5494,7 +5494,7 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 1CO 11:24 and when he had given thanks, he broke it and said, “Take and eat this bread; this is my body, which is broken for you. Do this in remembrance of me.”
 1CO 11:25 In the same way, he also took the cup after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”
 1CO 11:26 For as often as you eat this bread and drink this cup, you proclaim the Lord's death until he comes.
-1CO 11:27 So then, whoever eats this bread or drinks the cup of the Lord in a manner unworthy of the Lord will be guilty of the body and blood of the Lord.
+1CO 11:27 So then, whoever eats this bread or drinks the cup of the Lord in an unworthy manner will be guilty of the body and blood of the Lord.
 1CO 11:28 So a person should examine himself before he eats of the bread and drinks of the cup.
 1CO 11:29 For he who eats and drinks in an unworthy manner eats and drinks judgment on himself, since he shows no regard for the body of the Lord.
 1CO 11:30 That is why many among you are weak and sick, and a considerable number have fallen asleep.
@@ -5665,7 +5665,7 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 1CO 16:19 The churches of Asia greet you. Aquila and Priscilla greet you earnestly in the Lord, and so does the church that meets in their house.
 1CO 16:20 All the brothers greet you. Greet one another with a holy kiss.
 1CO 16:21 I, Paul, write this greeting with my own hand.
-1CO 16:22 If anyone does not love the Lord Jesus Christ, let him be accursed. Our Lord has come!
+1CO 16:22 If anyone does not love our Lord Jesus Christ, let him be accursed. Our Lord has come!
 1CO 16:23 The grace of the Lord Jesus Christ be with you.
 1CO 16:24 My love be with you all in Christ Jesus. Amen.
 2CO 1:1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the church of God in Corinth, together with all the saints throughout Achaia:
@@ -5796,7 +5796,7 @@ ROM 16:24 The grace of our Lord Jesus Christ be with you all. Amen.,
 2CO 7:10 For godly sorrow produces a repentance that leads to salvation, leaving no regret, but worldly sorrow produces death.
 2CO 7:11 Consider what earnestness this godly sorrow of yours has produced in you, what eagerness to clear yourselves, what indignation, what alarm, what longing, what zeal, what righting of wrong! In everything you have shown yourselves to be clear in the matter.
 2CO 7:12 So although I wrote to you, it was not on account of the one who did the wrong, nor on account of the one who was wronged, but so that your earnestness for us might be revealed to you in the sight of God.
-2CO 7:13 In this we find comfort. And in addition to the comfort we received from you, we rejoiced all the more at the joy of Titus, because his spirit has been refreshed by you all.
+2CO 7:13 Therefore we have been comforted by your own comfort. And we rejoiced all the more at the joy of Titus, because his spirit has been refreshed by you all.
 2CO 7:14 For if I made any boast to him about you, I was not put to shame. But just as everything we said to you was true, so our boasting to Titus has also proven to be true.
 2CO 7:15 And his affection for you is even greater when he remembers the obedience of you all, how you received him with fear and trembling.
 2CO 7:16 I rejoice, because I have complete confidence in you.
@@ -6192,7 +6192,7 @@ EPH 5:17 Therefore do not be foolish, but understand what the will of the Lord i
 EPH 5:18 Do not be drunk with wine, which leads to debauchery, but be filled with the Spirit,
 EPH 5:19 speaking to one another in psalms, hymns, and spiritual songs, singing and making melody with your hearts to the Lord,
 EPH 5:20 always giving thanks for everything to our God and Father in the name of our Lord Jesus Christ,
-EPH 5:21 and submitting to one another in the fear of Christ.
+EPH 5:21 and submitting to one another in the fear of God.
 EPH 5:22 Wives, submit to your husbands, as to the Lord.
 EPH 5:23 For the husband is the head of the wife, just as Christ is the head and Savior of the church, which is his body.
 EPH 5:24 Just as the church submits to Christ, so wives should submit to their husbands in everything.
@@ -6211,7 +6211,7 @@ EPH 6:3 “that it may be well with yoʋ and yoʋ may live long on the earth.”
 EPH 6:4 Fathers, do not provoke your children to anger, but bring them up in the training and admonition of the Lord.
 EPH 6:5 Slaves, obey your earthly masters with fear and trembling, and with sincerity of heart, just as you would obey Christ.
 EPH 6:6 Do not try to please them only when they are watching you, but act like slaves of Christ, doing the will of God from your heart.
-EPH 6:7 Serve with a good attitude, as serving the Lord and not men,
+EPH 6:7 Serve with a good attitude, rendering service to the Lord and not men,
 EPH 6:8 knowing that whatever good anyone does he will receive back from the Lord, whether he is a slave or free.
 EPH 6:9 Masters, do the same for your slaves and stop threatening them, because you know that your own Master is in heaven, and there is no partiality with him.
 EPH 6:10 Finally, my brothers, be strong in the Lord and in the power of his might.
@@ -6381,7 +6381,7 @@ COL 2:16 Therefore let no one judge you in regard to food or drink, or in the ma
 COL 2:17 These are a shadow of the things to come, but the substance is Christ.
 COL 2:18 Let no one who delights in false humility and angelic religion disqualify you. Such a person takes his stand on things he has not seen, being puffed up without reason by the mind of his flesh,
 COL 2:19 while not holding fast to the head, from whom the entire body, being supported and knit together by its joints and tendons, grows with a growth that is from God.
-COL 2:20 If you have died with Christ to the elements of the world, why, as though you were living in the world, do you submit to regulations such as,
+COL 2:20 If then you have died with Christ to the elements of the world, why, as though you were living in the world, do you submit to regulations such as,
 COL 2:21 “Do not handle, do not taste, do not touch”?
 COL 2:22 Such regulations are based on the commandments and doctrines of men, and apply to things that will all decay with use.
 COL 2:23 Although these regulations have a semblance of wisdom in self-imposed piety, false humility, and severe treatment of the body, they are of no value in restraining fleshly indulgence.
@@ -6456,7 +6456,7 @@ COL 4:18 I, Paul, write this greeting with my own hand. Remember my chains. Grac
 1TH 2:16 by hindering us from telling the Gentiles how they can be saved. In this way they are always filling up the measure of their sins, but wrath has come upon them at last.
 1TH 2:17 As for us, brothers, when we were bereaved of you for a brief hour (being physically absent, but with you in our hearts), we longed with great eagerness to see you face to face.
 1TH 2:18 Therefore we wanted to come to you—certainly I, Paul, tried to do so again and again—but Satan hindered us.
-1TH 2:19 For what is our hope or joy or crown of boasting in the presence of our Lord Jesus at his coming? Is it not you?
+1TH 2:19 For what is our hope or joy or crown of boasting in the presence of our Lord Jesus Christ at his coming? Is it not you?
 1TH 2:20 Yes, you are our glory and joy!
 1TH 3:1 Therefore, when we could bear it no longer, we thought it best to stay in Athens alone,
 1TH 3:2 and we sent Timothy, our brother, who is a servant of God and our fellow worker in the gospel of Christ, to establish you and encourage you in your faith,
@@ -6973,7 +6973,7 @@ HEB 8:10 For this is the covenant I will make with the house of Israel after tho
 HEB 8:11 No longer will a man teach his fellow citizen or his brother, saying, ‘Know the Lord,’ for they will all know me, from the least of them to the greatest.
 HEB 8:12 For I will be merciful toward their iniquities; their sins and their lawless deeds I will remember no more.”
 HEB 8:13 In speaking of “a new covenant,” he has made the first one obsolete. And what is becoming obsolete and growing old will soon disappear.
-HEB 9:1 Now even the first covenant had regulations for worship and an earthly sanctuary.
+HEB 9:1 Now even the first tabernacle had regulations for worship and an earthly sanctuary.
 HEB 9:2 For a tabernacle was prepared. In the first room were the lampstand, the table, and the bread of the Presence; this is called the Holy Place.
 HEB 9:3 Behind the second veil was a room called the Holy of Holies.
 HEB 9:4 It had a golden censer and the ark of the covenant, which was overlaid on all sides with gold. In the ark were the golden jar containing the manna, the rod of Aaron that had budded, and the tablets of the covenant.
@@ -7086,7 +7086,7 @@ HEB 12:3 Consider him who endured such opposition from sinners against himself, 
 HEB 12:4 In your struggle against sin, you have not yet resisted to the point of shedding your blood.
 HEB 12:5 And you have completely forgotten the exhortation that addresses you as sons: “My son, do not think lightly of the discipline of the Lord, and do not lose heart when he rebukes you.
 HEB 12:6 For the Lord disciplines the one he loves, and he punishes every son he receives.”
-HEB 12:7 For the sake of discipline you must endure. God is treating you as sons. For what son is not disciplined by his father?
+HEB 12:7 If you are enduring discipline, it is because God is treating you as sons. For what son is not disciplined by his father?
 HEB 12:8 If you do not experience discipline, which is something everyone receives, then you are illegitimate children and not sons.
 HEB 12:9 Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not submit even more to the Father of spirits and live?
 HEB 12:10 For our fathers disciplined us for a short time as seemed best to them, but God disciplines us for our good, so that we may share in his holiness.
@@ -7152,7 +7152,7 @@ JAM 1:15 And when desire has conceived, it gives birth to sin. And when sin is f
 JAM 1:16 Do not be deceived, my beloved brothers.
 JAM 1:17 Every good and perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning.
 JAM 1:18 Of his own will he gave us birth by the word of truth so that we would be a kind of firstfruits of his creatures.
-JAM 1:19 So then, my beloved brothers, everyone should be swift to hear, slow to speak, and slow to anger.
+JAM 1:19 So then, my beloved brothers, everyone should be quick to listen, slow to speak, and slow to anger.
 JAM 1:20 For the anger of man does not produce the righteousness of God.
 JAM 1:21 Therefore, putting aside all filthiness and rampant wickedness, humbly receive the implanted word, which is able to save your souls.
 JAM 1:22 But be doers of the word and not hearers only. Otherwise, you are deceiving yourselves.
@@ -7171,10 +7171,10 @@ JAM 2:7 Do they not blaspheme the good name by which you are called?
 JAM 2:8 If you really fulfill the royal law according to the Scripture, “Yoʋ shall love yoʋr neighbor as yoʋrself,” you do well.
 JAM 2:9 But if you show partiality, you commit sin and are convicted by the law as transgressors.
 JAM 2:10 For whoever keeps the entire law but stumbles in one point has become guilty of it all.
-JAM 2:11 For he who said, “Yoʋ shall not commit adultery,” also said, “Yoʋ shall not murder.” Now if yoʋ do not commit adultery but do commit murder, yoʋ have become a transgressor of the law.
-JAM 2:12 Speak and act as those who will be judged by the law of liberty.
+JAM 2:11 For he who said, “Do not commit adultery,” also said, “Do not murder.” Now if yoʋ do not commit adultery but do commit murder, yoʋ have become a transgressor of the law.
+JAM 2:12 Speak and act as people who will be judged by the law of liberty.
 JAM 2:13 For judgment is without mercy to anyone who has not shown mercy; mercy is exalted over judgment.
-JAM 2:14 What is the benefit, my brothers, if someone says he has faith but does not have works? Can that faith save him?
+JAM 2:14 What is the benefit, my brothers, if someone claims to have faith but does not have works? Can that faith save him?
 JAM 2:15 If a brother or sister is poorly clothed and lacks daily food,
 JAM 2:16 and one of you says to them, “Go in peace, be warmed and filled,” without giving them anything to address their physical needs, what is the benefit?
 JAM 2:17 In the same way faith by itself, if it does not have works, is dead.
@@ -7216,11 +7216,11 @@ JAM 4:8 Draw near to God, and he will draw near to you. Cleanse your hands, you 
 JAM 4:9 Grieve, mourn, and weep. Turn your laughter into mourning and your joy into gloom.
 JAM 4:10 Humble yourselves before the Lord, and he will exalt you.
 JAM 4:11 Do not speak evil against one another, brothers. He who speaks evil against a brother and judges his brother, speaks evil against the law and judges the law. Now if yoʋ judge the law, yoʋ are not a doer of the law but a judge.
-JAM 4:12 There is only one lawgiver and judge—he who is able to save and destroy. But who are yoʋ to judge another?
+JAM 4:12 There is only one lawgiver—he who is able to save and destroy. But who are yoʋ to judge another?
 JAM 4:13 Come now, you who say, “Today and tomorrow let us go to such and such a city, spend a year there, trade, and make a profit.”
 JAM 4:14 You do not know what will happen tomorrow. What is your life? It is a vapor that appears for a little while and then vanishes away.
 JAM 4:15 Instead you ought to say, “If the Lord wills, let us live and do this or that.”
-JAM 4:16 But as it is, you boast in your arrogance; all such boasting is evil.
+JAM 4:16 But as it is, you boast in your arrogant schemes; all such boasting is evil.
 JAM 4:17 So whoever knows the right thing to do and does not do it, for him it is sin.
 JAM 5:1 Come now, you who are rich, weep and howl over the miseries that are coming upon you.
 JAM 5:2 Your riches have rotted, and your garments are moth-eaten.
@@ -7232,7 +7232,7 @@ JAM 5:7 Therefore be patient, brothers, until the coming of the Lord. Behold, th
 JAM 5:8 You also must be patient. Establish your hearts, for the coming of the Lord has drawn near.
 JAM 5:9 Do not complain against one another, brothers, so that you will not be judged. Behold, the Judge is standing at the door.
 JAM 5:10 As an example of suffering and patience, my brothers, take the prophets, who spoke in the name of the Lord.
-JAM 5:11 Behold, we regard as blessed those who endure. You have heard of the endurance of Job, and you have seen the purpose of the Lord, how he is full of compassion and mercy.
+JAM 5:11 Behold, we regard as blessed those who endure. You have heard of the endurance of Job, and you have seen the purpose of the Lord, that he is full of compassion and mercy.
 JAM 5:12 Above all, my brothers, do not swear, neither by heaven, nor by earth, nor by any other oath. But let your “Yes” be “Yes” and your “No” be “No,” so that you will not fall into hypocrisy.
 JAM 5:13 Is anyone among you suffering? He should pray. Is anyone of good cheer? He should sing praise.
 JAM 5:14 Is anyone among you sick? He should call for the elders of the church, and they should pray over him, anointing him with oil in the name of the Lord.
@@ -7255,7 +7255,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 1:11 inquiring about the time and circumstances that the Spirit of Christ within them was indicating when he testified in advance to the sufferings of Christ and the glories that would follow.
 1PE 1:12 It was revealed to them that they were not serving themselves, but you, in regard to the things that have now been announced to you through those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to catch a glimpse of these things.
 1PE 1:13 Therefore, with minds that are alert and fully sober, set your hope completely on the grace that will be brought to you when Jesus Christ is revealed.
-1PE 1:14 As children of obedience, do not conform yourselves to the evil desires you had when you lived in ignorance.
+1PE 1:14 As children of obedience, do not conform yourselves to the evil desires you had before when you lived in ignorance.
 1PE 1:15 But just as he who called you is holy, you also must be holy in all your conduct,
 1PE 1:16 for it is written, “Be holy, because I am holy.”
 1PE 1:17 If you call on the Father who judges without partiality according to each person's work, pass the time of your sojourn in reverent fear.
@@ -7269,7 +7269,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 1:25 but the word of the Lord endures forever.” This word is the good news that was preached to you.
 1PE 2:1 So put aside all wickedness, all deceit, hypocrisy, envy, and all slander.
 1PE 2:2 Like newborn babies, long for pure spiritual milk, so that by it you may grow,
-1PE 2:3 if indeed you have tasted that the Lord is good.
+1PE 2:3 if indeed you have tasted that Christ is the Lord.
 1PE 2:4 As you come to him, a living stone rejected by men but chosen and precious in the sight of God,
 1PE 2:5 you yourselves, like living stones, are being built up as a spiritual house, a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
 1PE 2:6 For it says in Scripture, “Behold, I lay in Zion a stone, a chosen and precious cornerstone, and no one who believes in him will ever be put to shame.”
@@ -7277,31 +7277,31 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 2:8 and, “A stone of stumbling, and a rock of offense.” By disobeying the word they stumble, which is what they were appointed to do.
 1PE 2:9 But you are a chosen lineage, a royal priesthood, a holy nation, a people for God's own possession, so that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
 1PE 2:10 Once you were not a people, but now you are the people of God. Once you had not received mercy, but now you have received mercy.
-1PE 2:11 Beloved, I urge you as strangers and sojourners to abstain from the desires of the flesh that wage war against the soul,
+1PE 2:11 Beloved, I urge you as strangers and sojourners to abstain from the desires of the flesh that wage war against your soul,
 1PE 2:12 keeping your conduct honorable among the Gentiles, so that when they speak against you as evildoers, they may see your good works and glorify God on the day of his visitation.
-1PE 2:13 Therefore, be subject to every human institution for the sake of the Lord, whether to the king as supreme,
+1PE 2:13 Therefore, be subject to every human institution for the sake of the Lord, whether to the king as supreme
 1PE 2:14 or to governors as those who are sent by him to punish evildoers and to praise those who do good.
 1PE 2:15 For it is God's will that you silence the ignorance of foolish people by doing good.
 1PE 2:16 Live as free people, but do not use your freedom as an excuse to do evil; live as servants of God.
 1PE 2:17 Give honor to all, love the brotherhood, fear God, and honor the king.
-1PE 2:18 Servants, submit to your masters with complete respect, not only to those who are good and gentle, but also to those who are cruel.
+1PE 2:18 Servants, submit to your masters with complete respect, not only to those who are good and gentle but also to those who are cruel.
 1PE 2:19 For there is favor upon anyone who endures pain while suffering unjustly for the sake of conscience toward God.
 1PE 2:20 What credit do you get if you endure when you sin and are beaten for it? But if you endure when you do good and suffer for it, this finds favor with God.
 1PE 2:21 For to this you have been called, because Christ also suffered for us, leaving an example so that you could follow in his footsteps.
 1PE 2:22 He committed no sin, nor was deceit found in his mouth.
-1PE 2:23 When he was reviled, he did not revile in return; when he suffered, he did not threaten but entrusted himself to him who judges justly.
+1PE 2:23 When he was reviled, he did not revile in return; when he suffered, he did not threaten but entrusted himself to the one who judges justly.
 1PE 2:24 He himself bore our sins in his body on the cross, so that we might die to our sins and live for righteousness. By his wounds you have been healed.
 1PE 2:25 For you were like sheep going astray, but now you have returned to the Shepherd and Overseer of your souls.
 1PE 3:1 In the same way, wives, submit to your own husbands, so that, even if some are disobedient to the word, they will be won without a word by the way you live
 1PE 3:2 when they observe your pure and reverent conduct.
-1PE 3:3 Do not adorn yourselves outwardly with elaborately braided hair, gold jewelry, or fancy clothes.
+1PE 3:3 Do not adorn yourselves outwardly with elaborately braided hair, gold jewelry, or fancy clothing.
 1PE 3:4 Rather, let your adornment be the hidden person of the heart with the imperishable quality of a gentle and quiet spirit, which is very precious in God's sight.
 1PE 3:5 For this is how the holy women who hoped in God adorned themselves in the past, by submitting to their own husbands,
 1PE 3:6 just as Sarah obeyed Abraham and called him her lord. You have become her children if you do good and do not give way to fear.
 1PE 3:7 Husbands, in the same way, live with your wives in an understanding way, showing honor to the woman as the weaker partner, since they are heirs with you of the grace of life, so that your prayers may not be hindered.
 1PE 3:8 Finally, you must all be of one mind, sympathetic, loving as brothers, tenderhearted, and kind.
 1PE 3:9 Do not repay evil for evil or reviling for reviling, but, on the contrary, bless, knowing that to this you were called, so that you may inherit a blessing.
-1PE 3:10 For, “Whoever wants to love life and see good days must keep his tongue from evil, and his lips from speaking deceit;
+1PE 3:10 For, “Whoever wants to love life and see good days must keep his tongue from evil and his lips from speaking deceit;
 1PE 3:11 he must turn aside from evil and do good; he must seek peace and pursue it.
 1PE 3:12 For the eyes of the Lord are upon the righteous, and his ears are open to their prayers. But the face of the Lord is against those who do evil.”
 1PE 3:13 Now who will harm you if you become imitators of what is good?
@@ -7309,13 +7309,13 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 3:15 but sanctify the Lord God in your hearts. Always be ready to make a defense to anyone who asks you for an explanation of the hope you have within you, with gentleness and respect,
 1PE 3:16 keeping a clear conscience, so that, when those who revile your good conduct in Christ speak against you as evildoers, they may be put to shame.
 1PE 3:17 For it is better to suffer for doing good, if that is God's will, than to suffer for doing evil.
-1PE 3:18 For Christ also suffered for sins once for all, the righteous for the unrighteous, so that he might bring us to God. He was put to death in the flesh, but made alive in the spirit,
+1PE 3:18 For Christ also suffered for sins once for all, the righteous for the unrighteous, so that he might bring you to God. He was put to death in the flesh, but made alive in the spirit,
 1PE 3:19 in which he went and preached to the spirits in prison,
 1PE 3:20 who disobeyed long ago when God waited patiently in the days of Noah, while the ark was being prepared, in which a few, that is, eight people, were saved through water.
 1PE 3:21 Baptism, which corresponds to this, now saves us—not by removing dirt from the body, but as an appeal to God for a clear conscience—through the resurrection of Jesus Christ,
 1PE 3:22 who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to him.
 1PE 4:1 Therefore, since Christ has suffered for us in the flesh, arm yourselves with the same mentality, because whoever has suffered in the flesh has ceased from sin,
-1PE 4:2 so as to live his remaining time in the flesh no longer for the evil desires of men, but for the will of God.
+1PE 4:2 so as to live the remaining time in the flesh no longer for the evil desires of men, but for the will of God.
 1PE 4:3 For we have spent enough of our lives doing what the Gentiles like to do, walking in sensual indulgences, evil desires, excesses of wine, revelries, drinking bouts, and illicit idolatries.
 1PE 4:4 They are surprised when you do not run with them into the same flood of debauchery, so they revile you.
 1PE 4:5 But they will give an account to him who is ready to judge the living and the dead.
@@ -7349,7 +7349,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1PE 5:14 Greet one another with a kiss of love. Peace be with all of you who are in Christ Jesus. Amen.
 2PE 1:1 Simeon Peter, a servant and apostle of Jesus Christ, to those who have obtained a faith as precious as ours through the righteousness of our God and Savior Jesus Christ:
 2PE 1:2 Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.
-2PE 1:3 His divine power has given us everything we need for life and godliness, through the knowledge of him who called us by glory and virtue.
+2PE 1:3 His divine power has given us everything we need for life and godliness through the knowledge of him who called us by glory and virtue.
 2PE 1:4 Through these he has given us his precious and magnificent promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of evil desires.
 2PE 1:5 For this very reason, make every effort to supplement your faith with virtue, your virtue with knowledge,
 2PE 1:6 your knowledge with self-control, your self-control with endurance, your endurance with godliness,
@@ -7417,7 +7417,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 1:7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin.
 1JO 1:8 If we say that we do not have sin, we deceive ourselves, and the truth is not in us.
 1JO 1:9 If we confess our sins, he is faithful and just to forgive us our sins and cleanse us from all unrighteousness.
-1JO 1:10 If we say that we have not sinned, we make him a liar, and his word is not in us.
+1JO 1:10 If we say that we have not sinned, we make him out to be a liar, and his word is not in us.
 1JO 2:1 My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate with the Father—Jesus Christ, the righteous one.
 1JO 2:2 He is the atoning sacrifice for our sins, and not only for ours, but also for the sins of the whole world.
 1JO 2:3 By this we can be sure that we know him: if we keep his commandments.
@@ -7472,7 +7472,7 @@ JAM 5:20 be assured that whoever turns a sinner back from the error of his way w
 1JO 3:23 And this is his commandment, that we believe in the name of his Son Jesus Christ and love one another, just as he commanded.
 1JO 3:24 Whoever keeps his commandments abides in God, and God abides in him. And we know that he abides in us because of the Spirit he has given us.
 1JO 4:1 Beloved, do not believe every spirit, but test the spirits to see if they are from God, because many false prophets have gone out into the world.
-1JO 4:2 By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God,
+1JO 4:2 By this the Spirit of God is known: Every spirit that confesses that Jesus Christ has come in the flesh is from God,
 1JO 4:3 but every spirit that does not confess that Jesus Christ has come in the flesh is not from God. This is the spirit of the antichrist, which you have heard is coming and is now in the world already.
 1JO 4:4 You are from God, little children, and you have overcome them, because greater is he who is in you than he who is in the world.
 1JO 4:5 They are from the world; therefore what they say is from the world, and the world listens to them.
@@ -7643,7 +7643,7 @@ REV 4:4 Surrounding the throne were twenty-four other thrones, and sitting on th
 REV 4:5 From the throne came flashes of lightning, rumblings, and peals of thunder, and there were seven flaming torches burning before the throne, which are the seven spirits of God.
 REV 4:6 Also before the throne was something like a sea of glass that looked like crystal. Around the throne on each side were four living creatures, full of eyes in front and in back.
 REV 4:7 The first living creature was like a lion, the second living creature was like a calf, the third living creature had the face of a man, and the fourth living creature was like an eagle in flight.
-REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy, is the Lord God Almighty, who was and who is and who is to come.”
+REV 4:8 Each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying, “Holy, holy, holy is the Lord God Almighty, who was and who is and who is to come.”
 REV 4:9 And whenever the living creatures give glory, honor, and thanks to him who sits on the throne, who lives forever and ever,
 REV 4:10 the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever. They cast their crowns before the throne and say,
 REV 4:11 “Yoʋ are worthy, our Lord and God, the Holy One, to receive glory, honor, and power; for yoʋ created all things, and by yoʋr will they came into existence and were created.”

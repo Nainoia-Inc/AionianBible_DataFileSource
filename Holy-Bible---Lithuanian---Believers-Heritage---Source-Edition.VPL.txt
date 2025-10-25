@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Lithuanian---Believers-Heritage---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Lithuanian---Believers-Heritage
-## File Created: 07/31/2025 13:06:39
+## File Created: 09/13/2025 13:25:05
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=lit
 ## Source File: https://ebible.org/Scriptures/lit_vpl.zip
-## Source Date: 07/26/2025 16:03:05
+## Source Date: 09/10/2025 23:30:08
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
@@ -3148,7 +3148,7 @@ MAR 9:6 (Juk jis nežinojo, ką sakyti, nes jie buvo persigandę.)
 MAR 9:7 Ir užėjo debesis, pridengdamas juos šešėliu, ir iš debesies atėjo balsas, tardamas: „Šitas yra mano mylimasis Sūnus – klausykite jo!“
 MAR 9:8 Ir staiga, apsidairę, jie nieko prie savęs nebematė, tik Jėzų vieną.
 MAR 9:14 Ir atėjęs pas mokytinius, jis pamatė aplink juos didžiulę minią ir diskutuojančius su jais raštininkus.
-MAR 9:15 Ir tuojau visi žmonės, jį pamatę, labai nustebo ir pribėgę, jį pasveikino.
+MAR 9:15 Ir tuojau visi žmonės, jį pamatę, nepaprastai nustebo ir pribėgę, jį pasveikino.
 MAR 9:16 Tada jis paklausė raštininkų: „Ką diskutuojate su jais?“
 MAR 9:17 Ir vienas iš minios atsakydamas tarė: „Mokytojau, aš atvedžiau pas tave savo sūnų, kuris turi nebylę dvasią,
 MAR 9:18 ir kur tik ji sugriebia jį, ji parmeta jį žemyn, ir jis atsiputoja, ir griežia dantimis, ir sudžiūsta. O aš prašiau tavo mokytinių, kad jie ją išvarytų, bet jie neįstengė.
@@ -3200,7 +3200,6 @@ MAR 11:5 Ir kai kurie iš ten stovinčių jiems tarė: „Ką jūs darote, kad a
 MAR 11:6 O jie pasakė jiems, kaip Jėzus buvo paliepęs, ir tie juos išleido.
 MAR 11:7 Ir jie atvedė asilaitį pas Jėzų ir užmetė ant jo savo drabužius, o jis užsėdo ant jo.
 MAR 11:8 Ir daugelis tiesė ant kelio savo drabužius, o kiti kirto medžių šakas ir klojo [jas] ant kelio.
-MAR 11: 
 MAR 11:9 Ir tie, kurie ėjo priekyje, ir tie, kurie sekė paskui, vis šaukė, sakydami: „Osana! Palaimintas [yra] tas, kuris ateina Viešpaties vardu!
 MAR 11:10 Palaiminta mūsų tėvo Dovydo karalystė, kuri ateina Viešpaties vardu! Osana aukščiausiose aukštybėse!
 MAR 11:22 Ir Jėzus atsakydamas jiems sako: „Turėkite tikėjimą Dievu.
@@ -3240,8 +3239,8 @@ MAR 14:25 Iš tiesų sakau jums: visai nebegersiu vynmedžio vaisiaus iki tos di
 MAR 14:26 Ir pagiedoję giesmę jie išėjo į Alyvų kalną.
 MAR 14:29 Bet Petras jam tarė: „Nors ir visi atsimes, tačiau ne aš!“
 MAR 14:32 Ir jie ateina į vietą, kurios vardas Getsemanė. Ir jis sako savo mokytiniams: „Sėskite čia, kol aš melsiuosi.“
-MAR 14:33 Ir jis pasiima su savimi Petrą ir Jokūbą ir Joną ir pradėjo labai nuogąstauti bei sielotis
-MAR 14:34 ir jiems sako: „Mano siela labai nuliūdusi – iki mirties. Pasilikite čia ir budėkite!“
+MAR 14:33 Ir jis pasiėmė* su savimi Petrą ir Jokūbą ir Joną ir pradėjo nepaprastai nustebti bei pajusti didžiulę apsunkinimą
+MAR 14:34 ir jiems tarė*: „Mano siela labai nuliūdusi – iki mirties. Pasilikite čia ir budėkite!“
 MAR 14:35 Ir paėjęs truputį toliau, jis puolė ant žemės ir meldėsi, kad, jei įmanoma, ta valanda nuo jo praeitų.
 MAR 14:36 Ir jis tarė: „Aba, Tėve, tau viskas įmanoma; atimk šią taurę nuo manęs! Tačiau [tebūnie] ne tai, ko noriu aš, bet tai, ko nori tu.“
 MAR 14:37 Ir jis ateina ir randa juos miegančius, ir sako Petrui: „Simonai, tu miegi? Neįstengei nė vienos valandos pabudėti?
@@ -5895,7 +5894,7 @@ COL 1:15 Jis yra neregimojo Dievo atvaizdas, visos kūrinijos pirmagimis;
 COL 1:16 nes juo buvo sukurta visa, kas danguose, ir kas žemėje, kas regima, ir kas neregima, ar tai sostai, ar viešpatystės, ar vyresnybės, ar valdžios – visa yra sukurta per jį ir jam,
 COL 1:17 ir jis yra visų pirmaujantis, ir visa per jį sukimba kartu.
 COL 1:18 Ir Kūno – bažnyčios – galva yra jis, kuris yra pradžia, pirmagimis iš mirusiųjų, kad visame kame jis turėtų pirmenybę,
-COL 1:19 nes [Tėvui] patiko, kad visa pilnatvė jame turėtų buveinę,
+COL 1:19 nes [Tėvui] patiko, kad visa pilnatvė turėtų buveinę [būtent] jame,
 COL 1:20 ir [patiko] visa su savimi visiškai sutaikinti juo – padaręs taiką jo kryžiaus krauju – [būtent] juo, ar [tai būtų] tai, kas ant žemės, ar tai, kas danguje.
 COL 1:21 Ir jus, kurie blogais darbais kadaise buvote atskirti ir priešai proto atžvilgiu, jis gi dabar sutaikino
 COL 1:22 jo fiziniu kūnu per mirtį, kad savo akivaizdoje pristatytų jus šventus ir nekaltintinus ir nepeiktinus,
@@ -5925,7 +5924,7 @@ COL 2:16 Todėl niekas teneteisia jūsų dėl maisto ar dėl gėrimo, ar dėl š
 COL 2:17 kurie yra [tik] ateinančių dalykų šešėlis, bet [šešėlį metantis] kūnas [yra] Kristaus.
 COL 2:18 Tegul niekas nesulaiko nuo jūsų apdovanojimo turėdamas valią [užsiimti tariamu] nusižeminimu ir angelų garbinimu, įsibraudamas į dalykus, kurių nėra matęs, būdamas tuščiai pasipūtęs savo kūnišku protavimu,
 COL 2:19 ir nesilaikydamas Galvos, iš kurios visas kūnas, aprūpinamas ir sunarinamas per sunėrimus bei raiščius, auga Dievo [teikiamu] augimu.
-COL 2:20 Todėl jei esate mirę su Kristumi pasaulio pradmenims, tai kodėl gi, tarsi gyvendami per pasaulį, leidžiatės pajungiami įsakams:
+COL 2:20 Todėl jei esate mirę su Kristumi pasaulio pradmenims, tai kodėl gi, tarsi gyvendami [fiziniame] pasaulyje, leidžiatės pajungiami įsakams:
 COL 2:21 („Neimk į rankas! Neragauk! Neliesk!“ –
 COL 2:22 kurie visi vartojami sugenda.) pagal žmonių priesakus ir mokslus?!
 COL 2:23 Tokie [priesakai ir mokslai] iš tikrųjų turi išminties išvaizdą savivalingu garbinimu ir [tariamu] nusižeminimu ir kūno netausojimu, – [tokie yra] be jokios vertės, [o] pasekmė – kūniškumo patenkinimas.
@@ -6076,7 +6075,7 @@ COL 4:18 Šis sveikinimas [parašytas] mano, Pauliaus, ranka. Atsiminkite mano p
 2TH 2:1 Dabar dėl mūsų Viešpaties Jėzaus Kristaus atėjimo ir mūsų surinkimo pas jį, prašome jus, broliai,
 2TH 2:2 greitai nesiduoti nukreipiamiems nuo [sveiko] proto ar sutrikdomiems nei dvasia, nei žodžiu, nei laišku, tarsi nuo mūsų, esą Kristaus Diena jau yra čia.
 2TH 2:3 Tegul niekas jokiu būdu jūsų neapgauna, nes [ta Diena neateis], jeigu pirma neateis tas atkritimas ir nebus apreikštas tas nuodėmės žmogus, pražūties sūnus,
-2TH 2:4 kuris priešinasi ir iškelia save virš kiekvieno vadinamojo dievo ar garbinamo daikto taip, kad jis kaip Dievas sėdasi į Dievo šventyklą, teigdamas, kad jis yra Dievas.
+2TH 2:4 kuris priešinasi ir iškelia save virš kiekvieno vadinamojo dievo ar garbinamo daikto taip, kad jis kaip Dievas sėdasi į Dievo šventyklą, išstatydamas save, [teigdamas] kad pats yra Dievas.
 2TH 2:5 Ar neprisimenate, jog šiuos dalykus jums kalbėdavau, tebebūdamas tarp jūsų?
 2TH 2:6 Jūs gi pažįstate tai, kas dabar suvaržo, kad tas būtų apreikštas savo paties laiku.
 2TH 2:7 Nes įstatymo pažeidinėjimo slėpinys jau veikia, tik [yra] kas šiuo metu suvaržo, kol pasitrauks.

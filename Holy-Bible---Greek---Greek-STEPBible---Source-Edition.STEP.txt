@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Greek---Greek-STEPBible---Source-Edition.STEP.txt
 ## File Usage: Holy-Bible---Greek---Greek-STEPBible
-## File Created: 05/03/2025 13:31:31
+## File Created: 10/09/2025 22:39:34
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://github.com/STEPBible/STEPBible-Data
 ## Source File: ./aion_source/Holy-Bible---Greek---Greek-STEPBible---Source-Edition.STEP.txt
-## Source Date: 04/18/2025 06:24:46
+## Source Date: 09/27/2025 23:47:13
 ## Source Copyright: Creative Commons Attribution 4.0
 ## Source Text: unaltered below
 ##

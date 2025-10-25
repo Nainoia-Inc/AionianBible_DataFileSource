@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Sanskrit---IAST-Script---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Sanskrit---IAST-Script
-## File Created: 07/31/2025 13:06:53
+## File Created: 09/13/2025 13:25:22
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=sanias
 ## Source File: https://ebible.org/Scriptures/sanias_vpl.zip
-## Source Date: 07/26/2025 17:26:35
+## Source Date: 09/10/2025 02:49:39
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##

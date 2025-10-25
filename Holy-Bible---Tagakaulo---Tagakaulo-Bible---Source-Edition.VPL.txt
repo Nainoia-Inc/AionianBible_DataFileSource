@@ -1,7 +1,7 @@
 ## Aionian Bible
 ## File Name: Holy-Bible---Tagakaulo---Tagakaulo-Bible---Source-Edition.VPL.txt
 ## File Usage: Holy-Bible---Tagakaulo---Tagakaulo-Bible
-## File Created: 07/31/2025 13:06:59
+## File Created: 09/13/2025 13:25:27
 ## File Purpose: Supporting resource for the Aionian Bible project
 ## File Location: https://resources.AionianBible.org
 ## Publisher Name: Nainoia Inc
@@ -11,7 +11,7 @@
 ## Publisher Facebook: https://www.Facebook.com/AionianBible
 ## Source URL: https://ebible.org/details.php?id=klg
 ## Source File: https://ebible.org/Scriptures/klg_vpl.zip
-## Source Date: 07/26/2025 15:44:06
+## Source Date: 09/10/2025 01:50:15
 ## Source Copyright: Creative Commons Attribution ShareAlike 4.0
 ## Source Text: unaltered below
 ##
