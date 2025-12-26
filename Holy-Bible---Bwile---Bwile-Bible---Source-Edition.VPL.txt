@@ -1,0 +1,1244 @@
+## Aionian Bible
+## File Name: Holy-Bible---Bwile---Bwile-Bible---Source-Edition.VPL.txt
+## File Usage: Holy-Bible---Bwile---Bwile-Bible
+## File Created: 12/12/2025 22:48:05
+## File Purpose: Supporting resource for the Aionian Bible project
+## File Location: https://resources.AionianBible.org
+## Publisher Name: Nainoia Inc
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
+## Publisher Facebook: https://www.Facebook.com/AionianBible
+## Source URL: https://ebible.org/details.php?id=bwc
+## Source File: https://ebible.org/Scriptures/bwc_vpl.zip
+## Source Date: 12/12/2025 19:22:48
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
+## Source Text: unaltered below
+##
+
+MAT 1:1 Mu emwakonkanine ifikolwe fyakwa Yesu Klistu, umwana wakwa Davidi, uwali mwana wakwa Abulahamu.
+MAT 1:2 Abulahamu aafyele Isaaki na Isaaki aafyele Yakobo, na Yakobo aafyele Yuda nabamunina.
+MAT 1:3 Kabili Yuda aafyele Paresi na Zara uwaku Tama na Faresi aafyele Esrom, kabili Esrom aafyele Ramu.
+MAT 1:4 Kabili Ramu aafyele Aminadabu, Na Aminadabu aafyele Naashoni, na Naashoni aafyele Salumoni,
+MAT 1:5 Na Salumoni aafyele Boazi muli Rahabu, na Boazi aafyele Obedi muli Ruti, na Obed aafyele Yesse,
+MAT 1:6 Na Yesse aafyele Davidi imfumu, kabili na Davidi imfumu aafyele Solomoni uwali mwana wamukasi wakwe uwaku Uriyasi.
+MAT 1:7 Kabili Solomoni aafyele Rehoboam, Rehoboam aafyele Abiya, na Abiya aafyele Asa,
+MAT 1:8 kabili Asa aafyele Yehoshafati, na Yehoshafati aafyele Yoramu, na Yoramu aafyele Usaya,
+MAT 1:9 Kabili Usaya aafyele Yotamu, na Yotamu aafyele Ahazi, na Ahazi aafyele Hezekiya,
+MAT 1:10 Kabili Hezekiya aafyele Manasse, kabili Manasse aafyele Amoni, kabili Amoni aafyele Yosiya,
+MAT 1:11 Kabili Yosiya aafyele Yekoniya nabamunina, munsita bapiitilwe mu Babiloni.
+MAT 1:12 Kabili panuma babapiita mu Babiloni, Yekoniya aafyele Shiyaliteli, na Shiyaliteli aafyele Zerubabele,
+MAT 1:13 Kabili Zerubabele aafyele Abiudi, na Abiudi aafyele Eliakimu, na Eliakimu aafyele Azori,
+MAT 1:14 Kabili Azori aafyele Zadoki, na Zadoki aafyele Akimu, na Akimu aafyele Eliyudi,
+MAT 1:15 Kabili Eliyudi aafyele Eleyaza, na Eleyaza aafyele Matani, na Matani aafyele Yakobo,
+MAT 1:16 Kabili Yakobo aafyele Yosefu muka Mariya, uwafyele Yesu uwitwa Klistu.
+MAT 1:17 Eikyo papitile inkulo ikumi nashine ukufuma pali Abulahamu ukufika pali Davidi, kabili ikumi nashine ukufuma pali Davidi ukufika mubusya mu Babiloni, kabili ikumi nashine ukufika mukufyalwa kwakwa Klistu.
+MAT 1:18 Ifi efintu ukufyalwa kwakwa Yesu Klistu kwali. Nyina Mariya aimenwe kuli Yosefu, lelo ilyo tabalaupana asangilwe ukuti, ali nokukwata umwana ukupitila ku maka yakwa Mupasi Wamusilo.
+MAT 1:19 Yosefu ali muntu uwalekita ifyalungama, eikyo talefwaya ukumukanina palwalala kabili aalepinga ukubwesya ubwimashi mubumfisolo.
+MAT 1:20 Kilya aletontonkanya palifi, malaika wa Mfumu amonekele kuli ena mukiloto nokumweba ukuti, “Yosefu, wemwana wakwa Davidi, witiina ukuupa Mariya. Pantu umwana Mariya akakwata akafuma kuli Mupasi Wamusilo.”
+MAT 1:21 Akakwata umwana umwaume kabili ukamwinike ukuti, “Yesu pantu akapususya abantu bakwe kumembu syabo.”
+MAT 1:22 Fyonse ifi fyakitike pakuti fintu Imfumu yalandile ukupitila muli kasesema fifikilisye ukuti,
+MAT 1:23 “Nakisungu akemita nokukwata umwana umwaume kabili akenikwa Imanuele” (ikilepilibula ukuti, “Lesa ali nafwebo”).
+MAT 1:24 Eikyo lintu Yosefu asibwike, akitile fintu malaika wa Mfumu amukonkomesye eikyo aupile Mariya.
+MAT 1:25 Lelo tabakumenepo mpaka umwana afyalwa elo Yosefu amwinika ukuti Yesu.
+MAT 2:1 Lintu Yesu afyelwe mu musumba wa Betelehemu mu Yudeya, munsita Herodi ali imfumu, abamano ukufuma ku kabanga baisile ku Yerusalemu
+MAT 2:2 nokwisaipwisya ukuti, “Alipi umwana afyelwe Imfumu yaba Yuda? Twakimona ulutanda lwakwe lintu lwakisa kukabanga, twaisa mukumusinsimuna.”
+MAT 2:3 Lintu imfumu Herodi yaumfwile ifi, yalisakamene kumofye nabantu bambi mu Yerusalemu.
+MAT 2:4 Yaitile basimapepo mukalamba bonse naba kafundisya bamafunde nokubepusya kuntu Klistu ali nokufyalilwa.
+MAT 2:5 Bayaswike ukuti, “Mumusumba wa Betelehemu mu Yudeya. Pantu ifi efintu bakasesema baalemba ukuti,
+MAT 2:6 “Iwe we Betelehemu mukyalo kya Yudeya, wilaimona ukukepesyapo pamisumba syamu Yudeya, Pantu muli webo mukafuma intungulusi ikatungulula abena Israeli.”
+MAT 2:7 Elo Herodi aitile abamano abafumine kukabanga mubumfisolo, ukuti afwailisye kuli bena insita ulutanda lwamoneke.
+MAT 2:8 Abatumine ku Betelehemu nokubeba ukuti, “Kabiyeni kafwayeni umwana bwino bwino, ngamwamusanga mungisibisye pakuti nanebo ndeyamusinsimuna.”
+MAT 2:9 Abamano abafumine kukabanga baumfwile fintu imfumu yabebele nokuya. Kabili nolutanda luntu bamwene kukabanga lwatampile ukubatangilila mpaka lwaiminina pankende apaali umwana.
+MAT 2:10 Balitemenwe ngansi lintu bamwene ulutanda.
+MAT 2:11 Baingile muŋanda, kabili lintu bamwene umwana nanyina Mariya bafukeme pansi nokumusinsimuna. Bamuleetele ifyabupe baisile nafyo ifya golide, ububani na murrh.
+MAT 2:12 Pamulandu balisokelwe mukiloto ukuti bekabwelulukila kuli Herodi, baile ku kyalo kyabo ukubomfya insila imbi.
+MAT 2:13 Panuma abamano baaya, malaika wa Mfumu amonekele kuli Yosefu mukiloto nokumweba ati, “Herodi alatampa ukufwaya umwana pakuti amwipaye. Eikyo ima piita umwana na nyina muye ku Egipiti, mukekale kulya kwine mpaka nkankwebe ukufumako.”
+MAT 2:14 Yosefu aimine nokupiita umwana nanyina nokuya ku Egipiti ubusiku,
+MAT 2:15 uko aikele mpaka Herodi afwa. Ifi fyali kufikilisya ifyo Imfumu yalandile ukupitila muli kasesema ukuti, “Naitile Umwana wandi ukufuma mu Egipiti.”
+MAT 2:16 Lintu Herodi ailwike ukuti abamano nabamuteya, alisakamene. Akonkomesye ukwipaya abana abaume mu Betelehemu nabapalamineko abakwete imyaka ibili nokuya pesamba, akitile ifi ukulingana nensita intu asambilile kubamano.
+MAT 2:17 Muli iyi nsila ifyalandile kasesema Yeremaya fyalifikilisye ukuti,
+MAT 2:18 “Ikiunda kyaumfwikile mu Ramah, ikiunda kyaulelosya mubukali. Rashele alelila abaana, nakana ukumutalalika pantu nabafwa.”
+MAT 2:19 Panuma Herodi afwa, malaika wa Mfumu amonekele kuli Yosefu mukiloto mu Egipiti
+MAT 2:20 nokumweba ukuti, “Ima, piita umwana nanyina ubwelelemo ku Israeli pantu abaalefwaya ukwipaya umwana nabafwa.”
+MAT 2:21 Eikyo Yosefu aimine nokupiita umwana nanyina nokubwelela ku Israeli.
+MAT 2:22 Lelo lintu Yosefu aumfwile ukuti Akelausi napyana wisi Herodi pabufumu mu Yudeya, alitinine ukuyako. Kabili apo balimusokele mukiloto aile mukitungu kya mu Galili.
+MAT 2:23 Aileikala mu musumba wa Nasareti pakuti ifyalandile bakasesema fifikilisye ukuti, “Aketwa umwina Nasarene.”
+MAT 3:1 Muli silya nsiku Yohani Kabatisya aisile alesimikila mukiswebebe kyamu Yudeya.
+MAT 3:2 Alandile ukuti, “Lapileni, pantu Ubufumu bwa mumulu nabupalama!”
+MAT 3:3 Yohani emuntu Ezaya aalelandapo ukuti, “Isiwi lyaulebilikisya mukiswebebe lileti, ‘Pekanyeni insila ya Mfumu olololeni umwakupita!’ ”
+MAT 3:4 Insalu syakwa Yohani syapangilwe namasako yangamali, mumusana alekakamo umusipi wampapa kabili makanta nobuki efyakulya alelya.
+MAT 3:5 Abantu baisile kuli ena ukufuma ku Yerusalemu, ku fitungu fyonse ifyamu Yudeya naku kyalo kyapalamina no mulonga wa Yodani.
+MAT 3:6 Baleyebelela imembu syabo kabili alebabatisya mumulonga wa Yodani.
+MAT 3:7 Lintu Yohani amwene Abafalise naba Saduki abengi baleisa mukubatisiwa abebele ukuti, “Mwensoka mwe! Ninani amyebele ati kuti mwafyuka ukukandwa kuntu Lesa ali nokutuma?
+MAT 3:8 Kiteni ifintu ifilelangisya ukuti mwalifuma kumembu syenu.
+MAT 3:9 Kabili mwilatontonkanya ati, kuti mwafyuka ukukandwa mukulanda ati Abulahamu kikikolwe kyenu. Ndemyeba nati Lesa muli aya mabwe kuti afumyamo abaana bakwa Abulahamu!
+MAT 3:10 Isembe naliyipekanya ukuputula ifimuti kumisila, fyonse ifimuti ifisitwala fisabo ifisuma kufitema nokufiposa mumulilo.
+MAT 3:11 Namibatisya namensi mukulanga ukuti namulapila imembu syenu, lelo uwamaka ukunkila alinokwisa kabili nebo nsilingile nokupiita indyato syakwe. Akamibatisya na Mupasi Wamusilo elo nomulilo.
+MAT 3:12 Ali nolupe lwakwelelako muminwe yakwe. Akafumya imisungu pamusolo. Akatutila Iŋano mubutala bwakwe. Imisungu akoca mumulilo ushishima.”
+MAT 3:13 Yesu afumine ku Galili nokuya kumulonga wa Yodani mukubatisiwa kuli Yohani.
+MAT 3:14 Lelo Yohani alyesesye ukuti amukanye. Amwebele ukuti, “Niwebo ulingile ukumbatisya, nomba nikinsi waisila kuli nebo?”
+MAT 3:15 Lelo Yesu ayaswike ukuti, “Leka kibe ififine pali nomba. Pantu muli iyi nsila ninsi twafikilisya ubulungami bonse.” Elo Yohani asumina.
+MAT 3:16 Lintu Yesu abatisiwe, kilyafye afuma pamensi umulu waliswike, kabili amwene Umupasi wakwa Lesa uletentemuka nge nkunda waikala napali ena.
+MAT 3:17 Nesiwi lyafumine mumulu ukuti, “Uyu mwana wandi untu natemwa kabili muli ena emombekelwa.”
+MAT 4:1 Elo Umupasi watungulwile Yesu mumatololo mukutunkwa kuli Kiwa.
+MAT 4:2 Panuma yakufunga insiku amakumi yane akasuba nobusiku, Yesu alyumfwile insala.
+MAT 4:3 Kiwa aisile kuli Yesu nokumweba ukuti, “Ngoli Mwana wakwa Lesa, eba aya amabwe yasanguke umukate.”
+MAT 4:4 Lelo Yesu ayaswike ukuti, “Kyalembwa ukuti, ‘Tekumukate kweka umuntu engabela no mweo, lelo nikwisiwi lyonse ilifuma mukanwa kakwa Lesa.’”
+MAT 4:5 Kabili Kiwa apiitile Yesu ku Yerusalemu mu musumba wamusilo, amuninike pamulu wamutenge we Tempele,
+MAT 4:6 nokumweba ati, “Ngoli Mwana wakwa Lesa ipose pansi, pantu kyalembwa ukuti, “Lesa akeba bamalaika bakwe ukukubaka; bakakwimya muminwe yabo, pakuti wikaipuntula kumabwe.”
+MAT 4:7 Yesu ayaswike ukuti, “Kyalilembwa nakabili ukuti, ‘Wilaesya Imfumu Lesa obe.’”
+MAT 4:8 Kabili Kiwa atwele Yesu palupili ulutali nokumulangisya amabufumu yapesonde mubukalamba bwayako.
+MAT 4:9 Nokumweba ati, “Fyonse ifi ndekupela ngawamfukamina nokunsinsimuna.”
+MAT 4:10 Yesu amwaswike ukuti, “Kabiye uko, Kiwa! Kyalilembwa ukuti, ‘Ulesinsimuna Imfumu Lesa obe kabili ekafye eo ulepyungila.’”
+MAT 4:11 Kiwa asile Yesu kabili nabamalaika baisile nokwisa mupyungila.
+MAT 4:12 Lintu Yesu aumfwile ukuti Yohani nabamwingisya mukifungo, aile ku Galili.
+MAT 4:13 Afumine mu Nasareti, aileikala mu Kapenamu, umusumba wakumbali ya mumana wa Galili mukyalo kya Zebuluni na Nafutali.
+MAT 4:14 Ifi fyakitike mukufikilisya fintu kasesema Ezaya alandile ukuti,
+MAT 4:15 “We Zebuluni nawe Nafutali, mwefyalo fyabela mumbali ya Bemba, kwisilya lyamulonga wa Yodani. We Galili wa Bena fyalo!
+MAT 4:16 Abantu abaikala mumfimfi nabamona ulubuto ulukalamba. Abo abekala mukinsingwa kyamfwa ulubuuto nalubasanikila.”
+MAT 4:17 Ukufuma pali ilya nsita, Yesu ayambile ukusimikila ukuti, “Lapileni, pantu Ubufumu bwamumulu nabupalama!”
+MAT 4:18 Lintu Yesu aleenda mumbali yamumana wa Galili, amwene bamunina babili Simoni (uwaleitwa Petelo) namunina Andereya baleteya amakonde pantu baali bashila.
+MAT 4:19 Yesu abebele ati, “Nkonkeni nkamikita ukuba abashila babantu.”
+MAT 4:20 Palyapene basile amakonde nokuya nao.
+MAT 4:21 Yesu aendelelekofye ikyalinga nakabili amona Yakobo na Yohani abana bakwa Zebedee. Baali mubwato na wisi Zebedee balelunda amakonde. Yesu alibetile,
+MAT 4:22 kabili palya pene basile ubwato na wisi nokuya nao.
+MAT 4:23 Yesu aile mu Galili monse, mukufundisya muma sinagogi, ukusimikila Imbila Nsuma Pabufumu nokundapa amalwele yamisango misango.
+MAT 4:24 Ilyasi lyapali ena lyasabankene munkyalo kya Silya kyonse, ikyakuti abantu balemuletela bonse abaali nabalwala, abalekyusiwa kumalwele yamisango misango, abaakwete ingulu, abakifulubi nababulebe nao aalibondepe bonse.
+MAT 4:25 Ibumba lyalimukonkele ukufuma ku Galili namu Dekapolisi, ukufuma ku Yerusalemu, ku Yudeya nabusilya bwa Yodani.
+MAT 5:1 Lintu Yesu amwene ibumba ilikalamba aninine mumbali yalupili emo aile ikala. Abasambi bakwe balimukolongene,
+MAT 5:2 kabili atampile ukubafundisya ukuti.
+MAT 5:3 Balipalwa abapiina mumupasi; pantu Ubufumu bwamumulu bwabo!
+MAT 5:4 Balipalwa abaloosya; pantu bakakoselesiwa.
+MAT 5:5 Balipalwa abamutembo; pantu bakapokelela fintu Lesa alaya!
+MAT 5:6 Balipalwa abansala nekilaka kyakukita ubulungami; pantu Lesa akalenga bakekute.
+MAT 5:7 Balipalwa abaluse, pantu nabo bakabelelwa uluse!
+MAT 5:8 Balipalwa abasanguluka imitima, pantu bakamona Lesa.
+MAT 5:9 Balipalwa abaapanga umutende; pantu baketwa abana bakwa Lesa!
+MAT 5:10 Balipalwa abo abapakasilwa pamulandu wabulungami, pantu Ubufumu bwamumulu bwabo!
+MAT 5:11 Muli abapalwa, abantu ngabamituka nokumipakasa nokumibepesya ubufi bwamisango misango pamulandu wandi.
+MAT 5:12 Beni abansansa kabili temweni pantu ikilambu kyenu ikikalamba kyasungilwa mumulu. Ifi efintu bakasesema abaliko kale bapakeswe.
+MAT 5:13 Muli mukele wa pano isonde. Nomba umukele ngawaonaika kuti walowesiwa kuli kinsi? Taukwata milimo nakabili, kuoposafye abantu baunyantapo.
+MAT 5:14 Muli lubuto lwa pano isonde. Umusumba uwakulwa palupili teti ufiswe.
+MAT 5:15 Takuli uwasya ilampi nokukupikapo ulweso, lelo babika apasansama pakuti ibusye bonse muŋanda.
+MAT 5:16 Lekeni ulubuto lwenu lusanike pa bantu, pakuti bamone ifintu ifisuma mukita nokulumbanya Wisinwe Mumulu.
+MAT 5:17 Mwilatontonkanya ati naisa mukonaula Amafunde yakwa Mose nangu bakasesema, nsyaisa mukuyapwisya lelo naisa mukuyafikilisya.
+MAT 5:18 Ndemyeba ikine kine nati, umulu nekyalo fikapita lelo ndemilaya nati takwakonaike ikilembo nangu kalitoni mu Mafunde mpaka fyonse fikafikilisye.
+MAT 5:19 Eikyo kansi onse uwatobapo limo pamafunde nangu lingakyepa syani, nokufundisya abantu bambi ukukita fimofine aketwa umunono Mubufumu bwa mumulu. Lubali lumbi nakabili onse uwasunga ifipope nokufundisya baambi ukukita fimofine, akaba umukalamba Mubufumu bwa mumulu.
+MAT 5:20 Ndemyeba nati tamwakengile Mubufumu bwa mumulu ubulungami bwenu ngatabwakakile ubwaba Falise naba Kafundisya bamafunde.
+MAT 5:21 Mwalyumfwa ukuti ifikolwe bafyebele ati, “Mwilaipaya kabili naonse uwaipayana afwile atwalwa mukupingulwa.”
+MAT 5:22 Lelo ndemyeba ukuti onse uwafulilwa munyina alingile ukumutwala mukupingulwa. Kabili onse uwatuka munyina akatwalwa kukilye, naonse uwaita munyina ukuti kiwelewele akaba mubwafya bwamulilo waku Gehena.
+MAT 5:23 Eikyo ngoli pakutula ikyabupe pakipailo kyakwa Lesa, elo waibusya ati munonko nakukwatila ikintu kumukosi,
+MAT 5:24 sya ikyabupe kuntansi yakipailo, kabiye muleyawikisyanya elo wise uutule ikyabupe kuli Lesa.
+MAT 5:25 Umfwaneni bwangu bwangu nomuntu ukweteko imilandu lintu mukili muleya nankwe mukulubulula. Pantu kuti ayakutwala kuli kapingula, nao kapingula akutwala kuli kapokola kabili ukabikwa mukifungo.
+MAT 5:26 Ndimukumyeba ikine kine nati, ukekala mulya mpaka ukalipe nolupiya lobe lonse ulwakulekelesya.
+MAT 5:27 Mwalyumfwa fintu kyalandilwe ukuti, “Mwilakita bukende.”
+MAT 5:28 Lelo ndimukumyeba ati, onse uwalolesya umwanakasi nolunkumbwa lubi ninsi nakita kale ubukende mumutima wakwe.
+MAT 5:29 Eikyo ilinso lyobe ilya kukulyo ngalyakulenga ukubembuka, lilobole nokuliposa! Kyawamisyapo ukulufya ikilundwa kimo ikya kumubili obe ukukila umubili obe onse ukuposwa ku Gehena.
+MAT 5:30 Ukuboko kobe ukwa kukulyo Ngakwakulenga ukubembuka, kuputule nokukuposa! Kyawamisyapo ukulufya ikilundwa kimo ikyamubili obe ukukila umubili onse ukuposwa mu Gehena.
+MAT 5:31 Kyalilandwa nakabili ukuti, “Onse uwaleka umukasi wakwe afwile ukumupa ikipepela kyakupwilapo ikyupo.”
+MAT 5:32 Lelo ndemyeba ukuti uyo onse uwasya umukasi wakwe pamulandu uusili wabukende ninsi amulenga ukuba umukende. Kabili naonse uwaupa umwanakasi baleka nao ninsi akita ubukende.
+MAT 5:33 “Kabili mwalyumfwa ukuti ifikolwe bafyebele ati, ‘mwilalapa bufi lelo mulefikilisya fintu mwalaya ku Mfumu ukukita.’
+MAT 5:34 Lelo ndemyeba ukuti, Mwiilalapa pakulaya, mwilalapa ku myulu pantu kipuna kya bufumu ikya kwa Lesa,
+MAT 5:35 mwilalapa pesonde, pantu ekipuna kyamakasa yakwa Lesa, nangu pali Yerusalemu pantu musumba wa Mfumu nkalamba.
+MAT 5:36 Mwilalapa napamutwe wenu pantu tekuti mupange umusisi nangu umo ukubuta nangu ukufita.
+MAT 5:37 Mulelandefye ukuti, ‘Ee’ nangu ‘Awe’ ifintu fimbi fintu mulanda fifuma kumubifi.”
+MAT 5:38 “Mwalyumfwa fintu kyalandwa ukuti, ‘Ilinso pe linso, kabili iliino peliino.’
+MAT 5:39 Lelo ndemyeba ukuti, mwilalandula umuntu ngamilufyanya. Umuntu ngakuuma ulupi kwitobo lyakukulyo leka akuume nakwitobo lya kukuso.
+MAT 5:40 Kabili umuntu ngakutwala kukilye pakufwaya ukukupoka insalu yobe leka apiite ne koti lyobe.
+MAT 5:41 Umuntu ngakupatikisya ukuya nao umulundu umo, kabiye nao imilundu ibili (2 km).
+MAT 5:42 Umuntu ngakulomba ikintu mupele kabili ngalefwaya ukumwasima ikintu mwasime.”
+MAT 5:43 “Mwalyumfwa ati kyalandwa ukuti, ‘Muletemwa ababiyo, mulepata abalwani benu.’
+MAT 5:44 Lelo ndemyeba ukuti temweni abalwani benu kabili mulepepela abamipakasa,
+MAT 5:45 pakuti mube abaana bakwa Wisinwe mumulu. Pantu aleka akasuba kakwe ukubala pa bantu abaabi na pabasuma fimofine, kabili alokesya imfula pabalungami napababembu.
+MAT 5:46 Nikinsi Lesa engamilambwila ngamwatemwafye abamitemwa? Pantu nabakasonkesya bamusonko nabo balakita ifyofine!
+MAT 5:47 Kabili ngamuposyafye bakibusa benu busye ninsi namukitapo ubupusano? Nabenafyalo nabo balakita ifyofine!
+MAT 5:48 Mube abapwililika ngafintu Wisinwe mumulu aba uwapwililika.”
+MAT 6:1 “Kengeleni, mwilakita ubulungami pa menso ya bantu bambi pakuti bamimone, pantu ngamwakita ifyo tamwakapokelele kilambu kuli Wisinwe wa mumulu.
+MAT 6:2 “Eikyo kansi ilyo mwapela ikintu kumubusu, mwilasabankanya ngafintu bamumbimunda bakita muma sinagogi na mumisebo. Bakita ifi pakuti abantu babalumbanye. Ndemyeba ukuti balipokelela kale ikilambu ikyakumanina.
+MAT 6:3 Lelo lintu mulepela, mwileka ukuboko kwenu ukwa kukuso kwisibe ifilekita ukuboko kwa kukulyo.
+MAT 6:4 Pakuti ukupela kwenu kube ukwa munkama kabili na Wisinwe uumona munkama akamilambula.”
+MAT 6:5 “Lintu mulepepa, mwilaba nga babumbimunda abatemwa ukwiminina mumisebo na muma Sinagogi, pakuti babamone kubantu. Ndemyeba nati balipokelela ikilambu kyabo mukukumanina.
+MAT 6:6 Lelo ilyo mulepepa, ingileni mukyumba kyenu mwisaleko ikiibi nokupepa kuli Wisinwe usimoneka. Kabili na Wisinwe umona ifyamunkama akamilambula.
+MAT 6:7 “Kabili ngamulepepa mwilabomfya amasiwi ayengi ayabula ubuyo ngafintu Abena Fyalo bakita. Batontonkanya ukuti Lesa elo engomfwa amapepo.
+MAT 6:8 Mwiba ngabena, pantu Wisinwe alisiba fintu mufwaya lintu tamulamulomba.
+MAT 6:9 Ifi nomba efyo mufwile ukupepa: ‘Mwe Taata wesu uwamumulu, isina lyenu likindikwe,
+MAT 6:10 ubufumu bwenu bwise, ubufwayo bwenu bukitwe pesonde ngamumulu.
+MAT 6:11 Tupeleni lelo ikyakulya kyesu ikya kila busiku.
+MAT 6:12 Tweleleni fintu twalufyanya, ngafintu twelela abatulufyanya.
+MAT 6:13 Mwitutwala mukwesiwa ukukalamba, lelo mututule kufyabipa.’
+MAT 6:14 Pantu ngamuleelela bambi fintu bamilufyanya, na Wisinwe mumulu nao akamyelela.
+MAT 6:15 Lelo ngatamuleelela bambi, na Wisinwe takamyelele fintu mwalufyanya.
+MAT 6:16 “Elo mulefunga, mwilaikala inkumbabulili ngafintu babumbimunda bakita. Balekelesya imimonekele yabo pakweba ati abantu bonse babamone ati balefunga. Ndemyeba ikinekine nati bena balipoka ikilambu kyabo kyonse.
+MAT 6:17 Lelo lintu mulefunga, mulesamba kumenso nokusuba amafuta mu mutwe,
+MAT 6:18 pakuti abantu bambi belaisiba ukuti mulefunga. Kanofye Wisinwe eka usimoneka. Kabili Wisinwe uumona fintu mukita munkama akamilambula.
+MAT 6:19 “Mwilasungila ifyuma fyenu pesonde apo ubuswa nenkuutu fingonaula, kabili apo abaŋo bengengila no kwiba.
+MAT 6:20 Lelo Sungileni ifipao fyenu mumulu umo ubuswa nenkutu teti syonaule kabili nabaŋo teti bengile nokwiba.
+MAT 6:21 Pantu umutima wenu ukaba ukwaba ifyuma fyenu.
+MAT 6:22 “Ilinso elampi lyamubili. Amenso yobe ngayatuntulu ninsi umubili obe onse uli mulubuuto.
+MAT 6:23 Lelo amenso yobe ngateyatuntulu, umubili obe ukaba mumfimfi. Ngakyakuti ulubuto muli webo nimfimfi, ninsi nimfimfi yakipesya mano!
+MAT 6:24 “Takuli umuntu uwingaba umusya wabasikulu babili, kuti apatapo umo nokutemwapo umbi, kuti anakilapo umo nokufupulapo umbi. Tekuti upyungile fyonse pamo, Lesa nolupiya.
+MAT 6:25 “Eikyo ndimukumyeba ukuti, mwilasakamana pabwikasi bwenu, fintu mukalya nafintu mukanwa, nangu pansalu syamubili wenu. Busye ubwikasi bwenu tabwakila ifyakulya? Kabili busye umubili tawakila insalu?
+MAT 6:26 Lolesyeni pafyoni fyamulwelele, ifisilima, tafisombola nangu ukusungila mumatala, lelo Wisinwe wamumulu alafiliisya! Busye tamwakindamapo ukukila ifyoni?
+MAT 6:27 Ninani pali mwebo uwingalundapo insiku pamulandu wakusakamana?
+MAT 6:28 “Nikinsi musakamanina pansalu? Lolesyeni pamaluba ya mumpanga fintu yakula, tayabomba nangu ukuipangila ifyakufwala.
+MAT 6:29 Lelo ndemyeba nati, Nemfumu Solomoni nobunonshi bwakwe bonse tatalile fwikwapo ngalimo pali aya maluba.
+MAT 6:30 Ngakyakuti Lesa eufwika ifyani fyamumpanga, ifyakuti lelo epofili mailo fyaposwa mumulilo tekuti amifwike ukukishapo, mwe bantu bakitetekelo kinono?
+MAT 6:31 “Eikyo mwilasakamana nokuipusya ukuti: ‘Busye nkalya insi? Busye nkanwa insi? Nangu busye nkafwala kinsi?’
+MAT 6:32 Pantu ifi, efyo abenafyalo bafwaya, lelo Wisinwe wamumulu alisiba ukuti mulakabila fyonse ifi fintu.
+MAT 6:33 Lelo intansi fwayeni Ubufumu bwamumulu Nobulungami bwabuko, kabili nafyonse ifi ifyasyala akamipeela.
+MAT 6:34 Eikyo mwilasakamikwa pabusiku bwa mailo, ubwamailo bukaisakamana ubwine. Kila busiku bwalikwata isakamiko lyabuko.
+MAT 7:1 “Mwilapingula abanenu, pakuti mwikapingulwa,
+MAT 7:2 pantu insila mupingwilamo abanenu eyo mukamipingwilamo kabili nefipimo mubomfya efyo nemwe mukapiminwamo.
+MAT 7:3 Nikinsi umwena akasanga mulinso lyakwa munonko lelo wafilwa ukumona umulando mulinso lyobe?
+MAT 7:4 Kuti walanda syani kuli munonko ukuti, “Leka nkufumye akasanga mulinso,” ilyo webo taulemona umulando mulinso lyobe?
+MAT 7:5 Webumbimunda we! Mbale fumya umulando mulinso lyobe elintu walamona fintu wingafumya akasanga mulinso lyakwa munonko.
+MAT 7:6 “Mwilapela ifyamusilo ku mbwa, kabili mwilaposela inkumba ubulungu bwenu ubwa mutengo, pantu kuti syena syabunyantaula nokumyalukila.
+MAT 7:7 “Lomba kikapelwa kuli webo, fwaya walasanga, konkonsya kabili ikiibi kikeswilwa kuli webo.
+MAT 7:8 Pantu onse uwalomba akapeelwa, na onse uwafwaya akasanga kabili nekiibi kikeswilwa ku ukakonkonsya.
+MAT 7:9 Busye palimwebo nani engapeela umwaana wakwe ilibwe ngamulomba umukate?
+MAT 7:10 Nangu ukumupeela insoka ngamulomba isabi?
+MAT 7:11 Ngakyakuti mwebo nangu muli babi, mwalisiba ukupeela abaana benu ifisuma. Nga Wisinwe wamumulu tekuti akisyepo ukupeela ifintu ifisuma kubamulomba!
+MAT 7:12 “Eikyo mulifyonse, mulekitila bambi fintu mwingafwaya bamikitila, ubu ebupilibulo bwa mafunde na bakasesema.”
+MAT 7:13 Ingilileni pamwinsi uunono. Pantu unono emwinsi lelo uwasalala ninsila iitwala kukonaulwa, kabili nabengi emo bengilila.
+MAT 7:14 Lelo umwinsi uutwala kumweo unono kabili walyafya nabausanga banono.
+MAT 7:15 Kengeleni kuli bakasesema babufi, besa kuli mwebo ngempaanga kunse, lelo mukati mimbulu iibi.
+MAT 7:16 Mukabesibila kufisabo. Kumyunga takuseeka imyangasi, nangu amakunyu tayaseeka ku nkololo.
+MAT 7:17 Ikimuti ikisuma kuseeka ifitwalo fisuma, lelo ikimuti ikiibi kuseka ifitwalo ifiibi.
+MAT 7:18 Ikimuti ikisuma teti kitwale ifisabo ifiibi nangu ikimuti ikiibi ukutwala ifisabo ifisuma.
+MAT 7:19 Kabili nekimuti kyonse ikisitwala ifisabo ifisuma kukitema nokukiposa mumulilo.
+MAT 7:20 Eikyo kansi mukabesibila kufisabo.
+MAT 7:21 “Tebonse abangita ukuti, ‘We mfumu, we Mfumu’ abakengila Mubufumu bwamumulu kanofye abo abakita fintu Taata wamumulu afwaya ukuti bakite.
+MAT 7:22 Pali bulya busiku abengi bakatiila kuli nebo ukuti, ‘We Mfumu, we Mfumu! Busye tatwalesesema mwisina lyobe, no kutamfya ingulu Mwisina lyobe, kabili nokukita ifisungusyo ifingi mwisina lyobe?’
+MAT 7:23 Elo nkabeba ukuti, ‘Nsyamisiba. Fumeni apa, mwebantu ababifi mwe!’”
+MAT 7:24 “Eikyo, onse umfwa aya masiwi yandi nokuyakita aaba ngo muntu uwamano uwaakulile iŋanda pelibwe.
+MAT 7:25 Imfula yalilokele, imilonga yaliiswile nomwela walipupile ku ŋanda lelo tayawile pantu yakulilwe pebwe.
+MAT 7:26 “Lelo umfwa amasiwi yandi nokunayakita aaba ngekipumbu ikyakulile ŋanda pa musenga.
+MAT 7:27 Imfula yalilokele, imilonga yaliswile, umwela walipupile kuli ilya ŋanda nayo yaliwile. Kabili yawile bubi bubi!”
+MAT 7:28 Lintu Yesu apwisisye ukulanda ifi, ibumba lyalipapile pa mafundisyo yakwe.
+MAT 7:29 Talefundisya ngabakafundisya bamafunde, lelo alefundisya nga umo uwakwata amaka.
+MAT 8:1 Lintu Yesu atentemwike palupili, ibumba ilikalamba lyalimukonkele.
+MAT 8:2 Elo umuntu uwalekyusiwa nobulwele bwafibasi aisile mufukamina nokulanda ukuti, “Mwemfumu ngamulefwaya kuti mwangundapa.”
+MAT 8:3 Yesu atambulwile ukuboko amwikata, nokumwasuka ukuti, “Ndefwaya, pola!” Palya pene alipolele kubulwele bwakwe.
+MAT 8:4 Yesu amwebele ukuti, “Usininkisye ukuti tawebeleko umuntu nangu umo, lelo kailange kuli basimapepo, upela nelambo lintu Mose akonkomesye ngo bunte kuli bena.”
+MAT 8:5 Lintu Yesu aingile mu Kapenamu, umukalamba wabasilika alimukumenye nokumulomba ubwafwilisyo,
+MAT 8:6 aebele ati, “Wemfumu umubomfi wandi nalala pabulo, taleyenda kabili nakyusiwa apakalamba.”
+MAT 8:7 Yesu amwaswike ukuti, “Nalaya mundapa.”
+MAT 8:8 Lelo umukalamba wabasilika ayaswike ukuti, “Iyoo Mwemfumu, nsilingile ukuti mwise muŋanda yandi, lelo landenifye isiwi umubomfi wandi alapola.
+MAT 8:9 Pantu nanebo nalikwata abonakila, kabili nalikwata nabasilika abanakila. Ndeba umo ukuti, ‘Kabiye!’ Nao ayaa kabili naeba umbi ukuti, ‘Isa!’ Nao aisa, kabili ndeba umusya wandi ukuti, ‘kitefi!’ Nao akita.”
+MAT 8:10 Lintu Yesu aumfwile ifi alisungwike nokweba abamukonkele ukuti, “Ndemyeba ikine kine, nsyasangapo uwakitetekelo mu Israeli ngoyu.
+MAT 8:11 Ndemyeba ukuti, abengi bakesa ukufuma kukabanga nakumasamba nokwikala pamo na Abulahamu, Isaaki na Yakobo pamutebeto Mubufumu bwamumulu.
+MAT 8:12 Lelo abana babufumu bakaposwa mumfimfi, ukukaba ukulila nokusumanya ameno.”
+MAT 8:13 Yesu aebele umukalamba wabasilika ukuti, “Kabiye, kyalaba ngafintu usumine.” Kabili nomubomfi wamusilika alipolele pali kalyakene kasita.
+MAT 8:14 Lintu Yesu aile muŋanda yakwa Petelo, amweene nyinafyala wakwa Petelo ali pabulo nalwala impepo.
+MAT 8:15 Amukwete kuminwe apopene nempepo yamuleka, aimine nokutampa ukubatangata.
+MAT 8:16 Ikyungulo, abantu abengi abakwete ingulu babaletele kuli Yesu. Yesu atamfisye ingulu kwisiwi nokundapa bonse abali nabalwala.
+MAT 8:17 Ifi fyakitike pakufikilisya ifyalandile kasesema Esaya ukuti, “Aundepe amalwele yesu nokutuposya.”
+MAT 8:18 Nomba lintu Yesu amwene ibumba lyamukolongana aebele abasambi bakwe ukwabukila busilya bwamumana.
+MAT 8:19 Kafundisya wamafunde aisile kuli ena nokumweba ukuti, “Mwekafundisya, ningipekanya ukuya nemwe konse kuntu muleya.”
+MAT 8:20 Kabili Yesu amwaswike ukuti, “Bamumbwe balikwata amendo, kabili nefyoni fyalikwata ifinsa lelo Umwana Wamuntu takwata apakusamina umutwe.”
+MAT 8:21 Naumbi uwali umusambi alandile kuli ena ukuti, “Wemfumu, leka mbale mbwelelemo ndeyasika taata.”
+MAT 8:22 Lelo Yesu amwaswike ukuti, “Nkonka, kabili leka abafwa basike abafwa banabo.”
+MAT 8:23 Kabili nalintu Yesu apateme mubwato, abasambi bakwe balimukonkole.
+MAT 8:24 Apopene akashululu kaima pamumana namaputa yalapumaula kubwato, Yesu ena ninsi ali mutulo.
+MAT 8:25 Abasambi baile kuli Yesu mukumusibusya. Bamwebele ukuti, “Tupususwye we Mfumu, twalafwa!”
+MAT 8:26 Yesu abaswike ukuti, “Kinsi muletiina, mwebakitetekelo ikinono!” Aimine nokukalipila umwela namaputa, kabili kwali icilenga.
+MAT 8:27 Abasambi balipapile, nokulanda ukuti, “Busye muntu wamusango syani uyu? Nomwela namaputa nafyo filemumfwila!”
+MAT 8:28 Lintu Yesu afikile busilya bwamumana, kukyalo kyabena Gadara, bamukumenye kubantu babili abafumine mumanda. Aba bantu balikwete ingulu kabili bali nabakalipa ikyakuti tapali abalepita kuli ilya nsila.
+MAT 8:29 Palyapene balapunda ukuti, “Nifinsi ulefwaya kuli fwebo, Wemwana wakwa Lesa? Busye waisa mukutukanda ilyo insita yapekanisiwa tailafika?”
+MAT 8:30 Nomba akatalamukilafye kwali umukuni uwankumba uukalamba isyalelya.
+MAT 8:31 Kabili ingulu syapapete Yesu ukuti, “Ngawalatutamfyamo, ututume mumukuni wankumba.”
+MAT 8:32 Kabili Yesu asyebele ukuti, “Kabiyeni,” Syafumine nokuya mumukuni wankumba kabili nomukuni wa nkumba watentemukila mumukonko wayawila mumumana nokufwa.
+MAT 8:33 Abantu abalesunga inkumba, balibutwike, baile mumusumba, mukulondolola ilyasi lyonse nefyakitike kubantu abakwete ingulu.
+MAT 8:34 Bonse mumusumba baile mukukumanya Yesu, lintu bamumwene bamupapete ukuti afume mukyalo kyabo.
+MAT 9:1 Yesu apatame mubwato nokubwelela busilya bwamumana kumusumba wakwe.
+MAT 9:2 Abantu bamo baletele kuli ena uwabulebe ninsi nalala pabutanda. Kabili lintu Yesu amwene ikitetekelo bakwete, aebele uwabulebe ukuti, “Sipa, wemwana wandi! Imembu syobe syaelelwa.”
+MAT 9:3 Pali ifi, bakafundisya bamafunde bayebele abene beka ukuti, “Uyu muntu alepontela Lesa!”
+MAT 9:4 Lelo Yesu ikyo alisibe amatontonkanyo yabo, abepwisye ukuti, “Nikinsi muletontonkanisisya ifyabubifi?
+MAT 9:5 Busye kinsi kyayangukapo pakulanda ati, ‘Imembu syobe syaelelwa’ nangu ukulanda ati, ‘Ima nokwenda’?
+MAT 9:6 Lelo nalamilangisya nomba ukuti Umwana wa Muntu alikwata amaka yakwelela imembu.” Eikyo aebele uwabulebe ukuti, “Ima, piita ubutanda bobe kabiye kuŋanda”
+MAT 9:7 Kabili alimine nokuya kwakwe.
+MAT 9:8 Lintu abantu bamwene ifi, bakwetwe umwenso, kabili balumbenye Lesa pakupeela amaka kubantu.
+MAT 9:9 Lintu Yesu afumine kuli ilya nkende, amwene kasonkesya wamusonko, wesina lya Mateyo, naikala muntu alebombela. Amwebele ukuti, “Nkonka.” Mateyo aimine nokumukonka.
+MAT 9:10 Kabili ilyo Yesu alelya muŋanda yakwa Mateyo, bakasonkesya bamusonko abengi nababembu baisile yamba ukulya na Yesu kumo nabasambi bakwe.
+MAT 9:11 Lintu Abafalise bamo bamwene ifi, baipwisye abasambi bakwe ukuti, “Kinsi Kafundisya wenu aliila pamo nabakasonkesya wamusonko elo nababembu bambi?”
+MAT 9:12 Lelo lintu Yesu abomfwile abaswike ukuti, “Abantu abatuntulu tabakabila shiŋanga kano abalwele.
+MAT 9:13 Kabiyeni musambilile umwalola ifi, ‘Nkabila uluse, telambo.’ Pantu nsyaisa mukwita abalungami lelo nakonka ababembu.”
+MAT 9:14 Elo abasambi bakwa Yohani kabatisya baisile kuli Yesu nokumwipusya ati, “Nikinsi fwebo naba Falise tufungila, lelo abasambi bobe tabafunga?”
+MAT 9:15 Yesu abaswike ukuti, “Busye insindisi syakwa sibwinga kuti syaba syani nobulanda ilyo sikili nasibwinga? Lelo insita ikafika ilyo sibwinga akapiitwa pali bena lyena bakalafunga ukulya.
+MAT 9:16 “Takwaba uubika ikikamba ikipya pansalu yakale, pantu ikikamba kipya kuti kyalepula insalu nekipunda kyakulilako.
+MAT 9:17 Nangu ukubika umwangasi uusilabila munyambi isikote, umusango inyambi kuti syapuuka, umwangasi wapongoloka nenyambi syaonaika. Lelo babika umwangasi munyambi isipya epakupususya fyonse fibili.”
+MAT 9:18 Yesu palya akili alelanda ifi, kwaisile intungulusi yaba Yuda kuli ena, yamufukamina nokulanda ukuti, “Umwana wandi afwafye ililine, nomba twende umutambalikepo amaboko kabili alaba nomweo.”
+MAT 9:19 Eikyo Yesu aimine nokumukonka kabili nabasambi bakwe baile nao.
+MAT 9:20 Umwanakasi uwalekyusiwa nomukunko pamyaka ikumi limo naibili aisile kunuma yakwa Yesu, nokukumya kupela yansalu yakwe.
+MAT 9:21 Aebele mumutima wakwe ukuti, “Nganakumyafye kunsalu yakwe ndepola.”
+MAT 9:22 Yesu apilibwike nokumona, alandile ati, “Sipa wemwana wandi umwanakasi,” “Ikitetekelo kyobe kyakuposya.” Pali ilya ine nsita umwanakasi alipolele.
+MAT 9:23 Yesu aingile muŋanda yantungulusi yaba Yuda. Lintu amwene abalelisya imitolilo nebumba lyabantu abalelolosya,
+MAT 9:24 alandile ukuti, “Bonse fumineni panse! Uyu mukasyana tafwile alelefye!” Elo bonse bamuseka.
+MAT 9:25 Lelo lilyafye abantu bafuma panse, aingile ayamukwata pakuboko, kabili nao aima.
+MAT 9:26 Ilyasi lyapali ifi lyasabankene muli ilya nkende yakyalo.
+MAT 9:27 Yesu afumine kuli ilya kende, kabili kilya aleya, abaume babili impofu batampile ukumukonka. Bapundile ukuti, “Mwana Davidi, tubelele uluse!”
+MAT 9:28 Lintu Yesu aingile muŋanda, impofu syaisile kuli ena, kabili nao asipwisye ukuti, “Busye namusumina ati, kuti nakitefi?” Bayaswike ukuti, “Eee, Mwemfumu?”
+MAT 9:29 Yesu aikete amenso yabo nokulanda ukuti, “Nakikitwe, ukulingana ne kitetekelo kyenu!”
+MAT 9:30 Kabili namenso yabo yaliswike. Yesu abasokele ukuti, “Mwiebako nangu umo pali ifi!”
+MAT 9:31 Lelo bailesabankanya ilyasi pali Yesu muli ilya nkende yakyalo yonse.
+MAT 9:32 Lintu abaume babili baleya, baletele umuntu uusyalelanda kuli Yesu pantu alikwete ikibanda.
+MAT 9:33 Kabili lintu ikibanda kyantafiwe muli ena, umuntu usyalelanda atampile ukulanda, kabili nabonse balisungwike. Bapundile ukuti, “Tatwatala monapo ifyaifi mu Israeli!”
+MAT 9:34 Lelo Abafalise balandile ukuti, “Mukalamba wafibanda eumupele amaka yakutamfya ifibanda.”
+MAT 9:35 Kabili Yesu aile aletandala mumisumba yonse nemisi. Afundisye mumasinagogi, abilile Imbila Nsuma yabufumu, nokundapa abantu abalwele amalwele yamisango misango.
+MAT 9:36 Lintu amwene ibumba lyabantu aiketwe nobulanda, pantu baali nabasakamana, ababula uwakubafwa ngempaanga isyabula kacema.
+MAT 9:37 Aebele abasambi bakwe ukuti, “Ubusombosi bukalamba, lelo ababomfi banono.
+MAT 9:38 Pepeni kuli Lesa wabusombosi ukuti atume ababomfi abengi mukusombola.”
+MAT 10:1 Yesu aitile abasambi bakwe ikumi limo nababili nokubapa amaka yakutamfya umipasi yakowela nokundapa amalwele yamisango misango.
+MAT 10:2 Aya emasina ya batumwa ikumi limo na babili, Simoni (uwaleitwa Petelo) na munyina Andereya, Yakobo na munyina Yohani bamwana Zebede,
+MAT 10:3 Filipi na Batolomeo, Tomasi na Mateyo kasonkesya wamusonko, Yakobo mwana Alufeya, na Tadeyasi,
+MAT 10:4 Simoni umwina kenani, na Yudasi Isikalyoti uwafutwike Yesu.
+MAT 10:5 Yesu atumine aba batumwa ikumi limo nababili nokubeba ukuti, “Mwilaya ku benafyalo na mumisumba ya bena Samaliya.
+MAT 10:6 Lelo muleya ku mpaanga isyaluba isya muŋanda yakwa Israeli.
+MAT 10:7 Kabili mukalesimikila ukuti, ‘Ubufumu bwakwa Lesa buli mupepi!’
+MAT 10:8 Mukaleundapa abalwele, mukalebusya abafwa, mukaleundapa abafibasi, nokutamfya ifibanda. Mwapokelela ukwabula ukulipila, eikyo mukalepela ukwabula ukulipilisya.
+MAT 10:9 Mwipiita ulupiya ululi lonse ulwa Siufele, golide nangu ulwa kyela mumifuko yenu,
+MAT 10:10 mwipiita akacola nangu imikansu ibili, insapato nangu inkonto. Ababomfi bafwile bapelwa fintu balefwaya.
+MAT 10:11 “Kabili onse umusumba nangu umusi untu mwayamo, fwayenimo umuntu uulingile, mukaleikala nao mpaka mukafume muli ilya nkende.
+MAT 10:12 Ngamwaya paŋanda, mulelanda ukuti, ‘Umutende ube nemwe.’
+MAT 10:13 Muli iyo ŋanda nga bamipokelela, lekeni umutende wenu ube paŋanda, lelo nga bakana ukumipokelela umutende wenu umibwelelele.
+MAT 10:14 Kabili umo ngakana ukumipokelela nangu ukumfwa ku masiwi yenu, kunteni ulukungu kunkasa syenu nokufuma muli ulya musumba nangu iyo ŋanda.
+MAT 10:15 Ndemyeba ikinsika ati pabusiku bwabupingusi, Lesa akalangapo uluse ulukulu ku bantu bamu Sodoma na Gomora ukukila uyo musumba.
+MAT 10:16 “Moneni! Namituma nge mpaanga pakati ka mimbulu. Mukengele nge nsoka kabili mufuuke nge nkunda.
+MAT 10:17 Mukengele ku bantu, pantu bakamikwata nokumitwala mufilye, kabili bakamilopola mu masinagogi.
+MAT 10:18 Pamulandu wandi bakamitwala kubalasi nakuli basyamfumu, mukuba bakambone kuli beena, naku Benafyalo.
+MAT 10:19 Lelo ngabamikwata, mwikasakamana pafyo mukalanda nangu ifyo mukafilanda, lintu insita ikafika mukapelwa ifyakulanda.
+MAT 10:20 Pantu amasiwi mukalanda tayakabe yenu, yakafuma ku mupasi wakwa Wisinwe ukalalanda muli mwebo.
+MAT 10:21 “Munina akepaisya munina, nawisi akakita fimofine kubana, nabaana nabo bakemina wisi nokumwipaisya.
+MAT 10:22 Kabili mukapatwa kuli bonse pamulandu nesina lyandi. Lelo onse ukasipikisya ukufika kumpela akapusuka.
+MAT 10:23 Ngabamipakasa mu musumba umo, butukileni muli umbi. Ndemyeba ukuti tamwakapwisye umulimo wenu mumisumba yonse iyamu Israeli ninsi Umwana Wamuntu aisa.
+MAT 10:24 “Umusambi tekuti akile kafundisya, umubomfi teti akile imfumu yakwe.
+MAT 10:25 Umusambi kuti afika pakuba nga kafudisya nomubomfi nge mfumu. Ngakyakuti umutwe wa ŋanda baleewita ukuti Beleezebu, abamuŋanda bakabeta amasina ayabi ukukilapo!
+MAT 10:26 “Mwilabatiina, pantu takuli ikyafimbwapo ikisyakasokoloke, nangu ikyafisama ikisyakesibikwe.
+MAT 10:27 Ifyo ndemyeba mumfimfi mukafilande palubuto, nafyonse mwaumfwa mukumisonga imwe mukalefilanda pamulu wa ŋanda.
+MAT 10:28 Kabili mwilatiina abepaya umubili lelo teti bepaye umweo, lelo muletiina uwingonaula fyonse umubili nomweo mu Gehena.
+MAT 10:29 Busye utupele tubili tatusitisiwa nolupiya lumo? Lelo tapali nangu kamo akengapona pansi ukwabula ubufwayo bwakwa Wisinwe.
+MAT 10:30 Imwe nemisisi yakumitwe yenu yalipendwa.
+MAT 10:31 Eikyo mwilatiina, pantu mwalikila utupele utwingi!
+MAT 10:32 “Bonse abalanda palwalala ukuti baba nanebo, nanebo nkakita fimofine pamenso yakwa Taata mumulu.
+MAT 10:33 Lelo onse uwankana pamenso ya bantu, nkamukana pamenso yakwa Taata mumulu.
+MAT 10:34 Mwilatontonkanya ukuti naisa mukuleta umutende pesonde iyoo, nsyaisa mukuleta umutende lelo naleta ulupanga.
+MAT 10:35 Naisa mukupusanya umwana umwaume nawisi, umwana umwanakasi nanyina, umuko umwanakasi nanyina fyala,
+MAT 10:36 kabili abalwani ba muntu, bakaba ba muŋanda yakwe.
+MAT 10:37 “Onse uwatemwa wisi nanyina ukukila nebo tandingile, kabili naonse uwatemwa umwana wakwe umwaume no mwanakasi ukukila nebo tandingile.
+MAT 10:38 Onse usipiita umusalaba wakwe no kunkonka, talingile ukuba umusambi wandi.
+MAT 10:39 Onse uwasanga umweo wakwe akaulufya, kabili onse uwalufya umweo wakwe pamulandu wandi akausanga.
+MAT 10:40 “Onse uwamipokelela ninsi apokelela nebo, kabili naonse uwampokelela ninsi apokelela uwantuma.
+MAT 10:41 Onse uwapokelela kasesema pamulandu wakuti ni kasesema, akapokelela ikilambu kyakwa kasesema, kabili naonse uwapokelela umuntu umulungami pamulandu wakuti mulungami, akapokelela ikilambu kya mulungami.
+MAT 10:42 Kabili naonse uwapeela kamo pali utu twaike ulukombo lwamensi yatalala pamulandu wakuti kamusambi kandi, ndemyeba ikinekine nati akapokelapo ikilambu kyakwe.”
+MAT 11:1 Lintu Yesu apwiile ukulangilila abasambi bakwe ikumi limo nababili ifyakukonka, afumine kuli ilya nkende nokuya mukufundsiya nokusimikila mumisumba yamu Galili.
+MAT 11:2 Nomba lintu Yohani Kabatisya mukifungo aumfwile pafintu fyonse Klistu aleekita, atumineko abasambi bakwe bamo kuli ena.
+MAT 11:3 Baipwisye Yesu ukuti, “Busye niwebo uuli nokwisa nangu tuloleleko umbi?”
+MAT 11:4 Yesu ayaswike ukuti, “Kamwebeni Yohani fintu muleumfwa nafintu mulemona,
+MAT 11:5 impofu silemona, ifilema fileyenda, abafibasi balepola, bankomya matwi baleumfwa, abafwa balebusiwa, kabili ne Mbila Nsuma ilebilwa kubabusu.
+MAT 11:6 Alipalwa uusiipununa pamulandu wandi!”
+MAT 11:7 Lintu abasambi bakwa Yohani baile, Yesu atampile ukulanda pali Yohani kwi bumba ukuti, “Lintu mwaile kuli Yohani mukiswebebe, kinsi mwaleenekela ukumona? Busye litete lilepunga kumwela?
+MAT 11:8 Busye kinsi mwaile mukumona? Busye muntu uwafwele insalu syabusaka? Iyoo abantu abafwala ifyo bekala ku kipango!
+MAT 11:9 Busye kinsi mwaile mukumona? Busye nikasesema? Ee, lelo ndemyeba ukuti, mwamwene uwakila pali kasesema.
+MAT 11:10 Yohani emuntu amalembo yalandapo ukuti, ‘Moneni, nkatuma intumi yandi iyakuntangilila, iyakukupekanisisya insila.’
+MAT 11:11 Ndemyeba ukuti Yohani mukalamba ukukila bonse abaikalapo pakyalo. Lelo uwakepesya Mubufumu bwa mumulu mukalamba ukukila Yohani.
+MAT 11:12 Ukufuma pansita yakwa Yohani Kabatisya ukufika nandakai Ubufumu bwamumulu bwaba bwakulwila, nababulwila pamaka ebabupoka.
+MAT 11:13 Pantu bakasesema bonse namafunde yalesesema ukufika pali Yohani,
+MAT 11:14 ngamulefwaya ukusumina imbila yabo, Yohani ni Eliya uo balandile ukuti ali nokwisa.
+MAT 11:15 Uuli namatwi omfwe!
+MAT 11:16 “Nomba, busye nipii ningapasyanya ino nkulo? Ili nga baike abaleyangala pakisankano. Ibumba limo lilebilisya ilinankwe ukuti,
+MAT 11:17 ‘Twalimilisisye inyimbo syapa bwinga, lelo tamwakindile! Twalimimbile cilolo, lelo tamwalilile!’
+MAT 11:18 Pantu lintu Yohani aisile talelya nokunwa, kabili nabonse balandile ukuti, ‘Alikwata ikibanda!’
+MAT 11:19 Lintu Umwana Wamuntu aisile aliliile nokunwa, kabili bonse balandile ukuti, ‘Moneni uyu muntu, alalisya, kabili alanwa, nikibusa wabakasonkesya bamusonko na babembu!’ Nomba ifikitwa fyamano yakwa Lesa filasinina ukuti wakisinka.”
+MAT 11:20 Yesu atampile ukwebaula imisumba umo akitile ifipesyamano ifingi, lelo abantu tabalapile.
+MAT 11:21 “Walisyama, we Chorazini! Walisyama, we Betisaida! Ifisugusyo ifyakitwa muli webo fingakitwa mu Tare nangu Sidoni, abantu bamulya ngabalilapile akale mukufwala ifilanga nokuisuba imito!
+MAT 11:22 Ndemyeba ukuti pabusiku bwa Bupingusi Lesa akalangapo uluse ulukalamba kubantu bamu Tare na Sidoni ukukila mwebo!
+MAT 11:23 Kabili nawe Kapenamu! Busye walefwaya ukuisansabika ukufika mumulu? Ukaposwa ku Gehena! Ifisungusyo fyakitilwe muli webo fingakitwa mu Sodoma nandakai ngepoili!
+MAT 11:24 Eikyo ndemyeba ukuti Pabusiku bwa bupingusi Lesa akalangapo sodoma uluse ulukulu ukukila mwebo!”
+MAT 11:25 Pali iyoine nsita Yesu aebele ukuti, “Mwetaata, Imfumu ya mumulu napesonde! Namitotela pantu ifi fintu mwalififisa kubamano naku basambilila, mwafisokolola ku bana.
+MAT 11:26 Ee, Mwetata ifi fyali bufwayo bwenu.
+MAT 11:27 “Tata alimpela ifintu fyonse. Kabili takwaba uwaisiba Umwana kanofye Wisi, kabili takwaba uwaisiba Wisi kanofye Umwana nabo bonse abo Umwana aasala ukusokolwela.
+MAT 11:28 “Iseni kuli nebo, mwebacucutika, namweba fininwa nefisendo, nalamipeela ukutuusya.
+MAT 11:29 Piteeni ikoli lyandi, kabili nokusambilila kuli nebo, pantu ndiwamutembo kabili nalifuuka mu mutima, kabili mukasanga ukutuusya.
+MAT 11:30 Pantu ikoli lyandi talyayafya, nekisendo kyandi kyalyanguka.”
+MAT 12:1 Yesu na basambi bakwe baaleyenda mwibala lya ŋano Pesabata. Abasambi bakwe bayambile ukusaba imisonso ya ŋano balalya pantu balyumfwile insala.
+MAT 12:2 Lelo lintu Abafalise bamwene ifi baebele Yesu ukuti, “Mona, abasambi bobe balekita ifyakanisiwa ukukita Pesabata!”
+MAT 12:3 Yesu ayaswike ukuti, “Busye tamwabelenga fintu Davidi akiitile na bantu bakwe lintu baumfwile insala?
+MAT 12:4 Aingile muŋanda yakwa Lesa na bantu bakwe nokulya umukate wapelwe kuli Lesa, nanguline takyali nakisuminisiwa mumafunde bena ukulya, kanofye basimapepo ebaali nabasuminisiwa ukulya.
+MAT 12:5 Nangu busye tamwabelenga mwifunde ukuti basimapepo bamwi Tempele abalebomba pe Sabata bakaana ukusunga ikyebo kya pabusiku bwe Sabata, lelo bali abakaele?
+MAT 12:6 Ndemyeba ukuti pano pali uwakila pe Tempele.
+MAT 12:7 Mwingesiba umwalola ukuti, ‘Ine mfwaya uluse telambo lyanama.’ Ngatamupeela abakaele imilandu,
+MAT 12:8 pantu Umwana Wamuntu ni Mfumu ye Sabata.”
+MAT 12:9 Yesu afumine kuli ilya nkende nokuya ingila mu sinagogi lyabo,
+MAT 12:10 kabili kwali umuntu uwali nekisansa kyalemana. Baipwisye Yesu ukuti, “Busye kyalisuminisiwa ukundapa Pesebata?” Pakuti bamupele umulandu.
+MAT 12:11 Yesu ayaswike ukuti, “Ngakyakuti umo pali mwebo nakwata Impaanga elo yawila mukikulo Pesabata, busye tekuti ailobole?
+MAT 12:12 Busye umuntu takindamapo ukukila Impaanga! Eikyo kyalisuminisiwa ukukita ikisuma pabusiku bwe Sabata.”
+MAT 12:13 Elo aebele umuntu ukuti, “Tambalika ukuboko kobe.” Umuntu atambalike ukuboko, kabili kwalipolele nga kumbi ukwasyala.
+MAT 12:14 Elo Abafalise bafuma baya mukumfwana ifya kwipaya Yesu.
+MAT 12:15 Ikyo Yesu alisibe amapange yabo, alifumine kuli ilya nkende, kabili ne bumba ilikalamba lyalimukonkele nao alibondepe bonse.
+MAT 12:16 Alibasokele ukuti beyebako bambi pali ena.
+MAT 12:17 Ifi fyali kufikilisya ifyalandile kasesema Ezaya ukuti,
+MAT 12:18 “Uyu emubomfi wandi, uo nasala, uo natemwa, kabili uo mbekelwamo. Nkabika Umupasi wandi pali ena, kabili akasimikila ubupingusi kufyalo.
+MAT 12:19 Takalekita fikansa nangu ukupuunda, tapakabe uukomfwa isiwi lyakwe mumisebo.
+MAT 12:20 Takafunaule itete ilyafwantwa, nangu ukusimya ulukuni ululepya. Mpaka umulinganya ukakimfye,
+MAT 12:21 kabili ifyalo fikabika isubilo muli ena.”
+MAT 12:22 Baletele kuli Yesu umuntu uwali impofu kabili talelelanda pantu alikwete ifibanda. Nao Yesu aundepe umuntu ayamba ukumona nokulanda.
+MAT 12:23 Ibumba lyonse lyalipapile pali fintu Yesu akiitile. Baipwisye ukuti, “Busye kuti aba Mwana wakwa Davidi?”
+MAT 12:24 Lintu Abafalise bena baumfwile ifi bayaswike ukuti, “Atamfya ifibanda pamulandu umukalamba wafibanda Belezebu alamupeela amaka yakutamfya.”
+MAT 12:25 Yesu alisibe fintu baletontonkanya eikyo abebele ukuti, “Ubufumu bonse ngabwayakanika nokwamba ukuilwisya teti bwiminine. Kabili nomusumba nangu ulupwa ulwayakanika mu mabumba nokwamba ukuilwisya lukonaika.
+MAT 12:26 Kansi Satana ngakuti atamfya Satana ninsi aimina umwine eka. Nomba busye ubufumu bwakwe kuti bwaiminina syani?
+MAT 12:27 Ngantamfya ingulu ukubomfya Belezebu. Kansi ngabana benu bena batamfisya mu maka yakwani? Abana benu ebakamipingula!
+MAT 12:28 Umupasi wakwa Lesa ngeumpa amaka yakutamfya ingulu ninsi Ubufumu bwakwa Lesa nabwisa palimwebo.
+MAT 12:29 “Takuli umuntu uwingengilila umuntu uwamaka nokupiita ifyuma fyakwe, kano ayambilapo ukukaka umuntu uwamaka, elo engengila nokupiita ifyuma fyakwe.
+MAT 12:30 “Onse usyaba nanebo ninsi mulwani, usingafwa ukukolonganika ninsi alasalanganya.
+MAT 12:31 Kabili ndemyeba ukuti abantu kuti baelelwa imembu syonse nefyabubifi balaanda, lelo onse uwapontela Mupasi wamusilo takelelwe.
+MAT 12:32 Nowalanda amasiwi yamusalalula pa Mwana Wamuntu kuti aelelwa, lelo uwapontela Mupasi Wamusilo takelelwe pali ndakai nomuyayaya.
+MAT 12:33 “Pakukwata ikitwalo ikisuma kukwata ikimuti ikisuma, ngokwete ikimuti ikibi ukakwata ikitwalo ikibi. Ikimuti bakisibila kufitwalo kitwala.
+MAT 12:34 Mwensonka mwe! Kuti mwalanda syani ifintu ifisuma mwe babifi? Pantu akanwa kalanda ifyaisula mumutima.
+MAT 12:35 Umuntu umusuma afumya ifintu ifisuma ifyamukipao kyakwe ikisuma, kabili nomubifi afumya ifintu ifibi ifyamukipao kyakwe ikibi.
+MAT 12:36 Lelo Ndimukumyeba ukuti, pabusiku bwa bupingusi umuntu onse akalubulula pesiwi lyonse ilyabula ubuyo aalandapo.
+MAT 12:37 Amasiwi yenu yakabomfesiwa mukumipingula, kukulanda ati muli bakaele nangu muli bamilandu.”
+MAT 12:38 Elo bakafundisya Bamafunde naba Falise bamo baeba Yesu ukuti, “Wekafundisya, Tulefwaya ukumona ikisibilo kuli webo.”
+MAT 12:39 Lelo Yesu abaswike ukuti, “Inkulo iyabubifi kabili iyabukende ilomba ikisibilo, lelo tapali ikisibilo ikikapelwa kuli yena ukukila ikisibilo kyakwa kasesema Yona.
+MAT 12:40 Filyafine Yona apwiile insiku sitatu, ubusiku nakasuba munda yakisabi, efintu no Mwana Wamuntu akapwa insiku sitatu, ubusiku nakasuba mu musili.
+MAT 12:41 Pabusiku bwa bupingusi abantu baku Ninive bakeminina nokumipa umulandu, pantu balilapile imembu syabo lintu baumfwile Yona alesimikila, nomba ndemyeba nati, pano pali umukalamba ukukila Yona!
+MAT 12:42 Pabusiku bwa bupingusi Namfumu waku Sheba akeminina nokumipa umulandu, pantu alyendele ukufuma kukyalo kyakwe ukwisa umfwa kumafundisyo ayamano ku mfumu Solomoni, kabili ndemyeba nati, pano pali umukalamba ukukila Solomoni!
+MAT 12:43 “Ilyo umupasi wakowela wafuma mumuntu, ulaya ulelulumba umwabula amensi mukufwaya umwakutuusya kabili taumusanga.
+MAT 12:44 Uyeba uwine weka ukuti, ‘Nalabwelela muŋanda yandi.’ Ilyo wabwelelamo nokusanga tamuli nangu kimo, namupyangwa, nabamubika bwino, umwabusaka.
+MAT 12:45 Ulaya wayapiita imipasi simbi isili kinelubali isyabipisyapo ukuukila, nokwisa ikala mulya. Nomba imibeele yabumi bwaulya muntu, iya pakulekelesya yabipisyapo ukukila iyantansi. Ifi efikakitika kuli ino nkulo iyibifi.”
+MAT 12:46 Lintu Yesu aalelanda na bantu, nyina na bamunyina bakwa Yesu balifikile. Baiminine panse balefwaya ukuti balande nao.
+MAT 12:47 Umo pa bantu abaali kulya amwebele ukuti, “Banoko na bamunoko beminine panse balefwaya ukulanda nobe.”
+MAT 12:48 Yesu amwaswike ukuti, “Busye bamayo nibani? Nangu bamuninane bandi nibani?”
+MAT 12:49 Elo asonta pabasambi bakwe nokulanda ukuti, “Moneni! Aba ebamayo nabamuninane!
+MAT 12:50 Onse uukita ubufwayo bwakwa Taata emuninane, enkansi yandi kabili emayo.”
+MAT 13:1 Bulyabwine busiku Yesu afumine muŋanda nokuya mumbali ya mumana eko aikele.
+MAT 13:2 Ibumba ilikalamba lyalimukolongene ikyakuti apateme mubwato emo aikala, kabili nebumba lyonse lyaiminine kunshiko.
+MAT 13:3 Abebele ifintu ifingi mumilumbe ukuti, “Katanda wa mbuto aile mukutanda.
+MAT 13:4 Nalintu atandile, imbuto simo syaponene mumbali yansila, kabili nefyoni fyaisilelya.
+MAT 13:5 Simbi syaponene pansakalabwe, apaali iloba ilinono, inseke syatampile ukumena bwangu bwangu pantu umusili tawaile saana pansi.
+MAT 13:6 Lelo lintu akasuba katulile, fyonse fyalipile nokubonsa pantu tafyakwete imisila.
+MAT 13:7 Simbi syaponene mu myunga. Imyunga syalikulile nokwisa sitabilila.
+MAT 13:8 Lelo simbi syaponene mu musili uusuma, kabili syalikulile nokutwala ifisabo, imiku umwanda umo, simbi amakumi mutanda, nasimbi amakumi yatatu (30) ukukila isyabyelwe.
+MAT 13:9 “Uukwete amatwi naomfwe!”
+MAT 13:10 Elo abasambi baisile kuli Yesu bamwipusya ukuti, “Nikinsi ulandila nabantu mumilumbe?”
+MAT 13:11 Yesu abaswike ukuti, Pantu ukwisiba inkama ya bufumu bwa mumulu kwalipelwa kuli mwebo, lelo tekuli bena.
+MAT 13:12 Pantu umuntu uwakwatapo fimo akapelelwapo nafimbi, pakweba ati akakwate ifingi ukukilapo, lelo umuntu usyakwata nangu kimo akapokwa na kanono kantu akwata.
+MAT 13:13 Ifi efintu ndandila nabo mumilumbe, “Pakuti balolesye, lelo ukwabula ukumona kabili bomfwe lelo ukwabula ukwiluka.
+MAT 13:14 Ubusesemo bwakwa kasesema Esaya bwalifikilisye kuli bena ukuti, “‘Mukomfwa lelo ukwabula ukwiluka, mukalolesya lelo ukwabula ukumona,
+MAT 13:15 pantu imitima yaaba bantu tayakutulukwa, kabili na matwi yabo yalikoma. Kabili baalisala amenso yabo, Ngateifyo amenso yabo, ngayalamona, na matwi yabo ngayalomfwa, Ne mitima yabo ngaileluka kabili ngabalibwelela kuli nebo ukuti imbondape.’
+MAT 13:16 “Lelo yalipalwa amenso yenu pantu yalamona, namatwi yenu pantu yalomfwa.
+MAT 13:17 Ndemyeba ukuti bakasesema abengi na bantu abalungami balefwaisya ukumona ifi, lelo tabafimwene, kabili balefwaisya ukumfwa ifi muleumfwa lelo tabafyumfwile.
+MAT 13:18 “Umfweni nomba umulumbe wakwa katanda fintu ulepilibula.
+MAT 13:19 Umuntu ngaumfwa imbila yapa Bufumu ukwabula ukwiluka, aba ngembuto syaponene mumbali yansila. Umubiifi alesa nokwisa sompola ifyabyelwe mumitima wakwe.
+MAT 13:20 Imbuto syaponene pansakalabwe simininako, abantu abomfwa imbila kabili palya pene baipokelela ne nsansa,
+MAT 13:21 Lelo apo muli bena tamwaba misila. Basipikisyafye apalinga kabili lintu amafya no kupakaswa kwaisa pamulandu wambila balanenuka bwangu.
+MAT 13:22 Imbuto syaponene mumyunga simininako abo bonse abomfwa imbila, lelo amasakamiko yabwikasi buno nomukonkelelo wafyuma watosya imbila, kabili tabatwala fisabo.
+MAT 13:23 Kabili nembuto syaponene mu musili uusuma simininako abo bonse abomfwa imbila nokwiluka, balatwala ifisabo, bamo imiku umwanda umo, bambi amakumi mutanda, kabili nabambi amakumi yatatu ukukila fintu babyele.”
+MAT 13:24 Yesu abebele umulumbe naumbi ukuti, “Ubufumu bwa mumulu bwaba ngo muntu uwabyele imbuto isisuma mwibala lyakwe.
+MAT 13:25 Lelo lilya abantu bonse bali mutulo ubusiku, umulwani aisile byalamo kalolo muŋano nokuya.
+MAT 13:26 Kilya imisonga yamena yapakula nokupakula, elo kalolo nayo yamoneka.
+MAT 13:27 Ababomfi baulya muntu baisile kuli ena nokumweba ukuti, ‘Mwemfumu, busye tamwatandile imbuto isisuma mwibala? Nga kalolo aafumine pi?’
+MAT 13:28 Ayaswike ukuti, ‘Umulwani ewakitile ifi. Busye ulefwaya tuleyanukulamo kalolo?’
+MAT 13:29 Abaswike ukuti, ‘Awe, pantu ilyo mulenukula kalolo kuti mwanukwila pamo neŋano.
+MAT 13:30 Lekeni iŋano na kalolo fikulile pamo mpaka pa busombosi. Nkeba abakalasombola ukunukulamo kalolo pakwamba, ukuikaka mufikuka nokuyokya, kabili nokulonganya iŋano ukubika mubutala.’ ”
+MAT 13:31 Yesu abebele umulumbe naumbi ukuti, “Ubufumu bwamumulu bwaba ngo luseke lwa lubanga ulo umuntu apiitile nokuya byala mwibala lyakwe.
+MAT 13:32 Luseke ulunono panseke syonse, lelo ilyo lwakula, luba kimpunsa ikikalamba palifyonse mwibala. Kisanguka ikimuti, ikyakuti nefyoni fipanga ifinsa kumisambo yakiko.”
+MAT 13:33 Kabili Yesu abeba naumbi umulumbe ukuti, “Ubufumu bwamumulu bwaba nge ntutumusi sintu namayo apiitile angandwila mufipimo fitatu ifyabunga mpaka umufuba onse watutumuka.”
+MAT 13:34 Fyonse ifi Yesu abomfesye imilumbe pakweba amabumba, taalandile ikintu nangu kimo ukwabula ukubomfya umulumbe.
+MAT 13:35 Akiitile ifi mukufikilisya fintu kasesema Ezaya alandile ukuti, “Nkabomfya imilumbe pakulanda nabo, nkabeba ifintu ifyafisama ukutula pabubumbo bwe sonde.”
+MAT 13:36 Yesu afumine pa mabumba nokwingila muŋanda, abasambi bakwe baisile kuli ena nokumweba ati, “Twebe fintu umulumbe wakalolo mwibala ulepilibula.”
+MAT 13:37 Yesu abasuka ukuti, “Umuntu uwabyele inseke isisuma Mwana Wamuntu.
+MAT 13:38 Ibala lisonde, inseke isisuma bantu aba Mubufumu, kalolo bantu bamubifi,
+MAT 13:39 kabili nomulwani uwatandilemo inseke ni Kiwa. Ubusombosi nimpela yankulo, kabili na babomfi babusombosi ni bamalaika.
+MAT 13:40 Ngafilya kalolo alonganikwa nokokewa mumulilo, efintu kikaba na pampela yakyalo.
+MAT 13:41 Umwana Wamuntu akatuma bamalaika mukukolonganika abo bonse abalenga abantu ukubembuka nabo bonse abakita ifintu ifibi, ukubafumya Mubufumu bwakwe,
+MAT 13:42 kabili bakabaposa mwilungu lyamulilo, umukaba ukulila nokusumanya ameno.
+MAT 13:43 Elo abalungami bakabengesime nga kasuba Mubufumu bwakwa Tata. Uukwete amatwi naomfwe!
+MAT 13:44 “Ubufumu bwa mumulu bwaba nge kipao kyafiswa mwibala kintu umuntu atutwila nokufimbapo, elo aya nasansamuka ngansi, asitisya nafyonse fintu aakwata ayasitamo lilya ibala.
+MAT 13:45 “Nakabili Ubufumu bwa mumulu bwaba ngo muntu wamakwebo ulefwaya ubulungu ubwayemba.
+MAT 13:46 Kilya asanga ubwayembesya ayasitisya fyonse fintu aakwata nokuyabusita.
+MAT 13:47 “Kabili Ubufumu bwamumulu bwaba ngo bukonde ubwaposwa pamumana nokwipaya isabi lyamisango yonse.
+MAT 13:48 Lintu isabi lyaisula mubukonde abashila babutintila kunshiko baikala balasala, ilisuma babika mukitunga, ilibi baliposa.
+MAT 13:49 Efintu kikaba pakupwa kwakyalo, bamalaika bakesapatula abantu ababifi ukubafumya kubalungami
+MAT 13:50 nokuyabaposa mwilungu lyamulilo umo bakalila nokusumanya ameno yabo.
+MAT 13:51 “Elo Yesu abepusya ukuti, “Busye Namwiluka ifintu fyonse ifi?” Nabo bamwasuka ukuti, “Ee”.
+MAT 13:52 Kabili abebele ukuti, “Eikyo onse kafundisya Wefunde uwaba umusambi wa Mubufumu bwa mumulu ali ngomwine waŋanda uufumya ifipao fyakwe ifipya ne fyakale muntu afisungila.”
+MAT 13:53 Lintu Yesu apwisisye ukulanda iyi milumbe alifumine kuli ilya nkende
+MAT 13:54 nokubwelulukila ku musumba wakwe. Aafundisye musinagogi nabonse abaumfwileko balisungwike. Baipwisye ukuti, “Busye nipii aafumya aya mano namaka yakukita ifisungusyo?”
+MAT 13:55 “Busye uyu temwana Kapopa wambao? Busye temwana Mariya? Busye Yakobo, Yosefu, Simoni na Yuda tebamunyina?
+MAT 13:56 Busye bankasi yakwe tatwikala nabo kuno? Nga nipi aafumya fyonse ifi fintu?”
+MAT 13:57 Eikyo balimukene. Lelo Yesu abebele ukuti, “kasesema kunkende syonse balamukindika ukufumyakofye mumusumba wakwe nakuli balupwa bakwe.”
+MAT 13:58 Eikyo takitileko ifisungusyo ifingi pantu tabakwete ikitetekelo.
+MAT 14:1 Pali ilya nsita Herodi imfumu yamu Galili, yaumfwile ululumbi pali Yesu.
+MAT 14:2 Yaebele bakilolo bakwe ukuti, “Ni Yohani Kabatisya eubukile kubafwa, ekintu akwatiile amaka yakukita ifisungusyo.”
+MAT 14:3 Pantu Herodi alikete Yohani, amukaka mu minyololo nokumubika mukifungo. Aakitile ifi pamulandu na Herodyasi muka munyina Filipi.
+MAT 14:4 Yohani aebele Herodi ukuti, “Takyasuminisiwa webo ukupa Herodyasi!”
+MAT 14:5 Herodi alefwaya ukwipaya Yohani lelo aletiina abantu, pantu bena balisumine Yohani ukuti ni kasesema.
+MAT 14:6 Lelo Pakusefya ubusiku bwa kufyalwa kwakwa Herodi, umwana wakwa Herodyasi umwanakasi alicindile ku ntansi ye bumba kabili alisekesye Herodi,
+MAT 14:7 ikyakuti alilapile ukumupela kyonse kintu engalomba.
+MAT 14:8 Lelo nyina ailemusonga, eikyo alandile ati, “Mpeni umutwe wakwa Yohani Kabatisya pansani!”
+MAT 14:9 Imfumu yalisakamene lelo pamulandu nomulapo yapangile pa menso ya bantu bonse yakonkomesye ukuti bamupele.
+MAT 14:10 Yatumine abakuyaputula umutwe wakwa Yohani mukifungo.
+MAT 14:11 Baletele umutwe pa nsani bapela akakasyana, nako kayapeela nyina.
+MAT 14:12 Abasambi bakwa Yohani bapiitile ikitumbi bayasika elo bayaeba Yesu.
+MAT 14:13 Lintu Yesu aumfwile ifyakitike, afumine kulya nobwato nokuya kunkende yakwe eka. Lelo lintu ibumba lyaumfwile ifi, lyamukonkele ulwa pansi ukufuma mumisumba.
+MAT 14:14 Lintu Yesu afikile ku nshiko amwene ibumba ilikalamba, umutima wakwe waiswilemo inkumbu, kabili aundepe amalwele yonse.
+MAT 14:15 Mukyungulo abasambi bakwe baisile kuli ena nokumweba ukuti, “Kuno tuli nikukiswebebe kabili nakasuba nakawa, eba abantu baye mumisi bayesita ifyakuti balye.”
+MAT 14:16 Yesu nao abaswike ukuti, “Tabafwile ukuya, mwebobene bapeniko ifyakuti balye!”
+MAT 14:17 Bayaswike ukuti, “Tukwetefye imikate isano nesabi libili.”
+MAT 14:18 Yesu alandile ukuti, “Leteni kuli nebo.”
+MAT 14:19 Aebele amabumba ukwikala pafyani, elo abuula imikate isano ne sabi libili, alolesya mu mulu aapala ifyakulya. Aamokwele imikate isano apela abasambi, nabo abasambi bayakanya abantu.
+MAT 14:20 Abantu bonse balilile nokwikuta. Kabili nabasambi bapiitile ifitunga ifyaisula ifyakulya fyasyelepo.
+MAT 14:21 Impendwa yabaume abalile yali amakana yasano (5,000) ukwabula ukupendelako abanakasi, na baana.
+MAT 14:22 Yesu aebele abasambi bakwe ukupatama mubwato bamutangilile busilya bwa mumana, ilyo ena alesalanganya abantu.
+MAT 14:23 Panuma ya kusalanganya abantu, apilukile pa lupili mukupepa. Lintu ikyungulo kyafikile aali kulya kwine eka,
+MAT 14:24 lelo pali iyi nsita ubwato bwali nabufika apatali, bwalesenkela namaputa pantu umwela walebusunka.
+MAT 14:25 Kuli kakula Yesu aisile ku basambi, aleyenda pamumana.
+MAT 14:26 Lintu abasambi bamumwene aleyenda pamumana balitiinine ngansi, baebele ukuti, “Kiwa!” Kabili bapundile no mwenso.
+MAT 14:27 Lelo Yesu palyapene abeba ukuti, “Tekeni imitima, Ninebo mwitiina!”
+MAT 14:28 Petelo epakulanda ukuti, “Wemfumu, nganiwebo ngeba ingise kuli webo ndeyenda pamensi.”
+MAT 14:29 Yesu nao amwaswike ukuti, “Isa!” Petelo akokele mubwato nokwamba ukwenda pamensi aleya kuli Yesu.
+MAT 14:30 Lelo lintu amwene umwela alitinine, ayamba nokwibila mumensi. Alilile ukuti, “Mwe Mfumu, mpususyeni!”
+MAT 14:31 Yesu palyapene atambulwile ukuboko amukwata nokulanda ukuti, “We muntu wakitetekelo kinono! Kinsi wakitwisikila?”
+MAT 14:32 Lintu bapateme mubwato nomwela walala.
+MAT 14:33 Elo abaali mubwato basinsimwine Lesa ukuti, “Mukiine uli Mwana wakwa Lesa!”
+MAT 14:34 Kabili lintu bayabwike umumana, baisile kukyalo kya Genesareti.
+MAT 14:35 Lintu abantu bakuli ilya nkende baisibe Yesu, balaisye bonse muli ilya nkende ukuleta bonse abaali nabalwala kuli Yesu.
+MAT 14:36 Balimupapatile ukuti, aleke abalwele bakumyekofye kumpela yansalu yakwe, kabili na bonse abakumisyeko balipolele.
+MAT 15:1 Elo Abafalise bamo naba Kafundisya bamafunde bafumine ku Yerusalemu baisa kuli Yesu nokumwipusya ukuti,
+MAT 15:2 “Nikinsi abasambi bobe baletobela intambi syafikolwe fyesu? Tabasamba ku minwe pakulya!”
+MAT 15:3 Yesu abaswike ukuti, “Nemwe nikinsi mutobela ifipope fyakwa Lesa, pamulandu nentambi syenu?
+MAT 15:4 Pantu Lesa alandile ukuti, ‘Ulekindika wiso na noko,’ kabili ‘naonse uwalanda ifibi pali wisi nangu pali nyina, afwile ukwipaiwa.’
+MAT 15:5 Lelo mwebo mulanda ukuti umuntu nganakwata fintu engafwilisya wisi nangu nyina, mulanda ukuti, ‘fyakwa Lesa,’
+MAT 15:6 eikyo tafwile ukukindika wisi, pamulandu nentambi syenu mulenga imbila yakwa Lesa ibe iyafye.
+MAT 15:7 Mweba bumbimunda! Ezaya alilungike lintu aseseme pali mwebo ukuti,
+MAT 15:8 ‘Aba bantu bankindikafye pa kanwa, lelo imitima yabo yaba ukutali nanebo.
+MAT 15:9 Bansinsimunafye apafye, namafunde yabo yabuntunse!’”
+MAT 15:10 Yesu aitile abantu nokubeba ati, “Kutikeni nokwiluka!
+MAT 15:11 Ifingila mukanwa kamuntu tafimulenga ukukowela lelo ififuma mukanwa kamuntu efimulenga ukukowela.”
+MAT 15:12 Elo abasambi baisile kuli ena nokumweba ukuti, “Busye namwisiba ukuti aba Falise nakibakalipa lintu bakyumfwa fintu mwakilanda?”
+MAT 15:13 Yesu ayaswike ukuti, “Kyonse ikimuti kintu Taata mumulu tabyala, kikanukulwa.
+MAT 15:14 Balekeni, nintungulusi impofu, kabili impofu ngayatungulula impofu inankwe bonse kuwiila mucikulo.”
+MAT 15:15 Petelo aebele ukuti, “Tulondolweleni umwalolola uyu mulumbe.”
+MAT 15:16 Yesu abepwisye ukuti, “Busye nanomba tamwiluka?
+MAT 15:17 Busye tamumona ukuti kyonse ikingila mukanwa, kipita munda, elo kyafumina kunse ya mubili?
+MAT 15:18 Lelo ififuma mukanwa, fifuma mu mutima kabili ifi efilenga umuntu ukukowela.
+MAT 15:19 Pantu mumutima mufuma imilangwe iibi, ukwipaya, ubukende, ubulalelale, ubuŋo, bukambone bwa bufi, no musalula.
+MAT 15:20 Ifi efikowesya umuntu, lelo ukulya ukwabula ukusamba kuminwe takukowesya umuntu.”
+MAT 15:21 Kabili Yesu afumine kulya nokuya kufitungu fya Tare na Sidoni.
+MAT 15:22 Namayo waku Kenani uwaleikala muli ilya nkende aisile alebilisya ukuti, “We Mfumu, Mwana Davidi mbelela uluse! Umwana wandi umwanakasi alekyusiwa nekibanda.”
+MAT 15:23 Lelo Yesu tamwaswikepo isiwi nangu limo. Kabili abasambi baisile kuli Yesu no kumupapata ukuti, “Mwebeni aleya! Aletupangilafye ifyongo!”
+MAT 15:24 Yesu ayaswike ukuti, “Natumwafye kumpaanga isyaluba isya muŋanda yakwa Israeli.”
+MAT 15:25 Lelo namayo apalamine mupepi, afukama pansi nokumupapata ukuti, “Ngafwilisyeni mwe Mfumu!”
+MAT 15:26 Yesu ayaswike ukuti, “Tekintu ikyayana ukupiita umukate wabana ukuposela imbwa.”
+MAT 15:27 Nao ayaswike ukuti, “Kisinka mwe Mfumu, lelo nembwa sine silalya ubufungau bupona kwitebulo lyakwa wisikulu.”
+MAT 15:28 Yesu epakumwasuka ukuti, “Uli namayo wakitetekelo ikikalamba! Kintu wakilafwaya kyalakitwa kuli webo.” Kabili pali ilya ine nsita, umwana wakwe alipolele.
+MAT 15:29 Kabili Yesu afumine kulya nokuya kumumana wa Galili. Aapilukile mumbali yalupili nokuyaikala kulya.
+MAT 15:30 Amabumba ayakalamba yaisile kuli ena nokumuletela abantu aabali, abalema, impofu, ababulebe, bankomya matwi nabambi abantu abaali nabalwala, bababikile pankasa syakwa Yesu, nao alibondepe.
+MAT 15:31 Abantu balipapile ukumona bakibulu balelanda, abalema baleyenda, nempofu silemona kabili balumbenye Lesa wabena Israeli.
+MAT 15:32 Yesu aitile abasambi bakwe abeba ukuti, “Nabomfwila inkumbu aba bantu, pantu baaba nanebo pansiku sitatu nomba apa tabakwete ifyakuti balye. Nsilefwaya ukubatuma baye ukwabula ukulya pantu kuti bapona ulushile pakuya.”
+MAT 15:33 Abasambi bamwipwisye ukuti, “Nipi twalasanga ifyakulisya ili ibumba muno mukiswebebe?”
+MAT 15:34 Yesu abepwisye ukuti, “Mukwete imikate inga?” Nabo bamwaswike ukuti, “Tukwete imikate kinelubali nesabi ilyalinga.”
+MAT 15:35 Yesu aebele ibumba ukwikala pansi.
+MAT 15:36 Elo apiita imikate kinelubali nesabi, atasya Lesa, amokola apela abasambi nabo bapeela abantu.
+MAT 15:37 Bonse balilile nokwikuta fyasyalanapo. Abasambi bapiitile ifitunga kinelubali ifyaisula ifyakulya fyasyelepo.
+MAT 15:38 Impendwa yabaume abaalile ukwabula ukupendelako abanakasi nabana yali amakana yane.
+MAT 15:39 Panuma Yesu asalanganya abantu, apateme mubwato nokuya kukyalo kya Magadani.
+MAT 16:1 Kabili Abafalise naba Saduki baisile kuli Yesu mukumwesya, eikyo bamwipwisye ukuti abalange ikisibilo ukufuma mumulu.
+MAT 16:2 Lelo Yesu abaswike ukuti, “Akasuba nga kawa, mulanda ukuti, ‘lelo kwalaba bwino, pantu umulu uli uwakasika.’
+MAT 16:3 Kabili ulukyelo mulanda ukuti, ‘yalaloka pantu umulu uli uwakasika kabili uwafiita.’ Mwalisiba ukwilula imimonekele ya mulu, lelo teti mwilule ifisibilo fya nsita!
+MAT 16:4 Inkulo iibifi kabili iyabukende ifwaya ikisibilo, lelo takuli ikisibilo ikikapelwa kuli yena ukukila pa kisibilo kyakwa Yona.” Eifyo Yesu alibasile nokuya.
+MAT 16:5 Lintu bayabukile busilya bwamumana, abasambi balilabile ukupiita umukate.
+MAT 16:6 Yesu abebele ukuti, “Kengeleni ku ntutumusi syaba Falise naba Saduki.”
+MAT 16:7 Bayambawile abene beka ukuti, “Aalandila ifi pamulandu tatupitile umukate.”
+MAT 16:8 Lelo Yesu aisibe fintu baleyambaula, alandile ukuti, “Mwebakitetekelo ikinono, kinsi muleyambawila pakukana kwata umukate?
+MAT 16:9 Busye tamwailuka nandakai? Busye tamwibusya imikate isano fintu yalisisye abantu amakana yasano? Busye mwaiswisye ifitunga finga, ifya fyakulya fyasyelepo?
+MAT 16:10 Nga pamikate kinelubali iyo nalisisye abantu amakana yane? Busye mwaiswisye ifitunga finga, ifya fyakulya fyasyalepo?
+MAT 16:11 Nikinsi mwakifililwa ukwiluka ukuti nsyakilalanda pa mukate? Kengeleni kuntutumusi syaba Falise naba Saduki.”
+MAT 16:12 Elo abasambi bailwike ukuti taalelanda pa ntutumusi sya mumikate, lelo nipamafundisyo yaba Falise naba Saduki.
+MAT 16:13 Lintu Yesu aisile mukitungu kya Kaesaliya Filipi, aipwisye abasambi bakwe ukuti, “Busye abantu balanda ukuti Umwana Wamuntu ninani?”
+MAT 16:14 Bayaswike ukuti, “Bamo balanda ukuti ni Yohani Kabatisya, bambi balanda ati ni Eliya, elo bambi balanda ukuti ni Yeremaya nangu umo muli ba kasesema.”
+MAT 16:15 Elo Yesu abepwisye ukuti, “Ngamwebo mulanda ukuti ninebo nani?”
+MAT 16:16 Simoni Petelo ayaswike ukuti, “Niwebo Klistu, Umwana wakwa Lesa uwamweo.”
+MAT 16:17 Yesu amwaswike ukuti, “Walipalwa we Simoni mwana Yohani, pantu tekumuntu iki kisinka kyasokolwelwa kuli webo, lelo ni Taata uwamumulu ewakupela ubusokololo.
+MAT 16:18 Kabili nakweba ukuti niwebo Petelo, kabili napa ili libwe nkakulapo ulukuta lwandi nempongolo syamaka yamfwa tafyakalukinfye.
+MAT 16:19 Nkakupa imfungulo syabufumu bwa mumulu, kyonse kintu wakaka pesonde, namumulu kikakakwa, kabili nakyonse kintu wakakula pesonde na mumulu kikakakulwa.”
+MAT 16:20 Elo Yesu asoka abasambi bakwe ukuti tabafwile ukwebako umuntu nangu umo ukuti ni Klistu.
+MAT 16:21 Ukufuma pali ilya nsita Yesu ayambile ukweba abasambi bakwe ukuti, “Nkaya ku Yerusalemu mukukyula apakalamba ku bakalamba, kuli basimapepo bakindami nabakafundisya Bamafunde. Nkepaiwa, lelo panuma yansiku sitatu nkabusiwa kubafwa.”
+MAT 16:22 Petelo apiitile Yesu pambali nokumukalipila ukuti, “Iyoo we Mfumu! Ifi tafyakamikitikile!”
+MAT 16:23 Yesu apiilibwike nokweba Petelo ukuti, “Fuma kuli nebo Satana! Uli kyakumpumfyanya munsila yandi, pantu amatotonkanyo yobe yabuntunse tayalefuma kuli Lesa.”
+MAT 16:24 Yesu aebele abasambi bakwe ukuti, “Onse ulefwaya ukuba umusambi wandi, aikane umwine, apiite umusalaba wakwe nonkunkonka.
+MAT 16:25 Pantu onse upususya umweo wakwe akaulufya, lelo onse ulufya umweo wakwe pamulandu wandi akausanga.
+MAT 16:26 Busye umuntu finsi engakwatamo, nganonka isonde lyonse, lelo alufya umweo wakwe? Takuli kintu umuntu engapela ukukabusya nomweo.
+MAT 16:27 Pantu Umwana Wamuntu alinokwisa mubukata bwakwa Wisi naba Malaika bakwe, mukulambula umuntu ukulingana nefikitwa fyakwe.
+MAT 16:28 Ndemyeba ikisinka ukuti bamo pano tabakafwe mpaka bakamona Umwana Wamuntu aleisa Mubufumu bwakwe.”
+MAT 17:1 Panuma yansiku mutanda Yesu apiitile Petelo, Yakobo namunyina Yohani pa lupili ulutali apo baileba beka.
+MAT 17:2 Yesu ayalwike pamenso yabo. Pamenso yakwe pabengesime nga kasuba. Nensalu syakwe syasangwike isyabuta ngo lubuuto.
+MAT 17:3 Kabili kwamonekele Mose na Eliya baleambaula na Yesu.
+MAT 17:4 Petelo epakweba Yesu ukuti, “We Mfumu kuti kyawama twaikala pano. Ngaulefwaya nalakula imitanda itatu, umo uobe, umo uwakwa Mose naumbi uwakwa Eliya.”
+MAT 17:5 Lintu Petelo akili alelanda, awe inkumbi ilyabeka lyabakupa, kabili nesiwi lyafumine mumakumbi nokulanda ukuti, “Uyu Mwana wandi untu natemwa, eombekelwamo mumfwileni!”
+MAT 17:6 Lintu abasambi baumfwile isiwi, bawile pansi ubunkupeme kabili baiketwe nomwenso.
+MAT 17:7 Lelo Yesu aisile kuli bena nokubakumya, elo abeba ukuti, “Imeni, mwitiina!”
+MAT 17:8 Lintu bainwine amenso tabamwene nangu umo lelo Yesu ekafye.
+MAT 17:9 Lintu baletentemuka pa lupili, Yesu abakonkomesye ukuti, “Mwiyebako nangu umo ikimonwa, mpaka Umwana Wamuntu akabusiwe kubafwa.”
+MAT 17:10 Kabili abasambi bamwipwisye ukuti, “Busye nikinsi bakafundisya bamafunde balandila ukuti Eliya afwile abalilapo ukwisa?”
+MAT 17:11 Yesu nao abaswike ukuti, “Kisinka, Eliya ali nokwisapo bwangu kabili akesa mona ukuti ifintu fyonse fyabela muntu fifwile ukubela.
+MAT 17:12 Lelo ndemyeba ukuti Eliya alisa kale kabili na bantu tabamwisibe, bamukitile ukulingana nefyabasekesye. Efintu no Mwana Wamuntu bakamukyusya.”
+MAT 17:13 Elo abasambi bailwike ukuti alebeba pali Yohani Kabatisya.
+MAT 17:14 Lintu babwelele kwibumba, umuntu aisilefukamina Yesu nokumweba ukuti,
+MAT 17:15 “We Mfumu belela umwana wandi uluse! Pantu alapona ikifulubi kabili alakyula ububi. Ilingi alaponena mumensi na mumulilo.
+MAT 17:16 Nakimuleta ku basambi bobe lelo tabakimundapa.”
+MAT 17:17 Yesu ayaswike ukuti, “Mwenkulo iisyasumina, kabili iyaumalala imitima! Busye nkekala namwebo ukufika lisa? Busye nkasipikisya ukwikala namwebo ukufika lisa? Leteni akalumendo kuli nebo!”
+MAT 17:18 Yesu akalipile ikibanda, nakyo kyafumine mukalumendo napali kalya kene kasita kapola.
+MAT 17:19 Elo abasambi baisile kuli Yesu bamwipusya kumbali ukuti, “Busye nikinsi fwebo twakifililwa ukutamfya ikibanda?”
+MAT 17:20 Abaswike ukuti, “Nipamulandu wa kitetekelo kyenu ikinono, ndemyeba ikisinka ukuti ngamwakwata ikitetekelo nga kaluseke ka lubanga, kuti mwalanda ku lupili ulu ukuti, ‘Fuma apa selela kulya!’ Nalo kuti lwasela. Tapali ifikasyupa kuli mwebo.”
+MAT 17:21 Lelo ifi tafiyafye kano kwi pepo nokufunga.
+MAT 17:22 Lintu abasambi bakolongene bonse mu Galili, Yesu abebele ukuti, “Umwana Wamuntu alaba pakupelwa mumaboko ya bantu
+MAT 17:23 bakamwipaya, lelo panuma ya nsiku sitatu akabusiwa kubafwa.” Kabili abasambi baiswilemo ubulanda.
+MAT 17:24 Lintu Yesu nabasambi bakwe baisile mu Kapenamu, bakasonkesya bamusonko wamwi tempele baisile ipusya Petelo ukuti, “Busye kafundisya wenu talipila umusonko wa mwi tempele?”
+MAT 17:25 Petelo nao abaswike ukuti, “alalipila.” Kabili lintu Petelo aisile paŋanda, Yesu ewabalilepo ukumwipusya ukuti, “Simoni ngawebo uletipo syani? Nibani balipila umusonko ku mfumu syapano kyalo? Busye bana babo nangu bantu bambi?”
+MAT 17:26 Petelo alandile ukuti, “bantu bambi” Yesu amwebele ukuti, “Ikilepilibula ukuti abana babo tabafwile ukulipila.
+MAT 17:27 Lelo tatulefwaya ukuleta ubwafya. Kabiye ku mumana uposepo indobani, isabi ulebalilapo ukuloba, wisule mukanwa ulesangamo ulupiya ulwalinga ukulipila umusonko wamwi tempele ulobe nolwandi. Ulupiite uleyabalipila umusonko wesu.”
+MAT 18:1 Pali ilya nsita abasambi baisile kuli Yesu mukumwipusya ukuti, “Busye ninani umukalamba mu bufumu bwa mumulu?”
+MAT 18:2 Yesu aitile umwaike amwimika pakati kabo,
+MAT 18:3 nokulanda ukuti, “Ndemyeba ikisinka ukuti ngatamupilibwike nokuba ngo mwana umunono tamwakengile mubufumu bwa mumulu.
+MAT 18:4 Onse uwaikefya ngo mwana umunono, mukalamba mu bufumu bwa mumulu.
+MAT 18:5 Onse uwapokelela umwana umunono ngoyu mwisina lyandi, ninsi apokelela nebo.
+MAT 18:6 Lelo onse uwalenga ukuti kamo pali utu twaike utwasumina muli nebo ukubembuka, kyamuwamina ukumukakila ilibwe lya kupelelako mu mukosi nokumuposa pali bemba washika.
+MAT 18:7 Akalanda pesonde pamulandu wafintu ifilenga abantu ukupunuka! Pantu ifi fintu fyalingile ukwisa, lelo akalanda ku muntu uwalenga fise!
+MAT 18:8 Ukuboko kobe nangu ulukasa lobe ngalwakulenga ukubembuka, kuputuleko nokukuposa! Kyawamapo ukwingila ku mweo ukwabula ukuboko nangu ulukasa ukukila na maboko yabili nangu amakasa yabili nokuposwa mu mulilo wamuyayaya.
+MAT 18:9 Ilinso lyobe ngalyakulenga ukubembuka, lilobole nokuliposa! Kyawamapo ukwingila ku mweo nelinso limo ukukila na menso yabili nokuposwa mu Gehena.
+MAT 18:10 Moneni ukuti tamusalwilepo nangu kamo pali utu twaike. Pantu ndemyeba ukuti bamalaika batuko mumulu, lyonse bamona ikinso kyakwa Taata mumulu.
+MAT 18:11 Pantu Umwana Wamuntu aisile mukupususya abantu baluba.
+MAT 18:12 Busye mwebo muletipo syani? Umuntu ngalikwata impaanga umwanda umo elo paluba imo? Busye tekuti asye isili amakumi pabula napabula kulupili nokuyafwaya iilubile?
+MAT 18:13 Ndemyeba ikine kine ngaisanga, ala kuti asansamukisya ngansi pali imo iyalubile ukukila pasili amakumi pabula napabula isisilubile.
+MAT 18:14 Efintu na Wisinwe wamumulu tafwayapo ukuti nangu kamo pali utu twaike ukuloba.
+MAT 18:15 “Munonko ngakubifya, kabiye kuli ena uleyamweba ikilubo uko muli babili. Ngakumfwa ninsi mwawikisyanya na munonko.
+MAT 18:16 Lelo ngakana ukukumfwa, piitako umuntu umo nangu babili, pakuti ubwafya bonse busininkisiwe kuli bakambone babili nangu batatu.
+MAT 18:17 Kabili ngakana ukubomfwa, londolwelako abakulukuta. Ngakana ukumfwa ku lukuta lyena ninsi lekafye abe kuli webo ngo mwina fyalo nangu kasonkesya wamusonko.
+MAT 18:18 “Ndemyeba ikinekine ukuti, kyonse kintu mwakaka pesonde na mumulu kikakakwa, kabili na kyonse kintu mwakakula pesonde na mumulu kikakakulwa.
+MAT 18:19 “Kabili ndemyeba ukuti, ngakyakuti babili pali mwebo basuminisyanya pano isonde pali kintu balomba, Taata wamumulu akabakitila.
+MAT 18:20 Pantu ponse apo babili nangu batatu bakolongana mwisina lyandi nanebo nkaba pakati kabo.”
+MAT 18:21 Petelo aisile kuli Yesu amwipusya ukuti, “We Mfumu busye miku inga ningelela munyinane uwandufyanya? Busye miku kinelubali?”
+MAT 18:22 Yesu amwaswike ukuti, “Nsyakwebe ukuti imiku kinelubali lelo ndelanda ukuti,” “amakumi kinelubali, imiku Kinelubali,
+MAT 18:23 eikyo ubufumu bwa mumulu bwaba nge mfumu iyalefwaya ukwisiba abasya bakwe fintu babomfesye ulupiya lwakwe.
+MAT 18:24 Lilya yatampa ukupitulukamo, bailetela umusya umo uwamukongwele ulupiya lwa golide amakana ikumi limo.
+MAT 18:25 Uyu musya takwete ifyakuti alipile, eikyo imfumu yapingwile ukumusitisya pamo nomukasi wakwe, abana bakwe pamo nafyonse fintu akwete pamulandu wakulipila imisya.
+MAT 18:26 Uyu musya afukeme ku mfumu nokupapata ukuti, ‘Ndoleleniko, nkamilipila fyonse!’
+MAT 18:27 Imfumu yalimumfwilile uluse, eikyo yalimwelele imisya nokumuleka aya.
+MAT 18:28 “Lelo uyu musya lilyafye afumapo, akumanya umusya mubiye uwamukongwele ulupiya lwa golide umwanda umo. Epakumukwata pamukosi alamweba ukuti, “Ndipila fintu wankongola!”
+MAT 18:29 Umusya mubiye afukeme nokumupapata ukuti, ‘Mpelako akasita, nkakulipila!’
+MAT 18:30 Lelo alikene ukumumfwa, asukwa amuposa mukifungo mpaka akamulipile imisya.
+MAT 18:31 Lintu abasya babiye bamwene ifyakitike, balifulilwe kabili baile kumfumu bayayeba ifintu fyonse.
+MAT 18:32 Eikyo imfumu yaitile umusya nokumweba ati, ‘We musya umubi we!’ ‘Nalikwelele ulupiya wankongwele lonse pamulandu walimpapete ukuti nkwelele.
+MAT 18:33 Busye webo tekuti umfwile umubiyo uluse ngafintu nakubelele uluse.’
+MAT 18:34 Imfumu yalifulilwe ngansi, ikyakuti yaposele uyu musya mukifungo umo bali nokumukyusya mpaka akalipile ulupiya lonse.”
+MAT 18:35 “Ifi efintu Taata wa mumulu akakita kuli onse, ngatamwelela bamunonko ukufuma pansi yamitima yenu.”
+MAT 19:1 Lintu Yesu apwisisye ukulanda aya masiwi, afumine mu Galili, aile kukyalo kya Yudeya busilya bwa mulonga wa Yodani.
+MAT 19:2 Amabumba ayakalamba yalimukonkele kabili alibondepe kulya kwine.
+MAT 19:3 Abafalise bamo baisile kuli Yesu bamwipusya ilipusyo lyakumwesya ukuti, “Busye kyalisuminisiwa umwaume ukuleka umukasi wakwe pamulandu uli onse?”
+MAT 19:4 Yesu abaswike ukuti, “Busye tamwabelenga ukuti uwababumbile ukutula mukutendeka, abumbile umwaume no mwanakasi?
+MAT 19:5 Kabili nokweba ati, ‘Pamulandu waiki umwaume akasya wisi nanyina nokuyasuntinkana pamo nomukasi wakwe, kabili aba babili bakaba umubili umo.’
+MAT 19:6 Nomba tabali babili lelo baba umo. Eikyo ikyabika Lesa pamo tapali umuntu uwingalekanya.”
+MAT 19:7 Abafalise bamwipwisye ukuti, “Busye kinsi Mose aebele umwaume ukulembela umukasi kalata yakupwilapo ikyupo nokumutamfya?”
+MAT 19:8 Yesu abaswike ukuti, “Nipamulandu wakumalala kwa mitima Mose amisuminisye ukuleka abakasi benu, lelo mukutendeka takyali ngefi.
+MAT 19:9 Kabili ndemyeba ukuti, onse uwaleka umukasi wakwe, pamulandu uusili wabulalelale, aupa naumbi ninsi akita ubukende.”
+MAT 19:10 Abasambi bakwe bamwebele ati, “Ifi ngefintu kyaba pamulume nomukasi wakwe, ninsi kyawamapo ukukana upa.”
+MAT 19:11 Yesu abaswike ukuti, “Tebantu bonse abengasumina aya mafundisyo, lelo kanofye kuli abo kyapelwa.
+MAT 19:12 Pantu kwaliba imilandu iyingi iyo abaume teti bopile, bamo nipamulandu efintu bafyelwefye, bambi teti bope pamulandu abantu ebabalenga ukuba muli iyi nsila, kabili nabambi basalapofye ukuti teti bope pamulandu no bufumu bwa mumulu. Lekeni uwingapokelela ili fundisyo alipokelele.”
+MAT 19:13 Abantu baletele abana abanono kuli Yesu, ukuti abatambalikepo amaboko nokubapepela. Abasambi balibakalipile.
+MAT 19:14 Lelo Yesu alandile ukuti, “Lekeni abana abanono bese kuli nebo mwibakanya, pantu ubufumu bwa mumulu bwabo.”
+MAT 19:15 Kabili abatambalikepo amaboko nokufuma kulya.
+MAT 19:16 Elo umuntu umo aisile kuli Yesu amwipusya ukuti, “We kafundisya, kisumansi ningakita pakukwata umweo wamuyaya?”
+MAT 19:17 Kabili Yesu amwebele ukuti, “Kinsi ikyo wangitila ati umusuma? Lesa fye eka emusuma. Ngolefwaya ukukwata umweo wamuyaya, ulekonka ifipope fyakwe.”
+MAT 19:18 Umulumendo aipwisye ukuti, “Busye nifisa?” Yesu amwaswike ukuti, “Wilaipaya, wilakita ubukende, wilaiba, wilabepesya abantu ubufi,
+MAT 19:19 ulekindika wiso na noko, kabili uletemwa umubiyo ngafitu waitemwa.”
+MAT 19:20 Umulumendo ayaswike ukuti, “Nalikonka ifipope fyonse ifi, busye nikinsi kimbi mfwile ukukita?”
+MAT 19:21 Yesu amwaswike ukuti, “Ngaulefwaya ukuba uwapwililika, kabiye uyesitisya fyonse fintu wakwata! Upele ulupiya kubapina, lyena ukakwata ifyuma mumulu. Elo wise unkonke.”
+MAT 19:22 Lintu umulumendo aumfwile ifi, aile uwabulanda pantu ali nanonkesya.
+MAT 19:23 Kabili Yesu aebele abasambi bakwe ukuti, “Ndemyeba ikinekine ukuti, kintu kyasupa uwafyuma ukwingila mu bufumu bwa mumulu.
+MAT 19:24 Nakabili ndemyeba ukuti, kyayangukapo Ingamila ukupula mu linso lyansindano ukukila uwafyuma ukwingila mu bufumu bwakwa Lesa.”
+MAT 19:25 Lintu abasambi baumfwile aya masiwi balipapile umupwilapo. Baipwisye ukuti, “Nomba busye kansi ninani uwingapusuka?”
+MAT 19:26 Lelo Yesu abalolesye nokubasuka ukuti, “Ifi fintu fyayafya kubantu, lelo kuli Lesa fyonse fyalyanguka.”
+MAT 19:27 Petelo ayaswike ukuti, “Mona fwebo twalisya ifintu fyonse nokukukonka. Busye nifinsi tukakwatamo?”
+MAT 19:28 Yesu abebele ukuti, “Ndemyeba ikine kine ukuti, lintu Umwana Wamuntu akekala pakipuna kya bufumu ikyabukata Mukyalo kipya, namwebasambi bandi ikumi limo na babili, mukekala pafipuna fya bufumu mukupingula imikowa ikumi limo nasibili isya bena Israeli.
+MAT 19:29 Kabili naonse uwasya amayanda, bamunyina, bankasi yakwe, bawisi, banyina, abana nangu amabala pamulandu wandi, akapelelwapo pali fyonse imiku umwanda umo kabili akakwata nomweo wamuyaya.
+MAT 19:30 Lelo abengi abantansi bakaba abanuma, kabili na bengi abanuma bakaba abantansi.
+MAT 20:1 “Pantu ubufumu bwa mumulu bwaba ngo mwine wa ŋanda, uwafumine kumakya ukuyafwaya abakubomba mwibala lya myangasi.
+MAT 20:2 Panuma baumfwana nabankito ukubalipila ulupiya lwa busiku bumo, abatumine mwibala mukubomba.
+MAT 20:3 Munsita ya naini koloko ya luchelo amwene na bambi nabeminina ukwabula ifyakukita pa kisankano,
+MAT 20:4 nabo abebele ukuti, ‘Kabiyeni mubombe mwibala lya myangasi, ndemilipila ulupiya ulwalinga.’
+MAT 20:5 Efintu baile. Aya nakabili mu kasuba pakati elo namunsita ya fifitini koloko, ayakita fimofine.
+MAT 20:6 Kilya akasuba kaba mukuwa muma seventini koloko asanga nabambi bemininefye. Abepusya ukuti, “Kinsi mwimininine pano akasuba konse ukwabula ukulakita nangu kimo?”
+MAT 20:7 Nabo bamwaswike ukuti, ‘Nikyo tapali abakutwingisya inkito.’ Elo abeba ukuti, ‘Nemwe bene kabiyeni kabombeni mwibala lya myangasi.’
+MAT 20:8 “Lintu ikyungulo kyafikile, umwine we bala aebele kangalila wa bankito ukuti, ‘Ita abankito bonse ubalipe amalipilo yabo, wambile ku bakingila inuma, ulekelesye kuba kingila intansi.’
+MAT 20:9 Lintu Abankito abayambile ukubomba pansita ya seventini koloko baisile, bafolele amalipilo yabusiku bumo.
+MAT 20:10 Lintu abaingile intansi baisile, baletontonkanya ati balefolapo amalipilo ayakulu pali bonse. Lelo bonse bafolele lumolwine.
+MAT 20:11 Lintu bapokele bayambile ukuilisyanya ku mwine we bala.
+MAT 20:12 Bamwebele ukuti, ‘Aba abanuma bakibombakofye insita imo. Lelo mwabalipa fimofine nafintu mwakitulipa. Twakilabomba mukasuba ninsi nakabala!’
+MAT 20:13 Umwine we bala ayaswikepo umo pabankito ukuti, ‘Mune nsikufyengele, milipile amalipilo yabusiku bumo yantu twakyumfwana.
+MAT 20:14 Piita amalipilo yobe uleya! Nemwine ndefwaya ukulipila uyu uwanuma ngafintu nkulipile.
+MAT 20:15 Busye nsyakwata insambu sya kukita fintu ndimukufwaya no lupiya lwandi? Nangu waumfwa akalumwa pantu ndi wabupe?’”
+MAT 20:16 “Eikyo abanuma bakaba abantasi, kabili na bantansi bakaba abanuma.”
+MAT 20:17 Kabili lintu Yesu aleya ku Yerusalemu, apiitile abasambi bakwe ikumi limo na babili pambali kabili munsila abebele ukuti,
+MAT 20:18 “Moneni, tulimukuya ku Yerusalemu uko Umwana Wamuntu alaya pelwa kuli basimapepo bakindami naba kafundisya bamafunde. Balaya mupingwila ukufwa.
+MAT 20:19 Kabili bakamupela kubenafyalo abakamupunika, ukumulopola, kabili nokumutanika, lelo panuma yansiku sitatu akabusiwa ku bafwa.”
+MAT 20:20 Elo nyina wa bana bakwa Zebede aisile kuli Yesu nabana bakwe, nokufukama, amulomba ifintu fimo.
+MAT 20:21 Kabili Yesu amwipwisye ukuti, “Nikinsi ulefwaya?” Nao alandile ukuti, “Suminisya abana bandi, mubufumu bobe umo akekale kukulyo kobe naumbi akekale kukuso kobe.”
+MAT 20:22 Yesu ayaswike ukuti, “Tamwisibe kintu mulelomba. Busye kuti mwanwa ulukombo luntu nalanwa?” Nabo bamwaswike ukuti, “Ee kuti twanwa.”
+MAT 20:23 Yesu abebele ukuti, “Ee mukanwa mulukombo lwandi, lelo ukwikala kukulyo kwandi nangu kukuso tenebo uwakusuminisya. Isi nkende syabo Taata apekanisisya.”
+MAT 20:24 Lintu abasambi ukumi limo abasyala baumfwile aya masiwi, balifulilwe bamunyina babili.
+MAT 20:25 Yesu abetile pamo bonse nokubeba ukuti, “Mwalisiba ukuti bansyamfumu ba benafyalo balikwata amaka pa bufumu bwabo, nentungulusi syabo silabomfya amaka syakwata pabantu.
+MAT 20:26 Lelo mwebo mwilakita nga bena. Umo pali mwebo ngalefwaya ukuba umukalamba, abe umubomfi wababiye,
+MAT 20:27 nakabili umo ngalefwaya ukuba uwantansi, abe umusya wenu
+MAT 20:28 kwati Mwana Wamuntu taisile ukuti bamupwingile lelo aisile mukupyunga nokupela umweo wakwe mukulubula abantu abengi.”
+MAT 20:29 Lintu balefuma ku Yeriko, ibumba ilikalamba lyalibakonkele.
+MAT 20:30 Abantu babili abaali impofu abaali nabekala mumbali yamusebo lintu baumfwile ukuti Yesu alepita babilisye ukuti, “We Mfumu Mwana Davidi! Tubelele uluse!”
+MAT 20:31 Ibumba lyalibakalipile nokubeba ukuti bekale tondolo. Lelo bena bakonkenyepofye ukubilisya ukuti, “We Mfumu, Mwana Davidi tulangulukileko!”
+MAT 20:32 Yesu aiminine nokubeta alabepusya ukuti, “Kinsi mulimukufwaya imikitile?”
+MAT 20:33 Nabo bamwaswike ukuti, “We Mfumu, tulimukufwaya ukumona!”
+MAT 20:34 Yesu abomfwilile inkumbu kabili abakwete mumenso, palyapene balimwene nokwamba ukumukonka.
+MAT 21:1 Kabili lintu Yesu na basambi bakwe bapalamine ku Yerusalemu, baisile ku Betifage pa lupili lwa Miolife. Yesu atumine abasambi babili,
+MAT 21:2 nokubeba ukuti, “Kabiyeni mumusi uli kuntansi, kabili mwalaya sanga impunda naikakilwa pamo nakana, mukakule mundetele.
+MAT 21:3 Ngakyakuti umo amipusya, mumwebe ukuti, ‘Imfumu ilefifwaya’ Nao alemileka mupiite impunda.”
+MAT 21:4 Ifi fyakitike mukufikilisya fintu kasesema alandile ukuti,
+MAT 21:5 “Eba umwana umwanakasi Ziyoni ukuti, ‘Mona Imfumu yobe ileisa kuli webo! Naifuka kabili ininine pali punda. Napa kana ka punda.’”
+MAT 21:6 Abasambi baile nokuyakita fintu Yesu abebele ukukita.
+MAT 21:7 Baletele impunda nakana, bayansikepo insalu panuma ya mpunda, elo Yesu apilukilapo.
+MAT 21:8 Ibumba lyabantu abengi lyaambile ukwansika insalu syabo mumusebo, bambi nabo baleteta imisambo yafimuti baleyansika mumusebo.
+MAT 21:9 Ibumba ilyali kuntansi yakwa Yesu nelyali kunuma lyayambile ukubilisya ukuti, “Lumbanyeni Mwana Davidi! Alipalwa uwisila mwisina lya Mfumu!”
+MAT 21:10 Lintu Yesu aingile mu Yerusalemu, mu musumba monse mwakabile nasee! Ku fyongo kabili baleipusyafye ukuti, “Nani uyu?”
+MAT 21:11 Abantu mwibumba bayaswike ukuti, “Ni Yesu kasesema uwafuma ku Nazareti mu Galili.”
+MAT 21:12 Yesu aingile mumusolo wetempele nokwamba ukutamfya abantu bonse abalesitisya nokusita. Apilibwile amatebulo yabalekabusya ulupiya nefipuna fyabalesitisya inkunda.
+MAT 21:13 Abebele ukuti, “Kyalilembwa ukuti, ‘iŋanda yandi iketwa iŋanda yamapepo.’ Lelo mwebo mwaipanga umwakufisama abaŋo!”
+MAT 21:14 Impofu nabalema baisile kuli Yesu mwitempele, nao alibondepe.
+MAT 21:15 Lelo lintu basimapepo mukalamba naba kafundisya Bamafunde yakwa Mose bamwene ifisungusyo nokumfwa abaana balebilisya ukuti, “Hosanna kuli Mwana Davidi!” Balifulilwe.
+MAT 21:16 Baipwisye Yesu ukuti, “Busye naumfwa fintu aba bana balelanda?” Yesu nao abaswike ukuti, “Ee ningumfwa, busye tamwabelenga ilembo ililanda ukuti, ‘Kutunwa twabana naku bakwibele kwafumine amalumbo?’”
+MAT 21:17 Kabili alibasile, afumine mu musumba aya ku Betani, uko ashikilwe ubusiku bonse.
+MAT 21:18 Kumakya, lintu Yesu alebwelulukila ku musumba wa Yerusalemu, ali naumfwa insala.
+MAT 21:19 Amwene ikimuti kya mukunyu mumbali yamusebo, lelo lintu aileko ailesanga takuli nangu kimo kwalifye amabula. Eikyo alandile kukimuti ukuti, “Tawakatwalepo ifisabo nakabili!” Palyapene ikimuti kya mukunyu kyauma.
+MAT 21:20 Lintu abasambi bamwene ifi, balipapile ngansi. Baipwisye ukuti, “Busye umukunyu wauma syani apapene?”
+MAT 21:21 Yesu abaswike ukuti, “Ndemyeba ukuti, nganamukwata ikitetekelo kabili tamutwisike, teifi fyeka nakita mwingakita lelo, kuti mwaeba nolu lupili ukuti, ‘Ima, ipose muli bemba’ nalo lukaiposa.
+MAT 21:22 Nganamusumina, mukapokelela kyonse kintu mwalomba mwipepo.”
+MAT 21:23 Yesu aile mumusolo we Tempele kabili lilya alefundisya, abakalamba na basimapepo mukalamba baisile mwipusya ukuti, “Ninsambunsi wakwata isyakukita ifi fintu? Ninani wakupela isi nsambu?”
+MAT 21:24 Yesu abaswike ukuti, “Nalamipusya ilipusyo limo, kabili ngamwangasuka nalamyeba insambu nakwata isyakukita ifi fintu.
+MAT 21:25 Busye nipi insambu syakwa Yohani isyakubatisya syafumine, busye nikuli Lesa nangu niku bantu?” Bantampile ukwambaula abene beka ukuti, “Busye twalalanda syani? Ngatwayasuka ati, ‘Nikuli Lesa,’ aletweba ukuti, ‘Nikinsi tamwasuminine Yohani?’
+MAT 21:26 Lelo ngatwalanda ukuti, ‘Niku bantu,’ Tuletina fintu abantu bengakita, pantu bonse balisininwe ukuti, Yohani ali ni kasesema.”
+MAT 21:27 Eikyo bayaswike Yesu ukuti, “Tatwisibe.” Nao abebeba ukuti, “Nandibo nsyamyebe kuntu mfumya insambu syakukita ifi fintu.”
+MAT 21:28 “Busye muletipo syani? Kwali umuntu uwakwete abana abaume babili, aile kuwantansi amweba ukuti, ‘Wemwana kabiye uleyabomba mwibala lya myangasi lelo.’
+MAT 21:29 Alandile ukuti nsileyako lelo panuma yansita apilibula imilangwe aya bomba.
+MAT 21:30 Elo Wisi aile kabili ku mwana umbi ayamweba fimofine. Ayaswike ukuti nalaya lelo taileko.
+MAT 21:31 Busye mwanansi wakitile ifyalefwaya wisi?” Bayaswike ukuti, “Uwantansi.” Eikyo ndemyeba ikinekine ukuti, bakasonkesya bamusonko naba kilende balemitangilila ukwingila mubufumu bwamumulu.
+MAT 21:32 Pantu Yohani Kabatisya aisile kuli mwebo mukumilanga insila yabulungami, tamwamusumine. Lelo bakasonkesya wamusonko nabakilende balimusumine. Kabili nalintu mwamwene ifi tamwalapile nokusumina.
+MAT 21:33 Kutikeni kumulumbe naumbi, kwali umwine wakisonso uwalimine ibala lya myangasi, akulilileko ulubango, aimbile umwakufinina imyangasi kabili aakula no lupungu. Elo asonkesya ibala kubalimi nokuya mu kyalo kimbi.
+MAT 21:34 Lintu insita yakusombola yafikile, atumineko abasya bakwe ukuyapiita ifisabo fyakwe.
+MAT 21:35 Lelo abalesonkelamo bakwete aba abasya bakwe, baumapo umo, umbi bamwipaya kabili naumbi bamutoba amabwe.
+MAT 21:36 Kabili atumineko abasya nabambi abengi ukukila abantansi, nakabili nabo babakitile fimofine.
+MAT 21:37 Mukulekelesya umwine webala atumineko umwana wakwe, ukuti, ‘ikinekine uyu bakaya mukindika.’
+MAT 21:38 Lelo lintu abalesonkela bamwene umwana balandile ukuti, ‘Iyi nimpyani, iseni tumwipaye! Nebala likaba lyesu.’
+MAT 21:39 Eikyo bamukwete, bamuposa kunse yebala nokumwipaya.
+MAT 21:40 Yesu abepwisye ukuti, “Busye ilyo umwine webala akesa, nikinsi akesa kita kuli aba bantu?”
+MAT 21:41 Bayaswike ukuti, “Akesaipaya abo bantu ababifi, nokusonkesya ibala kubantu bambi abakalamupa ikyakaniko kyakwe pansita yabusombosi.”
+MAT 21:42 Yesu abebele ukuti, “Busye tamwabelenga fintu ikyalembwa kilanda? ‘Ilibwe lintu bakakula basulile ngelyabula ubuyo elyaisileba ilikankala pali yonse. Uku kubomba kwakwa Lesa, kabili kipapusyo mu menso yesu!’
+MAT 21:43 Ndemyeba ukuti ubufumu bwakwa Lesa bukapokololwa kuli mwebo nokupelwa ku bantu abatwala ifisabo.
+MAT 21:44 “Umuntu onse untu ili libwe lyaponena akaputaulwa mutupimfya naonse uwaponena pali ili libwe akashonaulwa.”
+MAT 21:45 Lintu basimapepo bakindami naba Falise baumfwile imilumbe yakwa Yesu balisibe ukuti ebantu alelandapo,
+MAT 21:46 eikyo bafwaile insila yakumwikatilamo. Lelo baletina ibumba, ilyasumine Yesu ukuti nikasesema.
+MAT 22:1 Nakabili Yesu abebele mu milumbe ukuti,
+MAT 22:2 “Ubufumu bwa mumulu kuti bwapasyanisiwa ku mfumu iyapekanisisye umwana wakwe umwaume amatebeto ya bwinga.
+MAT 22:3 Yatumineko abasya bakwe ukuyaeba abalalikwe ukwisa kumatebeto, lelo balikene ukwisa.
+MAT 22:4 Elo yatuma abasya nabambi ukuti, ‘Kebeni abalalikwe ukuti, nimpekanya amatebeto nefintu fyonse nafipekanisiwa. Iseni kumatebeto ya bwinga!’
+MAT 22:5 Lelo tabaposeleko amano bayangilwefye imilimo yabo, umo aya kwibala lyakwe, umbi aile kuntu alebombela amakwebo,
+MAT 22:6 elo bambi bakwete abasya, baboma nokubepaya.
+MAT 22:7 Imfumu yalifulilwe. Yatumineko abasilika ukuyaipaya abo bantalamisoka nokokya umusumba wabo.
+MAT 22:8 Elo yaeba abasya ukuti, ‘Ubwinga nabupekanisiwa, lelo abantu abalalikwe balikene ukwisa.
+MAT 22:9 Eikyo kabiyeni mumisebo muleyalalika abantu bonse bantu mulesanga kumatebeto.’
+MAT 22:10 Abasya baile mumisebo nokuya kolonganika bonse abantu basangilemo, ababi na basuma. Kabili muŋanda mwaiswile abantu.
+MAT 22:11 Lelo lintu imfumu yaisile mukomona abalalikwe, yasangilemo umo uusyafwele insalu syapa bwinga.
+MAT 22:12 Yamwipwisye ukuti, “Kibusa, busye wakingila syani muno ukwabula ukufwala insalu syapa bwinga?” Lelo takwete ifyakulanda.
+MAT 22:13 “Elo imfumu yaebele abasya ukuti, ‘Mukakeni amaboko namolu mumupose panse mumfimfi. Umukaba ukulila nokusumanya ameno.’”
+MAT 22:14 “Abalalikwa bengi lelo abasalwa banono.”
+MAT 22:15 Abafalise bakolongene balaumfwana fintu bengakofya Yesu.
+MAT 22:16 Batumine abasambi babo naba kwa Herodi ukuyalanda ukuti, “Wekafundisya twalisiba ukuti fintu ulanda fyakisinka, ufundisya ikine pabufwayo bwakwa Lesa pabantu, kabili tautiina muntu nangu umo, pantu tawaba nakapatulula.
+MAT 22:17 Twebe, busye webo uletipo syani? Busye tufwile ukulipila umusonko kuli Kesalo nangu iyoo?”
+MAT 22:18 Lelo apo Yesu alisibe imilangwe yabo iyabubifi abebele ukuti, “Imwe babumbimunda, kinsi mulengesesya.
+MAT 22:19 Ndangeni ulupiya lwakulipa umusonko!” Bamuletele ulupiya lwamuseke,
+MAT 22:20 elo abepusya ukuti, “Busye iki kinso nesina fyakwa nani?”
+MAT 22:21 Bayaswike ukuti, “Fyakwa Kesalo.” Elo Yesu abeba ukuti, “Peleni kuli Kesalo ifyakwa Kesalo, kabili peleni kuli Lesa ifyakwa Lesa.”
+MAT 22:22 Balipapile lintu baumfwile aya masiwi, kabili bamusile nokuya.
+MAT 22:23 Bulya bwine busiku, Abasaduki abasumine ukuti takwakabe ukubuka kubafwa baisile ipusya Yesu ukuti,
+MAT 22:24 “Wekafundisya, Mose atwebele ukuti umwaume uwaupa ngafwa ukwabula ukufyalapo abana, munina afwile aupa mukamfwilwa pakuti afyalileko munina abana.
+MAT 22:25 Nomba kwaliko bamunina kinelubali abaleikala kuno. Uwantansi alyupile, kabili afwile ukwabula ukufyalapo abana eikyo umukasi wakwe asyele namunina.
+MAT 22:26 Ikintu kimokine kyakitike kuwabubili, nakuwabutatu namukulekelesya kuli bonse kinelubali.
+MAT 22:27 Napampela umwanakasi nao afwa.
+MAT 22:28 Nomba pakubuka kwabafwa, busye akaba mukasi wakwani apo bonse bamunina kinelubali balimupilepo?”
+MAT 22:29 Yesu abaswike ukuti, “Mwaliluba! Pantu tamwaisiba ifyo amalembo yafundisya kabili tamwaisiba namaka yakwa Lesa.
+MAT 22:30 Pakubuka kwabafwa, abantu tabakaleupa nangu ukupwa lelo bakaba nga bamalaika mumulu.
+MAT 22:31 Lelo pamulandu wakubuka kwabafwa, busye tamwabelenga fintu Lesa amyebele ukuti,
+MAT 22:32 ‘Ninebo Lesa wakwa Abulahamu, Isaaki na Yakobo.’ Ni Lesa wabamweo te Lesa wabafwa.”
+MAT 22:33 Ibumba lyalipapile pakumfwa aya mafundisyo.
+MAT 22:34 Lintu Abafalise baumfwile ukuti Yesu atalalika Abasaduki, balikolongene pamo.
+MAT 22:35 Umo pali bena uwali ni kafundisya wamafunde aesesye Yesu mulipusyo ukuti,
+MAT 22:36 “Wekafundisya, busye kipopensi ikikalamba mu Mafunde?”
+MAT 22:37 Yesu amwaswike ukuti, “ ‘Uletemwa Imfumu Lesa obe, nomutima obe onse, nomweo obe onse kabili namano yobe yonse.’
+MAT 22:38 Iki ekipope kyantansi kabili ikikalamba.
+MAT 22:39 Ikyabubili niki, ‘Uletemwa umubiyo ngafintu waitemwa.’
+MAT 22:40 Amafunde yonse naba kasesema bashinta pali ifi fipope fibili.”
+MAT 22:41 Ilyo Abafalise bakili nabakolongana Yesu abepwisye ukuti,
+MAT 22:42 “Busye mwebo mutontonkanyapo syani pali Mesiya? Busye mulanda ukuti nimwana nani?” Bayaswike ukuti, “Nimwana Davidi.”
+MAT 22:43 Yesu abepwisye ukuti, “Busye nikinsi Davidi, uwaletungululwa no Mupasi amwitile ukuti ‘Imfumu’? Pantu Davidi alandile ukuti,
+MAT 22:44 ‘Imfumu yalandile ku Mfumu yandi ukuti, ikala kukulyo kwandi mpaka inkabike abalwani bobe pansi yamakasa yobe.’
+MAT 22:45 Davidi ngamwitile ukuti ‘Imfumu,’ Busye kuti aba syani umwana wakwa Davidi?”
+MAT 22:46 Tapaali uwamwaswike, kabili ukutula pali bulya busiku, tapali uwaipwisyepo Yesu amepusyo nayambi.
+MAT 23:1 Elo Yesu aeba amabumba na basambi bakwe ukuti,
+MAT 23:2 “Abafalise na bakafundisya bamafunde bekala mukipuna kyakwa Mose.
+MAT 23:3 Eikyo muleumfwila nokukonka fyonse fintu balemyeba, lelo mwilakita fintu bakita, pantu bena tabakita fintu basimikila.
+MAT 23:4 Bakaka ifipe ifyafinisya, babika pafipeya fyabantu, ifyo bena tabekatako nomunwe wabo pakwimya.
+MAT 23:5 Ifintu fyonse fintu bakita, bakitila ukubamona kubantu. Bakaka utupande utwamalembo bafwala pampumi na kumaboko utwalepa. Elo namasenkebele yansalu syabo balayalefya!
+MAT 23:6 Batemwa inkende syamukinsi pamalila elo nefipuna ifyakindamisyapo mu masinagogi,
+MAT 23:7 kabili batemwa ukulabaposya nomukinsi pafisankano, nokubeta ukuti ‘Bakafundisya’.
+MAT 23:8 Lelo mwebo mwilaitwa ukuti, ‘Kafundisya’ pantu mwakwatafye Kafundisya umo, kabili muli bamunina.
+MAT 23:9 Kabili mwilaita uuli onse pano isonde ukuti, ‘Taata’, pantu mwakwatafye Wisinwe umo uwamumulu.
+MAT 23:10 Mwilaitwa ukuti, ‘kafundisya’ pantu mwakwatafye kafundisya umo uuli ni Klistu.
+MAT 23:11 Umukalamba pali mwebo, afwile aba umubomfi wenu bonse.
+MAT 23:12 Pantu bonse abaisansabika bakakefesiwa, nabonse abaikefya bakasansamikwa.
+MAT 23:13 “Akalanda kuli imwe bakafundisya bamafunde namwe Bafalise, mwebabumbimunda! Mwalisalila abantu pakuti beingila mu bufumu bwa mumulu. Mwe bene tamwingilamo elo mwalesya nabambi abalefwaya ukwingilamo.
+MAT 23:14 Akalanda kuli imwe, bakafundisya bamafunde namwe Bafalise! Mwebabumbimunda! Muliila bamukamfwilwa ifyuma fyabo, kabili mwatemwa ukuilanga mukupepa amapepo ayatali. Ala Lesa akamikandisya ukukilapo!
+MAT 23:15 “Akalanda kuli imwe Bakafundisya bamafunde namwe Bafalise! Mweba bumbimunda! Mwenda ba bemba nemilundu pakutifye munasyepo umo abe umusambi wenu. Kabili ngamwafikilisya mulenga umuntu abipisyapo ukukila pakwamba, awaminafye ukuya kumbo ngamwebo!
+MAT 23:16 “Akalanda kuli mwentungulusi impofu mwe! Mulanda ukuti umuntu ngalapa pe Tempele ninsi tapali mulandu. Lelo ngalapa pali golide wamwi Tempele ninsi afwile afikilisya umulapo wakwe.
+MAT 23:17 Mwempofu isipumbu mwe! Kinsi kyakindamapo pali golide ne Tempele ililenga golide ukuba iyamusilo?
+MAT 23:18 Kabili mulanda ukuti, umuntu ngalapa pa kipailo temulandu, lelo umuntu ngalapa pafyabupe fili pakipailo ninsi mulandu.
+MAT 23:19 Mwempofu mwe! Ikyakindamapo kinsi pabupe nangu ikipailo ikilenga ikyabupe ukuba ikya musilo?
+MAT 23:20 Eikyo onse uwalapa pakipailo ninsi alapa napali fyonse ifili pakipailo,
+MAT 23:21 Kabili naonse uwalapa pe Tempele ninsi alapa pali lyena napali Lesa uwikalamo,
+MAT 23:22 kabili naonse uwalapa pamyulu, ninsi alapa pakipuna kyakwa Lesa napa waikalapo.
+MAT 23:23 “Akalanda kuli imwe bakafundisya Bamafunde namwe Bafalise! Mwe babumbimunda mwe! Mulapela Lesa ikyekumi napamisalufye iyakuwamya ifyakulya ifili nga Minti, dilli nakumuni, lelo mwalisula ukukonka amafundisyo ayakankala mu Mafunde yakwa Mose ayali ngo, umulinganya, uluse nekisinka. Ifi efintu mufwile ukulakita ukwabula ukusula ayantansi.
+MAT 23:24 Mwentungulusi impofu mwe! Mususa akasisi akanono, lelo mumina ingamila!
+MAT 23:25 “Akalanda kuli imwe bakafundisya Bamafunde namwe Bafalise! Mwe babumbimunda mwe! Musamfya inkombo nensani kunse, elo ninsi mukati mwaisulafye ubulili no bukakasi.
+MAT 23:26 Mwe Bafalise impofu mwe! Mbale samfyeni mukati kalukombo, kabili nakunse nako kulewama!
+MAT 23:27 “Akalanda kuli imwe bakafundisya Bamafunde namwe Bafalise! Mweba bumbimunda mwe! Mwaba nge manda bashingulako ulupemba, kunse simoneka isyayemba lelo mukati mwaisula amafupa yabafwa, nafimbi fyonse ifyakowela.
+MAT 23:28 Munsila imoine, kunse mumoneka abasuma kubantu bonse, lelo mukati kenu mwaisulamo bubumbimunda kabili ne membu.
+MAT 23:29 “Akalanda kuli imwe bakafundisya Bamafunde namwe Bafalise! Mweba bumbimunda mwe! Mukulilila imanda syaba kasesema, nokuwaminisya imanda syabalungami,
+MAT 23:30 kabili mulanda ukuti, twingaba nifwebo ngatatwakitile fintu ifikolwe fyesu fyakitile mukusumya umulopa waba kasesema.
+MAT 23:31 Kansi mwaliisinina ukuti muli lupwa lwa fipondo fyaipeye bakasesema!
+MAT 23:32 Kansi pitilisyeni, pwisyeni fintu ifikolwe fyenu fyatampile!
+MAT 23:33 Imwe mwensoka! Imwe mwebana bansoka! Kuti mwafyuka syani ukuya ku Gehena?
+MAT 23:34 Eikyo nalamitumina bakasesema, abaume bamano naba kafundisya, bamo mukabepaya, bambi mukabatanika, kabili bambi mukabalopola musinagogi nokubatamfya mu musumba nomusumba.
+MAT 23:35 Kansi pali mwebo pakaponena umulopa onse uwabalungami, uwasumine pesonde ukufuma pamulopa wakaele uwakwa Abeli, ukufika pamulopa wakwa Sakariya mwana Belekiya, untu mwaipaile pakati ke Tempele nekipailo.
+MAT 23:36 Ndemyeba ikinekine ukuti, fyonse ifi fikaponena pabantu baino nkulo!
+MAT 23:37 “We Yerusalemu, we Yerusalemu! Wipaya bakasesema, nokwipaya kumabwe intumi sintu Lesa aakutumine! Miku inga nalefwaya ukufukatila abana bobe ngafintu inkoko ifukatila utwana mumapindo, lelo tawansuminisye!
+MAT 23:38 Mona iŋanda yobe ikaba umwabula nangu kimo.
+MAT 23:39 Pantu ndekweba ukuti, tawakatale mbonapo nakabili mpaka ukalande ukuti, ‘Alipalwa uwisila mwisina lya Mfumu.’”
+MAT 24:1 Panuma yaifyo Yesu afumine Mwitempele alaya, abasambi bakwe baisile kuli ena nokwisa musontelela ifikulwa fye tempele.
+MAT 24:2 Yesu abepwisye ukuti, “Busye namumona ifintu fyonse ifi? Ndemyeba ukuti tapakasyale ilibwe nangu limo palibiye, yonse yakabongoloka.”
+MAT 24:3 Lintu Yesu ali naikala pa Lupili lwa Miolife, abasambi baisile kuli ena pambali. Bamwipwisye ukuti, “Busye nilisa ifi fyonse fikakitika, kabili kilangililonsi ikyakwisa kobe nekyampela yesonde.”
+MAT 24:4 Yesu abaswike ukuti, “Kengeleni, pakuti umuntu nangu umo emibepe.
+MAT 24:5 Pantu abantu abengi bakesila mwisina lyandi, bakalaitunga ukuti ‘Ninebo Klistu!’ Kabili bakabepa abengi.
+MAT 24:6 Mukomfwa inkondo nefintinya fyankondo, lelo mwikatiina. Fyonse ifi fintu fikakitika, lelo impela ninsi tailafika.
+MAT 24:7 Ifyalo fikemina ifyalo fibiye, ubufumu bukemina ubufumu bubiye. Konse kukaba ifipowe na bamakumba mukende isyalekana lekana.
+MAT 24:8 Lelo ifi fikabafye ngobukali bwakwambilapo ubwapakupapa.
+MAT 24:9 “Bakamipakasa no kumipaya, kabili mukapatwa kubantu mufyalo fyonse pamulandu wandi.
+MAT 24:10 Abantu abengi bakalufya ikitetekelo pali iyi nsita, bakalafutuka nokupata ababiye.
+MAT 24:11 Elo bakasesema babufi abengi bakamoneka nokubepa abantu abengi.
+MAT 24:12 Pamulandu wakufula kwabubifi, ukutemwa kukafubalila.
+MAT 24:13 Lelo abakasipikisya ukufika kumpela bakapusuka.
+MAT 24:14 Kabili iyi Mbila Nsuma yapa bufumu ikasisimikilwa mwisonde lyonse ngobunte kufyalo fyonse, elo impela ikafika.
+MAT 24:15 “Kansi lintu mukamona umupamba wabonausi untu kasesema Daniele alaandilepo nawiminina umwamusilo.” (Onse uulebelenga eluke, muntu ifi fyalola!)
+MAT 24:16 Abakaba mu Yudeya bakabutukila mumpili.
+MAT 24:17 Uukaba pamutenge wa ŋanda ekekila ukuyapiita ifili fyonse mu ŋanda.
+MAT 24:18 Uukaba mwibala, ekabwelelamo mukupiita insalu syakwe.
+MAT 24:19 Akalanda muli silya nsiku kuli banamayo abakaba pabukulu na kubakalaonsya!
+MAT 24:20 Mulepepa ukuti fikakitika munsita yampepo, nangu pabusiku bwe Sabata!
+MAT 24:21 Pantu kukaba amakyusi yakipesya mano ayasyatala bako ukufuma kuntendekelo yesonde ukufika nandakai kabili ayasyakatale bako nakabili.
+MAT 24:22 Isyo nsiku singakana ukwipifiwa ngatapali uwapuswike, lelo pamulandu wa basalwa bakwe isyo nsiku syalipifiwa.
+MAT 24:23 Pali iyo nsita umuntu ngalanda ukuti, “Mona Klistu uyu pano nangu uyo apo” Mwikasumina.
+MAT 24:24 Pantu ba krisitu babufi na bakasesema babufi bakamonekela, bakalakita ifisibilo ifikalamba nefisungusyo pakuti bakabepe na basalwa ngafingakitika.
+MAT 24:25 Moneni! Namyebela limo ifi lintu insita tailaisa.
+MAT 24:26 “Kansi, abantu ngabamyeba ukuti, ‘Uyo ali mukiswebebe, mwikayako!’ Kabili ngabalanda ukuti, ‘Uyu ali muŋanda!’ Mwikasumina.
+MAT 24:27 Pantu Umwana Wamuntu akesa ngakalumba akabyasya mumulu monse ukufuma kukabanga ukufika ku masamba.
+MAT 24:28 “Amakubi yakolongana konse ukuli ikitumbi.
+MAT 24:29 “Panumafye yamakyusi yaisyo nsiku, akasuba kakafiita no mwensi tawakabale, intanda sikapona mumulu, kabili nefyaikala mumulu fikasunkansiwa.
+MAT 24:30 Elo kukamoneka ikisibilo kya Mwana Wamuntu mumulu. Elo abantu bapano isonde bonse bakalosya, lintu bakamona Umwana Wamuntu aleisa pamakumbi yamumulu, namaka nobukata ubukalamba.
+MAT 24:31 Lintu impenga ilikalamba likalila, akatuma bamalaika bakwe ukuyakolonganika abasalwa bakwe ukufuma mutupinda tune utwapesonde, ukufuma kumpela iyamulu ukufika kumpela.
+MAT 24:32 “Nomba sambilileni ku kimuti kya mukunyu. Imisambo ngayaamba ukufumya ubuluba mulesiba ukuti amainsa yapalama.
+MAT 24:33 Nalintu mukamona ifintu fyonse ifi, mukesibe ukuti insita yapalama, ilifye pamwinsi.
+MAT 24:34 Ndemyeba ikikine ukuti, iyi nkulo tayakapite ninsi ifintu fyonse ifi fyakitika.
+MAT 24:35 Umulu nesonde fikapita lelo amasiwi yandi tayakapite.
+MAT 24:36 “Lelo tapaba uwaisiba ubusiku nakasita, bamalaika ba mumulu tabaisiba kabili Nomwana Wamuntu wine taisiba, Tatafye eka ewaisiba.
+MAT 24:37 Ngafintu kyali munsiku yakwa Noa, efintu kikaba nalintu Umwana Wamuntu akesa.
+MAT 24:38 Lintu ilyeshi talilaisa, abantu balelya nokunwa, baleupa nokupwa, mpaka pa busiku buntu Noa aingile mu bwato.
+MAT 24:39 Tabaisibe nangu fimo ifyalekitika mpaka ilyeshi lyaisa balofya bonse. Efintu kikaba napakwisa kwa Mwana wa Muntu.
+MAT 24:40 Abaume babili bakaba mwibala, umo akapiitwa umubiye akasyala.
+MAT 24:41 Abanakasi babili bakalapela pelibwe, umo akapiitwa umbi akasyala.
+MAT 24:42 Eikyo kengeleni, pantu tamwisibe ubusiku Imfumu yenu ikesa.
+MAT 24:43 Lelo ilukeni ifi, umwine wa ŋanda ngaisiba insita intu umuŋo aleisilapo, teti alale kuti alalolelafye kabili tekuti aleke umuŋo amwingilile.
+MAT 24:44 Eikyo namwebo beni abaipekanya lyonse, pantu Umwana Wamuntu akesa pakasita kantu musyenekele.
+MAT 24:45 “Busye umusya wakisinka kabili uwamano ninani? Nyuyo, sikulu wakwe abika ukwangalila ababomfi babiye, ukulabapela ifyakulya pansita iyayana.
+MAT 24:46 Kikamuwamina uyo umubomfi, ilyo sikulu wakwe abwela ngamusanga alekita ifyofine.
+MAT 24:47 Ndemyeba ikinekine ukuti, sikulu wakwe akabika uyu mubomfi bukangalila pamfintu fyakwe fyonse.
+MAT 24:48 Lelo umusya ngamubifi, kuti aayeba umwine mumutima wakwe ukuti sikulu wakwe takabwele bwangu,
+MAT 24:49 kabili nokwamba ukuma ababomfi babiye, nokwamba ukulya nokunwina pamo nabakyakolwa.
+MAT 24:50 Sikulu wauyo musya akabweluluka ubusiku ubo umubomfi tenekele kabili napansita intu tesibe.
+MAT 24:51 Akaputaula umubomfi mutupimfya, kabili akamuposa kunkende akayakyulila pamo nababumbimunda. Ukukaba ukulila nokusumanya ameno.
+MAT 25:1 “Pali ilya nsita Ubufumu bwa mumulu bukaba ngabanakisungu ikumi limo, abapiitile utulampi twabo ukuya mukukumanya sibwinga.
+MAT 25:2 Basano pali aba bali nimpelwamano, kabili nabasano bali bamano.
+MAT 25:3 Impelwamano syapiitile utulampi ukwabula ukupiita amafuta ayengi.
+MAT 25:4 Abamano bena bapiitile amafuta ayengi mutusupa ayamutulampi twabo.
+MAT 25:5 Abakasyana bayambile ukusipula basukwa baponena mutulo pantu sibwinga alikokwele ukwisa.
+MAT 25:6 “Pakati kabusiku baumfwile utumpundu ukuti, ‘Sibwinga uyu aisa! Iseni mumupokelele!’
+MAT 25:7 Elo abakasyana bonse babuka bayasya utulampi twabo.
+MAT 25:8 Abakasyana impelwamano baebele abamano ukuti, ‘Tupeleniko amafuta yenu fwebo utulampi twesu twalasima.’
+MAT 25:9 Abamano bayaswike ukuti, ‘Awee, tayatukumane mwebo nafwebo. Kabiyeni kubasitisya amafuta musiteko ayenu.’
+MAT 25:10 Lelo lintu baleya mukusita amafuta, sibwinga nao afika. Banakisungu basano abaali nabaipekanya baingile nankwe muŋanda yabwinga nefiibi fyaisalika.
+MAT 25:11 “Mukasitafye abakasyana impelwa mano nabo babweluluka balapunda ukuti, ‘We Mfumu, we Mfumu! Twiswileniko ikiibi!’
+MAT 25:12 Lelo sibwinga abaswike ukuti, ‘ndemyeba ikinekine ukuti nsimisibe.’”
+MAT 25:13 Eikyo kengeleni, pantu tamwisibe ubusiku nakasita.
+MAT 25:14 “Nakabili ubufumu bwa mumulu bukaba ngomuntu uleya pabulendo, uwaitile ababomfi bakwe abapela bukangalila pafyuma fyakwe.
+MAT 25:15 Apeela kila umo ukulingana napapelele amaka yakwe, umo amupela ulupiya lwa golide amakana yasano, umbi amupela ulupiya lwa golide amakana yabili, naumbi amupela ulupiya lwa golide ikana limo. Elo aima ubulendo aya.
+MAT 25:16 Umubomfi uwapokele ulupiya amakana yasano, apiitile ulu lupiya aya lubomfya, akwatilamo nalumbi amakana yasano.
+MAT 25:17 Nowapokele ulupiya amakana yabili akwatilepo nalumbi amakana yabili.
+MAT 25:18 Lelo umubomfi uwapokele ulupiya umwanda umo, aileimba icikulo emuntu asika ulupiya lwakwa sikulu wakwe.
+MAT 25:19 “Panuma yansita iitali sikulu wabo alibwelulwike. Alibetile alabepusya fintu babomfesye ulupiya.
+MAT 25:20 Umubomfi uwapokele ulupiya lusano ulwa golide, aisileletelapo nalumbi lusano nokulanda ukuti, ‘Moneni mwesikulu, mwampele ulupiya lusano ulwa golide, nanebo ninkwatilapo nalumbi lusano.’
+MAT 25:21 Sikulu wakwe alandile ukuti, ‘Wabomba, wemubomfi umusuma kabili uwakisinka. Wali uwakisinka mukusugilila tunono tuntu nakupele, eikyo nalakupela ukwangalila ifintu ifingi. Isa usansamukile pamo na sikulu obe!’
+MAT 25:22 “Umusya uwapokele ulupiya lubili ulwa golide nao aisilelanda ukuti, ‘Mwe sikulu, mwampele ulupiya lubili ulwa golide, moneni ninkwatilapo nalumbi lubili.’
+MAT 25:23 Sikulu wakwe alandile ukuti, ‘Wabomba, wemubomfi umusuma kabili uwakisinka. Wali uwakisinka mukusugilila ulupiya ulunono luntu nakupele, eikyo nalakupela ukwangalila ifintu ifingi. Isa usansamukile pamo na sikulu obe!’
+MAT 25:24 “Elo umubomfi uwapokele ulupiya lumo ulwa golide aisilelanda ukuti, ‘Mwe sikulu, nalisiba ukuti mwalisyupa, musombola muntu tamwalimine, mukolonganika ifisabo umo tamwatandile.
+MAT 25:25 Naletiina, eikyo nailesika ulupiya mumusili. Moneni ulupiya lwenu ulu.’
+MAT 25:26 “Sikulu wakwe amwaswike ukuti, ‘Wemubomfi umubi kabili umunaŋani we!’ Kansi waisibe ukuti nsombola muntu nsyalima nokuseepa umo nsyatanda?
+MAT 25:27 Kilifye, nomba kansi ngawambikile kulya basungila ulupiya, pakuti nakwatamo ulwakumbikilapo.
+MAT 25:28 ‘Eikyo mupokeni ulupiya mupele umubomfi uukwete ulupiya ikumi limo.
+MAT 25:29 Pantu Onse uukwete akapelelwapo nafimbi, kabili akakwata ifingi ukukilapo, lelo onse uusikwete nangu kimo, akapokololwa nakanono kantu akwata.
+MAT 25:30 Uyu mubomfi uwabula ubuyo, muposeni kunse mumfimfi, umukaba ukulila nokusumanya ameno.’
+MAT 25:31 “Lintu Umwana Wamuntu akesa mubukata nabamalaika bakwe, akekala pakipuna kyakwe ikyabukata,
+MAT 25:32 kabili nabantu mufyalo fyonse bakamukolongana. Elo akapatula abantu ngafintu kacema apatula impaanga ku mbusi.
+MAT 25:33 Akabika impaanga kukulyo kwakwe elo imbusi kukuso kwakwe.
+MAT 25:34 Elo Imfumu ikalanda ku bantu abakaba kukulyo ukuti, ‘Iseni, mwebapalwa kuli Tata! Iseni mupoke Ubufumu ubo mwali namuteyanisiwa ukutula kububumbo bwesonde.
+MAT 25:35 Nali nensala mwalimpele ifyakulya, nali nekilaka mwalimpele ifyakunwa, nali umweni mwalimpokelele mumayanda yenu,
+MAT 25:36 nsyakwete ifyakufwala mwalimfwikile, nalilwele mwalinsakamene, nali mukifungo mwaisile mpempula.’
+MAT 25:37 “Abalungami bakamwasuka ukuti, ‘Mwe Mfumu nilisa twamimwene namumfwa insala twamipela ifyakulya, nangu namumfwa ikilaka twamipela ifyakunwa?
+MAT 25:38 Nilisa twamimwene umweni twamipokelela mumayanda yesu, nangu ukwabula ukufwala twamifwika?
+MAT 25:39 Nilisa twamimwene namulwala, nangu mukifungo twaisa mimpempula?’
+MAT 25:40 Imfumu ikasuka ukuti, ‘Ndemyeba ikinekine ukuti, lyonse lintu mwayafwile munina umo mulifi uwamulupwa lwandi nangu munono syani, ninebo mwayafwile!’
+MAT 25:41 “Elo akeba abakukuso ukuti, ‘Fumeni kuli nebo, mwebatipwa! Kabiyeni mumulilo wamuyayaya uwapekanisiwa Kiwa naba malaika bakwe!
+MAT 25:42 Nali nensala lelo tamwampele ifyakulya, nali nekilaka lelo tamwampele ifyakunwa,
+MAT 25:43 nali umweni lelo tamwampokelele mumayanda yenu, nali ukwabula ukufwala lelo tamwampele ifyakufwala, nali nindwala kabili nali mukifungo lelo tamwansakamene.’
+MAT 25:44 “Nabo bakasuka ukuti, ‘Mwe Mfumu, nilisa twamimwene muli nensala, nelyo nekilaka, nangu umweni, nelyo ukwabula ukufwala, nangu namulwala, nangu mukifungo twakana ukumyafwa?’
+MAT 25:45 Imfumu ikabasuka ukuti, ‘Ndemyeba ikinekine ukuti, lyonse lintu mwakene ukwafwa onse pabantu bandi, nangu abe umunono syani mwakene ukwafwa nebo.’
+MAT 25:46 Elo bakaye mukakandwa umuyayaya, lelo abalungami bakaya kumweo wamuyayaya.”
+MAT 26:1 Lintu Yesu apwisisye ukulanda ifintu fyonse ifi, aebele abasambi bakwe ukuti,
+MAT 26:2 “Namwisiba ukuti kwasyalafye insiku sibili, ninsi busiku nkulu bwe Pasaka. Kabili Umwana Wamuntu akapelwa muminwe yabalwani mukumutanika.”
+MAT 26:3 Basimapepo bakindami na bakalamba babantu bakolongene mukipango kyakwa simapepo mukalamba Keyafasi,
+MAT 26:4 kabili baumfwene fintu bengakwata Yesu mubumfisolo no kumwipaya.
+MAT 26:5 Lelo baalandile ukuti, “Twikakita ifi pe Pasaka, abantu kuti baimya ifimfulunganya.”
+MAT 26:6 Lintu Yesu ali mu Betani muŋanda yakwa Simoni uwafibasi,
+MAT 26:7 kwaisile namayo napiita amafuta mwibotolo ayanunkila ayamutengo ukalamba ngansi, aitulwila pa mutwe wakwa Yesu ninsi ali pakulya.
+MAT 26:8 Lelo lintu abasambi bakwe bamwene ifi balifulilwe batampa ukulailisyanya ukuti, “Busye bonausi bwa musango syani ubu?
+MAT 26:9 Pantu aya mafuta kuti yasitisiwa palupiya ulwingi sana nokupela abalanda!”
+MAT 26:10 Lelo Yesu pakwisiba fintu baletontonkanya abebele ukuti, “Kinsi mulekyusisya uyu mwanakasi? Nankitila ikintu ikisuma.
+MAT 26:11 Pantu abalanda mukalaba nabo lyonse lelo tamwakaleba nanebo lyonse.
+MAT 26:12 Lintu akitulwila amafuta yanunkila pamubili wandi, akimpekanya mukusiikwa.
+MAT 26:13 Ndemyeba ikisinka ukuti, konse kuntu Imbila Nsuma ikabilwa mwisonde lyonse, ifi fyakita uyu mwanakasi fikalalandwapo mukumwibukisya.”
+MAT 26:14 Yuda Isikalyoti umo pabasambi ikumi limo na babili aile kuli basimapepo mukalamba
+MAT 26:15 aya bepusya ukuti, “Busye mukampela finsi nganamiletela Yesu?” Nabo bamulipile ulupiya lwa siufele amakumi yatatu (30).
+MAT 26:16 Ukufuma apo Yuda atampile ukufwaya akasita akasuma akakufutukilapo Yesu.
+MAT 26:17 Pabusiku bwakwambilapo ubwakulyamo umukate uusyatutumuka abasambi baisile kuli Yesu mukumwipusya ukuti, “Busye nipi ulefwaya tukupekanisisye ukwakulila Ipasaka?”
+MAT 26:18 Alandile ukuti, “Kabiyeni mumusumba kumuntu umo, muleya mweba ukuti Kafundisya alanda ati, ‘Insita yandi naipalama! Ndimukufwaya ukwisalila Ipasaka muŋanda yobe na basambi bandi.’”
+MAT 26:19 Kansi abasambi bakitiile umo Yesu abebele, bapekanya ne Pasaka.
+MAT 26:20 Mukyungulo, Yesu na basambi bakwe ukumi limo nababili bakubeme petebulo.
+MAT 26:21 Kabili ilyo balelya Yesu alandile ukuti, “Ndemyeba ikisinka ukuti, umo pali mwebo alemfutuka.”
+MAT 26:22 Abasambi baiketwe ubulanda batampa ukulamwipusya umo, umo ukuti, “Busye ninebo mwe Mfumu?”
+MAT 26:23 Yesu abaswike ukuti, “Uo nalaingisisya nao pamo iminwe mumbale eulemfutuka.
+MAT 26:24 Umwana Wamuntu akafwa ngafintu amalembo yalanda, lelo akalanda ngansi kumuntu uulefutuka Umwana Wamuntu! Ngakyaliwemepo kuli uyo muntu ukukana fyalwa!”
+MAT 26:25 Yuda, uwamufutwike aipwisye ukuti, “Busye ninebo mwe Kafundisya?” Yesu amwasuka ukuti, “Wemwine wailandila”
+MAT 26:26 Ilyo balelya, Yesu abulile umukate, aupaala aumokola apela abasambi bakwe nokulanda ukuti, “Buleni mulye, uyu emubili wandi.”
+MAT 26:27 Kabili abula nolukombo, atotela Lesa elo abapa ukuti, “Nwenimo bonse,
+MAT 26:28 uyu mulopa wandi uwakipangano kipya uwalasumiina pabengi kukwelelwa kwa membu.
+MAT 26:29 Ndemyeba ukuti nsyakanwepo ifyakufisabo fyamyangasi nakabili, mpaka bulya busiku nkanwa ifyakufisabo fya myangasi ifipya pamo namwebo mu bufumu bwakwa Tata.”
+MAT 26:30 Lintu baimbile ulwimbo balifumine baya kulupili lwa Miolife.
+MAT 26:31 Yesu aebele abasambi bakwe ukuti, “Buno bwine busiku bonse mulembutuka nokunsya, pantu amalembo yalanda ukuti, ‘Nkoma kacema no mukuni wa mpaanga ukasalangana.’
+MAT 26:32 Lelo panuma nabusiwa kubafwa, nkamitangilila ku Galili.”
+MAT 26:33 Petelo aebele Yesu ukuti, “Nebo nsyakamisye nangu bambi bakamisye!”
+MAT 26:34 Yesu aebele Petelo ukuti, “Ndekweba ikisinka ukuti, buno bwine busiku ulenkana imiku itatu ukuti tawangisiba lintu mukolwe talalila.”
+MAT 26:35 Lelo Petelo ayaswike ukuti, “Nebo nsyakukane ngakufwa ndefwa nobe!” Nabonse abasambi balanda fimofine.
+MAT 26:36 Yesu aile na basambi bakwe kunkende yaleitwa Getisemane, aebele abasambi bakwe ukuti, “Ikaleni pano, nebo naya kulya mukupepa.”
+MAT 26:37 Yesu apiitilepo Petelo na bamwana Zebedee babili Yakobo na Yohani aya nabo. Elo asakamikwa kabili aba uwabulanda.
+MAT 26:38 Elo abeba ukuti, “Umutima wandi waisulamo ubulanda nicingafye imfwe. Ikaleni pano mulelola nanebo.”
+MAT 26:39 Aendelekofye ikyalinga awa pansi ubunkupeme alapepa ukuti, “Mwe Tata, nga nakyanguka lekeni ulu lukombo lumpite, lelo tekufwaya kwandi kano ukufwaya kwenu.”
+MAT 26:40 Elo abwelulwike asangile abasambi bakwe balimutulo, eikyo aebele Petelo ukuti, “Busye tekuti mulole nanebo pankoloko imo?
+MAT 26:41 Loleni no kupepa pakuti mwiwila mumatunko. Umupasi ulefwaya lelo umubili naunaka.”
+MAT 26:42 Nakabili Yesu aile mukupepa ukuti, “Mwe Tata, ngakyakwebati ulu lukombo teti lufumepo mpaka ndunwe, ubufwayo bwenu nabukitwe.”
+MAT 26:43 Nakabili abweluluka asanga nabalala. Amenso yabo yali nayafina kutulo.
+MAT 26:44 Abasile nakabili ayapepa ilya butatu, apepele ipepo limoline.
+MAT 26:45 Abwelulukile ku basambi bakwe no kubeba ukuti, “Busye mukili namulala muletusya? Moneni! Insita naifika iya Mwana Wamuntu ukuposwa mumaboko ya babembu.
+MAT 26:46 Imeni tuleya. Uulemfutuka uyo aleisa!”
+MAT 26:47 Lintu Yesu akili alelanda, Yuda umo pabasambi ikumi limo na babili nao afika. Aali nebumba ilikalamba ilyafumine kuli basimapepo bakindami na bakalamba ba bantu, abaali ne mipanga nenkoto.
+MAT 26:48 Uwamufutwike alipele ibumba ikisibilo ukuti, “Untu ndetomona emuntu mulefwaya. Mumukwate!”
+MAT 26:49 Kabili Yuda aile kuli Yesu nokumweba ukuti, “Mwapoleni mwe Kafundisya,” nokumutomona.
+MAT 26:50 Yesu epakumweba ukuti, “Ale kibusa kita fintu ukonkele!” Abantu abali na Yuda bapalama, bafokokela Yesu bamukwata.
+MAT 26:51 Umo pabali na Yesu asomwene umupanga akoma umusya wakwa simapepo mukalamba amuputula ukutwi.
+MAT 26:52 Yesu amwebele ukuti, “Bwesesya umupanga mukitubo, onse uwanga nomupanga akafwa ku mupanga.
+MAT 26:53 Busye muletontonkanya ati teti ngebe Taata, kabili nao apapene kuti antumina ifiita fyaba mailaka ukukila ikumi limo na babili?
+MAT 26:54 Lelo, kuti yafikilisya syani amalembo ayalanda ukuti ifi fifwile fyakitikila muli iyi nsila?”
+MAT 26:55 Pali kalya kasita Yesu aebele ibumba ukuti, “Busye ndikipondo, pakuti mwise nemipanga ne nkonto mukundikata? Kila busiku naleikala mwi Tempele ndefundisya, tamwalendikata.
+MAT 26:56 Lelo ifi fyonse fyalakitika pakuti ifyalembelwe kuli bakasesema fifikilisye.” Elo abasambi bonse bamusya babutuka.
+MAT 26:57 Abo abakwete Yesu bamutwele kuli Kayafasi simapepo mukalamba, uko bakafundisya ba mafunde na bakalamba ba bantu baali nabakolongana.
+MAT 26:58 Lelo petelo alekonkamo akatalamukila mpaka afika na mumusolo wakwasimapepo mukalamba. Alingile nokwikala pamo na bamalonda amone ifyalakitika.
+MAT 26:59 Basimapepo bakindami na basikilye bonse balefwailisya ifyakubepesya Yesu pakuti bamwipaye.
+MAT 26:60 Lelo tabafisangile nangu abantu abengi baimine nokumubepesya ubufi. Kwaiminine abaume babili
+MAT 26:61 nokulanda ukuti, “Uyu muntu alandile ati, ‘Nalikwata amaka yakubongolola itempele lyakwa Lesa nokulikula munsiku sitatu.’ ”
+MAT 26:62 Simapepo mukalamba aiminine nokweba Yesu ukuti, “Ngawebo taulelandapo?” Ngobu bunte aba bantu balekutunganya?
+MAT 26:63 Lelo Yesu aikelefye tondolo. Simapepo mukalamba amwebele ukuti, “Mwisina lyakwa Lesa uwamweo, lapafye nganiwebo Klistu Umwana wakwa Lesa.”
+MAT 26:64 Yesu amwaswike ukuti, “Naulanda ukuti ninebo. Lelo ndimukumyeba mwebonse ukuti, ukufuma pali ino nsita mukamona Umwana wa Muntu naikala kukuboko kwakukulyo ukwa Wamaka, kabili aleisa pamakumbi ya mumulu!”
+MAT 26:65 Elo simapepo mukalamba alepwile insalu yakwe nokulanda ukuti, “Napontela Lesa! Nikinsi tulefwaila bakambone nabambi! Nomba mwayuumfwila imiponto yakwe!
+MAT 26:66 Ngamwebo muletipo syani?” Bayaswike ukuti, “Nalinga ukufwa.”
+MAT 26:67 Bamufwisile amate pamenso no kumupuma, elo bambi balemuma amapi
+MAT 26:68 nokulamweba ukuti, “Klistu, sesema kuli fwebo. Ninani wakuma!”
+MAT 26:69 Nomba Petelo ali naikala panse pamusolo, umwanakasi umubomfi wakwa simapepo mukalamba aisile kuli ena nokulanda ukuti, “Nobe wine, wakiba na Yesu waku Galili.”
+MAT 26:70 Lelo alikene pamenso yabantu bonse ukuti, “Nsisibe fintu ulelandapo,”
+MAT 26:71 Elo afuma mumusolo aya pamwinsi, naumbi umubomfi amumona aeba abantu abaali nabeminina kulya ukuti, “Uyu Muntu akiba na Yesu waku Nazareti.”
+MAT 26:72 Nakabili Petelo alikene ukuti, “Ndelapafye akalumba nsyamwisiba uyu muntu!”
+MAT 26:73 Panuma yakasitafye akalinga abantu abaali nabeminina kulya bapalamine kuli Petelo nokulanda ukuti, “Ikinekine nobe wine uli wamulibena, pantu nemilandile yobe ine yabena Galili.”
+MAT 26:74 Petelo ayambile ukuitipa nokulapa ukuti, “Ulya muntu nsyamwisiba!” Palyapene na mukolwe alila
+MAT 26:75 kabili Petelo aibwisye fintu Yesu amwebele ukuti, “Lintu mukolwe talalila, ulenkana imiku itatu ukuti tawangisiba.” Elo afumina panse nokuya mukulila ngansi.
+MAT 27:1 Ulukelo basimapepo bakindami bonse na bakalamba ba bantu balikumene baumfwana fintu bengepaya Yesu.
+MAT 27:2 Balimukakile bamupiita bamutwala ku mulashi Pilato.
+MAT 27:3 Lintu Yuda uwamufutwike amwene ukuti Yesu bamupingwila imfwa, alilangulwike pali fintu akitile. Abwesesyemo ulupiya lwa siufele amakumi yatatu kuli basimapepo bakindami nentungulusi,
+MAT 27:4 ukuti, “Nalibembwike, pantu nafutwike umuntu uwakaele!” Bamwaswike ukuti, “Uyo Mulandu obe!”
+MAT 27:5 Yuda aposele ulupiya mwi Tempele nokuyaikulika.
+MAT 27:6 Basimapepo bakindami batolele ulupiya nokulanda ukuti, “Ulu lupiya lwamulopa, takyasuminisiwa mwifunde lyesu ukulubika mukipao kya mwi Tempele.”
+MAT 27:7 Eikyo baumfwene ukusitamo ibala lyakwa kabumba wa nongo, umwakulasika bamwisa.
+MAT 27:8 Ekintu iyi nkende nandakayi itilwa ukuti “Ibala lya mulopa.”
+MAT 27:9 Ifyalandilwe kuli kasesema Yeremia fyalifikilisye ukuti, “Bapiitile ulupiya lwa siufele amakumi yatatu emutengo untu abena Israeli bamusitisisyepo,
+MAT 27:10 bailesitamo ibala lyakwa kabumba wa nongo ngafintu Imfumu yalandile.”
+MAT 27:11 Yesu bamutwele kumulashi Pilato uwamwipwisye ukuti, “Busye uuli Mfumu yaba Yuda?” Yesu ayaswike ukuti, “Naulanda.”
+MAT 27:12 Lelo lintu basimapepo bakindami na bakalamba balemwebelela, tayaswikepo nangu kimo.
+MAT 27:13 Pilato amwipwisye ukuti, “Busye tauleumfwa ifintu fyonse ifi fintu balekwebelela?”
+MAT 27:14 Lelo Yesu alikene ukwasukapo isiwi nangu limo, iki kyalengele Pilato ukupapa.
+MAT 27:15 Lyonse pe Pasaka, umulashi alebakakwilapo umufungwa umo untu abantu balefwaya.
+MAT 27:16 Pali iyi nsita kwali umufungwa umo uwali naisibikwa uwaleitwa ukuti Balaba.
+MAT 27:17 Lintu ibumba lyakolongene, Pilato abepwisye ukuti, “Busye ninani mulefwaya imikakwile pali Balaba na Yesu uwitwa Klistu?”
+MAT 27:18 Pilato alisibe ukuti baaletele Yesu kuli ena pamulandu nomufimbila.
+MAT 27:19 Lintu Pilato ali naikala pakipuna kya bupingusi umukasi wakwe amutumine amasiwi ukuti, “Wikita nangu kimo pali uyo muntu wakaele, ninkyusiwa apakalamba mukiloto pamulandu noyo muntu.”
+MAT 27:20 Lelo basimapepo bakindami naba kalamba basongelekenye abantu ukuti balombe ukubakakwila Balaba elo Yesu ena bamwipaye.
+MAT 27:21 Pilato aipwisye ibumba nakabili ukuti, “Busye pali aba babili, ninani mulimukufwaya imikakwile?” Bayaswike ukuti, “Balaba!”
+MAT 27:22 Pilato abepwisye ukuti, “Busye nomba inkite syani kuli Yesu uwitwa Klistu?” Bonse bayaswike ukuti, “Mutanikeni!”
+MAT 27:23 Lelo Pilato abepwisye ukuti, “Mulandu nsi akitile?” Batampile ukubilisya nomba ukukilapo ukuti, “Mutanikeni”
+MAT 27:24 Lintu Pilato amwene ukuti tapali kintu engakita kuti ifimfulunganya fyaimafye, aabulile amensi, asamba kuminwe pamenso yabantu bonse nokulanda ukuti, “Nsiliimo muli iyi mfwa ya uyu muntu, mulandu wenufye!”
+MAT 27:25 Ibumba lyonse lyayaswike ukuti, “Lekeni umulopa wakwe ube pali fwebo napabana besu!”
+MAT 27:26 Pilato abakakwilile Balaba, kabili panuma alopola Yesu abapele ukuti bayemutanika.
+MAT 27:27 Abasilika ba mulashi batwele Yesu mukipango, elo bakolonganika nempuka ya basilika yonse.
+MAT 27:28 Yesu bamufulile insalu syakwe nokumufwika umwingila wakasika.
+MAT 27:29 Bapikwile iŋana yamyunga bamufwika kumutwe, nokumufumbatika itete kukulyo. Balemufukamina nokumupunya ukuti, “Mulopwe kanabesa wemfumu ya Bayuda!”
+MAT 27:30 Balemumfwisila amate, bamupoka itete balamuma ku mutwe.
+MAT 27:31 Lintu bapwisisye ukumupunika, bamufulile umukansu bamufwika insalu syakwe, Elo bamutwala mukumutanika.
+MAT 27:32 Lintu baleya, bakumenye umwaume uwalefuma ku Sirene isina lyakwe ni Simoni, kabili abasilika bamupatikisye ukupiita umusalaba wakwa Yesu.
+MAT 27:33 Bafikile kunkende iyaleitwa Gologota, ikilepilibula ukuti, “Inkende ya Fipaanga”.
+MAT 27:34 Bapele Yesu umwangasi wasankana nendusya ukuti anwe, lelo panuma abika palulimi, alikene ukunwa.
+MAT 27:35 Lintu bamutanike, balependula pakwakana insalu syakwe.
+MAT 27:36 Nokwikala pansi balamulinda.
+MAT 27:37 Pamulu wamutwe wakwe babikilepo akapampa apalembelwe umulandu untu bamwipailepo ukuti, “Uyu ni Yesu Imfumu ya Bayuda.”
+MAT 27:38 Batanikepo notupondo tubili kamo kukulyo nakambi kukuso.
+MAT 27:39 Abapita nsila balepukunya imitwe nokutuka Yesu insele,
+MAT 27:40 balelanda ukuti, “Ewebo walelanda ati kuti wabongolola itempele nokulikula nakabili munsiku sitatu! Ngoli Mwana wakwa Lesa ipususye! Ikila pamusalaba!”
+MAT 27:41 Mu musango umowine basimapepo bakindami na bakafundisya ba Mafunde na bakalamba ba bantu balemupunika ukuti,
+MAT 27:42 “Alepususya bambi, lelo ena teti aipususye! Nga nimfumu yabena Israeli, akoke pamusalaba! Elintu twalamusumina!
+MAT 27:43 Aketekele muli Lesa, ale Lesa namupususye ngalimutemwa, pantu alelanda ati, ‘Ndimwana wakwa Lesa!’”
+MAT 27:44 Notupondo tubili utwatanikwe pamo nao twalemusalula.
+MAT 27:45 Ukufuma lintu akasuba kafikile pamutwe pansita ya 12 koloko mukyalo monse mwafiitile nafititi, ukufika napansita ya 15 koloko.
+MAT 27:46 Pansita ya 15 koloko Yesu alilile mwisiwi ilikalamba ukuti, “Eloi, Eloi, Lama sabakatani?” Ikilepilibula ukuti, “Lesa wandi, Lesa wandi, Nikinsi mwandekelesesya?”
+MAT 27:47 Lintu bamo pabaali nabeminina palya baumfwile ifi, balandile ukuti, “Aleita Eliya.”
+MAT 27:48 Palyapene, umo pali bena abutwike ayapiita umwepu atubika mu mwangansi wakantuka, autunga kwitete nokupa Yesu ukuti anwe.
+MAT 27:49 Lelo bambi balandile ukuti, “Tulolele, tumone Eliya ngalaisa mupususya!”
+MAT 27:50 Kabili lintu Yesu apundile isiwi lyapamulu, awe aleka nomweo.
+MAT 27:51 Pali ilya nsita insalu baali nabatanika mwi Tempele yalepwike pabili ukufuma pamulu ukufika pansi. Isonde lyalitentele, amabwe yalilepawike,
+MAT 27:52 imanda syaliswike, abantu bamusilo abengi abali nabafwa balibusiwe.
+MAT 27:53 Bafumine mu manda, napanuma yakubuka kwakwa Yesu baile mumusumba wamusilo, nokuyamonekela kubantu abengi.
+MAT 27:54 Lintu umukalamba wabasilika nabasilika abalelinda Yesu baumfwile makumba nokumona ifintu fyonse ifyakitike, bakwetwe nomwenso nokulanda ukuti, “Mukisinka uyu muntu aali Mwana wakwa Lesa!”
+MAT 27:55 Kwali banamayo abengi, abaletamba akatalamukila, bakonkele Yesu ukufuma ku Galili kukulamutangata.
+MAT 27:56 Pali bena pali Mariya Mangadelena, Mariya nyina wakwa Yakobo na Yosefu, nanyina wabana bakwa Zebedee.
+MAT 27:57 Lintu kyali ikyungulo, kwaisile umukankala ukufuma ku Alimateya isina lyakwe ni Yosefu, kabili nao ali musambi wakwa Yesu.
+MAT 27:58 Aile kuli Pilato mukulomba ikitumbi kyakwa Yesu. Pilato apele insambu ukuti bapele Yosefu ikitumbi.
+MAT 27:59 Eikyo Yosefu apiitile umubili wakwa Yesu aupomba munsalu iyipya,
+MAT 27:60 aubika namumanda yakwe iipya intu afonkwele mwilibwe. Elo akunkulusisyapo ilibwe ilikalamba pamwinsi wamanda aya nokuya.
+MAT 27:61 Mariya Magadalena na Mariya mubiye bali nabekala kulyakwine apalungatene nemanda.
+MAT 27:62 Ubusiku bwakonkelepo, panuma yabusiku bwakupekanya, basimapepo bakindami naba Falise baile kuli Pilato.
+MAT 27:63 Balandile ati, “Mwemfumu, natwibusya fintu ulya muntu wabufi alelanda lintu ali umumi ukuti, ‘Nkabuka nakabili panuma yansiku sitatu.’
+MAT 27:64 Peleni abakulonda imanda yakwe bwino bwino mpanka nobusiku bwabutatu, pakuti abasambi bakwe bekeyamwiba elo bakaleyeba abantu ukuti nabuka kubafwa. Ubu bufi bwakulekesya bukabipapo ukukila ubwakwambilapo.”
+MAT 27:65 Pilato abebele ukuti, “Piiteni abakulonda, musininkisye ukuti balonda bwino bwino imanda ngafintu mwisibe.”
+MAT 27:66 Efintu bailefenenkesyapo, basyapo nabasilika bakulonda.
+MAT 28:1 Nomba panuma yabusiku bwe Sabata, kumakya pamulungu, Mariya Magadalena na Mariya mubiye baile mukumona imanda.
+MAT 28:2 Kwapitile makumba, pantu malaika wa Mfumu alikile ukufuma kumulu. Ailulwilepo ilibwe pa manda aikala napalya pene.
+MAT 28:3 Imimonekele yakwe yali ngakalumba, nefyakufwala fyakwe fyali ifyabuta tuutu nge mfula yamabwe.
+MAT 28:4 Abalelonda bayambile ukututuma kumwenso, bawile pansi ngabafwile.
+MAT 28:5 Malaika aebele banamayo ukuti, “Mwitiina! Ningisiba mulimukufwaya Yesu untu batanike.
+MAT 28:6 Talimo Lesa namubusya kubafwa ngafintu alandile. Iseni mumone pantu bamulalike.
+MAT 28:7 Kabiyeni mukwangufyanya, muleya eba abasambi bakwe ukuti, ‘Nabuka kubafwa, apa alimukuya ku Galili natangilako, ekuntu mukayamonana!’ Efintu nakisa mukumyeba.”
+MAT 28:8 Eikyo banamayo bafumine kumanda mukwangufyanya, nabesulamo nensansa uku nomwensomo, balebutukila mukweba abasambi bakwe.
+MAT 28:9 Mukupumikisya Yesu abakumanya nokubeba ukuti, “Umutende ube nemwe,” Bapalamine kuli ena baikata ku makasa yakwe balamusinsimuna.
+MAT 28:10 Elo Yesu abebele ukuti, “Mwitiina, kabiyeni mwebe bamuninane ukuti baye ku Galili, ekuntu balaisa mbona.”
+MAT 28:11 Lintu banamayo baleya, abasilika bamo abalelonda babwelelemo kumusumba. Baileyeba basimapepo bakindami ifyakitike fyonse.
+MAT 28:12 Basimapepo bakindami bakolongene na bakalamba babantu balaumfwana fintu balakita. Bapele abasilika ulupiya ulwingi
+MAT 28:13 nokubeba ukuti, “Mulelanda ati, ‘Abasambi bakwe bakisaiba umubili wakwe ubusiku lintu twakiba mutulo.’
+MAT 28:14 Kabili ngakyakweba ati Umulashi aumfwa ifi, mwikasakamana nelyo kimo tukesiba fintu tukamweba mpaka tukamifumye mubwafya.”
+MAT 28:15 Abasilika bapiitile ulupiya bakita nefyo babebele ukukita. Ukufika nalelo ili elyasi lyasabankana ku Bayuda.
+MAT 28:16 Abasambi ikumi limo na umo baile mu Galili palupili pantu Yesu abebele ukuya.
+MAT 28:17 Lintu bamumwene balimusinsimwine, nangu bambi balemutwisika.
+MAT 28:18 Yesu apalamine kuli bena nokubeba ukuti, “Amaka yonse mumulu napano isonde nayapelwa kuli nebo.
+MAT 28:19 Kabiyeni muleyalenga abantu bonse ukuba abasambi bandi, mulebabatisya mwisina lyakwa Tata, ilya Mwana, nelyakwa Mupasi wamusilo,
+MAT 28:20 kabili mulebafundisya ukulakonka fyonse fintu namikonkomesye. Kabili nakulaba namwebo insita yonse, mpaka nakumpela yakyalo.”
+2TH 1:1 Ninebo Paulo, Sailasi elo na Timote twamilembela mwelukuta lwamu Tesalonika mwebaba muli Lesa shifwe kabili Nemfumu Yesu Klistu.
+2TH 1:2 Ukusenaminwa elo nomutende fibe namwebo ukufuma kuli Tata elo Nemfumu Yesu Klistu.
+2TH 1:3 Mwebabwananyina, fwebo tulatotela Lesa lyonsefye pali mwebo, pantu ekilungeme kuli fwebo ukulakita, umusango wakitetekelo kyenu kilekula apakalamba kabili nekitemwiko mwakwatila kila umo naumo kileya kilekulilako.
+2TH 1:4 Eikyo fwebo tulaitakisya mukulanda kwesu pali mwebo, munkuta syakwa Lesa. Tutasya pafyo mwakonkanyapo ukusumina elo nokushipikisya lintu mwapita mumakyusi nangula ukupakaswa.
+2TH 1:5 Iki kyonse kilangililo kyakweba ati ubupingusi bwakwa Lesa bwamulinganya, pakweba ati mwaba abalinga kubufumu bwakwe buntu mukyulila.
+2TH 1:6 Ikyakine Lesa wamulinganya, akakyusya abobonse abamikyusya,
+2TH 1:7 akapwisya amakyusi yenu elyo namakyusi yesu yene. Akakita ifi, ilyo Imfumu Yesu ikamonekela ukufuma mumulu nabamalaika bakwe ababulamba.
+2TH 1:8 Akesa nolubingu lwamulilo ulwakwisa kanda abo bonse abasyaisiba Lesa kabili nabo bonse abashumfwila Imbila Nsuma ya Mfumu yesu Yesu.
+2TH 1:9 Bakakyula umuyayaya, kabili akabafumya namuceni kyakwe elyo namubukata bwabulamba bwakwe,
+2TH 1:10 Lintu akaba nabwela pali bulya busiku, abamusilo bakalamulumbanya, elo abamutetekela nabo bakamukindika, kabili namwebo mukaba nabena pantu mwalisumina amasiwi yabukambone bwesu.
+2TH 1:11 Eikyo lyonsefye tulamipepela, ukuti mube nemibeele yalinga kubwite buntu Lesa amitako. Pakuti kumaka yakwe engafikilisya ifisuma fyonse fintu mufwaya ukukita nokupwilikisya imilimo yenu yonse intu mubomba mukisumino,
+2TH 1:12 pakweba ati isina lya Mfumu Yesu likatamikwe muli mwebo, namwebo mukatamikwe muli ena, ukulingana nokusenaminwa kwakwa Lesa wesu elyo ne Mfumu yesu Yesu Klistu.
+2TH 2:1 Nomba, ukulolenkana nokwisa kwa Mfumu yesu Yesu Klistu kabili nokukumana kwesu kyapamo nankwe, tulemipapata mwe babwananyina ukuti,
+2TH 2:2 tamufwile ukutunsya imitima nangu ukusakamana pamabusesemo yamo, inkalata nelyo utusebo tumo, utulanda ati nifwebo twalandile ati ubusiku bwa mfumu nabwisa kale.
+2TH 2:3 Mwileka uuli onse amilufye munsila iili yonse, pantu bulya busiku tabwakese mpakafye abantu ngabayalukila Lesa kabili nomuntu mubifi akasokoloke,
+2TH 2:4 uupinkana kabili uunsansabika ukukila pali fyonse ifitwa tulesa nafyonse fintu abantu bapepa, pakuti akapiite apakwikala mwitempele lyakwa Lesa, nokulalamda ukuti ninebo Lesa.
+2TH 2:5 Busye tamwibusya ukuti ilyo nali namwebo nalimyebele ifi?
+2TH 2:6 Kabili nomba mwalisiba ikyalenga ukuti kwaliba ikyamwikatilila pakuti akaisikolole pansita iyalinga.
+2TH 2:7 Pantu amaka yankama yakwa mpulamafunde, kabili ikili ilabomba kabili fintu nandile ukuti fikakitika, tekuti fikitike kanofye Lesa afumyapo uulenga ifi fintu ukukitika.
+2TH 2:8 Kabili elo mpulamafunde akasokoloka, uo Imfumu Yesu ikakifya kumupu wakukanwa kakwe nokumonaula kubukata bwakwisa kwakwe.
+2TH 2:9 Ukwisa kwakwa mpulamafunde kukabafye nge mibombele yakwa Satana, akabomfya imisango yonse iyakulangilamo amaka yakwe ukupitila mufisibilo ne fipapwa ifi fikaba fyabufi.
+2TH 2:10 Kabili akabomfya nensila syonse isyo umubifi abepelamo abo abaleloba. Bakaloba pantu balikene ukutemwa ikisinka kabili nokupusuka.
+2TH 2:11 Pamulandu waifi Lesa alatuma amaka yakubafulunganya, mukubalenga basumine ifyabufi,
+2TH 2:12 pakuti bonse bakasekwe, pantu balikene ukusumina ikisinka lelo balebekelwa mububifi.
+2TH 2:13 Lelo lyonse tulatotela Lesa pamulandu wenu mwebatemwikwa ku Mfumu, pantu pakutampa Lesa amisalile ukuti mukabe abantansi ukupusuka, ukupitila mukusangululwa kwa Mupasi elo nokusumina mukisinka.
+2TH 2:14 Lesa amitile pamulandu wa Mbila Nsuma twamisimikile, pakuti mukwateko ubukata bwa mu Mfumu Yesu Klistu.
+2TH 2:15 Eikyo kansi mweba bwananyina beni abashipa nokwikatililila kuntambi twamishilile isyo twamifundile, ukupitila mumasiwi yantu twamyebelefye pakanwa, nayantu twamilembele munkalata.
+2TH 2:16 Imfumu yesu Yesu Klistu umwine, na Lesa Tata uwatutemenwe, nokutupela ikikoselesi kyamuyayaya, nokusumina ukusuma ukupitila mukusenaminwa,
+2TH 2:17 akoselesye imitima yenu nokumikosya pakweba ati mulebomba imilimo iisuma yonse nokulalanda ifisuma.
+2TH 3:1 Mukulekelesya, mwebamunyinane muletupepela ukuti amasiwi yakwa Lesa yatwalilile ukusabankana elo nokupokelelwa nomukinsi, ngefyo kyali pali mwebo.
+2TH 3:2 Kabili mulepepa nokutila twingapokololwa, kubalwani, elyo nabantu ababifi pantu tebonse abakwata ikitetekelo.
+2TH 3:3 Lelo Lesa wakisinka, akamikosya kabili nokumikingilila kububifi.
+2TH 3:4 Kabili twalisintilila mu Mfumu, ukuti mulakita, kabili mwakulakita fintu twamwebele.
+2TH 3:5 Imfumu naitungulule imitima syenu mukutemwa ukwakwa Lesa namukusupikisya kwakwa Klistu.
+2TH 3:6 Nomba tulemikonkomesya mweba bwananyina, mwisina lya Mfumu Yesu Klistu, ukuti talukeni kuli munyina uuli onse uuwikala mubunaŋani, kabili uushikala ukulingana namafundisyo mwapokelele ukufuma kuli fwebo.
+2TH 3:7 Pantu imwe mwebene mwalisiba fintu mufwile ukulatupasyanya, pantu tatwali banaŋani lintu twali namwebo,
+2TH 3:8 tatwalilepo umukate wamuntu uuli onse ukwabula ukulipa, lelo twalebombesya kabili twalebomba ubusiku nakasuba pakuti twiba ikisendo ku uli onse pali mwebo.
+2TH 3:9 Tepamulandu wakweba ati tatwakwata isyo nsambu, isyakuti muletutungilila, lelo nipamulandu wakumipela ikilangililo ikisuma ikyakulatupasyanya.
+2TH 3:10 Pantu nelyo twali namwebo, twalimipele iki ikipope ukuti, “Uwakana ukubomba nokulya elalya”.
+2TH 3:11 Pantu tulomfwa ukuti bamo pali mwebo banaŋani, tababomba inkito baikalilafye ulwambo.
+2TH 3:12 Nomba abantu bapalefyo tulabakonkomesya kumaka ya Mfumu Yesu Klistu ukuti balekita fintu bafwile ukulakita pakuti balepanga ubwikasi bwabo.
+2TH 3:13 Mweba bwananyina, mwilatendwa ukulakita ifisuma.
+2TH 3:14 Ngyakyakuti uuli onse akana ukukonka fintu twalanda muli iyi inkalata, mumwisibe bwino uyo muntu kabili mwilasangwa nao, pakuti abe nensoni.
+2TH 3:15 Mwilamumona ngo mulwani wenu, lelo mulemusoka ngamunonko.
+2TH 3:16 Nomba lekeni Imfumu yamutende iyine, imipe umutende munsita syonse kabili namusila yonse. Imfumu ibe namwebo bonse.
+2TH 3:17 Nebo ne Paulo nalemba aya amaposyo namaboko yandi. Ngekisibilo ku nkalata sintu nemba.
+2TH 3:18 Ukusenaminwa kwa Mfumu yesu Yesu Klistu kube namwebo bonse.
+JAM 1:1 Ninebo Yakobo, umubomfi wakwa Lesa ne Mfumu Yesu Klistu namiposya mwemikowa ikumi limo nasibili isyasalangana ifyalo fyonse.
+JAM 1:2 Mwebabwananina mulekimona ngesyuko amakyusi ya misango misango ngayamisila,
+JAM 1:3 pantu mwalisiba ukuti ukwesiwa kwa kitetekelo kyenu kuleta ukusipikisya.
+JAM 1:4 Lekeni ukusipikisya kupwisye umulimo wakuko, pakweba ati muleba abakula, kabili abapwililika ukwabula ukubulisya akantu nangu kamo.
+JAM 1:5 Umo pali mwebo ngaabulisya amano, alombe kuli Lesa ukuti amupele. Lesa nao uupelesya nensansa kuli onse uwamulomba akamupela.
+JAM 1:6 Lelo pakulomba afwile aketekela ukwabula ukutwisika, pantu onse uutwisika aba nge bimbi lya pali bemba ili sunkanisiwa nokupitwa nomwela.
+JAM 1:7 Umuntu uutwisika eenekela ukupokelela ikintu ikili kyonse ku Mfumu.
+JAM 1:8 Abafye uwabula ukusininkisya fintu ali nokukita, imilangwe yakwe yaluka alukafye.
+JAM 1:9 Uwabwananyina umupina afwile ukumfwa bwino palifintu Lesa amukindamika.
+JAM 1:10 Nomukankala nao afwile ukumfwa bwino pali fintu Lesa amupoka ubukindami, pantu akalukuta ngeluba lya kyani.
+JAM 1:11 Pantu akasuba katula akabalikisya, nekikabilila kilenga ikyani ukuma. Amaluba ya kyani yalalukuta nokuyemba kwapwa. Mu musango umo wine efintu nomukankala akonaulwa pansita apamfiwe namakwebo yakwe.
+JAM 1:12 Alisyuka umuntu uusipikisya mu mesyo. Pantu ngakimfya amakyusi akapokelela ikilambu kya mweo kintu Lesa alaya abantu abamutemwa.
+JAM 1:13 Ngamwatunkwa, peba nangu umo uufwile ukulanda ati, “Lesa antunka.” Pantu Lesa tekuti atunkwe ku mubifi kabili nao tekuti atunke uuli onse.
+JAM 1:14 Lelo umuntu atunkwa lintu ulunkumbwa lwakwe lwamongola no kumukwata.
+JAM 1:15 Elo ulunkumbwa ngalwaimita lufyala ulubembu, kabili no lubembu nga lwakula lufyala imfwa.
+JAM 1:16 Ala mwilabepwa mwe bwabananina!
+JAM 1:17 Ifyabupe fyonse ifisuma kabili ifyapwililika fifuma ku mulu. Fifuma kuli Tata uwabumba ifya mumulu ifipela ulubuuto. Uusyaluka ngekinsingwa kilesyunguluka.
+JAM 1:18 Lesa umwine ku kufwaya kwakwe ewatufyele kwi siwi lyakwe ilyakisinka pakuti tube abantansi pa fibumbwa fyakwe fyonse.
+JAM 1:19 Isibeni iki mwebabwananina abatemwikwa! Umuntu onse alingile ukuba uwayanguka ukumfwa, lelo uukokola ukulanda nokufulwa.
+JAM 1:20 Ukufulwa kwa muntu takuleta ubulungami buntu Lesa akabila.
+JAM 1:21 Talukeni ku fyakowela fyonse ne misango ibi yonse mukili nayo. Mulenakila Lesa nokupokelela amasiwi yakwe yantu abyala mu mitima yenu ayaba namaka yakumipususya.
+JAM 1:22 Mwilaibepa pakupelelafye mukumfwa amasiwi yakwa Lesa lelo mulekita nafintu yalemyeba.
+JAM 1:23 Onse umfwafye amasiwi lelo takita fintu yalanda, aba ngomuntu uwailolesya pamenso mwigilashi.
+JAM 1:24 Kabili lintu aimona aya, kabili palya pene ailaba fintu amoneka.
+JAM 1:25 Lelo onse uulolekesya mu Mafunde ayapwililika. Amafunde ayalenga umuntu ukuba umuntungwa, kabili atwalilila ukwabula ukuba komfwafye ulaba lelo kakita, akaba uwapalwa muli fyonse mumilimo yakwe yonse.
+JAM 1:26 Bonse abalanda ati nibakapepa, lelo tabasunga ululimi lwabo ninsi baibepafye abene nabukapepa bwabo buntu bwabula ubuyo.
+JAM 1:27 Bukapepa ubwalengama kabili ubusyakowela kuli Lesa nyubu, Kwafwa abana bansiwa naba mukamfwilwa muli fintu balekabila nokutalusya umuntu mukukowela kwisonde.
+JAM 2:1 Mwe babwananina, abasumina mu Mfumu yesu Yesu Klistu iyabukata, mwilaba nakapatulula.
+JAM 2:2 Ngakyakuti umukankala uufwele imbala minwe ya golide nefyakufwala ifyayemba aisa mu ŋanda muntu mulongene elo nomupina uwasapula nao aisamo.
+JAM 2:3 Ngamwapokelela bwino uufwele insalu isisuma mwamweba ukuti, “Ikala apa apaweme”, elo mwaeba umupina ukuti, “Webo keminine uko, nangu ati, soikale pansi mupepi nanebo,”
+JAM 2:4 Busye ninsi tekapatulula mwakita? Busye ninsi temano ayabi mwabomfya mukupingula?
+JAM 2:5 Ufweni mwebabwananina abatemwikwa bandi! Busye Lesa tasala aba bantu abo abantu pano sonde beta ukuti bapina ukuba abakankala mukitetekelo? Abasala ukupyana ubufumu buntu Lesa alaya abamutemwa.
+JAM 2:6 Lelo mwebo mwafupula abapina. Busye tebakankala abamifyengelesya no kumitatanisinsya mufilye?
+JAM 2:7 Busye tebasalula isina likindami ilyakwa Yesu lintu mwainikweko?
+JAM 2:8 Nga kyakuti ikine kine mulakita ifunde ilikalamba ilya mumalembo yamusilo ilyakuti, “Uletemwa umubiyo nga fintu waitemwa,” ninsi mulalungika.
+JAM 2:9 Lelo ngamulapatulula ninsi mulabembuka kabili namusangwa no mulandu wakutoba amafunde.
+JAM 2:10 Uyo onse usunga amafunde yakwa Lesa yonse elo atobapo limo, ninsi apanga umulandu wakutoba yonse.
+JAM 2:11 Pantu uwalandile ukuti, “Wilakita bukende,” ewalandile nokuti, “Wilaipaya.” Kansi ngataulekita bukende lelo uleipaya ninsi watoba amafunde.
+JAM 2:12 Imilandile yenu nemikitile yenu ileba nga bantu abalepingulwa ku mafunde ayalenga tube abantungwa.
+JAM 2:13 Pantu Lesa takomfwe luse pakupingula umuntu usyakwete uluse. Pantu uluse lwalikindama pabupingusi.
+JAM 2:14 Busye mwebabwananyina, bukumunsi bulimo umuntu ngalanda ukuti alikwata ikitetekelo nomba talebomba nangu kimo? Busye ikyo kitetekelo kuti kyamupususya?
+JAM 2:15 Nga kyakuti munyinenwe nangu nkansi yenu nasapula kabili takwete nefyakulya.
+JAM 2:16 Ngakyakuti umo pali mwebo alanda ukuti, “Mwende umutende, mulefwala mulekaba, mulelya muleikuta,” Lelo takitilepo nangu fimo pali fintu balekabila, busuma nsi bulimo?
+JAM 2:17 Mu musango umo wine, ikitetekelo kyekafye ukwabula ukubombapo nangu fimo kintu kyafwa.
+JAM 2:18 Nomba umo kuti alanda ukuti, “webo naukwata ikitetekelo, nanebo ndabomba imilimo iisuma.” Ndanga ikitetekelo kyobe ikyabula imilimo, nanebo nalakulanga ikitetekelo kyandi mu milimo yandi.
+JAM 2:19 Mwasumina ukuti kwabafye Lesa umo mpo. Kisuma! Nengulu sine nasyo syasumina ifyo fine kabili situtuma nomwenso.
+JAM 2:20 We kipumbu kya muntu we! Ulimukufwaya nkulange ukuti ikitetekelo kyabula imilimo iisuma kyafye?
+JAM 2:21 Busye kinsi kyalengele Aburahamu ikikolwe kyesu abe uwalungama pamenso yakwa Lesa? Nipamulandu nemilimo isuma akitile lintu atuulile umwana wakwe Isaaki ilambo pa kipailo.
+JAM 2:22 Mwamona ukuti ikitetekelo kyakwe nemilimo fyalebombela pamo, kabili nekitetekelo kyakwe kyapwililike kumilimo akitile.
+JAM 2:23 Kabili namalembo yafikilisye ayakuti, “Aburahamu asumine Lesa, kabili nekitetekelo kyakwe kyalengele Lesa ukumumona uwalungama pa kinso kyakwe.” Kabili Aburahamu aitilwe ukuti ni kibusa wakwa Lesa.
+JAM 2:24 Mwamona ukuti abantu betwa abalungama pali fintu bakita, te pakitetekelofye kyeka.
+JAM 2:25 Epamo pene naku mwanakasi Rahabu kilende. Lesa amumwene uwalungama pa kinso kyakwe pali fintu akitile. Apokelele inengu sya bena Israeli sibili, asyafwilisyako nokufyuka ukubomfya insila simbi.
+JAM 2:26 Nga filya umubili wamuntu ufwa umupasi wamuntu nga wafumamo, efintu nekitetekelo kiba ikyafwa ngatakilebomba milimo isuma.
+JAM 3:1 Mwebabwananyina mwileka abengi pali mwebo babe bakafundisya. Pantu mwalisiba ati fwebo fwe bakafundisya tukapingulwa ukukilapo.
+JAM 3:2 Pantu fwebonse tulapanga ifilubo. Nomba umuntu uusilufyanya muli fintu alanda ninsi alipwililika. Kabili ninsi aba muntu uwakwata amaka yakutungulula umubili wakwe onse.
+JAM 3:3 Tubika ikela mukanwa kakwa kabalwe pakuti alekita fintu tulefwaya. Ngatwakita ifi tulenga kabalwe ukuya konse kuntu tulefwaya.
+JAM 3:4 Tontonkanyeni pakyombo. Nangu kikule syani, nangu kipiitwe nekimwela ikyakosa syani, kipindulwilwafye kukakafi akanono nokuya konse kuntu kensya wakyombo alefwaya.
+JAM 3:5 Ululimi nalo efintu lwaba nangu lube kalundwa akanono akamubili, lulailumbanya ukuti lukita ifyakupapa. Tontonkanyeni fintu impanga iikalamba bayokyafye kuli kamulilo akanono.
+JAM 3:6 Ululimi nalo lwaba kwati mulilo. Pafilundwa fyamibili yesu, ululimi lwaba kwati kyalo ikyaisulamo ububi bonse, lusalanganya ububi mu mubili onse. Lutanda umulilo mu bumi bwesu bonse ubwa pano kyalo kabili lwena lufumya uyu mulilo kumbo.
+JAM 3:7 Umuntunse kuti ateeka imitundu yonse iya nama syampaanga, ifyoni, ifikulika nefyamuli bemba nakuba fyonse ifi tulafiteeka.
+JAM 3:8 Lelo tapali umuntunse uwingateeka ululimi. Ululimi talutuusya ku bubifi kabili lwaisulamo no busungu ubwipaya.
+JAM 3:9 Ku lulimi tulalumbanisisyako Imfumu na Tata, nakabili ku lulimi lumolwine tulatipwililako abantu banensu ababumbwa mukyata kyakwa Lesa.
+JAM 3:10 Ku kanwa kamo kene kufuma ukutipwila no kulumbanya, mwebabwananina ifi tefintu kifwile ukuba.
+JAM 3:11 Busye kuti amensi ayasuma na yakikelekese yafuma pa kilambe kimo?
+JAM 3:12 Mwebabwananina, busye umukunyu kuti watwala ifisabo fya miolife, nangu umwangasi ukutwala amakunyu? Ala tekuti ikilambe kya mensi ya kikelekese kifumye amensi ayasuma.
+JAM 3:13 Ninani pali mwebo uwamano kabili uwailuka? Uyo afwile ukulanga ukuti wamano kabili muntu wailuka mumikitile yakwe isuma mu fintu akita, mukuikefya nokuba uwamano mulifyonse fintu alekita.
+JAM 3:14 Lelo mu mitima yenu ngamwalikwata umufimbila ngansi no kuitemwa, lekeni ukuyumfwilapo nangu ukukana ikisinka.
+JAM 3:15 Amano yamusango uyo, tayafuma ku mulu, lelo ya pano isonde, teyabumupasi lelo yakwa kiwa.
+JAM 3:16 Pantu uko ukuli umufimbila nokuitemwa, ekuba nekimfulunganya ne misango yabubifi yonse.
+JAM 3:17 Lelo amano ayafuma kuli Lesa yena yaba ayasanguluka, yamutende, yamutembo no bufuke. Elo kabili yakwatisya uluse yakitafye ifisuma. Tayaba namunkisya kinani lelo yaiminina pakisinka.
+JAM 3:18 Ukuba uwalungama pa kinso kyakwa Lesa, efisabo abasopa umutende basombola lintu babyala mu mutende.
+JAM 4:1 Busye ifilenga mulesosa nokulapusana fifuma kwisa? Busye temukukonkelela ulunkumbwa ululwisikana muli mwebo?
+JAM 4:2 Mulafwaya ukukwata ifintu nomba tamukwata, ekyo mulepailapo na bantu. Mufimbila ukukwata nomba tamukwata, eco mupusanina no kulwa. Ekyo tamukwatila nipamusango tamulomba kuli Lesa.
+JAM 4:3 Ngamwalomba, tamupokelela pamusango mulomba na mapange ayabi. Mulomba ifintu fyakumisansamusya mwebene.
+JAM 4:4 Mwe bantu bafutatila Lesa mwe! Busye tamwaisiba ukuti ukuba bukibusa nesonde kuba ubulwani kuli Lesa? Kansi onse uwasala ukuba kibusa ne sonde aba mulwani wakwa Lesa.
+JAM 4:5 Mwilatontonkanya ukuti tefisinka ifyalembwa mu malembo ifilanda ukuti, “Lesa alitutemwisya ngansi kabili alatufwila ubukwa pamulandu no mupasi untu abika mulifwebo.”
+JAM 4:6 Lelo atupela ukusenaminwa ukukalamba. Ekintu amalembo yalandila ukuti, “Lesa acincintila abafilumba lelo abaikefya bena alabakwatila ikikuku.”
+JAM 4:7 Kansi mulenakila Lesa. Mule ansya Kiwa nao akamibutuka.
+JAM 4:8 Palamineni kuli Lesa nao akapalama kuli mwebo. Mwe babembu sambeni iminwe yenu! Sangululeni imitima yenu mweba myalu myalu.
+JAM 4:9 Beni nobulanda, lileni nokuloosya. Lekeni inseko syenu syaluke imisowa nensansa sibe ubulanda.
+JAM 4:10 Muleikefya pa kinso kya Mfumu, nayo ikamisansabika.
+JAM 4:11 Mwebabwananyina mwila ambana. Onse uwalanda ifibi pali munyina nokumupingula, ninsi alanda ifibi pa mafunde yakwa Lesa no kuyapingula. Kansi ngawapingula amafunde yakwa Lesa ninsi tauleyanakila iyoo lelo uleyapingulafye.
+JAM 4:12 Kwabafye umo kapela wamafunde kabili kapingula, uwingapususya nokulofya. Nomba busye niwebo nani uwakupingula umubiyo?
+JAM 4:13 Umfweni nomba mwebalanda ukuti, “Lelo nangu mailo, tukaya kuli uyu nangu kuli ulya musumba. Tukayapwako umwaka umo, tuyapanga amakwebo nokupanga ulupiya ulwingi.”
+JAM 4:14 Tamwaisiba fintu ubwa mailo bukaba. Tamwaisiba ngamukaba abomi. Mwebo mwabafye nga fube fube uumoneka pa kasitafye akanono, kabili mwaluba pantu ele.
+JAM 4:15 Fintu mulingile ukulalanda nifi, “Imfumu nga yafwaya tukaba abomi kabili tukakita ifi na filya.”
+JAM 4:16 Nomba mwebo muupanga ifilumba nokulayumfwa. Ukuyumfwa konse ukwamusango uyu kuntu kwabipa.
+JAM 4:17 Kansi umuntu onse uwaisiba ifisuma fintu afwile ukukita, nomba takita, ninsi lubembu kuli ena.
+JAM 5:1 Umfweni mwe bakankala, lileni ifilamba, mwangwilepo nemisowa pamusango na makyusi ayalamisila.
+JAM 5:2 Ifyuma fyenu nafibola, kabili nensalu syenu nasiliwa ku buswa.
+JAM 5:3 Golide na Silufele yenu nafikwata indalawa. Nesi ndalawa sikaba ekambone wakumisinina. Sikalya imibili yenu kwati mulilo. Mwebo namuitulikila ifyuma munsiku syakulekelesya.
+JAM 5:4 Moneni ifilambu mwafililwe ukupela ababomfi abalebomba mu mabala yenu filelilila palimwebo. Imisowa syabalesombola mu mabala yenu, nasifika mu matwi yakwa Lesa Wamaka yonse.
+JAM 5:5 Mubwikasi bwenu ubwa pano isonde mwaleposa ulupiya pa fyakuisansamusya mwebene mweka, nokuilemena. Namuinya mubusiku ubwakwipaiwa.
+JAM 5:6 Mupingwila abantu bakaele imilandu nokubepaya mulabepaya, nabo tabakanako nakalya.
+JAM 5:7 Mwebabwananyina muleteka imitima mpaka nalintu Imfumu ikabwela. Moneni fintu umulimi ateka umutima pakulolela, ifisabo ifisuma fikule fipye mwibala lyakwe. Ateka umutima nokulolela imfula yakubalilapo ne yakulekelesya.
+JAM 5:8 Nemwe bene muleteka imitima nokwiminina abakonsa ndi, pamusango ukwisa kwa Mfumu nakupalama.
+JAM 5:9 Mwebabwananyina, mwilaisosya pali fintu umubiyo akita, pakuti mwikapingulwa. Moneni Kapingula ali pa mwinsi.
+JAM 5:10 Mwebabwananyina, fisendeni ngekilangililo fintu bakasesema abalelandila mwisina lya Mfumu balekita, baleteka imitima munsita ya makyusi.
+JAM 5:11 Moneni, balya basipikisya mu makyusi ebo twita abasyuka. Mwalyumfwa ukusipikisya kwakwa Yobo nafintu Lesa amulambwile pakulekelesya pantu imfumu yafulisya uluse no kukuntikilwa.
+JAM 5:12 Nekyakilapo mwe bamunyinane mwilalapa mulapo pakulaya ikilayo. Mwilalapa mulu ne ikyalo, nangu ikintu kyonsefye. Lelo mwebo mulelandafye ngani “Ee” ati ee nga ni “Awe” ati awe, ngateifyo Lesa akamipingula.
+JAM 5:13 Busye umo pali mwebo ali mumafya? Napepe. Busye umo pali mwebo ali nensansa? Naembe inyimbo syakulumbanya Lesa.
+JAM 5:14 Busye umo pali mwebo nalwala? Naete abakalamba ba mulukuta bamupepelele nokumusuba amafuta mwisina lya Mfumu.
+JAM 5:15 Kabili nepempo lya mukitetekelo likalenga umulwele ukupola. Imfumu ikamundapa nokumubelela uluse ngalibembuka.
+JAM 5:16 Kansi Muleyebelela imembu kuli kila umo naumo nokulapepelana pakuti mulepola. Ipepo lya mulungami lilabomba na maka.
+JAM 5:17 Eliya alifye muntu ngafwebo. Apepele pamaka ukuti imfula iloka kabili nayo tayalokele pa myaka itatu nekipande.
+JAM 5:18 Nakabili apepele ukuti iloke nayo yalilokele nefisabo fyatwala pamusili.
+JAM 5:19 Mwebabwananyina, umo pali mwebo nga ayaluka, afuma na munsila yakisinka elo umbi amwalulula nakabili, isibeni iki.
+JAM 5:20 Umuntu onse uwayalulula umubembu ukufuma kumibele yakwe iyalubembu, akapususya ulya muntu kumfwa kabili akafimba pa membu isingi.

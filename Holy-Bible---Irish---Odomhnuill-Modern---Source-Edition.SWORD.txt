@@ -1,0 +1,1157 @@
+## Aionian Bible
+## File Name: Holy-Bible---Irish---Odomhnuill-Modern---Source-Edition.SWORD.txt
+## File Usage: Holy-Bible---Irish---Odomhnuill-Modern
+## File Created: 08/23/2024 00:17:22
+## File Purpose: Supporting resource for the Aionian Bible project
+## File Location: https://resources.AionianBible.org
+## Publisher Name: Nainoia Inc
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
+## Publisher Facebook: https://www.Facebook.com/AionianBible
+## Source URL: https://crosswire.org/sword/modules/ModInfo.jsp?modName=IriODomhnuill
+## Source File: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/IriODomhnuill.zip
+## Source Date: 07/21/2015 04:31:30
+## Source Copyright: Public Domain
+## Source Text: unaltered below
+##
+
+Luke 1:0 <lb type="x-begin-paragraph"/>
+Luke 1:1 Do bhrígh gur ghabhadar mórán do láimh sdair do sgríobhadh air na neithibh agá bhfuil a sáirfhios aguinne,
+Luke 1:2 Do réir mar thugadar na dáoine do chonnairc lé na súilibh rein ó thús, agus do bhí ag miniosdrálachd na bréithre, dhúinne <hi type="italic">íad</hi>;
+Luke 1:3 Do chonncas damhsa mar an gceudna, a Theophilus ro oirdheirc, ar bhfagháil feasa iomlan gach uile neithe ó na bhfíorthosach dhamh, a sgríobhadh chugadsa a nórdughadh,
+Luke 1:4 Do chum go mbía deimhin na mbriathar, do múineadh dhuit agad
+Luke 1:5 Re linn Iorúaith, rí <hi type="italic">thire</hi> Iúdaighe, do bhí sagart airighe dár bhainm Sacharías, do sheal Abía: agus a bhean dingheanuibh Aaróin, agus, Elísabet do baimn dhi.
+Luke 1:6 Agus do bhádar a ráon nit <hi type="italic">ndáoinibh</hi> fíreanta a bhfíadhnuisi Dé, ag siobhal go neimhchiontach ann uile aitheantuibh agus órduighthibh an Tighearna.
+Luke 1:7 Agus ní raíbh, shiochd orrtha, do bhrígh go raibh Elisábet aimrid agus go raibh áois mhór aca ar áon.
+Luke 1:8 Agus tárla, an tan do bhí sé ag déanamh oifige an tsagairt a bhfiadhnuisi Déann a sheal fein,
+Luke 1:9 Do réir ghnáthuighthe oifige an tsagairt, go ráinic dhó an túis do losgadh tar éis dul a sdeach go teampoll an Tighearna dhó.
+Luke 1:10 Agus do bhí coimhthionól an phubail uile ag déanamh úrnuighe a muigh a naimsir na túise.
+Luke 1:11 Agus do taidhbhreadh dhó aingeal an Tighearna na sheasamh ar an dtáoibh ndeas daltóir na túise.
+Luke 1:12 Agus ar <hi type="italic">na</hi> fhaicsin do Shacharías, do bhí sé ar na bhúaidhreadh, agus do ghlac eagla é.
+Luke 1:13 Achd a dubhairt an taingeal ris, Ná bíodh eagla ort, a Shacharías: óir do héisdeadh húrnuighe; agus béaruidh do bhean Elisábet mac dhuit, agus do bhéara tú Eóin mar ainm air.
+Luke 1:14 Agus budh gáirdeachus agus lúathgháire dhuit é; agus biaidh lúathghaire ar mhóran fa na bhreith.
+Luke 1:15 Oir bíaidh sé <hi type="italic">na dhuine</hi> mhór a bhfíadhnuisi an Tighearna, agus ni íobha sé fíon na deoch láidir; agus fós bíaidh sé lan don Spiorad Náomh, ó bhroinn a mháthar.
+Luke 1:16 Agus fillfidh sé mórán do chlannuibh Israél chum an Tighearna a Ndia féin.
+Luke 1:17 Oir géubhaidh seisean roimhesan a spioraid agus a shubháilce Elias, dfilleadh chroidheadh na naithreach chum na cloinne, agus na neasmhal chum gliocuis na dáoine gcomhthrom; agus dullmhughadh phobuil dhiongmhálta don Tighearna. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:18 ¶ Agus a dubhairt Sacharías ris an aingeal, Cionnas bhías a fhios so agamsa? óir a táim um dhuine arsuidh, agus a tá áois mhór ag am mhnáoi.
+Luke 1:19 Agus ar bhfreagra don aingeal a dubhairt sé ris, Is misi Gabríel, sheasas a bhfíadhnuisi Dé; agus do cuireadh mé do labhairt riotsa, agus dinnsin na núaidheachd maith so dhuit.
+Luke 1:20 Agus, féuch, bíaidh tú gan úrlabhra, agus ní bá héidir leachd labhairt, go soithe an lá an a dtiocfaid na neithe so chum críche, do bhrígh nar chréid tu dom bhríathraibhsi, noch coimhlíonfuighear na nam féin.
+Luke 1:21 Agus do bhí an pobal ag fuireach ré Sacharías, agus do biongnadh léo an fad do fhan sé sa teampoll.
+Luke 1:22 Agus ar ndul a mach dhó, nír bhéidir leis labhairt ríu: agus do aithnigheadar go bhfacaidh sé taidhbhsi sa teampoll: óir do sméid sé orrtha, agus do fhan sé balbh.
+Luke 1:23 Agus tárla dhó, an tan do coimhlionadh laéthe a mhiniosdrálachda, go ndeachaidh sé dhá thigh féin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:24 ¶ Agus tar éis na laethesi, do toirrcheadh Elisabet a bheansân, agus do fholaigh si í féin ar feadh chuig mios, ag rádh,
+Luke 1:25 Oír is mar so do rinne an Tighearna rium ann sna laethibh an ar fhéuch sé oram, do thógbháil mo neimhcheana dhiom a measg na ndáoine. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:26 ¶ Agus an sa seisiodh mi, do cuireadh an taingeall Gabríel ó Dhía go cathruigh don Ghalilé, dár bainm Násaret,
+Luke 1:27 Dionnsuighe óighe ar a raibh ceart ag fear do thigh Dháibhí, dár aínm Ióseph; agus <hi type="italic">do bé</hi> do bainm do nóigh, Muire.
+Luke 1:28 Agus ar ndul a sdeach dit hionnsuighe do naingeal, a dubhairt <hi type="italic">se</hi>, Dia do bheatha <hi type="italic">a ógh</hi> roghrásamhuil: <hi type="italic">a tá</hi> an Tighearna maille riot: <hi type="italic">is</hi> beannuighe thú eidir na mnáibh.
+Luke 1:29 Agus an tan do chonnairc sí <hi type="italic">é</hi>, do bhí sí ar na búaidhreadh fá na bhriathraibh, agus do bhí sí ag smúaineadh créd an ghné bheannughtheaso.
+Luke 1:30 Agus a dubhairt an taineal ria, Ná bíodh eagla ort, a Mhuire: óir fúair tú grása ó Dhía.
+Luke 1:31 Agus, féuch, bíaidh tú torrach ad bhruinn, agus béaraidh tú mac, agus do bhéara tú IOSA dainm air.
+Luke 1:32 Bíaidh se mór, agus goirfidhear Mac an té is Airde dhe: agus do bhéura an Tighearna Día caithír Dháibhí, athar <hi type="italic">féin</hi> dhó.
+Luke 1:33 Agus bíaidh sé na righ ar thigh Iácob go bráth; agus ní bhía deireadh ar a ríoghachd.
+Luke 1:34 Agus a dubhairt Muire ris a naingeal, Cionnas bhías so, óir ní bhfuil fios fir agamsa?
+Luke 1:35 Agus ar bhfreagra do naingeal a dubhairt se ría, Tuirléonguidh an Spiorad Náomh ort, agus foiléochaidh cumhachda an té as Airde thú: uime sin an ní náomhtha bhéaras tú goirfighear Mac Dé dhe.
+Luke 1:36 Agus, féuch, Elisabet do shiur, a tá sisi leis torrach air mhac ann a hárrsuigheachd: agus is sé so an seisiodh mí don mhnáoi úd, dá ngoirthear <hi type="italic">bean</hi> aimrid.
+Luke 1:37 Oír ní bhía ní ar bith doidhéunta do Dhia.
+Luke 1:38 Agus a dubhairt Muire, Féuch, banóglach an Tighearna; teagmhadh dhamhsa do réir do bhréithrisi. Agus do imthigh an taingeal úaithe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:39 ¶ Agus an tan do éirigh Muire ann sna laéthibh sin, do chúaidh sí go dheíthneasach chois sléibhe, go cathraigh Iúda;
+Luke 1:40 Agus do chúaidh sí a steach go tigh Shacharías, agus do bheannaigh si Délisabet.
+Luke 1:41 Agus tarla, mar do chúalaidh Elisabet beannughadh Mhuire, gur bhíog an náoidheanán ann a broinn; agus do bhí Elisábet air na líonadh don Spiorad Naomh.
+Luke 1:42 Agus do éigh sí do ghuth mhór, agus a dubhairt si, Is beannaighthe thú eidir na mnáibh, agus <hi type="italic">is</hi> beannaighthe toradh do bhronn,
+Luke 1:43 Agus cionnus do éirigh so dhamsa, go dtiocfadh matháir mo Thighearna <hi type="italic">féin</hi> chugam?
+Luke 1:44 Oir, féueh, comhlúath is tháinic fúaim do bheannaighthe am chlúasaibh, do bhíog an náoidheanán lé gáirdeachus ann mo bhroinn.
+Luke 1:45 Agus <hi type="italic">is</hi> beannaighthe au bhean do chreid: óir coimhlionfuidhear na neithe do gheall an Tighearna dhi. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:46 ¶ Agus a dubhairt Muire, Adhmolaidh manam an Tighearna,
+Luke 1:47 Agus do ní mo spiorad gáirdeachus a Ndía mó Shlánuightheóir.
+Luke 1:48 Do bhrígh gur fhéuch sé ar úmhla a bhanóglaighe <hi type="italic">f</hi>é<hi type="italic">in:</hi> oír, féuch, ó so súas goirfid na huile chine beannuighthe dhíom.
+Luke 1:49 Oir do rinne an té a tá cumhachdach neithe móra dhamhsa, agos <hi type="italic">is</hi> náomhtha a ainm.
+Luke 1:50 Agus <hi type="italic">a tá</hi> a thrócaire ó dhíne go díne don dréim ar a bhfuil a eagla.
+Luke 1:51 Do rinne sé gníomh láidir lé na láimh; do spréigh sé na <hi type="italic">dáoine</hi> úraibhreacha a smúaintighe a gcroidheadh <hi type="italic">féin</hi>.
+Luke 1:52 Do tharruing sé na dáoine cumhachdacha as <hi type="italic">a</hi> gcaithiribh, agus do árduigh sé na dáoine umhla.
+Luke 1:53 Do líon sé na <hi type="italic">dáoine</hi> ocracha lé, neithibh maithe; agus do chuir sé úadh na dáoine saidhbhre folumh.
+Luke 1:54 Do thóg sé súas Israél a shearbhfhoghantuidhe féin, do chuimhniughadh ar a thrócaire;
+Luke 1:55 (Mar do labhair sé ré ar naith-reachuibh, Abraham, agus ré na shíol go bráth.)
+Luke 1:56 Agus do fhan Muire na fochair timcheall thrí míos, agus do fhill sí dhá tigh féin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 1:57 ¶ Agus táinic ionbhuidh Elisabet ion ar mhídhid dhigh breath; agus rug sí mac.
+Luke 1:58 Agus do chúaladar a comharsain agus a dáoine gáoil, gur fhoillsigh an Tigh­earna a thrócaire mhór <hi type="italic">féin</hi> di; agus do rinneadar gáirdeachus má ráon ria.
+Luke 1:59 Agus tárrla, go dtangadar air a nochdmhadh lá do chum go ndéanaídís an náoidhe do thimcheallghearrádh; agus do ghoireadar Sacharias de, do reir anma a athair.
+Luke 1:60 Achd ar bhfreagra dhá mháthair a dubhairt sí, Ni <hi type="italic">hámhluidh bhías;</hi> achd Eóin goirfidhear dhe.
+Luke 1:61 Agus a dubhradar ría, Ní bhfuil éannduine dod chineadh dá ngoirthear an tainmsi.
+Luke 1:62 Agus do rinneadar comhartha dhá athair, créd an tainm bá mían leis do thabhairt air.
+Luke 1:63 Agus ar níarruidh cláir sgriobhtha dhosan, do sgríobh <hi type="italic">sé,</hi> ag rádh, Is Eóin is ainm dhó. Agus do ghabh iongantus íad uile.
+Luke 1:64 Agus ar an mball do hosgladh a bhéulsan, agus a theanga, agus do labhair sé, ag moladb Dé.
+Luke 1:65 Agus do ghabh eagla a gcomharsuin uile: agus do haithriseadh na neithe so uile chois tsléibhe thíre Iúdaighe uile.
+Luke 1:66 Agus gach uile dhuine dhá gcúalaidh <hi type="italic">sin,</hi> do chuireadar a dtaisgidh an a gcroidh­thibh <hi type="italic">féin iad,</hi> ag rádh, Créd é an sórt leinibh bhias so! Agus do bhí lámh an Tighearna maille ris.
+Luke 1:67 Agus do bhí Sacharías athair, lán don Spíorad Náomh, agus do rinne sé faidheadóireachd ag rádh,
+Luke 1:68 <hi type="italic">Go madh</hi> beannaighe au Tighearna Día Israel; ar son gur fhiosruigh sé agus gur fhúasgail sé a phobal <hi type="italic">féin</hi>,
+Luke 1:69 Augs do thóg sé súas adharc na sláinte dhúinne a dtigh Dháibhi a shearbh­fhoghantuidhe <hi type="italic">féin</hi>;
+Luke 1:70 Do réir mar do labhair sé tré bhéul a fháidheadh náomhtha <hi type="italic">féin,</hi> do bhí ann ó thús an domáin:
+Luke 1:71 Ga gcuimhdéochadh sé sinn ó ar ­naimhdibh, agus ó láimh gach uile <hi type="italic">dhuine</hi> agá bhfuil fúath dhuinn;
+Luke 1:72 Go ndéanadh sé trócaire air ar naith­reachuibh, agus go gcuimbnéochadh sé a thiomna náomhtha <hi type="italic">féin;</hi>­
+Luke 1:73 Agus ar an mionna lé a dtug sé móid Dábrahám ar nathairne, go dtiubhradh sé dhúinn,
+Luke 1:74 Go mbémís gan eagla air ar sáoradh ó láimh ar námhad do chum seirbhisi do déanamh dhó <hi type="italic">féin</hi>,
+Luke 1:75 A náomhthachd agus a bhfíréantacld na fhíadhnuisiséan, a laéthibh ar mbeatha uile.
+Luke 1:76 Agus tusa, a leinibh, goirfithear diot faídh an té as Airde: óir rachuidh tú roimh aghaidh an Thighearna dullmhughadh a shligheadh;
+Luke 1:77 Do thabhairt éolus na sláinte dá phobal tré mhaitheamhnus na bpeacadh,
+Luke 1:78 Tré thrócaire ro mhóir ar Ndia <hi type="italic">féin</hi>; lér fhiosruigh <hi type="italic">sé</hi> sinn ag éirghe ón <hi type="italic">ionad</hi> árd,
+Luke 1:79 Do thabhairt soillsi don droing do bhí na suidhe a ndorchadas agus a sgáile ­an bháis, agus do dhíorghadh ar gcos a slighe na síothchána.
+Luke 1:80 Agus do fhás an leanabh, agus do neartuigheadh é a spíoruid, agus do bhí sé ar na fásuighibh go soithe an lá an ar fhoillsigh sé é féin Dísraél. <lb type="x-end-paragraph"/>
+Luke 2:0 <lb type="x-begin-paragraph"/>
+Luke 2:1 Agus tárla ann sna láethibh sin, go ndeachuidh áithne ó Shéasar Augustus, an domhan uile do mheas,
+Luke 2:2 (Ag so an céudmheas do rinneadh an tan do bhi Sirénius na úachdarán ar Shíria.)
+Luke 2:3 Agus do chúadar eile dhá meas, gach áon fá leith dhá chathruigh féin,
+Luke 2:4 Agus do chúaidh Ióseph mar an gcéudna súas ón Ghalilé, as an gcathraigh Nasarét, go <hi type="italic">tír</hi> Iúdaighe, go cathruigh Dhaibhi, dá ngoirthear Bétleem; do bhrígh go raibh sé do thigh agus do shliochd Dháibhí:
+Luke 2:5 Ionnus go measfuigh é maille ré Muire do bhi ar na ceangal ris mar mhnáoi, ar mbeith dhi torrach. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:6 ¶ Agns tárla, ar mbeith dhóibh ann sin, go dtangadar laéthe a hionbhuidhsean.
+Luke 2:7 Agus rug sí mac a céudduine cloinne, agus do chuir sí giobuil cheangail na thimcheall, agus do chuir sí na luighe a mainséur é; do bhrígh nach raibh ait aca sa tigh ósda. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:8 ¶ Agus do bhádar áodhairidhe sa dúithche sin na gcomhnuidhe a muigh, agns ag déanamh faire oidhche ar a dtréd.
+Luke 2:9 Agus, féuch, do sheas aingeal an Tighearna láimh léo, agus do shoillsigh ghlóir an Tighearna na dtimcheall: agus do ghabh eagla mhór íad.
+Luke 2:10 Agus a dubhairt an taingeal riú, Na bíodh eagla oruibh: óir, feuch, a táim ag soisgéulughadh dhíbh gáirdeachus mór, noch bhías do gach uile phobal.
+Luke 2:11 Oír rugadh an Slánuightheoir dháoibh a niu, (éadhon Críosd an Tighearna,) a gcathruigh Dháibhí.
+Luke 2:12 Agus ag so comhartha dhíbh; Do ghéubhtháoi an leanabh ceanguilte a ngiobluibh, na luighe a mainnséur.
+Luke 2:13 Agus do bhí go hobann cuideachda mhór do shlúagh neamhdha a bhfochair an aingil ag moladh Dé, agus ag rádh,
+Luke 2:14 Glóir do Dhía ann sna hárduibh, agus síodhcháin ar an dtalamh, deaghthoil do na dáoinibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:15 ¶ Agus tárla, mar do imthigheadar na haingil úatha ar neamh, go ndubhradar na háodhairidhe ré chéile, Imthigheam anois don Bhetléem, agus féucham an ní so do rinneadh, noch do fhoillsigh an Tighearna dhúinn.
+Luke 2:16 Agus tangadar go deithneasach, agus fuaradar Muire agus Ióseph, agus an náoidhe na luighe a mainnséur.
+Luke 2:17 Agus an tráth do chonncadar <hi type="italic">sin</hi>, do aithriseadar an ní a dubhradh riú a dtimcheall an leinibhsin.
+Luke 2:18 Agus na huile dháoine da gcúalidh <hi type="italic">so</hi> do ghabh iongantus íad fá na neitheibh a dubhradar na háodhairidhe ríu.
+Luke 2:19 Achd do thaisgidh Muire na bríath­rasa uile, dá mbreathnughadh ann a croidhe.
+Luke 2:20 Agus do fhilleadar na háodhairidhe, ag tabhairt glóire agus ag moladh Dé tré gach ní da gcúaladar agus da bhfacadar, mar a dubhradh riú. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:21 ¶ Agus an tan do coimhlíonadh ochd lá chum an leinibh do thimcheallgherradh, tugadh' IOSA mar ainm air, éadhon an tainm do ghoir an taingeal de suil do gheineadh a mbroinn é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:22 ¶ Agus an tan do coimhlíonadh laéthe glanta <hi type="italic">Mhuire</hi> do réir reachda Mháoisi, rugadar léo go Hiarusaléim é, da thaisbéanadh don Tighearna;
+Luke 2:23 (Mar a tá scriobhtha a reachd an Tighearna, Gach céudghein mhic thuismeas brú bíaidh sé náomhtha don Tighearna;)
+Luke 2:24 Agus do thabhairt ofrála, do réir mar a dearthar a reachd an Tighearna, Cúpla turtair, nó dha gheirrceach coluim. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:25 ¶ Agus, féuch, <hi type="italic">do bhí</hi> duine a Níarusaléim, dár bhainm Símeon; agus <hi type="italic">do bhí</hi> an fearso comhthrom diadha, agus a shúil ré comhfhurtachd Israel: agus do bhí an Spíorad Náomh ann,
+Luke 2:26 Agus do fhoillsigh an Spiorad Náomh dhó, nach bhfaicfeadh sé bás, nó go bhfhaicfeadh sé Criosd an Tighearna,
+Luke 2:27 Agus táinic sé maille ré tréoir na Spioraide don teampoll: agus an tan thug a athair agus a mháthair an leanabh Iósa, do chum go ndéanaídis ar a shon do réir gnáthuighthe an dlighe,
+Luke 2:28 Ann sin do ghabh seision chuige ann a uchd é, agus do mhol sé Día, agus a dubhairt <hi type="italic">sé,</hi>
+Luke 2:29 A Thighearna, a nois leigeas tú dod shearbhfhoghantuidhe imtheachd a síodhchain, do réir tfhocail <hi type="italic">féin</hi>:
+Luke 2:30 Oir do chonncadar mo shúile do shlánughadhsá,
+Luke 2:31 Noch do ullmhuigh tú a bhfíadhnuisi na nuile phobal.
+Luke 2:32 Solus do dhéunadh soillsi do na Cineadhachuibh, agus glóir do phobail <hi type="italic">féin</hi> Israél.
+Luke 2:33 Agus do ghabh iongantus Ióseph agus a mháthairsion fá na neithibh a dubhhradh na thimcheall.
+Luke 2:34 Agus do bheannuigh Símeon íad, agus a dubhairt sé ré Muire a mhathairsion, Féuch, a tá sé so ar na órdughadh do chum <hi type="italic">tuitme</hi> agus eiséirghe mhóráin a Nisraél; agus na chomhartha agá gcuirfithear na aghaidh;
+Luke 2:35 (Agus fós, rachaidh cloidh éamh tré thanamsa mar an gcéudna,) do chum go nochdfuidhe smúaintighthe as mórán do chroidhibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:36 ¶ Agus fós do bhí Anna, banfháidh, inghean Phánuel, do threibh Aser: do bhi aois mhór aiceso, tár éis seachd mblíadhna do chaitheamh dhi ag fear a ndiáigh a maighdeannis;
+Luke 2:37 Agus ar mbeith na baintreabhuigh a dtinicheall cheithre mblíadhan agus cheithre tichid dhi, níor fhág sí an teampoll, achd ag déunamh seirbhísí do <hi type="italic">Dhía</hi> do ló agus doidhche le trosgadh agus lé húrnuighthe.
+Luke 2:38 Agus táinic so do láthair ar an úair gcéudna agus dadmhuigh sí na thimcheall ré gach áon agá raibh súil ré fúasgladh an Iarusaléim. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:39 ¶ Agus mar do chríochnuigheadar gach uile ni do réir reachda an Thighearna, do fhilleadar don Ghalilé, da gcathruigh féin Násarét.
+Luke 2:40 Agus do fhás an macaomh, agus do neartuigheadh é a spioraid, agus do bhí sé lán deagna: agus do bhí grása Dé maille ris. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:41 ¶ Agus do ghnáthuigheagh a athair agus a mháthair dul gach a blíadhna go Híarusaléim a sollamuin na cásg.
+Luke 2:42 Agus ar mbeith dhá bhliadhan déug dho, do chuadar suas go Híarusaléim, do réir ghnáthuighthe na sollamna.
+Luke 2:43 Agus are geríochnughadh na, láetheadh sin, an tan do fhilleadarsan, dfan anleanabh Iósa a Níarusaléim; gan fhios do Ióseph ná dhá mháthair.
+Luke 2:44 Agus, an tan do shaóileadar go raibh sé na gcuideachda, do shiobhladar asdar laoi; agus diarradar é a measg a ndaoine gaoil agus aitheanta.
+Luke 2:45 Agus an tan nach bhfúaradar é, do fhilleadar arís go Híarusaléim, dhá iarruigh.
+Luke 2:46 Agus tárla, trí lá dá éis sin, go bhfúaradar é ann sa teampoll, na shuidhe a measg na ndoctúireadh, ag éisdeachd ríú, agus ag cur cheasd ortha.
+Luke 2:47 Agus do ghabh iongnadh gach uile dhuine dá gcúalaidh é fá na thuigsin agus fá na fhreagarthaibh.
+Luke 2:48 Agus ar na fhaicsin dóibh, do ghabh úathbhás iad: agus a dubhairt a mháthair ris, A mhic, créd fá ndearna tú mar so rinn? Féuch, do bhí misi agus dathair lán do dhobhron dod lordaireachd.
+Luke 2:49 Agus a dubhairt seision ríu, Créd fá rabhabhair dom lorgaireachdsa? An né nach raibh a fhios agaibh gur bhéigin damhsa bheith ag déanamh ghnódhaighthe Mathar?
+Luke 2:50 Achd níor thuigeadarsan na briathra do labhair se ríu. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 2:51 ¶ Agus do chuáidh sé léo síos, agus táinic sé go Násaret, agus do bhí sé umhal dóibh: agus do thaisgidh a mháthair na briathra so uile an a croidhe.
+Luke 2:52 Agus dó bhí Iósa ag fás an eagna, agus a naóis, agus a ngean ag Día agus ag daóinibh. <lb type="x-end-paragraph"/>
+Luke 3:0 <lb type="x-begin-paragraph"/>
+Luke 3:1  Agus an-cuigeadh bliadhan déug dimpireachid Thibérius Séasar, ar mbeith do Phonsius Phioláid na úachdarán a ttir Iúdáighe, agus Ioruáith na théatrarc sa Ngalilé, agus Philip a dhearbhrathair na théatrarc air Ituréa agus air chrích Thrachonítis, agus Lísánias na thetrarch air Abiléne,
+Luke 3:2 An tan do bhí Annas agus Caiphás na nárdshagartuibh, tháinic bríathar Dé chum Eóin mhic Sacharías san bhfásach.
+Luke 3:3 Uime sin tháinic sé ar feadh na dúithche a dtimcheall Iórdan, ag seanmóir bhaisdigh na haithrighe chuin maithmbeachuis na bpeacadh;
+Luke 3:4 Mar a tá sgríobhtha a leabhar comhráidhteagh Esaías fáidh, a deir, Guth an té éighmheas ar an bhfásadh, Ullmhuighidh slighe an Tighearna, déanuidh a chasáin díreach.
+Luke 3:5 Líonfuidhear gach uile ghleann, agus ísleochthar gach uile sliabh agus chnoc; agus béid na neithe cama díreach, agus na slighthe garba mín;
+Luke 3:6 Agus do chífi gach uile fheoil slanughadh Dé.
+Luke 3:7 Uime sin a dubhairt sé rís a tslúagh tháinic a mach do chum go mbaisdfeadh seisean íad: A shliochd na naithreach neimhe, cía thug rabhadh dhaóibh teitheadh ón fheirg a tá ag teachd?
+Luke 3:8 Ar a nadhbharsin tabhraidh tórrtha bhus iomchubhaidh don naithrighe úaibh, agus ná tionsgnaidh a rádh ionnaibh féin, A tá Abraham na athair aguinn: oír a deirimsi ribh, Gur ab éidir lé Dia clann do dhúsachd as na clochmibhse féin D'abraham.
+Luke 3:9 Agus a tá an tuáigh a nois fós ar na cur chum fréimhe na gcrann: ar a nadhbharsin gach uile chrann nach dtabhair toradh maith gearrthar é, agus teilgthear sa teinidh é.
+Luke 3:10 Agus do fhíafruigh an slúagh nile dhe, ag rádh, Ar a nadhbharsin créud do dheunam?
+Luke 3:11 Agus ar bhfreagra dhósan a dubhairt sé ríu, An té agá bhfuil dá chóta, roinneadh ris an té ag nach bhfuil; agus gidh bé agá bhfuil bíadh, déanadh sé mar an gcéudna.
+Luke 3:12 Agus tangadar na puibliocáin mar an gcéudna ionnus go mbaisdfidhe íad, agus a dubhradar ris, A mhaighisdir, créud do dhéunáimné?
+Luke 3:13 Agus a dubhairt seision ríu, Na déunuidh ní sa mhó ná do horduigheadh dhaóibh.
+Luke 3:14 Agus do chuireadar na saighdiúirígh fós ceisd air, ag rádh, Agus créad do dhéunuimne? agus a dubhairt seisean ríu, Ná déunaidh foiréigean ar dhuine ar bith, agus ná hagraidh duine ar bith go heugcórach agus go madh lór libh bhur dtúarasdal féin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 3:15 ¶ Agus ar mbeith ag feitheamh don phobal, agus ag smúainiughadh dhóibh uile an a gcroidhthibh a dtimcheall Eóin, nar bheisean Chríosd,
+Luke 3:16 Do fheagair Eóin, ag rádh ríu uile, Baisdeamsa sibh go deimhin lé huisge; achd a tá neach is nearthmhuire ná misi ag teachd, ag nach fiú mé íallach a bhróg do sgáoileadh: baisdfidh seision sibh leis an Spiorad Náomh agus lé teinidh:
+Luke 3:17 Aga bhfuil a chríathar an a láimh, agus glanfidh sé a urlár féin, agus cruinnéochuidh sé an chruithneachd dá sgiobol féin; achd loisgfidh sé an cháith lé teine nách eidir a mhúchadh.
+Luke 3:18 Agus ag teagasg mhóráin eile fós dó do mhinigh sé an siosgéul don phobal. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 3:19 ¶ Agus ar gcur an aghaidh Iórúaith an Téatrarca dhó, fá Heródias bean Philip a dhearbhrathar, agus fá gach uile olc dá ndearna Iorúaith,
+Luke 3:20 Do chuir sé so leis do bhárr ar gach ní, gur dhúin sé ar Eóin a bpríosún. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 3:21 ¶ Agus tárla, an tan do baisdeadh an pobal uile, agus do bhí Iósa agá bhalsdeadh, agus ag déanamh úrnaighthe, gur bosgladh neamh,
+Luke 3:22 Agus gur thuirrling an Spiorad Náomh a bhfioghair chorpardha mar cholum air, agus do dtáinic guth ó neamh, ag rádh, Is tú mo Mhac grádhachsa; is ionnadsa a tá mo dheaghthoil. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 3:23 ¶ Agus do bhí Iosa féin a dtimchioll a dheichmblíadhan fichead dáois, ar mbeith (do réir bhreathnuighthe na ndáoine) na mbac ag Ióseph, mhic Héli,
+Luke 3:24 Mhic Matthat, mhic Lébhi, mhic Melchi, mhic Ianna, mhic Ioseph,
+Luke 3:25 Mhic Matatías, mhic Amos, mhic Náum, mhic Esli, mhic Nagge,
+Luke 3:26 Mhic Máat, mhic Matatías, mhic Sémei, mhic Ióseph, mhic Iúda,
+Luke 3:27 Mhic Ioanna, mhic Résa, mhic Sorobábel, mhic Salatíel, mhic Néri,
+Luke 3:28 Mhic Melchí, mhic Addi, mhic Cósam, mhic Elmodam, mhic Er,
+Luke 3:29 Mhic Ióse, mhic Eliéser, mhic Iórim, mhic Matthat, mhic Lébhi,
+Luke 3:30 Mhic Siméon, mhic Iúda, mhic Ióseph, mhic Iónan, mhic Eliácim,
+Luke 3:31 Mhic Meléa, mhic Mainán, mhic Matata, mhic Nátan, mhic Dháibhi,
+Luke 3:32 Mhic Iessé, mhic Ohéd, mhic Boós, mhic Salmon, mhic Náasson,
+Luke 3:33 Mhic Aminadab, mhic Aram, mhic Esrom, mhic Pháres, mhic Iúdah,
+Luke 3:34 Mhic Iácob, mhic Isaac, mhic Abraham, mhic Tará, mhic Náchor,
+Luke 3:35 Mhic Sáruch, mhic Rágu, mhic Phálec, mhic Héber, mhic Salá
+Luke 3:36 Mhic Cáinan, mhic Arphcsad, mhic Sem, mhic Noé, mhic Lámedh,
+Luke 3:37 Mhic Matúsala, mhic Enoch, mhic Iáred, mhic Maleléel, mhic Cáinan,
+Luke 3:38 Mhic Enos, mhic Séth, mhic Adhaimh, mhic Dé. <lb type="x-end-paragraph"/>
+Luke 4:0 <lb type="x-begin-paragraph"/>
+Luke 4:1  ¶ Agus ar mbeith Diosa lán don Spiorad Náomh, do fhill sé tar a ais ó Iórdan, agus do tréornigheadh leis an Spioruid ar an bhfásach é,
+Luke 4:2 Feadh dhá fhichead lá an díabhal ag cur chathuighthi air. Agus níor ith sé uí ar bith ann sna laéthibh sin: achd ar na gcríochnnghadh, ann sin do ghabh ocras é.
+Luke 4:3 Agus a dubhairt an Díabhal ris, Más tú Mac Dé, abair ris an gcloichsi bheith na harán.
+Luke 4:4 Agus do fhreagair Iósa é, ag rádh, A tá sgríobhtba, Nach lé harán a mháin mhairfios an duine, achd lé gach uile bhréithir Dé.
+Luke 4:5 Agus an tan do thréoruigh an díabhal é, ar shlíabh árd, do thaisbén sé ríoghachda na talmbum uile dhó moimeint daimsir.
+Luke 4:6 Agus a dubhairt an diabhal ris, Do bhéara misi na cumhachda so uile dhuit, agus a nglóir: óir do tugadh dhamshsa í; agus do bheirim í don tí as toil leam.
+Luke 4:7 Ar a nadhbharsin má adhrán tusa dhamhsa, budh leachd íad uile.
+Luke 4:8 Agus ar bhfreagra Díosa a dubhairt sé ris, Imthigh úaim, a Shátain: óir a tá sgríobhtha, Do dhéana tú do Thighearna Día féin dadhradh, agus is dó na áonar do dhénna tú seirbhís.
+Luke 4:9 Agus do thréoruigh sé é go Híarusalím agus do shuighidh sé é ar bheinn an teampoill, agus a dubhairt sé ris, Mas tú Mac Dé teilg thú féin síos as so:
+Luke 4:10 O'ir a tá sgriobhtha, Do bhéura sé áithne dhá áinglibh ad thimcheall, thusa do choimhéud:
+Luke 4:11 Agus toigéubhuid eidir a lámhuibh thú, deagla go mbuailfea do chos fá chloich úair ar bith.
+Luke 4:12 Agus ar bhfreagra Díosa a dubhairt sé ris, A dubhradh, Ni chuirfe tú cathughadh ar an Dtighearna do Dhía féin.
+Luke 4:13 Agus ar ccur críche ar a chathuighthibh uile don díabhal, dtág sé eisean ar feadh tamuill. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:14 ¶ Agus dó chas Iósa maille ré cumhachdaibh na Spíoruide don Ghalilé: agus do chúaidh a chlú ar feadh na tire na thimcheall.
+Luke 4:15 Agus do theaguisg sé ann a síonagógaibh súd, ag fagháil glóire ó gach uile dhuine. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:16 ¶ Agus táinic sé go Násaret, mar ar hoilleagh é: agus, do chúaidh sé a steach mar budh gnath leis, lá na sábboide don tsinagóig, agus do éirigh sé na sheasamh do leughthóireachd.
+Luke 4:17 Agus tugadh leabhar Esáias fáidh dhó, agus an tan do osgail sé an leabhar, fuair se an tionad an a raibh sgríobhtha,
+Luke 4:18 Ta Spíorad an Tíghearna oramsa, tré gur ong sé mé do chuir sé úadh mé do sheanmóir an tsoisgél do na bochdoibh, do shlánughadh na ndáoine agá bhfuilid croidhthe brúidhte, do sheanmóir fúasgalta do na braighdibh agus do da dalluibh aisioc a radhairc, agus do tabhairt sáoirsi don mhuinntir a tá ar na gcombrúghagh,
+Luke 4:19 Do sheanm; óir bhadhna fhorbháiltigh an Tighearna.
+Luke 4:20 Agus ar ndúnagh an leabhair dhó, agus ar na tabhairt arís don ghiolla, do shuidh sé. Agus do bháda suile a raibh ann sa tsínagoig uile ag féachain air go géur.
+Luke 4:21 Agus do thionnsgain sé a rádh ríu, niugh a tá an sgiobtúirso ar na choimhlíonadh an bhur gclúasuibhsi.
+Luke 4:22 Agus do rinneadar uile fiadhnuisi leis, agus do bhí iongantus aca ann sna combráitibh grásamhla do thigeadh as a bhéul. Agus a deirdís, An né nach é so mac Ióseph?
+Luke 4:23 Agus a dubhairt sé ríu, Déara sibh rium gan ambarus an seanfhocalsa, A líagh, leighis thú féin: leitheid na neitheadh do chúalamar do rinne tú a Gcapernáum, déana mar an gcéudna ann so ad dhúithche féin íad
+Luke 4:24 Agus a dubhairt seision, A deirim ribh go deimhin, Nách bhfuil cion ar fháidh ann a thír féin.
+Luke 4:25 Achd go fírinneach deirimsi ribh, Go rabhadar morán baintreachach a láethibh Elias a Nísraél, an tráth do bhí an fhiormámeint druite trí blíadhna agus sé mhí, ionnas go raibh gorta mhór ar feadh na talmhan uile;
+Luke 4:26 Achd níor cuireadh Blías dionnsoighe áon aca, achd go Sarepta na Sidonia, chuan mná do bhí na baintreabhaigh.
+Luke 4:27 Agus do bhádar morán lobhar a Níseaél ré linn Eliséus an faidh; agus níor glanagh éin neach aca, achd Náaman an Sirianach.
+Luke 4:28 Agus do líonadh a raibh ann sa tsíonagóig dfeirg, an tan do chúaladar na neithesi,
+Luke 4:29 Agus ar néirghe na seasamh dhóibh, do theilgeadar as an gcathruigh a mach é, agus rugadar léo é ar mhaluidh an tsléibhe ar a raibh a gcathaire ar na togbháil, do chum go dteilgfidis síos a ndiaigh a chine é.
+Luke 4:30 Achd ar ngabháil dosan tré na lár, do imthigh sé,
+Luke 4:31 Agus do chúaigh sé síos go Capernáum, cathair don Ghalilé, agus do bhiodh sé dhá dteangasg ann sna sabboidibh.
+Luke 4:32 Agus do bhí úathbhás acasan an a theagasg: óir do bhí a comhrádh maille ré hughdarrás. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:33 ¶ Agus do bhí neach ann sa tsionagóig, ann a raibh spiorad deamhuaighe neamhghlan, agus do éigh sé do ghúth mhór,
+Luke 4:34 Ag rádh, Uch; créud í an bhúain atá aguinne riot, a Iósa Nasardha? an dár sgrisne tháinic tú? a tá a fhios agumsa cia thú, Neach Náomhtha Dé.
+Luke 4:35 Agus do imdhearg Iósa é, ag rádh, Bí ad thochd, agus tárr a mach as. Agus do imthigh an deamhan as, ar na thrasgairt go lár, gan díoghbháil ar bith do dhéanamh dhó.
+Luke 4:36 Agus do ghabh crith cách uile, agus do labhradar ré chéile, ag rádh, Créud é an níse! go náithingheann sé do na spiorádaibh go neamhghlana lé cumhachdaibh agus lé neart, agus go dtigid siad a mach.
+Luke 4:37 Agus do chúaidh a thúarasghbháil an gach uile ionard don tirsin tancheall. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:38 ¶ Agus an tan do éirigh Iósa as an tsínagóig, do chúaidh sé a steach go tigh Shímóin. Agus do bhí fiabhrus romhór ar mháthair mhná Shimóin; agus do chuireadar impidhe airsean air a son.
+Luke 4:39 Agus ar seasamh dhosan ós a cionn, do imdhearg sé an fiabhrus; agus dfag an fíabhrus í: agus ar néirghe dhisi do lathair do rinne sí friotholamh dhóibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:40 ¶ Agus ar ndul don ghrein faoi, gach áon ága rabhadar dáoine eagcrúaidh ó thinneasaibh éugsamhla tugadar chuigesean íad; agus ar gcur a láimh dhósan ar gach áon díobh, do shlánuigh sé íad. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:41 ¶ Agus fós do imthighid ís na deamhain as mórán, ag éighmhe, agus ag rádh, Is tusa Críod Mac Dé. Achd dá nimdheargadh dhósan ní léigheadh sé dhóibh a rádh: go raibh a fhios aca gur bhé féin Críosd. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 4:42 ¶ Agus ar néirghe don lá, do imthigh sé a mach, agus do chúaidh sé a nionad fasamháil: agus do bhí an slúagh agá lorgaireachd, agus tangadar chuige, agus do bhádar dá chonghbhail, do chum nách achradh sé úatha.
+Luke 4:43 Achd a dubhairt seision ríu, Go firinneach is éigin damhsa flaitheas Dé do sheanmóir do chaithreachaibh eile leis: óir is chuige so do cuireadh mé.
+Luke 4:44 Agus do bhíodh sé ag deanamh seanmóra a síonagogaibh na Galilé. <lb type="x-end-paragraph"/>
+Luke 5:0 <lb type="x-begin-paragraph"/>
+Luke 5:1  ¶ Agus tárla, an tau do ling an pobal air déisfeach ré bréithir Dé, gur sheas seision láimh ré loch Ghenesaret,
+Luke 5:2 Agus do chonnairc sé dhá luing do bhí ar an loch achd do imthigheadar na híasgaireadha asda, agus do bhíadar ag nighe a líontadh.
+Luke 5:3 Agus ar ndul dósan a loing dhíobh, do budh lé Símón, do íarr sé air dul beagán ón tír. Agus ar suidhe dhó do theagaisg sé an pobal as an luing. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:4 ¶ Agus mar do sguir sé do labhairt, a dubhairt sé ré Símón, Déunuigh romhaibh ar an ndubhaigéun, agus leigidh sios bhir líontagh chum gabhála.
+Luke 5:5 Agus ar bhfreagra do Shímon a dubhairt sé ris, A Mhaighisdir, do thuirrsigheamar sinn féin feadh na hoidhche uile, agus níor ghabhamair éin ní: achd cheana ar do bhreithir se cuirfe mé síos an líon.
+Luke 5:6 Agus an tan do rinneadar so, do íadhadar ar iomarchuigh éisg: ionnus gur briseadh a líon.
+Luke 5:7 Agus do sméideadar ar a gcompánachuibh, do bhí ann sa luing eile, do chum go dtiocfaidis chuca do thabhairt chunghnamh, dhóibh. Agus thangadarsan, agus do líonadar an dá luing, ionnus go rabhadar a niunmhe a mbáidhte.
+Luke 5:8 Agus an tan do chonnairc Símon Peadar so, do shléuchd sé ag giúinibh Iósa, ag rádh, Imthigh úaim a Thighearna; óir is duine peacthach mé.
+Luke 5:9 Óir do ghabh eagla é féin, agus a raibh na fhochair uile, ar son na gabhála éisg do ghabhadar:
+Luke 5:10 Agus mar an gcéadna Séumas, agus Eóin, clan Shebedei, do bhí na gcompánachuibh ag Simon. Agus a dubhairt Iósa ré Símon, Na bíodh eagla ort; as so a mach bíaidh tú iasgaire ar dháoinibh.
+Luke 5:11 Agus an tan tugadarsan a ienga chum tire, ar bhfagbháil an uile neither dhóibh, do leanadar eisean. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:12 ¶ Agus tárla, an tan do bhí sé a ccathruigh áirighe, fénch óglach lán do lubhra: agus ar bhfaicsin Iósa dhó do leig sé é féin síos ar aghaidh, agus do ghuidh sé é, a rádh, A Thighearna, más toil leachd é, is éidir leachd misi do ghlanadh
+Luke 5:13 Agus ar sineadh a láimhe, do bhean sé ris, ag radh, As toil: bí glan. Agus dfag an lubhra é ar an mball.
+Luke 5:14 Agus do aithin sé dhe gan a innisin do dhuine ar bith: achd imthigh, taisbéin thú féin don tsagart, agus íodhbair ar son do ghlanta, mar do aithin Máoisi, mar fhíaghnaisi dhóibh.
+Luke 5:15 Achd is móide do leathnuighe a thúarasghbháil sin: agus do chruinnigh slúagh mór déisdeachd ris, agus dfagháil fóiríghne a dteinneas úadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:16 ¶ Achd do chúaidh seisean fá leith ar an bhfasach, agus do rinne sé urnuighe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:17 ¶ Agus tárla go raibh sé lá áirighe, ag teagasg, agus go rabhadar na Phairisínigh agus doctúirí an dlighe na suidhe a láthair, noch tháinic as gach uile bhaile don Ghalilé, agus do thir Iúdaighe, agus ó Jerusaléim: agus do bhí cumhachda an Tighearna chum a slánuighthe.
+Luke 5:18 Agus, féuch, do íomchradar dáoine a leabuidh oglach do bhí a bpairilis: agus do íarradar a thabhairt a sdeach, agus a chur na fhíadhnuisisean.
+Luke 5:19 Agus an tráth nach bhfuaradar cáoi ar a thabhairt a sdeach tré mhéud ná cuideachda, do chúadar súas ar a tigh, agus do léigeadar é féin, agus a leabuidh sios tríd an slinnteach ar lár, a bhfíaghnuisi Iósa.
+Luke 5:20 Agus ar bhfaicsin a gcreidimh dhósan, a dubhairt sé ris, A dhuine, a táid do pheacuidh ar na maithleamh dhuit.
+Luke 5:21 Agus thionnsgnadar na sgríobuidhe agus na Phairisinigh diosbóireachd do dhéanamh, ag rádh, Créd é an fearsa labhras blaisphéimighe? Cía fheúdus peacuigh do mhaitheamh, achd Día ná áonar?
+Luke 5:22 Achd ar naithne a smúaintighe Díosa, do fhreagair sé, agus a dubhairt sé ríu; Créd é an ní so smuaintighthísi an bhur gcroidhthibh?
+Luke 5:23 Cia is usa, a rádh, A táid do pheacuidh ar na maitheamh dhuit; ná a rádh, Eirigh agus siobhail?
+Luke 5:24 Achd do chum go mbeith a fhíios agaibh go bhfuil cumhachda ag Mac an duine, peacuidh do mhaitheamh ar an dtalamh, (a dubhairt sé ré fear na pairilisi,) A deirimsi riot, Eirigh, tóg do leabuidh, agus imthigh dod thigh.
+Luke 5:25 Agus ar néirghe dhósan ar an mball an a bhfiadhnuisi, do thóg an leabuidh an raibh sé na luighe, agus do chuaidh sé dhá thigh fein, ag moládh Dé.
+Luke 5:26 Agus do ghabh úathbhás cách uile, agus do mholadar Día, agus do líonadh deagla íad, ag rádh, Do choncamair neithe doichreidte a niugh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:27 ¶ Agus tar éisi so do chúaidh Iósa a mach, agus do chonnairc sé puibliocán, dár bháinm Lébhi, na shuidhe ag bord an chusduim: agus a dubharit séris, Lean misi.
+Luke 5:28 Agus ar bhfágbháil gach éin neithe dhósan, déirigh sé, agus do lean sé eisean. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:29 ¶ Agus do rinne Lébhi féusda mór dhó an a thigh féin: agus do bhí cuideachda mhór phuibliocán agus dáoine eile do shuidh na bhfochair.
+Luke 5:30 Agus do rinne cuid díobh do bhi na sgríobuidhibh agus na Bhphairisíneachuibh monabhar a naghaidh a dheisciobalsan, ag rádh, Creud fá niththísi agus fá nibhthí a bhfochair na bpuibliocán agus na bpeacthach?
+Luke 5:31 Agus ag freagra a dubhairt Iósa ríu, Ní bhfuil ríachdanus leágha ar na dáoinibh slána; achd ar na dáoinibh tinne.
+Luke 5:32 Ní tháinic misi do ghairm na bhfiréunach, achd na bpeacthach chum aithrighe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:33 ¶ Achd a dubhradarsan ris, Créud fá dtroisgid deisciobail Eóin go minic, agus créd fá ndéunuid síad urrnaighe, agus mar an gcéudna deisciobail na Bhphairisíneach; achd ithid agus ibhid do dheisciobailsi?
+Luke 5:34 Agus a dubhairt seision ríu, An bhféadtáoisi a thabhairt air chloinn tséomra an fhir núa phósda trosgadh do dhéunamh, an feadh bhías sé féin na bhfochair?
+Luke 5:35 Achd tiocfaid na láethe an tan bhéurthar an fear núa phósda úatha, ann sna láethibh sin do dhéunuid síad trosgadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 5:36 ¶ Agus a dubhairt sé fós tré chosamhlachd ríu; Ní chuireann neach ar bith preabán éuduigh núa air sheanchulaidh, nó, brisidh an téudach núa é, agus ní thig an preabán núaéuduigh leis a tseinéudach?
+Luke 5:37 Agus ní chuireann duine ar bith fíon núa a seanbhuidéuluibh; nó brisfidh an fíon núa na buidéil, agus dóirtfidhear an fíon agus rachuid na buidéil a múgba.
+Luke 5:38 Achd fíon núa is cóir do chur a mbuidéuluibh núadha; agus béid síad aráon slán.
+Luke 5:39 Agus ní bhfuil duine ar bith ibheas seinfhíon lér ab áill fíon núa ar ball: óir a deir sé, Is é seinfhíon is folláine. <lb type="x-end-paragraph"/>
+Luke 6:0 <lb type="x-begin-paragraph"/>
+Luke 6:1  ¶ Agus tárla ag ghabháil trí ghortuibh dhósan, an dara sábboid taréis an cheud gur bheanadar a dheisciobáil déusa, agus tar éis a gcunnealta eidir a lámhuibh dhóibh, dúadar <hi type="italic">íad</hi>.
+Luke 6:2 Achd a dubhradar cuid do na Pharisineachuibh ríu, Créd fa ndéuntáoi ní nach indéanta ann sa tsáoire?
+Luke 6:3 Agus ar bhfreagra Díosa a dubhairt sé ríu, An né nár leughabhuirsi an ní so, do rinne Dáibhi, an tan do bhí ocrus air féin, agus ar an mhuinntir do bhí na fharradh;
+Luke 6:4 Cionnus do chúaidh sé a sdeach go tigh Dé, agus do ghlac sé arán na fiaghnuisi agus a dúaigh sé é, agus tug sé fós don mhuinntir do bhí na fhochair é: noch nár choir ithe achd do na sagurtuibh amháin?
+Luke 6:5 Agus a dubhairt seisean ríu, As Tighearna don tsábboid féin Mac an duine. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:6 ¶ Agus tárla fós a sábbóid eile, go ndeachuidh seisean a sdeach don tsinagóg agus gur theaguisg sé: agus do bhí óglach ann sin agá raibh a lámh dheas ar na seargadh.
+Luke 6:7 Agus do bhí coimhéud ag na sgríobuidhibh agus ag na Pharisineachuibh airsean, dá fhéuchuin an ndéanadh sé leigheas ann sa tsábbóid; do chum go bhfuighidís adhbar gearáin air.
+Luke 6:8 Achd daithin seisean a smúaintighthe, agus a dubhairt sé ris an duine agá raibh an lámh sheargthuigh, Eirigh, agus seas a lar <hi type="italic">cháich</hi>. Agus do éirigh seision agus do sheas sé.
+Luke 6:9 Ann sin a dubhairt Iósa ríusan, Fíafróchaidh misi dhíbhsi ní áirighe An cóir maith do dheanamh, nó olc dhéanamh sá tsábbóid? anum do shábháil, nó do sgrios?
+Luke 6:10 Agus an tan do fhéuch sé orrtha uile na thimcheall, a dubhairt sé ris a nóglach, Sín amach do lámh. Agus do rinne seisean mar sin: agus do haiseagadh a lámh slán mar an lámh eile.
+Luke 6:11 Agus do líonadh íadsan do chuthach; agus do lúaidheadar ré a chéile créd do dheunaidis ré Híosa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:12 ¶ Agus tárla ann sna láethibh sin, go ndeachuidh seisean amach ar shlíabh do dhéunamh úrnaighe, agus do chaith sé an oidhche ag guidhe Dé.
+Luke 6:13 Agus ar néirghe don lá, do ghoir sé a dhesiciobail <hi type="italic">chuige</hi>: agus do thogh sé dhá fhéar dhéug asda, dár ghoir se absdail;
+Luke 6:14 Simon, dár ghoir sé fós Peadar, agus Aindrías a dhearbhráthair, Séumas agus Eóin, Philip agus Bartoloméus,
+Luke 6:15 Matha agus Tomás, Séumas <hi type="italic">mac</hi> Alphei, agus Simon da ngoirthear Selótes.
+Luke 6:16 Iudás <hi type="italic">deatbhráthair</hi> Shéumuis, agus Iudás Iscariót, (an té fós do bhráth eision). <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:17 ¶ Agus táinig sé a núas léo, agus do sheas sé ar mhachuire réidh, agus a choimhthionól deisciobail, agus mórán mór do phobal ó thír Iúdaighe uile agus ó Ierusalem, agus ó chois fairrge Thírus agus Shídon, noch tháinig deisdeachd leisin, agus dfagháil leighis ar a neasláintibh;
+Luke 6:18 Agus a raibh ar ná gciorrbhadh ag spioraduibh neamhglana, agus do leighiseadh íad.
+Luke 6:19 Agus do bhí an slúagh uile ag íarruidh cuimealta ris: óir do bhídh subhailce ag dul úadh, agus do shlánuidh sé <hi type="italic">iad</hi> uile. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:20 ¶ Agus are dtógbháil a shúl súas dósan air a dheisciobluibh, a duiubhairt <hi type="italic">sé</hi>, As beannaighthe <hi type="italic">sibhsi</hi> a dháoine bochda: óir as libh flaitheas Dé.
+Luke 6:21 <hi type="italic">As</hi> beannaighthe <hi type="italic">sibh</hi> a <hi type="italic">dháoine</hi> atá ocrach a nois: óir sáiséochthar sibh. <hi type="italic">As</hi> beannaighthe <hi type="italic">sibhsi</hi> cháoidheas a nois: óir do dhéuntáoi gáire.
+Luke 6:22 As beannaighthe bheithí, an tráth fhúathóchuid dáoine sibh, agus chuirfid siad <hi type="italic">as a gcuideachda</hi> sibh, agus imdheargfuid <hi type="italic">sibh</hi>, agus chuirfid bhur nainm amach mar olc, ar son Mhic an duine.
+Luke 6:23 Déunnidh gáirdeachus an lá sin, agus éirghidh a náirde ré lúthgháire: óir, féuch, as mór bhur lúaidheachd ar neamh: oír as mar sin do rinneadar a naithreacha ris na faibhibh.
+Luke 6:24 Achd as anáoibhinn dáoibhsi a dháoine saidhbhre! óir atá bhur sólás aguibh.
+Luke 6:25 As anáoibhinn dáoibh a dháoine atá sáitheach! óir biáidh ocras orúibh. As anáoibhinn dáoibh a dháoine atá a gáirighe a nois! óir cáoifidhe agus goilfidhe.
+Luke 6:26 As anáoibhinn dáoibh, an tráth a déuruid na huile dháoíne mith ribh! óir as mar sin do rinneadar a naithreacha ris na fáidhibh fallsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:27 ¶ Achd a deirim ribhsi atá ag éisdeachd, Grádhuighidh bhur námhuid, déunuidh maith don dreim air ar fúadh sibh,
+Luke 6:28 Tabhruidh bhur mbeannachd don dreim mhalluigheas sibh, agus déunuidh urrnaíghe ar son na muinntire do ní bhur ndíoghbháil.
+Luke 6:29 An té bhúaileas tú air a ngíall iompó chuige an gíall eile; agus an té bheanus do chlóca dhíot ná bac dhe do chíota fós a <hi type="italic">bhreith leis</hi>.
+Luke 6:30 Agus tabhuir do gach neach íarrus ort; agus ón te thógbhás do chuid úait ná híarr air ais é.
+Luke 6:31 Agus mar as toil libh dáoine do dhéunamh dhíbh, deunuidhsi mar an gcéudna dhóibhsin.
+Luke 6:32 Oír má tá grádh aguibh don mhuinntir ghrádhuigheas sibh, créud é an buidheachus bhías oruibh? óir grádhuighid ná peacthuigh féin na dáoine ghrádhuigheas íad.
+Luke 6:33 Agus má níthí maith don mhuinntir do ní maith dhíbh, créud é an buidheachus bhías oruibh? óir do níd na peachtuidh féin an gcéadna.
+Luke 6:34 Agus dá dtugtháoi áirleagadh <hi type="italic">dona dáoinibh ó</hi> a sáoltí a fhagháil a rís, créud é an buidheachus bhias oruibh? óir do bheirid na peachthaidh áirleagadh do na peachthachaibh, do chum go bhfuighdís a leitheid a rís.
+Luke 6:35 Ar a nadhbharsin grádhuighidh bhur námhuid, agus déunuidh maith, agus tabhruidh áirleaghadh úaibh, gan súil ré héinní arís; agus budh mór bhur lúaideachd, agus beithí bhur gcloinn ag an té as Airde: óir bí seisean cinealta les na <hi type="italic">dáoinibh</hi> dombuídheacha agus saithe.
+Luke 6:36 Ar a nadhbharsin bíthísi trócaireach, mar atá bhur Nathuir trocuireach.
+Luke 6:37 Agus ná beiridh breath, agus ní bhéurthar breath oruibh: ná damnuighe, agus ní daiméontar sibh: maithidh, agus maithfithear dháoibh:
+Luke 6:38 Tabhruidh úaibh, agus do bhéurthar dháoibh; agus do bhéuruid dáoine an bhur nnched, moisúr maith, dingthe, craithte agus ag dul thairis. Oír as lesi an miosúr an a dtoimhéosdáoi, toimhéosdar mar an gcéudna dháoibh.
+Luke 6:39 Agus do labhuir se cosamhlachd ríu, An bhféudann an dall dhall eile dothreorigheadh? an ne neach duitdfid aráon sa díg?
+Luke 6:40 Ní bhfuil an deisciobal ós cionn a mhaighisdir: achd gidh bé neach bhus diongmhála, bíaidh sé mar a mhaighisdir.
+Luke 6:41 Agus créud fa a bhfaiceann tú an broth beag a súil do dhearbhráthar, agus nach dtugair dod aire an tsail atá ad shúil féin?
+Luke 6:42 Nó cionnus as éidir leachd a rádh réd dhearbhrathair, A dhearbhrathair, léig dhamh an broth atá ad shúil do bháin aisde, agus nách bhfaiceann tú an tsail atá ad shuil féin? A fhir an dhúarchrábhuidh, ar tus teílg amach an tsail as do shuil féin, agus an sin bhus léir dhuit, an broth atá a súil de dhearbhráthar do bhúain aisde.
+Luke 6:43 Oír ni maith an crann iomchras drochthoradh; agus ní holc an crann iomchras toradh maith.
+Luke 6:44 Oír is ó a thoradh aitheantar gach uile chrann. Oír ní chruinnighid dáoine fígidhe do dheilgneach, na cáora fineamhna do dhriseach.
+Luke 6:45 Do bheir an duine maith ní maith as cisde maith a chroidhe féin; agus do bheir an droch dhuine droch ní as droch chisde a chróidhe fein: oír is as iomarcuidh an chróidhe, labhrus an béal. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 6:46 ¶ Achd créud fá ngoirthísi, A Thighearna, a Thighearna dhíomsa, agus nach déuntáoi na neithe a deirim?
+Luke 6:47 Gach uile neach thig chugamsa, agus éisdeas rém bhríaththruibh, agus do ní dhá reir, foillséochuidh mé dháoibhsi cía ré ar cosmhuil é:
+Luke 6:48 As cosmhuil é ré neach do thóg a thigh, agus do thochail, agus do chúaidh go domhuin a dtalumh, agus do chuir a shocrughadh ar charruig: agus mar tháinig an tuile, do bhúail an sruth go fíochmhar fán dtigh úd, achd níor bhéidir leis a chorrughadh: óir do bhí sé socrughthe ar charruig.
+Luke 6:49 Achd gidh bé chluin, agus nach deun, as cosmhuil é ré neach do thóg a thigh air thalamh gan socrughadh; air ar bhúail an tuile go fíochmhar, agus do thuit sé do láthair; agus ba mór tuitim an tighe sin. <lb type="x-end-paragraph"/>
+Luke 7:0 <lb type="x-begin-paragraph"/>
+Luke 7:1  Agus an tráth do chríochnuigh sé a bhríathra uile a néisdeachd an phobail, do chúaidh sé a sdeach go Capernáum.
+Luke 7:2 Agus do bhí óglach caiptin áirighe, go bréoite, a riochd bháis, air a raibh cion mór aige.
+Luke 7:3 Agus an tan do chúaluidh sé tuarasgbháil Iósa, do chuir sé sinnsir na Níuduighe chuge, ag íarruidh air teachd agus a shearbhfhoghantuidhe shlánughadh
+Luke 7:4 Agus an tan thangadar so chum Iósa, díarradar air go díthcheallach, ag rádh, Gur bhfíu é so do thabhuirt dó:
+Luke 7:5 Oír atá grádh áige dar gcineadhne, agus do thóg sé sionagóg dhúinne.
+Luke 7:6 Agus do chuaidh Iósa léo. Agus an tan do bhí sé a ngar don tigh, do chuir an caiptín a cháirde chuige, ag rádh ris, A Thighearna, Ná cuir búaidhreadh ort féin: óir ní fíu misi go rachfá a sdeach fá chléith mo thighe:
+Luke 7:7 Ar a nadhbharsin níor mheas mé gur bhfíu mé féin dul ad ionnsuighe: achd abhuir a bhfocal, agus bíaidh móglach slán.
+Luke 7:8 Oír as duine misi féin atá faoi chumhachdiabh. Aga bhfuilid saighdíuirigh fum, agus a deirim ris an bhfearso, Imthigh, agus imthighe sé; agus ré <hi type="italic">fear</hi> eíle, Tárr, agus thigh sé;
+Luke 7:9 Agus ar ná gcloisdin so Díosa, do bhí iongnadh aige ann, agus ar bhfilleadh dhó, a dubhairt sé ris a tslúagh do lean é, A deirim ribh, Nach bhfuair mé a Nisrael féin, a chomhmór se do chreideamh.
+Luke 7:10 Agus ar bhfilleadh a steach, do na teachduiribh do cuireadh chuige, fúaradar an searchfhoghantaidh do bhí tinn slán. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 7:11 ¶ Agus tárla an lá na dhiáigh sin, go ndeachaidh sé don chathruigh dá ngoirthear Náin; agus do chúadar mórán dá dheisciobluibh leis, agus buidhean mhór.
+Luke 7:12 Agus an tan tháinig sé a ngar do dhoras na caithreach, fénch, do bhí duine marbh agá bhreith amach, do bhí na áon mhac agá mháthair, agus í na baintreabhaigh; agus do bhí coimhthionól mór ón chathruigh na fochair.
+Luke 7:13 Agus ar na faicsin don Tighearna, do ghabh trúaighe mhór dhi é, agus a dubhairt sé ría, Na guil.
+Luke 7:14 Agus táinic sé agus do bhean sé ris an gcomhraidh: (agus do sheasadar an luchd do bhí agá iomchar) agus a dubhairt sé; A ógánaigh, a deirim riot, éirigh.
+Luke 7:15 Agus déirigh an duine marbh na shuidhe, agus do thionnsgain sé labhairt. Agus tug sé dhá mháthair féin é.
+Luke 7:16 Agus do ghabh eagla íad uile: agus tugadar glóir do Dhía, ag rádh, Déirghe fáidh mór an ar measg; agus, Dféuch Día ar a phobal féin.
+Luke 7:17 Agus do chúaidh an túarasgbháil so amach air féadh thíre Iúdaighe uile, agus air feadh gach éintíre timcheall. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 7:18 ¶ Agus dinnseadar a dheisciobail na neithe so uile Déoin.
+Luke 7:19 Agus are ngairm Deóin deisi <hi type="italic">áirighe</hi> dá dheisciobluibh <hi type="italic">chuige</hi> do chuir sé dionsuighe Iósa <hi type="italic">íad</hi>, ag rádh, An tusa an té do bhí chum teachda? nó an bhfuilmid ag feathamh ré neach eile?
+Luke 7:20 Agus an tan thangadar na firsi shuigesean, a dubhradar, Do chuir Eóin Baisde sinne chugad, ag rádh, An tusa an té do bhí chum teachda? nó an bhfuilmid ag feathamh ré neach eile?
+Luke 7:21 Agus ar an uár sin fein do chlánuigh seisean mórán <hi type="italic">dáoine ó</hi> easláintibh agus ó phláighibh, agus ó dhroch spioraduibh; agus thug sé á radharc do mhórán dall.
+Luke 7:22 Agus ar bhfreagra Díosa a dubhairt sé ríu, Ar nimtheachd díbh, innisidh Deóin na neithe do chonncabhair agus do chúalabhair; go bhfaicid na daill, go siubhlaíd na bacuidh, go nglantar na lobhair, go gchimid na bodhair, go néirghid na mairbh, go bhfuil an soisgéul dá sheanmóir do na bochdaibh.
+Luke 7:23 Agus as beannaighthe an <hi type="italic">té</hi>, nach bhfuighe oilbhéim ionnumsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 7:24 ¶ Agus an tráth do imthigheadar teachdairighe Eóin, do thionnsgoin seison a rádh ris an bpobal a dtimcheall Eóin, Créud é an ní agá ndeachabhair dhá fhéuchain amach ar an bhfásach? An giolcach ar na bhogadh ag an ngaoith?
+Luke 7:25 Achd créud é an ní agá ndeachabhair amach dá Chéuchuin? Duine atá ar na éudughadh a néuduighibh mine? Féuch, an luchd bhíos a néudaighibh onóracha, agus a saimhe, is a bpálásuibh na ríogh bhíd said.
+Luke 7:26 Achd créd é an ní agá ndeachubhair amach dhá fhéuchuin? Fáidh? A deirim ribh go firinneach, agus ní as mó ná faidh.
+Luke 7:27 Ag so an te, ar a bhfuil sgríobhtha, Féuch, cuirim mo theachdaire romhad, oillmhéochus do shlighe romhad.
+Luke 7:28 Oir a deirim ribh, Nach bhfuil éidir chlannuibh na mban faidh as mó ná Eóin Baisde: Achd <hi type="italic">cheana</hi> an té as lugha a rioghachd Dé as mó é na eisean.
+Luke 7:29 Agus ar na gcloisdin so, do mholadar an pobal uile, agus na puibliocáin, Día, do bhí ar na mhaisdeadh ré baisdeadh Eóin.
+Luke 7:30 Achd tugadar na Phairsínigh agus an luchd dlighe tarcuisne ar choinhairle Dé na naghuídh féin, gan a bheith ar na mhaisdeagh úadhsan. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 7:31 ¶ Agus a dubhairt an Tighearna, Cía ré saimhéola mé daóine an chinidh so? agus cía ré ar comshuil íad?
+Luke 7:32 As cosmhul íad re leanbuibh na suidhe ar áit an mharguidh, agus éighmheas ar á chéile, agus a deir: Dó rinneamair píobaireachd dhaóibh, agus ní dhearnabhair damhsa; do rinneamair caoí dhaóibh, agus ní dhearnabhair gul.
+Luke 7:33 Oír tháinig Eóin Baisde ní ag ithe aráin ná ag ol fíona; agus a deirthísi, Atá deamhan ann.
+Luke 7:34 Tháinic Mac an duine ag ithe agus ag ól; agus a deirthí, Feuch an duine cráosach, fioníobhaighe cara na bpuibliocán agus na bpeachthach!
+Luke 7:35 Achd atá an eagna ar na sáoradh ó na cloinn <hi type="italic">féin</hi> uile. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 7:36 ¶ Agus do íarr duine áirighe do na phairisíneachaibh air, <hi type="italic">bíadh</hi> ithe na fhochair. Agus ar ndul a sdeach go tigh an phairisínigh dhó, do shuidh sé sios chum bídh.
+Luke 7:37 Agus, féuch, an tráth fúair bean don chatbraigh, do bhí na peachthach, a fhios go raibh sé na shuidhe ag bíadh a dtígh an phairisinigh, tug si bocsa ola lé,
+Luke 7:38 Agus ar seasamh agá chosuibh don táobh shiar <hi type="italic">dhe</hi> ag gul, do thionnsgain sí a chosa dionnladh lé na déuruibh, agus a dtiurmughadh lé gruáig a cinn, agus do phóg sí a chosa, agus do ong sí leis an ola ía<hi type="italic">d.</hi>
+Luke 7:39 Agus an tan do chonnaire an phairisineach tug an cuirteadh dhósan <hi type="italic">sin,</hi> smuáin sé na inntinn, ag rádh, Dá madh fáidh an fearso, daithnéochadh sé cía agus gá bionnus an bheanso bheanus ris, óir as peacthach í.
+Luke 7:40 Agus ar bhfreagra Díosa a dubhairt sé rís, A Shiomóin, atá ní agam ré rádh riot. Agus a dubhairt seision, A Mhaighisdir, abuir romhad.
+Luke 7:41 Do bhádar días dfeitheamhnuibh ag fear áirligthe: do dhligh sé cúig chéad pighinn dfior aca, agus cáogad don dara <hi type="italic">fear.</hi>
+Luke 7:42 Agus an tráth nach raibh díolaigheachd ag ceachdar díobh ré na thabhairt dó, do mhaith sé dhóibh aráon. Uime sin ínnis damhsa, cia aca léir ab annsa é?
+Luke 7:43 Agus ar bhfreagra do Shímón a dubhairt sé, Measuim gur leis an té, dár mhaith sé an tsuim as mó Agus a dubhairt seision is, As maith an bhreath rug tú.
+Luke 7:44 Agus ar bhfilleadh dhó chum na mná, a dubhairt sé ré Síomón, An bhfaicean tú an bhean so? tháinic misi a sdeach dod thighsi agus ní thug tú uisgi chum mo chos díonladh: achd do nigh an bhean so mo chosa le na déuruibh, agus dé thiormuigh sí <hi type="italic">íad</hi> le grúaig a cinn.
+Luke 7:45 Ní thug tusa póg dhamh: achd ó tháinig mé a sdeach níor choisg sisi do phógadh mo chos.
+Luke 7:46 Níor ong tú mo cheann lé hola: achd do ong an bhean so mo chosa ré huinnement.
+Luke 7:47 Ar a nadhbharsin a deirim riot, Go bhfuilid a hiomad peacaidh, ar na maitheamh dhi; air sin as mór a grádheas sí. Achd gidh bé dá maithtear beagan as beag grádhuigheas <hi type="italic">sé.</hi>
+Luke 7:48 Agus a dubhairt sé ría, Atáid do pheacuidh ar na maitheamh dhuit.
+Luke 7:49 Agus do thionnsgnadar an lion do bhí na suidhe na fhochair air an mbórd, a rádh ionnta féin, Cía an fear so mhaitheas na peacuidh mar an gceadna?
+Luke 7:50 Agus a dubhairt sé ris an mnáoi, Do shlánuigh do chréideamh thú; imthigh a síothcháin. <lb type="x-end-paragraph"/>
+Luke 8:0 <lb type="x-begin-paragraph"/>
+Luke 8:1  Agus tárla na dhiáigh so, gur shiobhuil seisean tré gach cathair, agus gach baile, ag seanmórughadh, agus ag siosgéulughadh ríoghachda Dé: agus an dá fhear dhég na fhochair,
+Luke 8:2 Agus mná áirighe, do leigheasadh ó dhroichspioraduibh agus ó easláintibh, Muire dá ngoirthí Mhagdalén, as a ndeachadar seachd ndeamhain,
+Luke 8:3 Agus Ioanna bean Chúsa feadmannuigh Iorúaith, agus Susanna, agus mórán eile, do chaith risean dá máoin féin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:4 ¶ Agus an tan do chruinnigh buidhean mhórr, agus trangadar as gach uile chathruigh chuigesion, do labhair sé a gcosamhlachd <hi type="italic">riú</hi>:
+Luke 8:5 Do chúaidh síoladóir <hi type="italic">áirighe</hi> amach do chur a shíl féin: agus ag cur an tsíl do, do thuit cuid de chois na sligheadh; agus ag cur an tsíl dó, do thuit cuid de chois na sligheadh; agus do brughadh fá chosaibh <hi type="italic">dáoine</hi> é, agus dithadar énlaith a naiéir é.
+Luke 8:6 Agus do thuit cuid eile ar charraic; agus ar bhás dó, do shearg sé, do bhrígh nach raibh taisleach aige.
+Luke 8:7 Agus do thuit cuid eile a measg deilguigh; agus ar bhfas don deilgneach a náoinfheachd ris, do thachdadar é.
+Luke 8:8 Agus do thuit cuid eile a dtalamh mhaith, agus an tan do fhás sé, tug sé toradh céadach úadh. <hi type="italic">Agus</hi> ar na rádh so dhó, do éigh sé, Gidh be agá bhfuilid clúasa chum éisdeachda, éisdeadh sé. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:9 ¶ Agus do fhiáfruigheadar a dheisciobuil de, ag rádh, Créd é an chosamhachdsin?
+Luke 8:10 Agus a dubhairt seisean, Is dáoibhsi tugadh rúndiamhra rioghachda Dé daithniughadh: achd do chách eile a ccosamhlachduibh; ionnus ag faicsin dóibh nach bhfaicdís, agus ag cluinsin dóibh nach dtuigfidís. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:11 ¶ Ag so an chosamhlachd: a sé an síol bríathar Dé.
+Luke 8:12 Agus an dream úd chois na sligheadh a siad éisdeas; na dhiáigh sin tig an díabhal, agus tógbhuidh sé an bhriáthar as a gcróidhe, deagla go gcreidfidís agus go slánéochtháoi iád.
+Luke 8:13 Agus an dream úd air an gcarruic, noch an tan do chluinid, gabhuid chuca an briathar maille lé gáirdeachus; achd ní bhfuil fréamh aca so, noch chreideas feadh tamuill, agus fhilleas ar a nais a naimsir an chathaigthe.
+Luke 8:14 Achd an ní úd do thuit a measg na ndeilbneach, a siad so do éisd, achd ar nimtheachd dóibh, muchtar íad lé cúram agus lé saidhbhreas agus lé saímhe na beatha, agus ní thabhruid toradh úatha.
+Luke 8:15 Achd an ní <hi type="italic">do thuit</hi> ann sa talamh mhaith, a said súd éisdeas ris an mbreithir, agus chungmhas é a gcroidhe shocraidh mhaith, agus do bheirid toradh úatha a bhfoighid. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:16 ¶ Achd ní bhfuil neach ar bith, Iasas coinneall, fholchas fáoi shouightheach í, ná chuireas fáoi leabuidh í; achd cuiridh sé a gcoinnleóir í, do chum go bhfaicfheadh an luchd théid a sdeach an solas.
+Luke 8:17 Oír ní bhfuil éin ní foluightheach, nach déuntar follas; na secréideach, nach bhfuighthear a fhios agus nach dtiocfaidh chum soillsi.
+Luke 8:18 Ar a nadhbharsin tabhruidh bhur naire ribh cionnas éisdeas sibh: óir gidh be neach agá bhfuil, is dó do bhéarthar; agus gidh bé neach ag nach bhfuil, béarthar úadh an ní fós sháoiltear do bheith aige. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:19 ¶ Agus tangadar a mhathair agus a dhearbhraithreacha chuige, agus níor bhéidir leó dul a ngar dhósan ón tslúagh.
+Luke 8:20 Agus so hinniseadh dhó, ag rádh, Atá do mhathair agus do dhearbhraithreacha na seasamh a muigh, ag iarruidh tfáicsin.
+Luke 8:21 Agus are bhfreagra dhósan a dubhairt sé riu, a siad so mo mhathairse agus mo dhearbhráithreacha noch éisdeas bríathar Dé, agus do ní dá réir. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:22 ¶ Agus tárla lá áirighe, go ndeachaidh seisean agus a dheisciobuil a luing: agus a dubbhart sé riú, Déanam ar an táobh úd a nunn don loch. Agus do sdiúradar rompa.
+Luke 8:23 Agus ag luingseórachd dóibh do thuit a chodladh airsean: agus do éirigh sdoirmgháoithe ar an loch; agus do líonadh súas íad, agus do bhádar a ngábhadh.
+Luke 8:24 Agus ar ndol cuigesean dóibh, do dhúisgeadar é, ag rádh, A Mhaighisdir, a mhaighisdir, a támaoid ar fágbháil. Agus ar neirghe dhósan do bhagair sé ar an gaoith agus ar thonnghail a nuisge: agus do choisgeadar, agus tainic ciuinas ann.
+Luke 8:25 Agus a dubhairt sé ríu, Cáit an a bhfuil bhar gcreideamh? agus ar mbeith le heagla dhóibhsion do ghabh iongnadh íad, ag rádh ré chéile, Cia be so! a deir ris na gáothaibh agus ris a nuisge fós bheith na dtochd, agus úmhluighid said dó. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:26 ¶ Agus do rinneader loingscórachd go crich na Ngadarénach, atá as comhair na Galilé a nunn.
+Luke 8:27 Agus ar ndol a dtír dhósan, tárla óglach áirighe as an gcathruigh air, ann a rabhadar deamhuin re haimsir fhada, agus ag nach bíodh éadach uime, agus ní comhnuigheadh sé a dtigh, achd an sna tuámaidhibh.
+Luke 8:28 Agus ag faicsin Iósa dhó, agus ag éighmhe, do theilg sé é féin siós aga chosaibh, agus a dubhairt sé do ghuth ard, Créd é mo chuidsi dhiót, a Iósa, a Mhic Dé ro áird? Iarruim ort, gan mo phiánadh.
+Luke 8:29 Oir do aithin sé don spiorad neamhghlan dol as an duine. Oír is iomdha uáir do bheireadh sé siothadh air: agus do cheangluidh le slabhraidhibh agus dp cpimhéaduibh le géimhleachuibh é; agus ar mbriseadh na gcuibhreach dhósan, do thiománadh an deamhan fá na fasaighibh e.
+Luke 8:30 Agus dfiafruidh Iósa dhé, ag rádh, Créd is ainm dhuit? Agus a dubhairt seision, Leighión: do brígh go ndeachádar mórán deamhan a sdeach ann.
+Luke 8:31 Agus diárradar air gan a chur dfiachaibh ortha dul ann sa dubhaigen.
+Luke 8:32 Agus so bhí tréd mór muc ann sin ag inghilt ar a tslíabh: agus diárradar air a léigean doibh dul ionnta. Agus dfulaing seísion sin dóibh.
+Luke 8:33 Agus ar ndul do na deamhnuibh as an duine, do chúadar ann sna mucaibh: agus do rith an <hi type="italic">tréd</hi> <hi type="italic">muc</hi> ris a nail ann sa loch, agus do múchadh iád.
+Luke 8:34 Agus an trath do chunncadar a háodhairidhe an ní do rinneadh an, do theitheadar, agus ar nimtheachd dóibh dinnseador <hi type="italic">sin</hi> ann sa chatruigh agus ar na machairibh.
+Luke 8:35 Agus do chúadarsan amach dféachain an neith do rinneadh; agus tangadar dionnsuighe Iósa, agus fúaradar an duine, as a ndeachadar na deamhuin, a na éadughadh, agus é ar deaghcheill, na shuidhe ag cosaibh Iósa: agus go ghabh eagla íad.
+Luke 8:36 Agus an dream do bhí <hi type="italic">dhá</hi> fhéachain dinnsigheadar dhóibsion cionnas do slánaigheadh an tí iona rabhadar na deamhuin.
+Luke 8:37 Agus diárradar luchd chríche na Ngadarenach uile airsion imtheachd úatha; oír do bhí eagla ro mhór orrtha: agus ar ndol dósan ann sa luing, dfill sé tar ais.
+Luke 8:38 Agus díarr an fear as a ndeachadar na deamhuin air, é fein do bheith na fhochair: achd léig Iósa úadh é, ag rádh,
+Luke 8:39 Fill dod thigh féin, agus innis meúd na neitheann do rinne Día dhuit. Agus do imthigh seision, ar feadh na caithreach uile ag innisin créd íad na neithe do rinne Iósa dhó.
+Luke 8:40 Agus tárla, an tan do fhill Iósa tar ais gur ghabh an sluagh chuca é: óir do bhádar uile ag feitheamh ris. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:41 ¶ Agus, féuch, táinic neach áirighe dar bhainm Iáirus, do bhí na úachdarán ar a tsinagóig: agus an tan do shléuchd sé ag cosaibh Iósa, diárr sé dathchuinghidh air dul leis dá thigh féin:
+Luke 8:42 Do bhrígh go raibh éinghein inghine aige, timcheall a dá bhliadhan dég, agus í fagháil bhais. Achd ar mbeith ag imtheachd dhó do bhí an sluagh dha bhrughadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:43 ¶ Agus bean do bhí a bhflucsa fola dá bhliadhuin dég, agus do chaith a raibh aice le leaghaibh, agus nar béidir le héinneach a leigheas,
+Luke 8:44 Do chúaidh sí táobh shíar <hi type="italic">dheision,</hi> agus do chumail sí ré himeal a bhruit: agus do sguir a dórtadh fola ar an mball.
+Luke 8:45 Agus a dubhairt Iósa, Cía so do bhean rium? Agus ar na shéana do chách uile, a dubhairt Peadar agus an dream do bhí na fharraidh, A Mhaighisdir, atá an slúagh ad bhrughadh agus ad phluchadh, agus a nabair tú, Cía bhean rium?
+Luke 8:46 Agus a dubhairt Iósa, Do bhean duine éigin riom: oír do mhothuigh mé subhailce dul asam.
+Luke 8:47 Agus an tráth do chonnairc an bhean gur hairigheadh í, táinic si ar crith, agus ag sléuchdain dósan, dfoillsigh sí dhó a bhriadhnaisi an phobuil uíle créd é an tádhbhar far chumail sí ris, agus cionnus do leigheasadh í ar an mball.
+Luke 8:48 Agus a dubhairt seisean ría, Bíodh mainighin mhaith agad, a inghean: do shlánuigh do chreideamh thú; imthigh romhad a sióthcháin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 8:49 ¶ An feadh do bhí seision ag labhairt, táinic neach áirige ó úachdarán na sinagóige, da rádh ris, Fúair binghean bás; ná cuir buaidhreadh ar an Mhaghisdir.
+Luke 8:50 Agus ar na chluinsin <hi type="italic">so</hi> Díosa, do fhreagair sé é, ag rádh, Na bíodh eagla ort: créid amhain, agus sláineóchthar í.
+Luke 8:51 Agus ar ndul a sdeach don tigh dhó, níor fhuiling sé neach ar bith do dhul a sdeach, achd Peadar, agus Séumus, agus Eóin, agus athair agus mathair an chailín.
+Luke 8:52 Agus do bhádar cách uile a gul, agus dá cáoineadhsa: achd a dubhairt seision, Ná guilidh; ní bhfuil sí marbh, achd na codladh.
+Luke 8:53 Agus do rinneadarsan fonomhad faoi, tré go raibh a fhios aca go raibh sí marbh.
+Luke 8:54 Agus ag cur cháich uile amach dhósan, agus ad breith ar a láimh, do éigh sé, ag rádh, A chalín, éirigh.
+Luke 8:55 Agus táinic a spiorad a rís innte, agus déirigh sí ar an mball: agus do aithin sé bíadh do thabhairt dí.
+Luke 8:56 Agus do ghabh úathbhás a hathair agus a mathair: gidheadh do áithin seision díobh gan an ní do rinneadh dinnísin do dhuine ar bith. <lb type="x-end-paragraph"/>
+Luke 9:0 <lb type="x-begin-paragraph"/>
+Luke 9:1  Agus ag gairm a dhá dheisciobal deg dhó, tug sé neart agus cumhachda dhóibh art na huile dheamhnuibh, agus ar easláintibh do leigheas.
+Luke 9:2 Agus do chuir sé iád do sheanmoír ríoghachda De, agus do leigheas na <hi type="italic">ndáoine</hi> easlán.
+Luke 9:3 Agus a dubhairt sé riú, Ná beiridh ní ur bith libh chum na sligheadh, bataighe, ná tiach lóin, ná arán, ná aírgead ná biodh dhá chóta ag cách.
+Luke 9:4 Agus gidh bé ar bidh teach an a rachtáoi a sdeach, gur ab ann sin fhanfáoi, agus gur ab as rachtái amach.
+Luke 9:5 Agus gidh bé nach géubhuidh chuca sibh, ar bhfagbháil na caithreachasin dáoibh, craithidh fós an lúathbreachán dá bhur gcosnibh mar fhíadhnuisi na naghaidh.
+Luke 9:6 Agus do imthigheadarsan, trís agus do ghabhadar na mbailtreach, ag déanamh seanmóra agus ag leigheas ann gach uile bhall. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:7 ¶ Agus do chúaluidh Iórnáith an Tetraren gach uile ní dá ndeamuidh seision: agus do bhí sé a namharus, do brigh go ndubhradar dáoine áirighe, gur éirigh Eóin ó mharbhuidh;
+Luke 9:8 Agus dáoine eile, Gur fhoillsigh Elias <hi type="italic">é féin;</hi> agus dáoine eile, Gur eirséirigh faigh éigin do na seanfháighibh.
+Luke 9:9 Agus a dabhairt Iorúaith, Do bhean misi a cheann Deóin: agus cia hé so, ar a gcluinim a leithéde so? Agus diarr sé eision dfaicsin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:10 ¶ Achd ar bhfilleadh do na habsdalnibh, dinnseadar dhósan gach ní dhá ndearnadar. Agus ar na mbreith leis do, do chuáidh sé fá Leith ar fhásach na ciathreacha dá ngoirthear Betsáida.
+Luke 9:11 Agus an tan, do aithin an pubal sin, do leanadar é: agus ar na ngabháil chuige <hi type="italic">dhó</hi>, do labhair sé ria a dtimcheall rioghachda Dé, agus do shlánaigh sé an chuid díobh ar a raibh úireasbhuide leigbis. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:12 ¶ Agus do bhí an lá ag dol thárrsa, agus trangadar an dá fhear dhég <hi type="italic">chuigesion</hi>, agus a dubhradar ris, Léigh uáit an slúagh, ionnus go numéochaidis fa na bailtibh agus fan tír do leathnughadh, agus go ccomhnuidhid, agus dfaigháil bídh: óir a tamáoid ann so a náit fhásamhuil.
+Luke 9:13 Achd a dubhairt seision riú, Tabhruidhsi ní lé na ithe dhóibh. Agus a dubhradarsan, Ní bhfuil ní is mó aguinn ná cúig aráin agus dá iásglachsd mona dteímis do cheannach bidh don phobal so nile.
+Luke 9:14 Oír do bhádar a dtimcheall chuig míle fear. Achd a dubhairt seisión ré na dheisciobluibh, Cuiridh na suidhe iád na gcaogadaibh.
+Luke 9:15 Agus do rinneadarsan amhlaidh, agus do chuireadar na suidhe iád nile.
+Luke 9:16 Agus ar ngabháil na gcúig narán agus an dá iásgdhósan, agus ar bhféachain sias ar neamh, do bheannuigh sé iád, agus do bhris sé, agus tug sé dhá dheisciobluibh <hi type="italic">iád</hi> do chum go gcuirfidís a bhfiadhnuisi an phubail <hi type="italic">iád</hi>.
+Luke 9:17 Agus a dithadar, agus do sasaigheadh iad uile: agus do tógbhadh dhá chlíabh dhég do bhíadh bhrisde do bhí dfhuighioll aca. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:18 ¶ Agus tárla, an tan do bhí sé na áonar ag déanamh urnuighe, go rabbadar a dheisciobuil na fhochair: agus gur fhíafruidh sé dhíobh, ag rádh, Créd a deir an slúagh cía misi?
+Luke 9:19 Agus do fhreagradarsan agus a dubhradar, Eóin Baisde; agus cuid eile, Elías; agus cuid eile, gur éighe fáigh éigin do na seanfháighibh a rís.
+Luke 9:20 Agus a dubhairt seision riú, Achd cred a deárthaoisi cía mé? agus ar bhfreagra do Pheadar a dubharit sé, Criosd Dé.
+Luke 9:21 Agus ar ndeanamh bagiar orrtha dhó, do aithin sé íad gan so dinnisin do dhuine ar bith;
+Luke 9:22 Ag rádh, Gur ab éigin do Mhac an duine mórán dfulang, agus a dhinltadh ó na sinnsearnibh agus ó úachdaránnibh na sagart agus ó na sgriobuidgibh, agus bás dfulang, agus éirghe an tres lá. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:23 ¶ Agus a dubhairt sé <hi type="italic">riá</hi> uile, Madh áill ré héinneach misi do leanmhuin, díultadh sé dho féin, agus toghbadh sé a chros gach láoi agus leamadh sé misi.
+Luke 9:24 Oír gidh bé lér ab aill an anam do shlánaghadh caillfidh sé é: agus gidh be chaillfeas a anam ar mo shousa, a sé so shláineochas é.
+Luke 9:25 Oír créd a tharbha do dhuine, dá ngnoghuigheadh sé an domhan uile, agus go gcaillfeadh sé, nó go léigfeadh sé a mugba é féin?
+Luke 9:26 Oír gidh bé le budh nár misi agus mo bhriathra, budh nár le Mac an duine eision, an tráth thiocfas sé ann a ghloír fein, agus Athar, agus na naingeal náomhtha.
+Luke 9:27 Agus a déirim ribh go firianeach, Go bhfuilid cuid don mhuintir ata á láthair ann so, nach blaisfidh bás, nó go bhfaicfid rioghachd Dé. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:28 ¶ Agus tárla a dtimcheall ochd lá tar éis na mbriatharsa, ar mbeith Pheadair agus Eóin agus Shéamuis leis, go ndeachaidh sé súas ar shlíabh do dhéanadh urnuighe.
+Luke 9:29 Agus tárla ag deanamh urnuighe <hi type="italic">dhó</hi>, gur hathruigheadh fioghair a aighthe, <hi type="italic">agus</hi> go ndearnadh a éadach geal dealruigheach.
+Luke 9:30 Agus, féuch, do bhádar días fear ag comhrádh ris, mar atá Máoisi agus Elías:
+Luke 9:31 Noch do chomcas a nglóir, agus dfoillsigh an bás, do fhuilcongadh sé a Niarusalem.
+Luke 9:32 Agus do bhí codladh trom ar Pheadar agus ar a ndroing do bhí na fharradh, agus an tan do dhuisgeadar, do channcadar a ghloírsion, agus an dias fear do bhí na seasamh na fhochair.
+Luke 9:33 Agus tárlá, agá fhagbháil doibh, go ndubhairt Peadar réllíosa, A Mhaighisdir, is maith sinne do bheith ann so: agus déanam trí botha; both dhuitsi, agus both do Mháoisi, agus both Dhelías: gan fios aige créd a dubhairt sé.
+Luke 9:34 Agus an tan a dubhairt sé só, táinic néull, agus do theilg sé agáile orrtha: agus do ghabh eagla iásdsan an tan do chuádar ann sa néull.
+Luke 9:35 Agus táinic gith as a néull, ag rádh, Ag so mo Mhac gradhachsa: éisdigh ris.
+Luke 9:36 Agus ar teachd don ghuthsin, do fríoth Iósa na áonar. Agus do bhadarsan na dtochd, agus nior innisiodar dáonduine ann sna laéthibhsin ní ar bith dhá bhfacadar. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:37 ¶ Agus tárla, an lá na dhiáighsin, ar ndul síos don tslíabh dhóibh, do dtárla slúagh mór airsion.
+Luke 9:38 Agus, féuch, do éigh neach don tslúagh, ag rádh, A Mhaighisdir, iárruim ort, feuch ar mo mhac: oír a sé méinghein é.
+Luke 9:39 Agus, féuch, beirídh an spiorad air, agus éimhigh sé go hobann; agus tairrngidh sé as a cheile é ag cur cubhair amach, agus is ar éigin fhágfas sé é tar éis a chomhmbrúghadh.
+Luke 9:40 Agus diárr mé ar do dheiscioblaibhsi a chur as; achd níor fhéadadar.
+Luke 9:41 Agus ar bhfreaga Díosa a dubhairt sé, A chineadh míchreidmheach cláon, ga fad fós bhiás mé eadruibh, agus fhuileongas mé sibh? Tabhair do mhác leachd an so.
+Luke 9:42 Agus ad teachd chuige dhó, do bhúail an deamhan síos é, agus do tharruing sé as a cheile é. Achd do imdhearg Iósa an spiorad neamhglan, agus do leighis sé an leanabh, agus thug sé dhá athair <hi type="italic">fein</hi> é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:43 ¶ Achd do ghabh úathbhás cách uile trí mhórchumhachd Dé. Agus ar mbeith ag déanamh iongantus doibh uile ann gach uile ní da ndearnuidh Iósa, a dubhairt sé ré na dheiscioblaibh,
+Luke 9:44 Taisgidh na bríathrasa ann bhur gcluasaibh: óir tiofuidh chum chríche go dtiobharthar Mac an duine a lámhuibh na ndaóine.
+Luke 9:45 Achd níor thuigeadarsan an comhrádhsa, agus do bhí sé ar na fholach úatha, ionnas nar airigheadar é: agus do bhí eagla orrtha ceisd do chur airsion a dtimcheall an chomhráidh sin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:46 ¶ Agus déirigh diospóireachd eatarra, cía dhíobh <hi type="italic">féin</hi> budh mhó<hi type="italic">.</hi>
+Luke 9:47 Agus ar bhfaicsin smuaintighe a gcroidhe, Díosa, do ghabh se leanabh <hi type="italic">chuige,</hi> agus chuir sé na aice <hi type="italic">féin é</hi>.
+Luke 9:48 Agus a dubhairt sé riú, Gidh bé ghéubhas chuige an leanabh so a mainmsi is misi ghabhas se chuige: agus gidh bé ghéubhas misi chuige, gabhuidh sé chuige an té do chuir uádh mé: óir gidh bé is lugha eadruibhsi uile, bíaidh se mór. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:49 ¶ Agus ar bhfreagra Déoin a dubhairt sé, A Mhaighisdir, do chunncamairne duine áirighe ag teilgean deamhan a mach ad ainuisi; agus do thoirmeasgamar é, ar son nach leananu sé dhínne.
+Luke 9:50 Agus a dubhairt Iósa ríu, Ná toirmeasuidh é: oir gidh bé nach bhfuil ar naghuidh atá sé linn. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:51 ¶ Agus tárla, an tan do coímhliónadh laéthe a nglacfaidh súas é, gur chuir sé roimhe go daingion dul go Hiárusaléim.
+Luke 9:52 Agus do chuir sé teachdairighe róimhe: agus ar nimtheachd dóibh, do chúadara sdeach a mbaile na Samáritánach, do chum go ndéanaidís ullmhaghadh roimhesion.
+Luke 9:53 Achd niór ghabhadársan chuca é, ar son go raibh a agháidh mar bhiagh sé dul go Hiarusalém.
+Luke 9:54 Agus an tráth do chuncadar a dheisciobuilsion Séumas agus Eóin <hi type="italic">so,</hi> a dubhradar, A Thighearna, a naill leachd go nabramáois teine do theachd a núas ó neamh, dá losadh síad, mar do rinne Elías <hi type="italic">leis?</hi>
+Luke 9:55 Agus ar gcasadh dhó, do imdhearg sé iad, agus a duibhairt sé, Ní bhfuíl a fhios aguibh créd é an spiorad dár dhe sibh.
+Luke 9:56 Oír ní thaínic Mac an duine do sgríos anmann na ndáoine, achd dá slánughadh. Agus do chúadar as sin go bhaile eile. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 9:57 ¶ Agus tárla, ar nimtheachd dóibh san tslíghe, go ndúbhairt <hi type="italic">neach</hi> áirighe rision, Leanfuidh misi thú gidh bé háit ann a racha tú, a Thighearna.
+Luke 9:58 Agus a dubhairt Iósa ris, Ataíd fúachaisighe ag na sionnchaibh, agus neíd ag éanlaith a naiéir; achd ní bhfuil áit ag Mac an duine ann a gcurfeadh sé a cheann.
+Luke 9:59 Agus a dubhairt sé ré neach eile, Leansa misi, Achd a dubhairt seision, A Thighearna, leigh dhamh imtheachd ar túís agus mathair daghlacadh.
+Luke 9:60 Achd a dubhairt Iósa ris, Leíg do na marbhuibh a mairbh féin daghlacadh: achd imthighsi, agus déana rioghachd Dé do sheanmóir.
+Luke 9:61 Agus mar an gcéadna a dubhairt neach eile, Leanfuidh misi thú, a Thighearna; Achd leigh dhamh ar tús mo chead do ghabháil, ag am mhuinntir.
+Luke 9:62 Achd a dubhairt Iósa ris, Gidh bé neach chureas a lámh ar an gcéuchd, agus fhéachas na dhíaigh, ní bhfuil se iomchubhaidh do ríoghachd Dé. <lb type="x-end-paragraph"/>
+Luke 10:0 <lb type="x-begin-paragraph"/>
+Luke 10:1 Agus na dhiaigh so dórduigh an Tighearna mar an gcéadna deithneabhar agus trí fichid eile, agus do chuir sé na ndís agus na ndís roimhe féin iád dá gach uile chathruigh agus ionnad, ann a raíbh a <hi type="underline">theachd</hi> féin.
+Luke 10:2 Ar a nadhbharsin a dabhairt sé ríu, Is mór an foghmhar, achd is <hi type="underline">beag</hi> an luchd oibre: uime sin guidhidh Tighearna an fhoghmhuir, luchd oibre do chur amach chum a fhóghmhair.
+Luke 10:3 Imthighidh: féuch, ataimse dá bhur gcur <hi type="underline">úaim</hi> mar úana a measg mhadradh allta.
+Luke 10:4 Ná hiomchruidh sbarán, na tiach loín ná bróga: agus ná beannaighidh do neach ar bith sa tslighe.
+Luke 10:5 Agus gidh bé tigh iona rachtáoi a sdeach, abruidh ar tús, Go raibh sióthcháin don tighse.
+Luke 10:6 Agus má bhionn Mac na sióthchána annsin, do dhéannidh bhur sióthcháinsi <hi type="underline">comhnnighe</hi> air: achd muna raibh, fillfidh sí chugaibh féin a rís.
+Luke 10:7 Agus fanaidh an sa tighsin, ag ithe agus ag ól na neitheann atá aca: óir is fiú an toibrigh a thuárasdal. Ná himighidh ó thigh go tigh.
+Luke 10:8 Agus gidh bé cathair ann a rachtáoi a sdeach, agus go ngéubhaid siád sibh, ithidh na neithe chuirid siád ann bhur bhfiadhuisi:
+Luke 10:9 Agus slánaghaidh na heaslaín bhias innte, agus abruidh riú, Do dhruid rioghachd Dé ribh.
+Luke 10:10 Agus gibh bé cathair ann a rachtáoi a sdeach, agus nach génbhuid siád sibh, ar nimtheachd dáoibh amach ar na sraídibh, abruidh,
+Luke 10:11 Craithmíd dhínn bhur naghaidh, go fiú an luaithridh do lean dínn, as bhur gcathruigh: achd cheana bíodh a fhios so aguibh, gur dhruid rioghachd Dé ribh.
+Luke 10:12 Agus a deirím bhur ribh, Go madh socamhluighe do na Sodomachaibh an lá úd, ná don chathraighsin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:13 ¶ Is anáoibhinn duit, a Chorásin! as anáoibhinn duit, a Bhetsáida! oir dá madh a Dtírus agus a Sídon, do dhéantáoi na miorbhuile do rinneadh ionnaibhsi, is fada ó da dhéanaidís aithrighe, na suidhe a néadach roín agus a luaithreagh.
+Luke 10:14 Ar a nadhbharsin budh socamhluighe do Thírus agus do Shídon ann sa bhreitheamhnus, na dháoibhsi.
+Luke 10:15 Agus tusa, a Chapernáum, atá ar do thógbháil súas go neamh, teilgfidhthear siós go hifearnn thú.
+Luke 10:16 Gibh bé éisdeas <hi type="underline">ribhsi</hi> is riomso éisdeas sé; agus gibh bé bheir neimhchion oruibhsi, is oramsa do bheir sé neimhchion; agus gibh bé bheir neimhchion oramsa is ar an té do chuir úadh mé do bheir sé neimhchion. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:17 ¶ Agus do fhilleadar an deithneabhar agus trí fichid maille lé gáirdeachas, ag rádh, A Thighearna, ataíd na deamhuin féin fá smachd <hi type="underline">aguinne</hi> tréd ainmsi.
+Luke 10:18 Agus a dubhairt sesion <hi type="underline">riu</hi>, Do chonnairc mé Sátan marr theinnteach ag tuitim ó neamh.
+Luke 10:19 Fénch do bheirim dhíbh cumhachda saltairt air na haithreachaibh nimhe agus ar na scorpiónuibh, agus ar uile neart namhad: agus ní ghoirteochaid éin ní sibh.
+Luke 10:20 Achd cheana na bíodh gáirdeachas oraibh, ar son go bhfuilid na spioraididhe fá bhur smachd; achd go madh mó bhiás gairdeachas <hi type="underline">oruibh</hi> fá go bhfuilid bhur nanmanna sgríobhtha ar neamh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:21 ¶ Ar a núairsion do ghabh gáirdeachas iona spioraid Iósa, agus a dubhairt sé, Do bheirim buidheachas duit a Athair, a Thighearna neimhe agus talmhan, trí gur fholuigh tú na neithesi ó dháonibh eagnuidhe agus glioca, agus gur nochd tú iad do naoidheanánuibh: a seadh, a Athair; tré gur ab mar sin do budh toil leachd féin é.
+Luke 10:22 Atáid na huile neithe ar na dtabhairt dhanhsa óm Athair: agus ní bhfuil a fhios ag éinneach ciá hé an Mac, achd ag a Nathair; agus ciá hé an Tathair, achd ag an Mac, agus an té dá dtiúbhradh an Mac a nochdughadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:23 ¶ Agus ar bhfilleadh chum a dheiscíobal, a dubhairt sé fá leith riú, is beannaighthe na súile do chí na neithe do chithísi:
+Luke 10:24 Oír a deirim ribh, Gur ab iomdha fáighe agus righthe lér mhián na neithe do chithisi dfaicsin, agus ní fhacadar: agus na neithe do chluintí do chluinsin, agus ní chúaladar. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:25 ¶ Agus féuch, déirigh fear dlighe áirighe na sheasamh, ag cur chathaighthe airsion, agus ag rádh, A Mhaighhisdir, créd do dhéana mé <hi type="underline">ionnus</hi> go bhfuighinn an bheatha mharthannach doighreachd ?
+Luke 10:26 Achd a dubhairt seision ris, Créd a tá sgríobhtha ann sa dligheadh? Cionnas léaghas tú?
+Luke 10:27 Agus ar bhfreagra dhósan a dubhairt sé, Gráidheochuidh tú do Thighearna Dia as do chroidhe uile, agus as tanam uile, agus as do bhríoghuibh uile, agus as da smúaintighthibh uile; agus do comharsa mar <hi type="underline">thu</hi> féin.
+Luke 10:28 Agus a dubhairt seision ris, As díreach do fhreagair tú: déanasa so, agus <hi type="underline">mairfidh</hi> tú.
+Luke 10:29 Achd ar mbeith dhósan, funnmhar ó a fhiréantachd féin da thaisbéanadh, a dubhairt sé re Híosa, Maseadh ciá hé mo chomharsa?
+Luke 10:30 Agus ar bhfreagra <hi type="underline">Díosa</hi> a dubhairt sé, Do chúaidh duine áirighe siós ó lérusalem go Iérico, agus tárla a measg bhiothamhnach é, do shlad e, agus do loit é, agus do imthigh rompa, ar na fhagbháil leathmharbh.
+Luke 10:31 Agus tárla tré chinneamhain gur ghabh sagart áirighe síos sa tslighe sin: agus ar na fhaicsinsion dó, do ghabh sé thairis don táobh eile don tslighe.
+Luke 10:32 Agus mar an gcéadna Lebhita, a teachd chum a nionaid sin, ar na fhaicsin dó, do ghábh sé tháiris don táobh eile.
+Luke 10:33 Agus ar mbeith ag gabháil na sligheadh, do Shamaritánach áirighe, tháinic sé mar a raibh seision: agus ar na fhaicsin, do ghabh truáighe ghér dhó é
+Luke 10:34 Agus ar <hi type="underline">ndrud</hi> ris, do cheangail sé a chneadha, ag dortadh ola agus fióna ionnta, agus ar na chuir air a ainmhidhe féin dó, rug sé leis go tigh ósda é, agus do ghabh sé cúram na thimcheall.
+Luke 10:35 Agus ag imtheachd dó lá ar na mhárach, do bhean sé dhá phighinn amach agus tug sé don ósdóir iád, agus a dubhairt sé ris, Bíodh cúram agad fan fhearso; agus gibh bé chaithfeas tú as a chionn so, an tráth fhillfeadsa, do bhéara me dhuit é.
+Luke 10:36 A nois cía don triúrsa, bhreathnaigheas tusa, do bheith na chomharsain ag an tí úd thárla a measg na mbiothamhnach?
+Luke 10:37 Agus a dubhairt seísion, An tí ud do rinne trocaire air, Ar a nadhbhasin a dubhairt Iósa ris, Imthighsi agus déana mar an gcéadna. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 10:38 ¶ Agus tárla, ag imtheachd dóibh, go ndeachaidh seision go baile áirighe: agus go rug <hi type="underline">bean</hi> áirighe dar bhaimn Martá dá tigh fein é.
+Luke 10:39 Agus do bhí deirbhshiúr aicesi dá ngoirthí Muire, agus ar suidhe dhi ag cosaibh Iosa, do bhí si ag éisdeachd lé na bhríathraibh.
+Luke 10:40 Agus do bhí Martá lán do chúram lé hiomad friotholuimh, agus a dubhairt sí, A Thighearna, an é nach meisde leachd mar dfág mo dheirbhshiúr <hi type="underline">misi</hi> am áonar ag <hi type="underline">friotholamb</hi> ar a nadhbharsin abair riá cungnamh riom.
+Luke 10:41 Agus ar bhfreagra Díosa a dubhairt sé ría, A Mhartá, a Mhartá, atá tú ro chúramach agus buaidhridh tú <hi type="underline">thú</hi> féin fá mhóran do neithibh:
+Luke 10:42 Achd cheana ein ní a mhaín atá riachdanach: rug Muire an chuid mhaith do roghain, nach béarthar uáithe. <lb type="x-end-paragraph"/>
+Luke 11:0 <lb type="x-begin-paragraph"/>
+Luke 11:1  Agus tárla, an tan do bhí sé ag déanamh urnuighe a náit áirighe, mar do sguir sé, go ndubhairt fear áirighe dá dheisciobluibh ris, A Thighearna múin dúinne urnuighe do dhéanamh, amhail agus mar do mhúin Eóin dá dheisciobluibh féin.
+Luke 11:2 Agus a dubhairt seision ríu, A núair do dhéantáoi urnuighe, abraidh, Ar nathair atá ar neamh, naomhthar hainin. Tigeadh do rioghachd. Déantar do thoil, ar an talamh, mar atá ar neamh.
+Luke 11:3 Ar narán laétheamhuil tabhair dhúinn gach láoi.
+Luke 11:4 Agus maith dhuinn ar bpeacaigh; óir maithmídne da gach áon air a bhfuil fiacha aguinn. Agus na leíg sinn a ccathughadh; achd soar inn ó olc.
+Luke 11:5 Agus a dubhairt sé ríu cía agaibhsi agá mbíadh cara, agus go rachadh sé chuige a meadhon oidhche, agus go naibeóradh sé ris, A chara, tabhair trí haráin dhamh air iásachd;
+Luke 11:6 Oír tháinic cara dhamh as a tslighe am ionnsuighe, agus ní bhfuil éinni again do chuirfinn na fhiadhnuisi?
+Luke 11:7 Agus go bhfreigeóradh seision a sdigh, agus go naibeóradh sé, Na cuir búaidhreadh oram: atá an doras dúntí a nois, agus ataíd mo chlann am fhochair sa tseómra; ní fhéaduim éirghe agus a dtabhairt dhuit.
+Luke 11:8 A deirim ribh, ar néirghe dhó, dá mbeith nach dtiobhradh sé sin úadh, ar son gur chara dhó é, gidheadh go fírinneach ar son a liosdachda do éiréochadh sé, agus do bhéaradh sé dhó an mhéid do bhiadh do riachdanus air.
+Luke 11:9 Agus a deirimsi ribh, Iarraidh, agus do bhéarthar dháoibh; lorgairigh, agus do gheabhtháoi; buailidh <hi type="italic">an doras,</hi> agus oisgéoltar dháoibh.
+Luke 11:10 Oír gidh bé iárras glacaidh sé; agus gidh bé do ní lorgaireachd do gheibh sé; agus oísgéoltar don té bhúaileas <hi type="italic">an doras.</hi>
+Luke 11:11 Agus cía againbhsi athair ar a níarrfadh a mhac arán, do bhéaradh cloch dhó? Nó dhá <hi type="italic">niárradh</hi> sé iásg, do bhéaradh nathair nimhe a nionad éisg dhó?
+Luke 11:12 Nó dá niárradh sé úgh, an dtiobhradh se scorpion do?
+Luke 11:13 Ar a nadhbharsin, más eól dáoibhsi air mbeith go holc, tiodhluice maithe do thbhairt da bhur gcloinn, an é nach mó ná sin bhéaras <hi type="italic">bhur</hi> nathairse ó neamh an Spiorad Náomh don during íarrfas air é? <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 11:14 ¶ Agus do bhí sé ag teilgean deamhain amach, do bhí balbh. Agus tárla, ar ndul don deamhan amach, gur labhair an balbhán; agus do ghabh iongnadh an slúagh.
+Luke 11:15 Agus a dubhairt dream acasan, Is trí Bheelsébub prionnsa na ndeamhan theilgeas sé amach na deamhuin.
+Luke 11:16 Agus dream eile, ag cur chathaighthe <hi type="italic">air,</hi> do iárradar comhartha ó neamh air.
+Luke 11:17 Agus ar bhfaicsin a smúaintighthe, dhósan, a dubhairt sé riú, Gach rioghachd bhios roinnte na haghaidh féin do nithear fasach dhi; agus an tigh bhíos <hi type="italic">roinnte</hi> naghaidh tíghe, tuitidh sé.
+Luke 11:18 Agus mar an gcéada dá raibh Sátan roinnte na aghaidh féin, cionnas fhanfas a rioghachd na seasamh? oír a deirthísi gur ab trí Bheelsébúb theilgimsi amach na deamhain.
+Luke 11:19 Agus más trí Bheelsebuh sgriosaimsi na deamhuin, cía tré sgriosaid bhur gelannsa <hi type="italic">iád</hi>? Ar a nadbhharsin héid siádsan na mbhreitheamhnaibh oraibhsi.
+Luke 11:20 Ach cheanna más le méur Dé theilgimsi amach na deamhain, gan chunntabhairt tháinic ríoghachd De chuguibhsi.
+Luke 11:21 An tan choimhéadas duine láidir armálta a chúirt féin, atá a bhfuil aige a siothchaín:
+Luke 11:22 Achd an tráth thig duine is neartmhaire ná é, beiridh sé búaidh air, agus tóguidh sé leis a uile armaíl ann ar chuir sé a mhuinighinn, agus roinnidh sé a eadáil.
+Luke 11:23 An té nach bhfuil leamsa atá sé am aghaidh: agus gidh bé nach ccruinnigheann leamsa scabuighidh sé.
+Luke 11:24 An tráth imthigheas an spiorad neamhglann as duine ar bith, imthigh sé trí íonaduibh tiorma, ag iárruidh suáimhnis; agus an tráth nach bhfaghann sé sin, a deir sé, Fillfidh mé doin thigh féin ó dtáinic mé.
+Luke 11:25 Agus ar dtachd dó, do gheibh sé ar na sgúabadh agus ar na dheaghmhaisioghadh é.
+Luke 11:26 Imthighidh sé an sin, agus beiridh sé leis seachd spioraide eile is measa ná é fein; agus ar ndol a sdeach dhóibh, do níd comhnaidhe ann sin: agus is measa deireadh an duine sin ná a thosach. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 11:27 ¶ Agus tárla, agá rádh so dhó, gur árduigh bean áirighe don tsluágh a gúth, agus go nduibhairt sí, <hi type="italic">As</hi> beannaighe an bhrionn do iomchuir thú, agus na cíocha do dhiughail tú.
+Luke 11:28 Agus a dubhairt seision, Achd as beannaighe an dream eisdeas briáthar Dé, agus choimhéudus é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 11:29 ¶ Agus an tan do chruinnidh an sluágh go tiúgh chuige, do thionsgain sé a tádh. As olc an cineadh so: iárraidh sé comhartha; agus ní tiubharthar comhartha dhó, achd comhartha Iónas fáidh.
+Luke 11:30 Oir ambail dó bhí Iónas na chomhartha do mhuinntir Niníve, as mar sin bhiás Mac an duine mar an gcéudna don chineadhso.
+Luke 11:31 Eiréochuidh bainrióghan an aoibhe ó dheas a mbreitheamhnus maille ré dáoinibh an chinidhsí, agus daimneóchaidh si iád: oír tháinic sisí ó leithimlibh na talmhan déisdeachd ré heagna Sholaimh: agus, féuch, <hi type="italic">atá duine</hi> as mó ná Solamh ann so.
+Luke 11:32 Eireóchaid luchd Niníve a mbreitheamhnus maille ris an gcineadhso, agus dainmeóchaid é: oír do rinneadarsan aithrighe ag seanmóir Iónas; agus, féuch, <hi type="italic">atá duine</hi> as mó ná Iónas ann so.
+Luke 11:33 Ní lasann duine ar bith coinneall, chum a cur a bhfolach, nó faoi bhaiseúl, achd a gcoinnleóir, ionnus go bhfaichfidis an dream thig a sdeach an solus.
+Luke 11:34 A sí an tsúil solus an chuirp: ar a nadhbharsin a núair bhias do shúil glan, biáidh do chorp uile soillseach; achd dá raibh <hi type="italic">do shúil</hi> go holc, biáidh do chorp mar an gcéadna dorcha.
+Luke 11:35 Dá brígh sin tabhair haire riot nach biáidh an solus atá ionnad na dhorchadus.
+Luke 11:36 Ar a nadhbharsin dá raibh, do chorp uile soillseach, gan éanchuid dhe dorcha, biáidh an tiomlán soillseach, amhail mar dheallruigheas coinneal thú ré na soillse. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 11:37 ¶ Agus ar labhairt do, do chuir Phairisíneach airighe impédhe air a dhínnér do chaitheamh na fhochair: agus ár ndul a sdeach dhósan, do shuigh sé chum bídh.
+Luke 11:38 Agus an tan do chonnairc an Phairísineach <hi type="italic">sin</hi>, dob iongnadh leis nár ionnail sé ar tús roimh dhínnér.
+Luke 11:39 Agus a dubhairt an Tighearna rís, Go deimhin do ní sibhse a phairisineacha an táobh amuigh don chupan agus don mhéis glan; achd atá an táobh a sdigh dhíbh lán do shracaireachd agus dolc.
+Luke 11:40 <hi type="italic">A dháoine</hi> gan chéill, a né nach é an tí do rinne an táobh a muigh do rinne an táobh a sdigh mar an gcéadna?
+Luke 11:41 Ar a nadhbharsin tábhruidh deíre uáibh do na neithibh atá a láthair aguibh; agus, féuch, bíaidh na huile neitheghan díbh.
+Luke 11:42 Achd is anáoibhinn dáoibh, a phairisíneach! do brígh go ngabhtháoi deachmhaidh an mhiontius agus na ruibhe agus na uile luibheann, achd gabhtháoithar bhreitheamhnus agus ghrádh Dé: do búdh cúir iád so do dhéamnamh, agus gan iád súd do leígeann gan déanamh.
+Luke 11:43 As anáoibhinn dáoibh, a phoirisneacha! Oír as ionmhuin libh an céud ionad suidhe ann sna sionagogaibh, agus fáilteadha ar na máruidhibh.
+Luke 11:44 As anáoibhinn dáoibh, a sgriobuidhe agus a phairisíneacha, a lachd a nfúarchrábhaidh! oír atátháoi marthuámuidhibh nách bhfaicthear, agus nách aithne do na dáoimbh shiubhlus <hi type="italic">orrtha</hi>.
+Luke 11:45 Agus ar bhfreagra do dhuine áirighe don luched dlighe, a deir sé rís, A Mhaighisdir, agá rádh so dhuit do bhéir tú masa dhuinne fós.
+Luke 11:46 Achd a dubhairt seision, As anáoibhinn dáoibhsi leis, a luchd dlighe! oír curtháoi úaluidhe dóiomchur ar na dáoinibh, agus ní bheantháoi féin ris na húaladhaibh lé háon da bhur méuraibh.
+Luke 11:47 As anáoibhinn daiobh! oír tógtháoi túamuidhe na bhfáidheadh, agus a siád bhur naithreacha do mharbh iád.
+Luke 11:48 Go deimhin do níthi fiádhnuisi go moltáoi gniómhartha bhur naithreach: oír do mharbhadarsan iád, agus do níthíse tuamuidhe dhóibh.
+Luke 11:49 Ar a nadhbharso a dubhairt eagna Dé, Cuirfe mé fáidhe agus absdail chuca, agus muirfid siád agus géarleanfuid <hi type="italic">cuid</hi> diobh:
+Luke 11:50 Do chum go leanfuidhe ar an gcinneadhsa, fuil na bhfáidheadh uile, do dóirteadh ó thús an domhain;
+Luke 11:51 O fhuil Abéil go fuil Shacharías, do marbhadh éidir a naltóir agus an teampoll: go firinneach a deirim ribh, go leanfuighear é ar an gcineadhso.
+Luke 11:52 As anáoibhinn dáoibh, a luchd dlighe! oír rugabhair libh eochair a néolais, ní dheachabhair féin a sdeach, agus do thoirmisgeabhair an dream do bhí ag dul a sdeach.
+Luke 11:53 Agus a nnáir dubhairt sé na neithese riú, do thionnsgnadar na sgriobuidhe agus na Phairisínigh consbóid ghéar do dhéanamh ris, agus a thabhairt air labhairt ar mhórán do neithibih:
+Luke 11:54 Ag luigheachan air, agus ag iárraidh neither éigin do ghreamughadh as a bhéul, ann a naigeóraidis é. <lb type="x-end-paragraph"/>
+Luke 12:0 <lb type="x-begin-paragraph"/>
+Luke 12:1  Fa a námsin, ar mbeith do phubal gan airmheadh ar na ccomhchruinniufgadh, ionnus go rabhadar ag saltairt ar a chéile, do thionnsgain sé a radh re na dheisciobluibh ar tús, Comhéaduigh sibh féin ar laibhin na Bhphairsineach, eadhon an fuarchrabhadh.
+Luke 12:2 Oír ní bhfuil einní foluightheach, nach dtiocfuidh chum sóillsi; ná seicreideach, nach bhfuighthear a fhios.
+Luke 12:3 Ar a nadhbharsin gidh bé neithe do labhrabhair an dorchadas cluinfidhthear iád satsolus; agus gidh bé ní do labhrabhair a gcluáis a seómruidhibh u<hi type="italic">aígneacha</hi> do dhéantar a ghairm ós na tighthibh.
+Luke 12:4 Agus a deirim ribhse a chairde, Ná biodh eagla muinntire oraibh mhárbhus an corp, agus na dhiáigh sin leis nach éidir ní sa mhó do dhéanamh.
+Luke 12:5 Achd foillséochaidh mé dháoibh cía ré a mbia bhur neagla: Bíodh eagla an ti úd oraibh, agá bhfuil cumhachda tair éis <hi type="italic">duine</hi> a mharbhadh a theilgean go hifrionn; a seadh, a deirim ribh, Biodh eagla so oraibh.
+Luke 12:6 A né nach cceannaghthear cúig gnealbhain ar dhá fheórling, agus ni bhfuil áon aca ar dearmad a bhfiádhnuise Dé?
+Luke 12:7 Achd fós atá gruág bhar gcinnse uile ar na comhaíreamh. Ar a nadhbharsin na bíodh eagla oráibh: as fearr sibhse ná morán gealbhan.
+Luke 12:8 Agus fós a deirim ribh, Gidh bé ar bith aidmheóchus misi a bhfiádhnuise na ndáoine, aidmheóchaidh Mac an duine mar an gcéadna eisean a bhfiadhnari aingeal Dé:
+Luke 12:9 Achd gidh bé shéanfus mise a bhfiadhnuise aingeal De.
+Luke 12:10 Agus gidh bé laibheóras focal a naghaidh Mhic an duine, maithfighthear dhó é: achd ní maithfighear don tí laibheóras blaisphéime a naghaidh an Spiorad Náoimh.
+Luke 12:11 Agus an tan do bhéaruíd said sibh chum na sinagóig, agus na núachdarán, agus na <hi type="italic">ndáoine</hi> gcumhachdach, na bíodh ná ro chúram oraibh cionnas no créd fhreagórtháoi, nó créd a déartháoi:
+Luke 12:12 Oír múinfidh an Spiorad Náomh dháoibh ar a nuársin <hi type="italic">féin</hi>, na neithe is coir dháoibh do rádh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:13 ¶ Agus a dubhairt óglach áirighe don tslúagh ris, A Mhaighisdír, abair rem dhearbhrathair, a noighreachd do rionn rium.
+Luke 12:14 Agus a dubhairt séision ris, A dhuine, cia chur misi ós bhur gcionn am bhreitheamh nó am rannadóir?
+Luke 12:15 Agus a dubhairt sé riú, Feachaidh, agus seachnuidh sibh ar a tsaint: oír ní a níomarcuigh an tsaídhbhris atá ag duine air bith atá a bheatha.
+Luke 12:16 Agus a dubhairt sé cosamblachd riú, ag rádh, Tug fearann dhuine sháidhbhir áirighe toradh mór:
+Luke 12:17 Agus do smuáin sé ann féin, ag radh, Créd do dhéana mé, oir ní bhfuil áit agam ann a gcruinneocha me mo thórthuighe?
+Luke 12:18 Agus a dubhairt sé, Do dhéana mé so: leaghfaidh mé mo sgiobóil, agus toigeabhuidh mé <hi type="italic">sgionóil</hi> bhus mó ná íad; agus cruimnéochaidh mé mo thórtha nile agus mo mháoin ionnta.
+Luke 12:19 Agus a deara mé réim anam <hi type="italic">fein</hi>, A anaim, ata mórán máoine agad ar na gcur a dtaisge fa chomchair mhórán bliadhan; fan ad chomhnuidhe, ith, ibh, bí go súgach.
+Luke 12:20 Agus a dubhairt Diá ris, A amadáin, a nochd féin iárfaid said hanam ort: agus cia bhus leis na neithe so, do sholáthair tú?
+Luke 12:21 <hi type="italic">Is</hi> mar sin atá an té chrunnigheas ionnmhas dó féin, agus nach bhfuil sáidhbhir a Niliá. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:22 ¶ Agus a dubhairt sé ré na dheisciobhluibh, Uime so a deirim ribhsi, Ná bidhidh, ro chúramach tá bhur gcorp, créd é an ní íosdáoi umuibh.
+Luke 12:23 As mó an tanam ná an biádh, agus an corp ná an téadach.
+Luke 12:24 Tabhraidh dá bhur naire ná preachaín: oír ní chuirid siás <hi type="italic">siól</hi>, agus ní bhéanuid said; agus ní bhfuili tigh sdórúis na sgioból aca; agus beathaigh Diá iád: agus a né nach fearr sibhsi go mór ná na héanlaith?
+Luke 12:25 Achd ciá agaibhsi lé na iomad curium fhéadas áon bhannlamh a mháin do chur air airde féin.
+Luke 12:26 Ar a nadhbharsin muna bhfuil ar bhur gcumas an ní as lugha, créd fa bhfuil cúram na neitheann eíle oraibh?
+Luke 12:27 Tabhraidh dá bhur naire na lilidhe ciondus fhásaid said: ní dhéanuid said sáothar, agus ní shníomhuid said; achd a deirim ribh, nach raibh Solamh <hi type="italic">féin</hi> ann a ghlóir uile ar na éadughadh mar áon díobh so.
+Luke 12:28 Agus má éaduigheann Diá már sin an fér, atá a niu ar an machaire, agus chuithear a márach ann sa núamhaifh; a né nach mó ná sin <hi type="italic">do dhéana sé</hi> dhibhse, a luchd an chreidimh bhig?
+Luke 12:29 Ar a nadhbharsin, na fiáfruidhidhsi créd iosdáoi, nó créd iobhtháoi, agus na bíthi amharusach.
+Luke 12:30 Oír a said na neithesi uile iárraid cinidheacha an domhain: achd atá a fhios ag bhur Nathairse go bhfuil a ríachdanas so oraibh.
+Luke 12:31 Achd cheanna Iárruidhsi rioghachd Dé; agus teilgfidhthear na neithesi uile chuguibh.
+Luke 12:32 Ná bíodh eagla ort, a thréd bheag; oir a si toil bhur Nathar an rioghachd do thabhairt dáoibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:33 ¶ Réacaidh a bhfuil aguibh, agus tabhruidh déire úaibh; déannidh sparáin dhibh féin nach rachta a narsaidheachd, cisde ar nach racha caitheamh ar neamh, a náith nach dtig gaduidhe a ngar dhó, agus nach dtruáilligheann an míol críon.
+Luke 12:34 Oír gidh bé aít iona bhfuil bhur ceisde, is am sin fós bhías bhur bhurgcroidhe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:35 ¶ Bíodh bhur leasrach ceangailte timchioll, agus bhur lóchráinn ar lasadh;
+Luke 12:36 Agus sibh féin comhchosmhud ré dáoinibh ag fuireach ré na dthighearna, gá húair do fhillfeadh sé ón phósadh; ionnas ar dteachd agus ar mbuáladh <hi type="italic">an doruis</hi> dó, go noisgeolaidis gan fhuireach.
+Luke 12:37 <hi type="italic">Is</hi> beannaighe na searbhfhoghantaidhe úd, do gheibh an tighearna ag déanamh faire an tan do thig sé: a deirim ribh go fírinneach, go gccangalfuigh sé é féin <hi type="italic">timchioll</hi>, agus go gcuirfidh sé iádsan na suidhe chum bidh, agus ar dteachd amach dhó go ndéanuidh sé fríothólamh dhóibh.
+Luke 12:38 Agus má thig sé sa dara faire, agus má thig sé sa treas faire, agus go bhfuighe só mar sin <hi type="italic">iád</hi>, is beannaighe na scarbhfhoghantuighe sin.
+Luke 12:39 Achd biodh a dheimhin só aguibh, dá mbeith a fhios ag fear an tighe cía a núair a dtiocfadh an gaduighe, go ndéanadh sé faire, agus nach bhfuilcóngadh sé a thigh féin do thollodh thríd.
+Luke 12:40 Agus ar a nadhbharsin fós bithisi ullamh: oír is a núair nach saoiltí thiocfus Mac an duine. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:41 ¶ Agus a dubhairt Peadar ris, A Thighearna, an linne a deir tú an chosamhlachd so, nó fós ré cach uíle?
+Luke 12:42 Agus a dubhairt an Tighearna, Cía atá na fheadhmannach fhírinneach ghlic, chuirfeas <hi type="italic">a</hi> thighearna ós cionn a mhuinntie <hi type="italic">féin</hi>, ionnus go dtiobhradh sé a miosúr bidh <hi type="italic">dhóibh</hi> na am fein?
+Luke 12:43 <hi type="italic">Is</hi> beannaighe an searbhfhoghantuidhe úd, agá bhfuighe a thighearna an tan thiocfus sé dhá dhéanamh mar sin.
+Luke 12:44 Go fírinneach a deirim ribh, Go gcuirfe sé ós cionn a bhfuill aige é.
+Luke 12:45 Achd má deir an seanbhfhoghantuighe úd ann a chroidhe féin, Cuirfidh mo thighearna a theachd a ríghneas; agus go dtionnsgónuidh sé gabháil ar na buáchailidh agus ná cailinidh, agus bheith ag ithe agus ag ól, agus ar meisge;
+Luke 12:46 Tiocfa tighearna an tsearbhfhoghantuighe úd sa lá nach saoileann sé é, agus ann sa núair nach bhfuil a fhios aige, agus dealóchaidh <hi type="italic">sé úaidh é</hi>, agus do bhéara sé a chuid dhó a bhfochair na ndaoine gan chreideamh.
+Luke 12:47 Achd an searbhfhoghantnidhe úd, agá raibh fios tola a thighearna féin, agus nar ullmhuidh <hi type="italic">é féin</hi>, agus nach dearna do réir a thola, géubhthar mórán air.
+Luke 12:48 Achd an tí úd ag nach raibh a fhios, agus fós do rinne na neithe do thuill buillidhe, buáilfabhear beagán air. Oír gidh bé dár tugadh morán, iárrfuidhthear morán a dtaisge, iarrfuidhthear ni sa mhó air. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:49 ¶ Taínic misi do chur teineadh air an talamh; agus créd eile diárrfuinn, ma atá sí ar na lasadh cheana?
+Luke 12:50 Achd is éigin damhsa mo bhaisdeadh lé baisdeagh; agus créd a mhéd chuibhrighthear mé no go gcríochnuighthear é!
+Luke 12:51 An sáoilti gur ab chum sióthchána do thabhairt ar an dtalamh tháinic misi? a deirim ribh, Nach eadh; achd ceannairce:
+Luke 12:52 Oír ó so amach, béid cúigear a néintigh ar na roinn, triúr a naghuidh deisi, agus diás a naghuidh trír.
+Luke 12:53 Biáidh an tathair a naghuidh an mhic, agus an mac a naghuidh a nathair; an mhathair a naghuidh na hiughine, agus a ninghean a naghuidh na mathara; agus mathair an fhir phósada a naghuidh a mhná, agus an bhean phósda a naghuidh mathar a fir. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:54 ¶ Agus a dubhairt sé mar an gcéadna ris an bpobal, An tan do chithi néull ag éighe ón táoibh a nsiár a deirthí ar ball, Atá cioth ag teachd; agus is amhluidh bhíos.
+Luke 12:55 Agus an tráth <hi type="italic">do chithí</hi> an gháoth ó dheas ag séideadh, a deirthí, Bíaidh teasmhach ann; agus bí sé mar sin.
+Luke 12:56 A <hi type="italic">luchd</hi> an fhuárchrabhuigh, as éol dáoibh aghaidh neimhe agus talmhan do bhreathnughthí na naimsirse? <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 12:57 ¶ Agus, créd fá nach breathnuighthí úaibh féin créd is cóir ann?
+Luke 12:58 Agus fós an tan théid tá réd easgcaruid chum a núachdaráin, déana do dhícheall ar slighe, air thú féin do reíteach úadh; deagla go dtairrngeadh sé chum an bhreithimh thú, agus go dtiobhradh an bhreitheamh don tsirríam thú, agus go dteilgfeadh an sirriam thú a bpriosím.
+Luke 12:59 A deirim riot, nách dtiocfa tú a mach as sín, no go nióca tú an fheóirlinn deigheanach. <lb type="x-end-paragraph"/>
+Luke 13:0 <lb type="x-begin-paragraph"/>
+Luke 13:1  Agus fá namsin féin tangadar dáoine áirighe chuige ag innisin sgéal do tháobh mhuinntir na Galilé, ag ar mheasg Pioláit a bhfuil thríd a niodhbarthuibh.
+Luke 13:2 Agus ar bhfreagra Díosa a dubhairt sé riu, An soiltisí gur ab mó na peacthaigh na Galiléeanuighsi ná an chuid eile do na Galiléeanachuibh, ar son gur fhuilngeadar a leithéide só?
+Luke 13:3 A deirimsi ribh, Nach mó: achd, muna ndéantáoisi aithrighe, go sgríosfuidhthear sibh euile mar an gcéadna.
+Luke 13:4 Nó an sáoiltí na hochd bhfir deag úd, air ar thúit an tor a Síloam, agus do mharbh iád, gur mhó na peacthaigh iád ná gach áoin nduine eile dá raibh na gcomhnuidhe a Niárúsalém?
+Luke 13:5 A deirim ribh, Nach ar mhó; achd mona ndéarntáoisi aithrighe, go sgriosfuidhthear sibh uile mar an gcéadna. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 13:6 ¶ Agus mar an gcendna a dubhairt sé an chosamhlachdsa; Do bhí crann fige ag <hi type="italic">duine</hi> áirige curtha ann a fhíneamhain; agus táinic sé diárruidh toraidh air, agus ní fhuáir.
+Luke 13:7 Agus a dubhairt sé ris an ngárradóir, Féuch, atáim ré trí bliádhuibh ag teachd diárruidh toruidh ar an gcrann fígsi, agus ní faghaim: gear é; cred fá gcungmhann sé an fearann go neamhtharbhach?
+Luke 13:8 Agus ar bhfreagra dhósan a dubhairt sé ris, A thighearna, leíg dhó ar an mbliadhainsi mar an gcéadna, nó go romhradh mé na thimcheall, agus go gcnire mé áoileach fáoi:
+Luke 13:9 Agus má bheir sé toradh, <hi type="italic">léigfidh tú dhó:</hi> achd muna dtuga, géarrfuidh tú tar éisi sin é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 13:10 ¶ Agus do bhí sé ag teagasg a sínagóig áirighe lá na sábbóide.
+Luke 13:11 Agus, féuch, do bhí bean a <hi type="italic">lathair</hi> agá raibh spioraid éagcrúais lé hocd mblíadhna déig: agus do bhí sí crotach, agus niór bhéidir lé <hi type="italic">í féin</hi> do dhíoriughadh air éanchor.
+Luke 13:12 Agus an tráth do chunnair Iósa í, do goir sé <hi type="italic">chuige í</hi>, agus a dúbhairt sé ría, A bhean, atá tú sgáoilti ód éagcrúas.
+Luke 13:13 Agus do chuir se <hi type="italic">a</hi> lámha uirre: agus do rinneadh díreach ar ball í, agus tug sí glóir do Dhía.
+Luke 13:14 Agus ar bhfreagra dúachdarán na sinagóge ar mbeith diomghach dhó, fá Iósa do dhéanamh leighis ann sa tsabboid, a dubhairt sé ris on bpubal, Atáid sé laéthe ann ar coir obair do dhéanamh; ar a nadhbharsin gur ab ionnta sin thiocfas sibh dá bhur leigheas, agus nar ab a lá na sabboide.
+Luke 13:15 Uime sin do fhreagair an Tighearna dhó, agus a dubhairt sé, <hi type="italic">A fhir</hi> an fhúarchrábhuidh, a né nach sgáoileann gach áon nduine agaibh féin a dhamh nó a asal ón mhainnsér lá na sabhóide, agus nach beireann sé chum uisge é?
+Luke 13:16 Agus an bheansa, atá na hinghin ag Abraham, noch do chuibhrigh Sátan, a nois le hóchd mbliadhna dég, a né nar choír a sgáoileadh ón chuibhreachsa a lá na sábbóide?
+Luke 13:17 Agus an tan a dubhairt sé na neithesi, do ghabh náire gach áon nduine dá raibh a cur na aghaidh: achd do bhígáirdeachas ar a tslúagh uile tré gach uile ní glórmhar dá ndéarmidh seision. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 13:18 ¶ Agus a dubhairt sé, Cía lér cosmhuil rioghachd Dé? agus cia ré samhleóchaidh mé í?
+Luke 13:19 Is cosmhuil ré gráinne musdaird í, do ghabh duine chuige, agus do chuir sé ann a ghárrdha; agus dfás sé, agus dó rinneadh crann mór dhe, agus do rinneadar éanlaith a naiéir néid ann a ghéaguibh. <lb type="x-end-paragraph"/>
+Luke 14:0 <lb type="x-begin-paragraph"/>
+Luke 14:1 Agus tarla, ar dteachd dhó go tighdhuine áirghe dúachdaránuibh na Bhpairísíneach a lá na sábbóidedo chaitheamh bídh, go rabhadar a coimhéd air.
+Luke 14:2 Agus, féuch do bhí duine áirighe a nioropuis ná fhiadhnuisi.
+Luke 14:3 Achd ar bhfreagra Díosado labhair sé ris an luchd dlighe agus ris ná Phairsíneachaibh, ag radh, An ceaduigheach leigheas do dhéanamh lá na sábbóide?
+Luke 14:4 Achd do thochdadarsan. Agus ar mbreith ar a <hi type="italic">nóglach</hi> dhósan, do leighis sé é, agus do leig sé úadh é;
+Luke 14:5 Agus ag freagra dhóibhsean, a dubhairt sé, Ciá aguibhsi agá dtuitfaedh a asal nó a ddhamh a ndíg, nach dtoígeabhadh a níos é a lá na sábboíde?
+Luke 14:6 Agus níor bheídir léo freagra do thabhairt air ann sna neithibhsi.
+Luke 14:7 Agus do laibhair sé cosamhlachd ris an muinntir thainic ar cuireadh, ar na thabhairt dá aire mar do bhádar ag togha an chedionuidshuighe; ag rádh riú,
+Luke 14:8 An tan do ghéabha tú cuireadh ó <hi type="italic">neach</hi> ar bith chum bainnsi, ná suidh ann sa chéadaít; ar eagla go bhfúair duine as onó ruighe ná thusa cuireadh úadh mar an gcéadna;
+Luke 14:9 Agus go dtiocfadh an tí do ghoir thusa agus eision agus go naibhéoradhsé riot, Tabhair ionad dó so; agus ann sin do thoiseóchthá maille le náire suidhe ann sa nionad is ísle.
+Luke 14:10 Achd an tan ghoirfidhthear thú, imthigh agus suidh ann sá nionad is ísle; ionnus an tan thiocfas an títhug cuireadh ó dhuit, go naiheóradh sé riot, A chara, suidh ní áirde suás ná sin: Ann sin do gheabha tú onóir a bhfiadhnuisi a mbiá na suidhe maile riot.
+Luke 14:11 Oír gidh bé áduigheas é féin ísleóchthar é; agus gidh bé ísligheas é féin, áirdeóchthar é.
+Luke 14:12 Agus fós a dubhairt sé ris an té thug cuireadh dhó, An tráth do dhéanas tú dInnéir nó suipéir, ná goir do cháirde ná do dhearbhraithre, ná do dháoine gáoil, ná do chomh arsanna saidhbhre; ar eagla go dtiobhradh siadsan fós cuireadhdhuitse arís, agus go bhfúoghtheá an chomaom chéadna.
+Luke 14:13 Achd an tan do ní tú féasda, goir na bcichd, na dáoine ciorthuimeacha, na bacaigh, agus na doill:
+Luke 14:14 Agus biádh tú beannuighe; do bhrigh nach bhfuil acfuinn aca an chomáoin cheadna do thabhairt dhuit: ó do bhéarthar a luáidheachd dhuit a neiséirghe na bhfíréun.
+Luke 14:15 Agus an tan do chúalaidh duine áirighe dá raibh raibh ar áonbhord ris na neithesi, a dubhairt sé ris, Is beannaighe an té itheas arán a bhflaitheas Dé.
+Luke 14:16 Achd a dubhairt seision rís Do rinne duine áirighe suipéir mhór, agus do ghoir sé mórán:
+Luke 14:17 A gus do chuir sé a shearbhfhoghantaidh a nam suipéir dá rádh ris an muinntir fnáir cuireadh, <hi type="underline">Tiagidh: Oir</hi> atAid na huile neithe a nois ullamh.
+Luke 14:18 Agus do thionnsgnadar uile dáonghuth a leithsgéul do ghabháil. A ddubhairt an céadduine ris, Do cheannaigh mé fearann, agus is éigin damh dhul amach agus a fhéachain: íarruim ort gabh mo leithsgéul.
+Luke 14:19 Agus a dubhairt fear eile, Do chéannaigh mécúig cuingealuigh do dhaimhuibh, agus atáim ag dul dá ndearbh-<hi type="underline">adhíaruim</hi> ort gabh mo gabh mo leithssgéul.
+Luke 14:20 Agus a dubhairt fear eile, Do phós mé bean, ar a nadhbhairsin ní fhéaduim theachd.
+Luke 14:21 Agus ar dteachd don tsearbhfoghautidhe, dinnis sé na neithesi dhá thighearna. Ann sin ar ngabháil feirge dfear an tighe a dubhairt sé ré ná óglach, Imthigh go tapuidh fá shráidibh agus tabhair leachd a sdeach annsona boichd, agus na bacaigh, agus na doill.
+Luke 14:22 Agus a dubhairt an searbhfoghautidhe, A tighearna, do rinneadh mar a duirt, <hi type="underline">gidheadh atá ann fós.</hi>
+Luke 14:23 Agus a dubhairt an tighearna ris a nóglach, imitigh fá ná fálfuibh, agus coimhéignidh <hi type="italic">íad</hi> do theadh a sdeach, do chum go lionfuidhe mo thigh.
+Luke 14:24 Oír a derim ribh, Nach blaifidh, aon nduine do na fearuibh úd fuáir cuireadh dom shuipéarsa.
+Luke 14:25 Agus do bhí slúagh mór na chuideachda: agus ar bhfilleadh dho, a dubhairt ríu,
+Luke 14:26 Gidh bé thig chugamasa, agus nach bhfUathuigheann sé a athair, agus a mhathair, agus a bhean, agus a chlann, agus a dhearbhraithreacha, agus a dheirbhsiúreacha, agus fós a anam fein, ní heidir leis bheith na dheiscipbal agamsa.
+Luke 14:27 Agus gidh bé nach iomchrann a chros déin, agus nach leanann mise, ní héidir leis bheith ná dheisciobal agamsa.
+Luke 14:28 Oír cía agaibhsi duine le madh mian tor do dheanamh, nach suidhfeadh ar tús, do theilgean cuntais an chosdúis, an mbiadh <hi type="italic">acfuinn</hi> aige chum críche do chur <hi type="italic">air?</hi>
+Luke 14:29 Ar eagla, déis na funndameinte do dhó, agus gan chumas aige críoch do chur <hi type="italic">air,</hi> go dtoiséochadh gach áon nduine dhá bhfaicfeadh é, fonomhad do dhéanamh faói,
+Luke 14:30 Ag rádh, Do thionnsgainn an fearsa obair do chur ar siobhal, agus fhéd sé críoch do chuir uirrthe.
+Luke 14:31 Nó cia an rí rachadh do dhéanamh coguidh a naghaidh rígh eile, nach suidhfeadh ar tús, do dhéanamh comhairle nar bhéidir leis le deich míle teagmháil don té thig na aghaidh lé fichthe míle?
+Luke 14:32 Nó, ar mbeith dhósan fós a bhfad úadh, cuiridh sé teachdaireachd chuige, agus iarruidh sé siothcháith.
+Luke 14:33 Mar an gcéadna, gach uile dhuine agaibhsi nach díultanndhá bhfuil aige, uí héidir dhó bheith na dheisciobal agamsa.
+Luke 14:34 Is maith an salann: achd má bhiónn an salann gan bhlas, créd lé gcuirfidh blás air?
+Luke 14:35 Ní bhfuil féidim air chum na talmhon, ná chum a naóiligh; teilid daoine amach é. Gidh bé agá bhfuilid clusa chum éisdeachda, éisdeadh sé. <lb type="x-end-paragraph"/>
+Luke 15:0 <lb type="x-begin-paragraph"/>
+Luke 15:1 Agus tangadar na Puibliocáin uile agus na peacthaigh chuige déisdeachd ris:
+Luke 15:2 Agus do rinneadar na PhairsInigh agus na SgrIobuidhe munmhar, ag rádh, Gabhuidh an feporso peachtaigh chuige, agus ithidh se <hi type="italic">bíadh</hi> na bhfochair.
+Luke 15:3 Achd do labhair seison an chosamlachd sa riu, ag rádh,
+Luke 15:4 Cía agaibhsi duine, agá bhfuil céad cáora, agus do léigfeadh áon díobh a mugha, nach bhfágann na naói gcaóiridh déug agus ceithre fichid ar an bhfásach, agus nach dtéid a ndiAigh na c aorach úd do chúaidh a mugha, nó go bhfafann sé í?
+Luke 15:5 Agus ar na fagháil do, cuiridh sé go luathgháireach, <hi type="italic">í</hi> ar a ghnáillibh,
+Luke 15:6 Agus ar dteachd dá thigh dhó, goiridh se a cháirde agus a chomharsain a geanna chéile, ag rádh rIu, Déanuidh luathgháireleamsa; óir fuáir mé mo cháora do chuáidh a múgha.
+Luke 15:7 A derim ribh, gur ah mar sin bhias forbhfáilte ar neamh ar son éin pheaochach do mni is mó na ar son naói bhfréin dég agus fichid, ar nach bhfuil riachdanasaithrighe.
+Luke 15:8 Nó cía an bhean agá mbíadh deich mboinn, agus do léigfeadh si ááon bhonn diobh a mugha, nach lasadh solas, agus nach sguaibéochadh an tígh, agus nach íarrfadh go dithcheallach nó go bhághadh si é?
+Luke 15:9 Agus ar na fHagháil, goiridh sí a bancháirde agus a banchomharsain a gceann a chéile, ag radh, Deannidh gáideachas léamsa; óir fuáir mé mo bhonn do leig me a múgha.
+Luke 15:10 Mar an gcéadna, a deirim ribh, Bí gáirdeachas ar ainglibh Dé trí éin pheacthach amháin do ní aithrighe.
+Luke 15:11 Agus a dubhairt sé <hi type="italic">fós</hi>, Do bhádar días mac ag duine aáirghe:
+Luke 15:12 Agus a dubhairt an ti dob oige aca ré <hi type="italic">na</hi> athair, Athair, tabhair dhamh an chuid roitheas misi dod mhaóin. Aagus do roinn seision a mhaóin eatorra.
+Luke 15:13 Agus tar éis bheagáin aimsire ag cruinniughadh a choda uile don mhac dob óige, do chúaidh sé air coigcrigh adtalamh imchían, agus do dhiombail sé ann sin a mhaóin lé na bheathaidh baoth-chaithfigh.
+Luke 15:14 Agus tar éis a choda uile do chaitheamh dho, déirih gorta romhór ann sa tir sin; agus do thosaigh seision ar bheith a ríachdanas.
+Luke 15:15 Agus do imigh sé roimhe agus do cheangal sé e fein do chaithruightheóir don tír sin; noch do chuir fána dhúitche a mach é do bhúachuilleachd muc.
+Luke 15:16 Agus bá mhian leis a bhlog do Líonadh do na féithéoguibh do na muca: agus ní thugadh éanduine dhó <hi type="italic">íad.</hi>
+Luke 15:17 Agus an ta n do chuimhnigh sé air féin, a dubhairt sé, Gá mhéd luchd túarasdail matharsa agá bhfúil iomarcaidh aráin, agus misi ag dul a mugha le gorta!
+Luke 15:18 Fíréochaid mé agus rachaidh médionnsuighe mathar, agus déaruidh mé ris, A athair, do pheacaigh mé a naghaidh neimhe agus ad fhíadhnuisisi,
+Luke 15:19 Agus ní fín mé feasda do mhacsa do ghairm dhióm: déana mé mar áon dod luchd thúarasduil.
+Luke 15:20 Agus deirigh sé, agus do chuáidh sé dionnsuighe a athaar. Agus ar mbeith fós a gcíanúadh dhó do chonnaire a athair é, agus do ghabh truáighe mhór dhó é, agus ag rith dhó, do chrom sé fá na bhrághuid, agus do phóg sé é.
+Luke 15:21 Agus a dubhairt an mac ris, A athair, do pheacaigh méa naghuidh neimhe, agus ad fhiadhnuisisi, agus ní fiu mé feasda do mhacsa do ghairim dhiom.
+Luke 15:22 Agus a dubhhairt an tathair ré na shearbhoghantaibh, Tabhruidh an chuluidhein is fearr libh, agus cuireidh uime í; agus cuiridh fainne air a láimh, agus bróga air a chosaibh:
+Luke 15:23 Agus tuguidh libh agus marbhuidh, an láogh bíadhta; agus caitheam biadh, agus bíom go súgach:
+Luke 15:24 Oir fuáir mo mhac ann so bás, agus do aithbhéodhuigh sé: agus do chúaidh sé a mugha, agus friíth é. Ar a naddhbhar, sindo thionnsgnadar bheith go sugach.
+Luke 15:25 Achd do bhí an mac búdh seine aige air an machaire <hi type="italic">amuich:</hi> agus ar dteachd a ngar don tigh dho, do chúaluidh sé an céol agus na damhsaidhe.
+Luke 15:26 Agus ar ngairm aóin do na scarbhfhoghantuibh chuige dhó, dfiáfruidh sé dhe créd iad na neithesi?
+Luke 15:27 Agus a dubhairt seision ris, Do dhearbhráthairsi thánic: agus do mharbh hathair anláogh bíadhta, ar son go h˘fuair sé slán a ris é.
+Luke 15:28 Agus do ghabh fearg eision, agus nior bháill leis dul a sdeach: uimesin tháinic a athair amach, agus do ghoir sé chuige é.
+Luke 15:29 Achd ar bhfreaga dhosan a dubhairt sé ris <hi type="italic">a</hi> athair, Feach, a timsi ag déanamh agus nior sháruigh mé haithne a riamh: gídheadh ní thug tú fin an mheannáin dhamh ariamh, ionnus go mbéinn go súgach rém cháirdibh:
+Luke 15:30 Achd an tan tháinic an macsa agad, do shlug do mhaóin a bhfochair mheirdreach, do mharbh tú an láogh <hi type="underline">˘bíadhta dho</hi>.
+Luke 15:31 Achd a dubhairt seision ris, a mhic, atá tusa do gnáth am fhochair, agus na huile neithe is leamsa, is leachdsa iad.
+Luke 15:32 Achd do budh cóir dhúinn sugachas, agus forbháilteachas do dhéanamh; tré go raibh an dearbhathairsi agadsa tar éis bháis, agus gur aithbhéodhuigh sé; agus go ndeach aidh sé a mugha, agus gur fríth a ris e. <lb type="x-end-paragraph"/>
+Luke 16:0 <lb type="x-begin-paragraph"/>
+Luke 16:1  Agus a dubhairt sé fós ré na dheisciobluibh, Do bhí duine saidhbhir áirighe ann, aga raibh sdíobhard; agus do rinneadh casasoid ris air, gur dhíomháil sé a mhaóin.
+Luke 16:2 Agus ar na ghairm <hi type="italic">chuige</hi> dho, a dubhairt sé ris, Créd é so do chluinim ort?
+Luke 16:3 Agus a dubhairt an sdíobhard ris féin, Créd do dhéana mé? óir atá mo thighearna ag buáin na sdíobhardachda dhióm; ní héidiir leam roghmhar do dheanamh: agus is nair leam déirc iarruidh.
+Luke 16:4 Atá a fhios agam créd do dhéana mé, ionnas, an tan cuirfightear as an sdíobhardachd me, go ngéubhuidh síad chucha mé dá dtighthibh féin.
+Luke 16:5 Agus ar ngairm gach aóin leith dar dhligh a thighearna fiacha, a dubhairt sé ris an gcéd fhear, Gá mhéad a dhligheas mo thighearna dhíot?
+Luke 16:6 Agus a seis ion, Céd miosúr ola. Agus a dubhairt seision <hi type="italic">ris</hi>, Gabh chugad do sgríbhina, agus suidh go lúath, agus sgríobh a deich agus dá fhithchead.
+Luke 16:7 Agus a dubhairt sé na dhiáigh sin ré <hi type="italic">duine</hi> eile, Créd dhlightear dhiotsa? Agus a dubhairt seision, Céad míosúr cruithneachda. Agus a dubhairt seision ris, Gabh chugad do sgríbhinn, agus sgriobh ceithre fithchid.
+Luke 16:8 Agus do mhol an tighearna sdíobhard na héugcóra, do bhrigh go ndearuidh sé ní glic: oír is glíoca clann an tsáoghailsi ná clann an tsolais iona gcinél féin.
+Luke 16:9 Agus a deirinsi ribh, Déanuidh cáirde dhibh féin lé sáidhbhreas na héagcóra; ionnus an tráth bhías uireasbhuibh oruibh, go nglacfuidh sibh ann a lóisdinibh siorruidhe.
+Luke 16:10 An tí atá ionnruic sa ní is lúgha ata sé ionnruic a móran; agus gidh bé atá éagcórach sa ní is lugha atá se éagcórach a mórán mar an gcéadna.
+Luke 16:11 Ar a nadhbharsin muna rabhabhairse fírinneacch ann sa tsaidhbhreas bhréagach, cia tháobhtas an saidhbhreas fírinneach ribh?
+Luke 16:12 Agus muna frioth ionnruic sibh a gcuid duine eile, cia bhearadh dhaóibh an ní is libh féin?
+Luke 16:13 Ní héidir le searbhfoghantuidhe ar bith seirbhis do dhéanamh do dhá thighearna: óir biáiddh fúath aige do neach aca, agus grádh don dara fear; nó ceangalfuidh sé do dhuine aca, agus do bhéara sé tarcuisne ar an dara fear. Ní héidir libh seirbhís do dhéanamh do dhía agus do Mhammon.
+Luke 16:14 Agus do Chúaladar fós, na Phairisnigh sanntacha, na neithesi uile: agus do rinniodar fonomhad faóision.
+Luke 16:15 Agus a dubhairt seision ríu, Is sibhsi an dream sháorus sibh féin a bhfíadhnuisi na ndaoine; achd is aithnid do Dia bhur griodhethe: óir an ní atá fá mhóirchion a bhfiádhnuisi na ndaóine atá sé gráineamhnil a bhfiádhnuisi Dé.
+Luke 16:16 Do <hi type="italic">bhí</hi> an reachd agus na faighe ann go teachd Eóin: ó shin a leith atá rioghachd Dé dhá shiosgéuluhadh, agus atá gach uile dhuine ag déanamh foiréigin air.
+Luke 16:17 Achd as usa neamh agus talamh do dhul thort, ná áonphunc don dligheaddh do thuitim.
+Luke 16:18 Gibh bé neach léigeas a bhean, agus phósus bean eile, do ní sé adhaltrannas: agus gidh bé bhéir an bheansin do leigeadh ó <hi type="italic">a</hi> do ní sé adhaltrannas.
+Luke 16:19 Achd do bhí duine saidhbhir áirgighe ann, agus is é bá héadach dhó purpuir agus sioda, agus do théigheaddh sé chum bídh go roshóghamhuil gach laói:
+Luke 16:20 Achd do bhí duine bochd áirgighe ann, dar Lás, do bhí na luidhe agá gheatasan, lán do chréachduibh,
+Luke 16:21 Agus ler mhían é féin do shásadh leis an sbruileach do thuiteadh do bhórd an duine saidbhir: agus do thigdís na madruidhe, agus do ligheas chréachda.
+Luke 16:22 Agus tárla, go bhfuair an duine bochd bás, agus gur iomchradar na haingil go huchd Abramham é: agus mar an gcéadna fuáir an duine saidhbhir bás, agus do hadhluiceadh é;
+Luke 16:23 Agus ar mbeith dhó a nifearn a bpíanuibh do thóg sé a shúile súas, agus do chunnairc sé Abraham a bhfád Uadh, agus Lasarus ann a uchd.
+Luke 16:24 Agus ar néimhghe dhósan an tansin a dubhairt sé, A athair Abraham, déana tócaire oram, agus cuir Lásarus do thumadh barr amheóir a nuisge, agus dfúaradh mo theangtha: óir ataim dom roiphíanadh an sa lasairsi.
+Luke 16:25 Achd a dubhairt Abraham, A mhic, cuimhnigh gur ghlac tusaneithe maithe le linn do bheith béo, agus Lásarus mar an gceadna droch neithe: achd atá sólas aigesion a nois dá fhágháil, agus atá tusa dod phíanadh.
+Luke 16:26 Agus do bhárr orrtha so uile, atá fodhomhain mhór ar na cur eadruinne agus sibhsi: ionnas nach Eidir leis na daóinibh lé budh mían é dul as so chugaibhsi: na teachd as sin, chuguinne.
+Luke 16:27 Agus a dubhairt seision, Maseadh, íarruim ort a athair, eision do chur go tigh matharsa:
+Luke 16:28 Oir atáid cúigear dearbhrathar agam; do thabhairt sgéul dóibh, ionnus nach dtiocfaidh siadsan mar an gcéadna ann sa nionadsa na péine.
+Luke 16:29 A deir Abraham ris, Atáid Maóisi agus na fáighe aca; éisdeadh síad riusan.
+Luke 16:30 Achd a dubhairt seísion, Ní hamhluidh atá, a athair Abraham: achd dá ndeachd duine ó na marbhuibh chuca, do dhéaindis aithrighe.
+Luke 16:31 Agus a dubhairt sé ris, Muna néisdidh siad ré Maóisi agus ris na fáighibh, dá néirgheadh duine ó mharbhuibh <hi type="italic">féin</hi>, ni chredidís dó. <lb type="x-end-paragraph"/>
+Luke 17:0 <lb type="x-begin-paragraph"/>
+Luke 17:1  Agus a dubhairt sé ris na deisciobluibh, Ní héidir nach dtíocfuid sgannalacha!: achd is trúagh don <hi type="italic">tí</hi>, tré a dtigid said!
+Luke 17:2 Do bfearr dhó cloch mhuilinn do chur fá na mhuinéul, agus a theilgean ann sa bhfairrge, ná áon don mhuinntir bhigsi sgannlachadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 17:3 ¶ Tabhraidh bhur naire dhíbh féin: Má pheacaigheann do dhearbhrathair ad aghaidh, imdhearg é; agus má ní sé aithrighe, tabhair maitheamhnus dó.
+Luke 17:4 Agus má pheacaigheann sé ad aghaidh seachd nuáire sa ló, agus go bhfillfe sé chugad seachd nuáire sa ló, ag rádh, Atá aithreachas oram; tabhair maitheamhnus dó. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 17:5 ¶Agus a dubhradar na heasbuil ris, A Thighearna, méuduigh ar gcreideamh.
+Luke 17:6 Agus a dubhairt an Tighearna, Dá mbeith oiread ghráinne musdaird do chreideamh aguibh, déaradh sibh ris a gcrann sicaminso, Eirigh as do fhréamhach, agus curthar an sa bhfairge thú; agus do umhlochadh sé dhaóibh.
+Luke 17:7 Agus cía aguibh, agá bhfuil searbhfhoghantuidhe a treabhadh no a coimhéd treada, lé a naibéoradh sé ar an mball, an tan do thiocfadh sé ón bhfearann, Imthigh agus suidh sios ar an bord?
+Luke 17:8 Achd a né nach aibéora sé ris, Ullmhuigh an ní íosas mé ar mo shuiper, agus cuir do chrios thort, agus fritheóil damhsa, no go nithe mé agus go nibhe mé; agus tar éisi sin ithsi agus ibh?
+Luke 17:9 An mbía buidheachas aige ar a tsearbhfhoghantuidhe úd do bhrigh go ndearna sé na neithe do haithneadh dhe? Ní shaóilim <hi type="italic">gormbía</hi>.
+Luke 17:10 Augs is mar sin dáoibhsi, an tan do dhéantaói gach uile ní dár haithniughadh dhíbh, abruidh, Is searbhfhoghantuidhe neamhtharbhacha sinn: óir do rinneamar an ni do bhi dfíachaibh oruinn do dhéanamh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 17:11 ¶ Agus tárla, ag dul súas dó go Hierúsalém, gur ghabh sé sé tré lár na Samária agus na Galilé.
+Luke 17:12 Agus an tráth do chuáidh sé a sdeach go baile áirighe, tárladar deithneabhar fir lóbhar air, do sheas a bhfad úadh:
+Luke 17:13 Agus do árduigheadar <hi type="italic">a</hi> nguth, ag rádh, A Iósa, a Mhaighisdir, déana trócaire oruinn.
+Luke 17:14 Agus an tan do chunnairc sé <hi type="italic">íad</hi>, a dubhairt sé riu, Imthighidh foillsighidh sibh féin do na sagartuibh. Agus tárla, ag imtheachd doibhsion, gur glanadh íad.
+Luke 17:15 Achd fear aca, mar do chuinnairc sé é féin ar na shlánughadh, dfill sé air, ag moladh Dé do ghuth mhór,
+Luke 17:16 Agus do thuit sé ar <hi type="italic">a</hi> aghuidh agá chosaibhsean, ag breith bhuidheachais ris: agus budh Samaritánach an fearso.
+Luke 17:17 Agus ar bhfreagra Diósa a dubhairt sé, A né nach bhfuilid deithneabhar ar na nglanadh? agus a náonbhar cáit <hi type="italic">a bhfuilid?</hi>
+Luke 17:18 Níor frith ag filleadh do thabhairt gloíre do Dhía, achd an coigcrigheachso.
+Luke 17:19 Agus a dubhairt sé ris, Eirigh, imthigh romhad: do shlánuigh do chreideamh thú. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 17:20 ¶ Agus an tan dfiafruigh na Phairisinigh dhe, Cía an tráth thiocfadh riogháchd Dé, do fhreagair sé iád agus a dubhairt sé, Ní thiocfa rioghachd Dé récoimhéd.
+Luke 17:21 Agus ní aibheóruid said, Féuch ann so! nó, féuch ann súd! oír, féuch, atá ríoghachd Dé aguibh an bhus measg. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 17:22 ¶ Agus a dubhairt sé ré na dheisciobluibh, Tiocfuidh a naimsir, an a mbia míangus oruibh áon do laéthibh Mhic an duine dfaicsin, agus ní fhaicfithí.
+Luke 17:23 Agus a déarúid said ribh, Féuch ann so; nó, féuch ann so: <hi type="italic">achd</hi> ná himthigh, agus na leanuidh <hi type="italic">iád</hi>.
+Luke 17:24 Oír amhuil agus mar dheallruigheas an tinnteach, shoillsigheas ó náird go chéile fáoi neamh, is mar sín bhiás Mac an duine mart an gcéndna ann a lá féin.
+Luke 17:25 Achd is éigin dó ar tús mórán dfulang, agus a dhiultadh ón chineadhsa.
+Luke 17:26 Agus mar do tharla a laéthibh Náoi, is mar sin fós bhiás a laéthibh Mhic an duine.
+Luke 17:27 Do bhádar ag ithe, ag ibhe, ag posadh, agus ag tabhairt chum posda, gus an lá ann a ndeachaidh Náoi do náirc, agus táinic an dile, agus do sgris sí iád uile.
+Luke 17:28 Agus ar a nós gcéadna mar tharla a laéthibh Lot; do bhádar ag ithe, ag ibhe, ag ceannach, ag reic, ag plantugheadh, ag tógbhail tighthe;
+Luke 17:29 Achd an lá ann a ndeachaidh Lot amach as Sodom do fearadh teine agus ruibh ó neamh, agus do sgrios sé <hi type="italic">iúd</hi> uile.
+Luke 17:30 Is da réir so bhias ar an lá ann a bhfoillseochthar Mac an duine.
+Luke 17:31 Ann sa lá sin, an té bhiás a tigh, agus a mháoin ann sa tighsin, ná tuirlingeadh sé chum a dtógbhála: agus an tí atá ar an machaire, na casadh sé tar a ais mar an gcéadna.
+Luke 17:32 Cuimhnighe ar mhnáoi Lot.
+Luke 17:33 Gidh bé neach iárrfas a anam <hi type="italic">féin</hi> do shabháil caillfidh sé é; agus gidh bé chaillfeasa anam beodhfuidh sé é.
+Luke 17:34 A deirim ribh, béid diás a náoinleabaigh ann sa noidhche úd; geubhthar lé háon aca, agus fúighfighthear an fear eile.
+Luke 17:35 Beid diás <hi type="italic">ban</hi> ag bróinteórachd a náoinfheachd; géubhthar lé mnáoi aca, agus fuigfighthear an dara <hi type="italic">bhean</hi>.
+Luke 17:36 Beid diás <hi type="italic">fear</hi> ar an machaire; géubhthar lé háon aca, agus fuigfighthear an fear eile.
+Luke 17:37 Agus ar bhfreaga dhóibhsion a deirid ris, Gá háit, a Thighearna? Agus a dubhairt seision riú, Gidh bé ball a <hi type="italic">mbíu</hi> an corp, is ann sin fós chruinneochthar na hiolair. <lb type="x-end-paragraph"/>
+Luke 18:0 <lb type="x-begin-paragraph"/>
+Luke 18:1  Agus a dubhairt sé fós cosamhlachd riú, gur ab éigin urnuighthe dhéanamh do ghnáth, agus gan a bheith leisgeamhuil.
+Luke 18:2 Ag rádh, Do bhí breitheamh <hi type="italic">áirighe</hi> a gcathraigh <hi type="italic">áirghe</hi>, air nach raibh eagla Dé, agus ag nach raibh onoír do dhuine:
+Luke 18:3 Agus do bhí baintreabhach <hi type="italic">áirighe</hi> ann sa chathruighsin noch tháinic chuige, ag rádh, Cóirigh mé air measgcaruid.
+Luke 18:4 Agus niór bháill leision ar feadh tamuill: achd tar éis sin a dubhairt sé ris féin, Ce nach bhfuil eagla Dé oram, agus nach bhfuil onóir agam do dhuine;
+Luke 18:5 Gidheadh do bhrígh go mbuaidhreann an bhaintreabhachsa mé dioghóla mé í, do chum nach dtiocfadh sé fá dheireadh dom bhuaidhreadh.
+Luke 18:6 Agus a dubhairt an Tighearna, Eisdidh créd a deir breitheamh na héagcora.
+Luke 18:7 A né nach déana Diá dioghaltas ar son a dháoine toghtha féin, éimhgheas air do lá agus doidhche, ge atá foighid aige na ttimcheall?
+Luke 18:8 A deirim ribh go ndéana sé dioghaltas ar a son go lúath. Achd cheanna an tan thiocfas Mac an duine, an bhfuighe sé creideamh ar an dtalamh? <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:9 ¶ Agus fós ré dreim do sháoil iád féin bheith na bhfiréain, agus do tharcasinigh cách eile, a dubhairt sé an chosamhlachdsa:
+Luke 18:10 Do chúadár días do dháoinibh súas don teampall do dhéanamh urnuighe; áon aca na Phairisíneach, agus araile na phúibliocánach.
+Luke 18:11 Ar seasamh don Phairisíneach do bhí sé guidhe mar so leis féin, A Dhiá, beirim buidheachas riot, nach bhfuilim mar <hi type="italic">atáid</hi> dáoine eile, a luchd fuáduigh, éugcórach, adhaltrannach, nó fós mar an bpuibliocánachsa.
+Luke 18:12 Troisgim fá dhó ann sa tseachdmhuin, do bheirim deachmhuidh as gach ní dhá sealbhuighim.
+Luke 18:13 Agus ar seasamh don phuíbliocán, a bhfád úadh, nior bháill leis fiú a shúl do thogháil suás chum neimhe, achd do bhuaileadh sé a uchd, ag rádh, A Dhía déana trócaire oramsa an peachthacht.
+Luke 18:14 A deirim ribh, go dtáinic an tési a núas dá thigh féin na fhiréanach <hi type="italic">ni is mó</hi> na fear úd: óir gidh bé ísligheas é féin áirdeochthar é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:15 ¶ Agus fós tugadar chuige náoidheanain, ionnus go mbeanfadh sé ríu; agus an tan do chuncadar na deísciobuil <hi type="italic">so,</hi> do imdheargadar íad.
+Luke 18:16 Achd ar ngairm na leanabh Díosa <hi type="italic">chuige</hi>, a dubhairt sé, Fuilngidh na leinbh do theachd chugamsa, agus ná toirmeasguidh íad: óir is lé na leitheid so rioghachd Dé.
+Luke 18:17 A deirim ribh go fírinneach, Gidh bé nach géubha chuige rioghachd Dé mar náoidheanán nach racha sé go bráth a sdeach innte. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:18 ¶ Agus a dfafruigh úachdarán áirighe dhe, ag rádh, A Mhaighisdir mhaith, créd do dhéana mé lé a sealbhócha mé an bheatha mharthanach?
+Luke 18:19 Agus a dubhairt Iósa ris, Créd fá ngoireann tú máith dhiomsa? ní <hi type="italic">bhfuil</hi> éinnrach maith, achd Día, amaháin.
+Luke 18:20 Atá éolos na naitheantadh agad, Ná déana adhaltranas, Ná déana dunmharbhadh, Na déana goid, Ná déana fiadhnuisi bhréige, Onóiruigh hathair agus do mhathair.
+Luke 18:21 Agus a dubhairt seision, Do choimhéid mé na neithesi uile óm óige.
+Luke 18:22 Agus ar na cclos so Díosa, a dubhairt sé ris, Atá éinni fós duireasbhuidh ort: reac a bhfuil agad, agus roinn ar na bochduibh, agus bíaidh cisde ar neamh agad: agus tárr, lean misi.
+Luke 18:23 Agus ar na chloinnsin so dhósan, do ghlac tuirse mhór é: óir do bhí sé roshaidhbhir. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:24 ¶ Agus an tan do chunnairc Iósa go ráibh sé lán do dhobrón, a dubhairt sé, Créd é a dheacrachd do na dáoinibh sáidhbhre dul a sdeach a rioghachd Dé!
+Luke 18:25 Oír is usa camhall do dhul tri chró snáthuide ná do dhuine shaidhbhir dul a sdeach a rioghachd Dé.
+Luke 18:26 Agus a dubhrádar an dream do chúalaidh <hi type="italic">so</hi>, Máseadh cía as éidir do shlánughadh?
+Luke 18:27 Achd a dubhairt seision, Na neithe ata dó dhéanta ag na dáoinibh atáid so dhéanta ag Dia. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:28 ¶Agus a dubhairt Peadar, Féuch, do fhágamairne na huile neithe, agus do leanamair thusa.
+Luke 18:29 Agus a dubhairt seision riú. A deirimsi ribh go firinneach, Nach bhfuil éinneach do fhág a thigh, ná á athair ná a mhathtair, ná a dhearbhraithreacha, ná a bhean <hi type="italic">phósda</hi>, ná a chlann, ar son rioghachda Dé.
+Luke 18:30 Nach nglacfa sé mórán ní sa mhó ann sa naimsirso, agus an bheatha mharthanach an sa tsáoghal atá ag teachd. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:31 ¶ Agus ar mbreith an dá fhear déag <hi type="italic">leis Diósa</hi>, a dubhairt sé riu, Féuch, téaghmáoid súas go Hiárusalem, agus críochnóchthar a dtimcheall Mhic an duine na huile neithe atá sgriobhtha ag na fáighibh.
+Luke 18:32 Oír do bhéarthar do na Cineadhachaibh é, agus do dhéuntar fonnomhad faoi, agus maisleóchthar é, agus géubhthar do shelighibh air:
+Luke 18:33 Agus ar na sgiúrsadh dhóibh muifid achd éireóchaidh sé a ris an treas lá.
+Luke 18:34 Agus niór thuigeadarsan éin ní dhíobh so: agus do bhádar na briáthrasa foluighthe uátha, agus níor aithnigheadar na neithe a dubhradh ann. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 18:35 ¶ Agus tárla, an tan do dhrnid sé ré Ierico, gur shuidh dall áirighe chois na sligheadh ag iarruidh déirce:
+Luke 18:36 Agus an tan do chúaluidh sé an slúagh ag gabháil thairis, dfiafruidh sé créd é so.
+Luke 18:37 Agus dinniseadar dhó, gur ab é Iósa Nasardha do bhí gabháil thairis.
+Luke 18:38 Agus do éigh seision ag rádh, A Iósa, a mhic Daibhi dénna trócaire oram.
+Luke 18:39 Agus an dream do bhí roimhe do imdheargadar é, ionnus go mbíadh se na thochd: achd is moide do éighmheadh seision sin, A mhic Dáibhi, déana trócaire oram.
+Luke 18:40 Agus ar seasamh Díosa, do aithim sé a thabhairt chuige: agus an tan do dhruid sé ris, dfiafruidh sé dhe,
+Luke 18:41 Ag rádh, Créd is mián leachd misi do dhéana dhuit? Agus a dubhairt seision, A Thighearna, mo radharc aiseag dhamh.
+Luke 18:42 Agus a dubhairt Iósa ris, Bíodh do radharc agad: do shlánuigh do chreideamh thú.
+Luke 18:43 Agus do fúair sé a radharc ar an mball, agus do lean sé eisean, ag tabhairt glóire do Dhiá: agus an tan do chunnaire an pobal uile so, tugadar moladh do Dhía. <lb type="x-end-paragraph"/>
+Luke 19:0 <lb type="x-begin-paragraph"/>
+Luke 19:1  Agus ar ndol a sdeach go Iérico <hi type="italic">Diosa</hi> do ghabh sé thríthe.
+Luke 19:2 Agus, féuch, <hi type="italic">do bhí</hi> duine <hi type="italic">áirighe ann</hi> dár bhainm Sachéus, do bhi na úachdarán air na publiocáin, agus do bhí sé saidhbhir.
+Luke 19:3 Agus do bhí fonn air fhaicsin cia hé Iósa; agus níor bhéidir ris ón tslúagh, tré go raibh sér ísiol do phearsainn.
+Luke 19:4 Agus ag rith roimhe dhó, do chuáidh sé súas a gcrann sicamor ionnus go bhfaicfeadh sé é: óir do bhi fáoi an <hi type="italic">tslighsin</hi> do ghabháil.
+Luke 19:5 Agus an tan tháinic Iósa chum na háitesin, ar bhféachain súas dó, chúnnairc sé eision, agus a dubhairt sé ris, A Shachéus, tuirrling <hi type="italic">go deifreach;</hi> óir is ad thigh is éigin damhsa comhnuidhe dhéanamh a niu.
+Luke 19:6 Agus ag deifriúghadh dhósan, do thuirrling sé, agus do ghabh sé chuige é go luáthgháireach.
+Luke 19:7 Agus an tan do chunncadar <hi type="italic">cách</hi> uile <hi type="italic">so,</hi> do rinniodar munbhar, ag rádh, Go ndeáchaigh sé a sdeach air áoidheachd dionnsuighe peacthaich.
+Luke 19:8 Agus ag seasamh do Shachéus, a dubhairt sé ris an Tighearna; Féuch, a Thighearna, do bheirim leath mo mháoine do na bochdaibh; agus má mbeall mé duine air bith a néinní, <hi type="italic">do</hi> bheirim <hi type="italic">dhó</hi> a cheithre oirid.
+Luke 19:9 Agus a dubhairt Iósa ris, A niugh thárla sláinte don tighsi, do bhrígh do bhfuil seisean fós na mhac ag Abraham.
+Luke 19:10 Oír tháinic Mac an duine diárruidh agus do shlánughadh an ní do chúaidh a mugha.
+Luke 19:11 Agus ag éisdeachd dóibhsean leis so, do chuir sé leis agus a dubhairt sé cosamhlachd, tré go raibh sé láimh ré Hiarúsalem, agus gur sháoileadarsan nach fada go bhfoillseochtháoi rioghachd Dé.
+Luke 19:12 Ar a nadhbharsin a dubhairt se, Do chúaidh duine uasal áirighe a régión imchían do ghabháil rioghachda dhó féin, agus dfilleadh air a ais.
+Luke 19:13 Agus ar ngairm a dhéichneabhar searbhfhoghantuighe dhó, tug sé deich bpunta dhóibh, agus a dubahirt sé riú, Déunuidh gnothuigh nó go dtig mé.
+Luke 19:14 Achd do bhí fúath ag luchd a chaithreach dhó, agus do chuireadar teachdaireachd na dhiáigh, ag rádh, Ní hail linn é so do ríoghadh oruinn.
+Luke 19:15 Agus tárla, an tan do fhill sé, ar ngabháil na rioghachda <hi type="italic">chuige</hi>, gur nithin sé na searbhfhoghantaighe úd da dtug sé an tairgead, do ghairm chuige, ionnus go mbiadh a fhios aige créud do ghnodhuigh gách áon aca.
+Luke 19:16 Agus táinic án céadduine, ag rádh A thighearna, do ghnodhuigh do phiosa deich bpiosa.
+Luke 19:17 Agus a dubhaiort seision ris, Is maith <hi type="italic">sin</hi>, a shearbhfhoghantuighe mhait: óir do bhí tú firinneach ar bheagán, bíodh cumhachda agad ar dheich gcaithreachaibh.
+Luke 19:18 Agus táinic an dara <hi type="italic">fear</hi>, ag rádh, A thighearna, do rinne do phíosa cúig piosa.
+Luke 19:19 Agus a dubhairt ris an tesi, Bisi mar an gcéadna ós cionn cuig gcaithreach.
+Luke 19:20 Agus táinic fear eile chuige, ag rádh, A thighearna, féuch, do phiosa do bhí agamsa a ttaisgidh a naipcin:
+Luke 19:21 Oír do bhi heaglasa oram, tré gnr duine foghruáma thú: tógbhuidh tú súas an ui nár chuir tú siós, agus beanuidh tí an ní nar shiólchuir tú.
+Luke 19:22 A dubhairtsion ris, As do bhéul féin do bheir imbreith ort, a dhriochshearbhfhoghantaigh. Do bhí a fhios agad gur dhuine forghrúama misi, thogbhus súas an ni nach ar chuir mé siós, agus bheanas an ni nach ar shíochuir me:
+Luke 19:23 Ar a nadhbharsin créd fá nar chuir tusa mo chuid airgid ann sa mbane, agus ar dteachd damhsa do thóigeubhuinn é maille lé biseach?
+Luke 19:24 Agus a dubhairt sé ris an muinntir do bhi na seasamh, Tóguidh úadh an piósa, agus tabhruidh don té úd agá bhfuilid na deich bpiósa <hi type="italic">é</hi>.
+Luke 19:25 (Agus a dubhradarsan ris, A thighearna, atáid deich bpiosa aige.)
+Luke 19:26 Oír a deirin ribh, Gur ab do gach áon agá bhfuil do bhéarthar; agus an té ag nach bhfuil, beanfuighear dhe fós an ní atá aige.
+Luke 19:27 Tabhruidh libh ann so, na naimhde úd agamsa, le nar bháill misi do rioghagh ós a gceann, agus marbhaidh am fiadhnuisi <hi type="italic">iad</hi>. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 19:28 ¶ Agus ar na rádh so, do chúaidh sé rompa, ag dul súas go Hiarasaleim.
+Luke 19:29 Agus tárla, an tan do dhruid sé lé Betpháge agus ré Betánia, láimh ris a tsliabh da ngoirthear <hi type="italic">slíabh</hi> na Noluidhe, gur chuir sé dias da dheisciobluibh úadh,
+Luke 19:30 Ag rádh, Imthighidh don bhaile atá as bhur gcomhair; ar ndul a sdeach ann dáoibh do gheabhtháoi searrach ceangailte, ar na shuidh áon nduine riamh: sgáoilidh, agus tabhruidh libh é.
+Luke 19:31 Agus dá bhfiafruidhe éin neach dhibh, Créd fa sgáoiltí <hi type="italic">é?</hi> is mar so a déartháoi ris, Ar son go bhfuil féidhm ag an Tighearna air.
+Luke 19:32 Agus ar nimtheachd do na teachairidhibh, fúaradar mar a dubhairt sé riu.
+Luke 19:33 Agus ar sgáoileadh an tsearraigh dhóibhsion, a dubhradar a thighearnuidhe riu, Créd fá sgáoiltí an searrach?
+Luke 19:34 Agus a dubhradarsan, Tré go bhfuil féidhim ad an Tighearna air.
+Luke 19:35 Agus rugadar léo é chum Iósa: agus ar dteilgean a mbrat ar a tséarrach, do chuireadar Iósa air.
+Luke 19:36 Agus ag imtheachd dósan, do leathnuigheadar a néadhuighe ar a tslighe.
+Luke 19:37 Agus an tan do dhruid sé a bhogus, ré casaigh shléibhe na Noluidheadh, do thionnsgain an chuideacha dheisciobal uile go lúathgháireach Dia do mholadh do ghuth mhór ar son gach uile subhailcighe dá bhfacadur;
+Luke 19:38 Ag rádh, Is beannaighe an Rí thig a nainm an Tighearna: sióthcháin ar neamh, agus glóir an sna bárduibh.
+Luke 19:39 Agus a dubhradar Phairisinigh áirighe do tslúagh ris, A Maighisdir, tabhuir achmhusán dod dhéiscioblaibh.
+Luke 19:40 Agus ar bhfreagra dhósan a dubhairt sé riu, A deirim ribh, má thochduid so, go néighfid na clocha féin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 19:41 ¶ Agus mar do dhruid sé a radharc na caithreach, do ghuil se air a son,
+Luke 19:42 Ag rádh, O dá naitheantá, ann sa lá agad féin fós, na neithe <hi type="italic">bheanas</hi> réd shiothcháin! achd atáid síad a nois foluighthe ód shúilibh.
+Luke 19:43 Oír tiocfuid láethe ort, ann a dteilgfid do naimhde diog ad thimcheall, agus iona dtimchiollfaid, agus iona gcuibhreochaid thú gach éantáobh.
+Luke 19:44 Agus do dhéanuid comhchothrom ris an dtalamh thú, agus do chlann ionnad a stigh; agus ní fhúigfid cloch ar miuin cloiche ionnad; tré nar aithin tú aimsear thfiosruighthe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 19:45 ¶ Agus ar ndol a sdeach don teampall dhó, do thionnsgain sé an dream do bhi ag reic, do thionnsgain cé an dream do bhi ag reic agus ag ceannach ann, do chur amach;
+Luke 19:46 Ag rádh ríu, Atá sgriobhtha, Mo thighse is tigh urnuighe é; achd <hi type="italic">cheana</hi> do rinneabhairsi tuimighthe bhiothamhnach dhe. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 19:47 ¶ Agus do bhíodh sé teagasg gach lá ann sa teampall. Agus díarradar úachdaráin na sagart agus na sgríobuidhe agus cinn an phobuil eisíon do mharbhadh,
+Luke 19:48 Gidheadh ni raibh a fhios aca créd do dhéunaidis: óir do bhi an pobal uile ro-aireach air éisdeachd risean. <lb type="x-end-paragraph"/>
+Luke 20:0 <lb type="x-begin-paragraph"/>
+Luke 20:1  Agus tárla, áon do na láethibh sin, an tan do theagaisg séision an pubal ann sa teampall, agus do sheanmoir <hi type="italic">sé</hi> an soisgéul, go dtangadar úachdaráin na sagart agus na sgríobuidhe maille ris na sinnsearuibh <hi type="italic">chuige.</hi>
+Luke 20:2 Agus do labhradar ris, ag rádh, Innis dúinne, cia an tughdarrás as a ndéanann tú na neithesi? Nó cia thug an tughdarrás so dhuit?
+Luke 20:3 Agus ar bhfreagra Díosa a dubhairt sé ríu, Fiafrochaidh misi fós aonfhocal <hi type="underline">amháin dibhse</hi>; agus tabhruidh freagra oram:
+Luke 20:4 Baisdeadh Eóin, ann ó <hi type="underline">neamh</hi> do bhi se, nó ó dháoinibh?
+Luke 20:5 Agus do bhádarsan ag tagra eatarra <hi type="underline">féin</hi>, ag rádh, Má dermíd, O neamh; déara seisean, Créd fá nar chreideabhairsi dhó?
+Luke 20:6 Achd má deirmid, O dháoinibh; géubhuidh an pobal uile do chlochaibh <hi type="underline">orainn</hi>: oír is deimhin léo gur fáigh Eóin.
+Luke 20:7 Agus do fhreagradar, nach raibh a fhios aca <hi type="italic">féiu</hi> gá hás <hi type="italic">dó</hi>.
+Luke 20:8 Agus a dubhairt Iósa ríu, Ní mó innéosas misi dhíbhsi cía an túghdarrás as a ndéunuim na neithesi.
+Luke 20:9 Agus do thionnsgain sé an <hi type="underline">chosamhlachdsa</hi> do rádh ris an bpobal; Do chuir duine áirighe fíneamhuin, agus tug sé amach do sgológuibh í, agus do bhi sé féin a gcoigcrích air feadh aimsire faide.
+Luke 20:10 Agus na am <hi type="italic">féin</hi> do chuir sé a shearbhfhoghantuighe chum na sgológ, ionnus go dtiobhraidis <hi type="italic">ní</hi> do thoradh na <hi type="underline">fíneamhna</hi> dhó: achd do ghabhadar na sgológa air, agus do chuireadar folamh uátha <hi type="italic">é</hi>.
+Luke 20:11 Agus do chuir sé searbhfhoghantuighe eile úadh a rís: achd ar ngabháil air sin leis, agus ar dtabhairt easonóra <hi type="italic">dhó</hi>, do chureadar folamh uátha é.
+Luke 20:12 Agus na cheann sin do chuir sé an treas úadh: achd do chuireadarsan amach an tésin <hi type="italic">leis</hi>, ar na lot.
+Luke 20:13 Achd a dubhairt tighearna na fíneamhna, Cred do dhéana mé? cuirfidh mé mó mhac grádhach féin <hi type="italic">chuca</hi>: do béidir an tan do chifid é go dtiobhraidís onóir <hi type="italic">dhó</hi>.
+Luke 20:14 Agus ar na fhaicsin do na sgológuibh, do labhradar eatarra féin, ag rádh, A sé so an toighre, tigidh, marbham é, ionnus go mbíadh a noighreachd aguinn féin.
+Luke 20:15 Agus ar na theilgean don táobh amach don fhíneamhain, do mharbhadar <hi type="italic">é</hi>. Ar a nadhbharsin créd do dhéanas <hi type="underline">tlghearna</hi> na fíneamhna riú súd?
+Luke 20:16 Tiocfuidh sé agus sgriosfuidh sé na sgológa úd, agus do bhéura sé an fhíneamhuin do dháoinibh eile. Agus an tan do chúaladarsan <hi type="italic">so</hi>, a dubhradar, Nár liege Día <hi type="italic">sin</hi>.
+Luke 20:17 Achd ar bhféachain dósan órrtha, a dubhairt sé: Máseadh créd é an ní so atá sgriobhtha, An chloch do dhiultadar na sáoir is di so do rinneadh ceann an chuáinne?
+Luke 20:18 Gidh bé duine thuitfeas ar an <hi type="underline">gcloich</hi> úd, do dhéantar greamanna dhe; agus gidh bé duine ar a dtuitfidh sí, do dhéana sí luaithreadh dhe.
+Luke 20:19 Agus díarradar úachdaráin na sagart agus na sgriobuidhe láinha do chur annsan air a núair sin féin; achd do bhi eagla an phobuil orrtha: óir do aithneadar gur ab na naghuidh fein a dubhairt sé an chosamblachdso.
+Luke 20:20 Agus ag tabhairt aire <hi type="italic">ris</hi>, do chuireadar luchd bratha, do léigfeadh orrtha féin a bheith na bhfiréin, ionnus go ngreameóchaidis air a chomhrádh, do chum a thabhartha do chumhachd agus dughdarrás a nuáchdaráin.
+Luke 20:21 Agus dfíafraigheadar dhe, ag rádh, á Mhaighisdir, atá a fhios againne gur ceart labhras tú agus theagaisgeas tú, agus nach bhfuil cion agad ar phearsain áonduine, achd go dteagasgann tú slighe Dé do réir na fírinne:
+Luke 20:22 An ceaduightheach dhúinne cíos do thábhairt do Shéasar, nó gan <hi type="italic">a thabhairt</hi>?
+Luke 20:23 Achd tug seisean a meabhail dá aire, agus a dubhairt sé riú, Créd fá gcurtháoi cathughadh oram?
+Luke 20:24 Taisbéanaigh dhamh pighinn. Cia ar leis a níomháigh agus an sgríbhinn atá uirthe? Agus ar bhfreagra dhoibhsion a dubhradar, Lé Séasar,
+Luke 20:25 Achd a dubhairt seision riu, Ar a nadhbharsin tabhruidh do Shéasar na neithe is lé Séasar, agus na neithe is lé Día do Dhía.
+Luke 20:26 Agus níor fhéadadar greamughadh air a bhriathra a bhfíadhnuisi an phobuil: agus ag déanamh iongantais ann a fhreagarthuibhsion, do thochdadar.
+Luke 20:27 Agus ar dteachd do dhruing do na Saduceachiabh chuige, (noch shéanas a neiséirghe do bheith ann;) dfíafruigheadar dhe,
+Luke 20:28 Ag rádh, A Mhaighisdir, do sgríobh Máoisi dhúinn, Dá bhfaghadh dearbhráthar dhúine ar bith bás, agá mbía bean phósda, agus go bhfuigheadh sé bás gan chloinn, go ngéubhadh a dhearbhráthair chuige a bhean, agus go tóigéubhadh se sliochd dá dhearbhrathair.
+Luke 20:29 Ar a nadhbharsin do bhádar móirsheisior dearbhrathar ann: agus ar ngabháil mná chuige don chédghear, fúair sé bás gan chloinn.
+Luke 20:30 Agus do ghabh an dara dearbhrathair chuige an bhean, agus fuair seision leis bás gan chloinn.
+Luke 20:31 Agus do ghabh an treas dearbhráthair chuige í; agas mar an gcéadna an móirsheisior: agus nier fhágbhadar clann, agus fúaradar bás.
+Luke 20:32 Agus a ndiaigh cháich aile fúair an bhean bás mar an gcéadna.
+Luke 20:33 Ar a nadhbharsin an sa neiséirghe cía aca súd dá madh bean í? óir do bhi si ag an mhóirsheisior na mnaoi.
+Luke 20:34 Agus ag freagra a dubhairt Iósa ríu, Pósaid clann an tsáoghailsi <hi type="italic">mná</hi>, agus do bheirthear dfearuibh íad:
+Luke 20:35 Achd cheana an dream mheasfuidhthear gur fiú íad an sáoghal úd, agus eiséirghe ó na marbhuibh dfagháil, ni phósaid <hi type="italic">mná</hi>, agus ní thugthar dfearuibh íad:
+Luke 20:36 Oír ní héidir léo bás dtagháil ní sa mhó: Oír atáid síad mar na haingle; agus na gcloinn ag Día, ar mbeith na gcloinn ag a neiséirghe.
+Luke 20:37 Achd go néiréochadh na mairbh, dfoillsigh Máoise lcis ag an dos, an tan do ghoireas sé don Tighearna Día Abraham, agus Día Isaac, agus Día Iácob.
+Luke 20:38 Oír ní hé Día na marbh é, achd na mbéo: óir atáid síad uile na mbeathaigh dhósan.
+Luke 20:39 Agus ar bhfreagra do dhruing do na sgríobuidhibh a dubhradar, A Mhaighisdir, is maith a dubhairt tú <hi type="italic">sin</hi>.
+Luke 20:40 Agus níor lamhadar ó sin súas <hi type="italic">ní</hi> ar bith fhíafruighe dhe.
+Luke 20:41 Agus a dubhairt sé ríu, Cionnas a déirid síad gur mac do Dháibhi Criosd?
+Luke 20:42 Agus a deir Dáibhi féin a leabhar na Salm, A dubhairt an TIGHEARNA rém Thighearnasa, Suidh ar mo láimh dheis,
+Luke 20:43 No go gcuire mé do námhuid na sdól fád chosaibh?
+Luke 20:44 Ar a nadhbharsin goiridh Dáibhi Tighearna dhe, agus cíonnas is mac dhó é?
+Luke 20:45 Agus a néisdeachd an phobuil nile a dubhairt sé ré na dheisciobluibh <hi type="italic">féin</hi>,
+Luke 20:46 Tabhruidh aire <hi type="italic">dháoibh féin</hi> ó na sgríobuidhibh, le nab aill siobhal a róhuidhibh fada, agus lé nab ionmhuin failtighe ar na marguidhibh, agus na cédionuid suighthe ann sna coimhthionóluibh, agus na céadchuibhrinn ann sna féasduidhibh;
+Luke 20:47 Noch shluigeas tighthe na mbaintreabhach, agus sin fós ar sgáth bheith go fada ag urnuighe: do gheabhuid so an dainnadh is truime. <lb type="x-end-paragraph"/>
+Luke 21:0 <lb type="x-begin-paragraph"/>
+Luke 21:21 …luchd bhías ann a lar, imthigheadh said aisde; agus an dream bhías ar na machairidhibh ná héirgheadh síad a sdeach innte.
+Luke 21:22 Oír a said so láeithe an dioghaltuis, ionnus go gcoimhlionfuidhthe na huile neithe atá sgríobhtha.
+Luke 21:23 Agus budh trúagh do ná mnáibh bhías torrach, agus ag oileamhuinn ann sna láethibh úd! oír bíaidh riachdanas romhór ann sa dúithche, agus fearg ris an bpobalsa.
+Luke 21:24 Agus tuitfid lé faobhar an chloidhimh, agus béarthar a mbraighdeanas íad chum na nuile chinidheach: agus bhíadh Iarúsalém ar na saltairt fáoi a Cineadhachaibh, nó go gcoimhlíontar aimsearacha na Geinidheach. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 21:25 ¶ Agus béid comharthuighe ann sa ngréin, agus ann sa ngealuigh, agus ann sna réultannuibh: agus combrúghadh na gcinidheach ar an dtalamh, tré úathbhás; ag buirfigh don fhairge agus do na tonnuibh;
+Luke 21:26 Agus racha a nanam as na dáoinibh tré eagla, agus tré bheith ag feitheamh ris na neithibh thiocfas ar an domhan: oír croithathear cumhachda neimhe.
+Luke 21:27 Agus ann sin do chifid Mac an duine ag teachd a néull maille lé cumhachda agus lé glóir mhóir.
+Luke 21:28 Agus an tan thionnsgóntar na neithesi do dhéanamh, féachuidh súas, agus togbhaidh bhár gcinn; óir is fogus dáoibh bhar bhfúasgladh.
+Luke 21:29 Agus a dubhairt sé an chosamhlachdsa ríu; Féachaigh an crann fige, agus na huile chrann;
+Luke 21:30 An tan sgeithid a <hi type="italic">nduilleabhar</hi>, air na fhaicsin dáoibhsi aitheantáoi úaibh féin gur fogus an samhradh ann sin.
+Luke 21:31 Is mar sin dáoibhsi, an tan do chífí na neithesi déanta, bíodh a fhíos aguibh gur ab fogus atá rioghachd Dé.
+Luke 21:32 A deirim ribh go fírinneach, Nach racha an dínisi thort, nó go ndéantar na neithesi uile.
+Luke 21:33 Rachaidh neamh agus talamh thort: achd ní rachaid mó bhriathrasa thort <hi type="italic">go bráth</hi>. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 21:34 ¶ Achd tabhruidh bhur naire dhíbh féin, deagla go mbíadh sibh tromchroidh theach úair ar bith í chráos, agus ó mheisge, agus ó rochúramuibh na beathasa, agus go dtiochfadh an lá úd go hobann oraibh.
+Luke 21:35 Oir tiocfa sé mar dhul ar na huile dháoine dá náitrigheann ar úachdar na talmhan uile.
+Luke 21:36 Ar a nadhbharsin déanuidh faire, ag guidho gach uile uair, ionnus go rucasfuigh gur fiú sibh dul as ó na neithibhsi uile atá chum teachda, agus go seasmhóchadh sibh a bhfiadhnuisi Mhic an duine.
+Luke 21:37 Agus do bhíodh sé teagasg sa ló ann sa teampeall; achd ann san noidhche ar nimtheachd dó amach, do chomhnuigheadh sé ar a tslíabh dá ngoirthear <hi type="italic">slíabh</hi> na Noluidheadh.
+Luke 21:38 Agus do thigeadh an pobal uile chuige go moch air maidin, déisdeachd ris ann sa teampall. <lb type="x-end-paragraph"/>
+Luke 22:0 <lb type="x-begin-paragraph"/>
+Luke 22:1  Agus do dhruid féasda a naráin gan laibhín <hi type="italic">riu</hi>, dá ngoirthear an Cháisg:
+Luke 22:2 Agus do bhí úachdarain na sagart agus na sgríobuidhe ag íarruidh cionnus do mhuirfidís eision; oir do bhí eagla an phobuil orrtha. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:3 ¶ Achd do chúaidh Satan a Níudas dar chomhainm Iscáiriot, do bhí no nuibhir an dá fhear dhéag.
+Luke 22:4 Agus ar nimtheachd amach dhé, do labhair sé ris na hárdsagartaibh agus ris na húachdaranuibh, cionnas do bhraithfeadh sé eision dhóibh.
+Luke 22:5 Agus do gabh lúathgháire íadsan, agus do rinneadar cunnradh ris airgead do thabhairt dó.
+Luke 22:6 Agus do gheall seision <hi type="italic">sin</hi>, agus díarr sé faill ar eision do bhrath dhóibh ab tan nach mbíadh an pobal a láthair. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:7 ¶ Achd táinic lá a naráin gan laíbhín, ann ar bhéigin an <hi type="italic">tuan</hi> cásg do mharbhadh.
+Luke 22:8 Agus do chuir <hi type="italic">Iósa</hi> Peadar and Eóin úadh, ag radh, Imthigh, agus ullmhuighidh dhuinn an <hi type="italic">túan</hi> cásg, do chum go níosamáois <hi type="italic">é</hi>.
+Luke 22:9 Achd a dubhradarsin ris, Cía a náit ann ar toil leachd sinn dá ullmhughadh?
+Luke 22:10 Agus a dubhairt sé ríu, Féuch, tar éis dul a sdeach sa chathraigh dháoibh, teigeamhuidh duine áirghe oruibh, ag iomchar shoighthigh uisge; leanaidh é don tigh iona racha sé a sdeach.
+Luke 22:11 Agus abruidh ré fear an tighe, A deir an Maighisdir riot, Cáit a bhfuil an Ióisdín, iona níosa mé an cháisg maille rem dheisciobhluibh?
+Luke 22:12 Agus taisbéanuigh seision dáoibh séomra mór uachtrach deaghmhaisioch: ullmhuighidh ann sin é.
+Luke 22:13 Agus ar nimtheachd dóibhsion, fuaradar mar a dubhairt seision riu: agus dullmhuigheadar an cháisg.
+Luke 22:14 Agus an tráth tháinic an tam, do shuidh sé síos, agus a dhá dheisciobal deg maille ris.
+Luke 22:15 Agus a dubhairt sé ríu, Do bhí <hi type="italic">fonn</hi> romhór oram an cháisgse do chaitheamh maille ribhsi suil fhuileongas mé:
+Luke 22:16 Oír a deirim ribh, Nach íosa mé dhe ní as mó, nó go gcoimhlíontar é a ríoghachd Dé.
+Luke 22:17 Agus ar ngabháil an chupáin chuige, ar mbreith buidheachais dó, a dubhairt sé, Glacaidh so, agus roinnidh eadruibh féin é.
+Luke 22:18 Oír a deirim ribh, Nach iobhta mé do thoradh na fineamhna, no go dtíg rioghachd Dé. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:19 ¶ Agus ar ngabháil a nárain chuíge, ar mbreith huidheachais dó, do bhris, agus tug sé dhóibhsean é, ag rádh, A sé so mo chorpsa do bhearthar áir bhur sonsa: déanuidh so mar chuimhne oramsa.
+Luke 22:20 Agus mar an gcéadna an cupán fós tar éis suipéir, ag rádh, <hi type="italic">A sé</hi> an cupánsa an tiomna núa ann mfhuilsi, dhóirtear ar bhar sonsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:21 ¶ Achd, féuch, lámh an té bhraitheas misi am fhochair ar an mbórd.
+Luke 22:22 Agus imthigidh Mac an duine go deimhin, do réir mar do hórduigheadh: gidheadh is mairg don duine úd lé mbraithtear é!
+Luke 22:23 Agus do thionnsgnadarsan a fhíafruigh eatarra féin, cía aca bhíadh ar tí so dheanamh.
+Luke 22:24 Agus fós déirghidh imreasain eatarra, cía aca measfuighthe bheith ní as mó.
+Luke 22:25 Achd a dubhairt seision ríu, Atá tíghearnas ag righthibh seision ríu, Atá tíghearnas ag righthibh na Geinidheach orrtha; agus an dream agá bhfuil cumhachda orrtha goirthear dáoine flaitheamhla dhíobh.
+Luke 22:26 Achd ní mar sin dáoibhse: achd an té as mó eadruibh, bhíodh sé mar an té is lugha; agus an té is áired <hi type="italic">eadruibh</hi>, mar an té do ní miniosdralachd.
+Luke 22:27 Oír cía aca is mó, an té shuigheas ar an mbórd, nó an tí friothólamh? a né nach é an té shuigheas ag bidh? achd atáimsi eadruibhse mar an té do ní friotholamh.
+Luke 22:28 Agus is sibhsi dfan am fhochairsi ann mo chathuighthibh.
+Luke 22:29 Ar a nadhbharsín órduighim dháoibhsi rioghachd, mar do órduigh Máthair féin damhsa;
+Luke 22:30 Ionnus go níosdáoi agus go níobhtháoi ar mó bhórdsa ann mo rioghachd <hi type="italic">féin</hi>, agus go suighfí ar chaithíreachaibh ag breith bhreithe ar dhá threibh dhéug Isráel. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:31 ¶ Agus a dubhairt an Tighearna, A Shímóin, a Síomóin, féuch, díarr Sátan sibhsi, le bhar gcáthadh mar chruithneachd: <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:32 ¶ Agus do ghuidh misi air do shonsa, ionnus nach dtráoithfeadh do chreideamh: agus air bhfilleadh duitse, neartuigh do dhearbhraithreacha.
+Luke 22:33 Agus a dubhairt seision ris; A Thighearna atáim ullamh air bhul leachdsa, chum príosúin, agus chum báis leis.
+Luke 22:34 Achd a dubhairt séision, A deirim riot, a Pheadair, nach goirfe an coileach a níu, nó go séanna tú trí húaire go bhfuil aithne agad oramsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:35 ¶ Agus a dubhairt sé ríu, An tan do chuir mé úaim sibh fan sparán, ná mála, ná bróga, an raibh uireasbhuigh éin neithe oruibh? Agus a dubhrádarsan, Ní raibh.
+Luke 22:36 Ar a nadhbharsin a dubhairt sé ríu, Achd a nois, gidh bé agá bhfuil sparán tógbhadh sé <hi type="italic">é</hi>, agus <hi type="italic">a</hi> mhála mar an gcéadna: agus gidh bé ag nach bhfuil, reacadh sé a bhrat, agus ceannchadh sé cloidheamh.
+Luke 22:37 Oir a deirim ribh, Gur ab éigin fós an ní atá sgriobhtha do choimhlíonadh ionnamsa, Agus atá sé ar na chomháireamh a measg na ndáoine coirthéach: óir na neithe úd atá am thaoibhse atá deireadh aca:
+Luke 22:38 Achd a dubhradarsan, A Thighearna, féuch, dhá chloidheamh ann so. Achd a dubhaier seision ríu, Is lór sin.
+Luke 22:39 Agus ar nimtheachd amach dhó, do chúaidh sé, do réir a ghnáthuighthe, go slíabh na Noluidheadh; agus fós do leanadar a dheisciobuil é.
+Luke 22:40 Agus an tán tháinic sé chum na háite, a dubhairt sé ríu, Déanunidh urnuighe ionnus nach dteigeamhadh sibh a ccáthughadh.
+Luke 22:41 Agus do tairrngeadh eision úatha a dtimcheall urchair cloiche, agus agá léigean air a ghlúinibh, do rinne sé urnuighe,
+Luke 22:42 Ag rádh, A Athair, mas toil leachd, cuir an cupánsa thoram: ach cheana nar ab í mo thoilsi, achd do <hi type="italic">thoilsi,</hi> do dhéantar.
+Luke 22:43 Achd do taisbéanadh dhó aingeal ó neamh dá chomhfhurtachd.
+Luke 22:44 Agus ar mbeith a nanbhuain mhóir dhósan do rinne sé urnuighe ní as díthchiolluighe: agus do bhí a allas mar bhráona mora fola ag tuitim ar talamh.
+Luke 22:45 Agus an tan déirigh sé ó umuighe, tháinic sé chum a dheisciobal, agus fuair sé na gcodladh íad tré thuirsi,
+Luke 22:46 Agus a dubhairt sé rú, Créd fá gcodaltáoi? éirghidh agus déanuidh urnuighe, do chum nach dtuitfeadh sibh a gcathughadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:47 ¶ Agus ag labhairt dó fós, féuch an slúagh, agus an té dá ngoirthí Iúdas, áon don dá fhear déag, ag gabháil rompa, agus do dhruid sé ré Hiosa do thabhairt póige dhó.
+Luke 22:48 Agus a dubhairt Iósa ris, A Iúdais, an lé poig bhraithbeas tú Mac an duine?
+Luke 22:49 Agus an tan do chunncadar an dream do bhí ná thimcheallsan an ní do bhí ag teach, a dubhradar ris, A Thighcarna, an mbuáilfeam lé cloidheamh? <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:50 ¶ Agus do bhuáil fear dhíobh searbhfhoghantuidhe a nárdshagairt, agus do bhean sé a chlúas dheas de.
+Luke 22:51 Achd do fhreagair Iósa agus a dubhairt, Fuilngidh go soithe so. Agus ar mbuáin ré na chluáis súd, do shlánuigh sé é.
+Luke 22:52 Agus a dubhairt Iósa ris na hardsagartaibh, agus úachdaráuibh an teampuill, agus na seinnsearaibh, tháinic chuige, An dtangabhair amach, le cloidhimhthibh agus le batuidhibh, amhuil chum bhiothainhnuigh?
+Luke 22:53 An tan do bhí me gach lá agaibh sa teampall, níor shineabhair lámha dhamh: achd a sí so bhar nuáirsi, agus cumhachda an dorchaduis. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:54 ¶ Achd ar mbreith airsion, rugadar léo <hi type="italic">é</hi>, go tigh an ardshagairt. Agus do lean Peadar a bhfad úadh é.
+Luke 22:55 Agus an tráth do lasadar teine ar lár na halla, agus so shuigheadar <hi type="italic">na timchioll</hi> a bhfochair a chéile, do shuidh Peadar catarra.
+Luke 22:56 Agus an tan do chunnairc cailín áirighe é na shuidhe ag an teinidh, ar bhfeachain go gér dhí air, a duabhaiet sí, Do bhi an fearso fós na fhochair súd.
+Luke 22:57 Agus do shéan seision é, ag rádh, A bhean, níor bhaithnidh damh é.
+Luke 22:58 Agus beagán na dhiáigh sin ar na fhaicsin do neach eile, a dubhairt sé, Agus is díobh súd thusa fós. Achd a dubhairt Peadar, A dhuine, ní díobh misi.
+Luke 22:59 Agus a dtimcheall áonuáire amháin na dhiáigh sin, do dhearbhuigh neach áirighe ele, ag rádh, Go firinneach do bhí an tési leis na fhochair súd: óir is Galiléeach é.
+Luke 22:60 Achd a dubhairt Peadar, A dhaine, ní bhfuil a fhios agam créd a deir tú. Agus ar an mball, an feadh do bhí sé ag labhairt, do ghoir an coileach.
+Luke 22:61 Agus ar gcasadh don Tighearna, dféuch sé ar Pheadar. Agus do chumhnigh Peadar ar chomrádh an Tighearna, cionnas a dubhairt sé ris, Suil ghoirfeas an coileach, séanfuidh tú mé trí huáire.
+Luke 22:62 Agus ar ndol amach do Pheadar, do ghuil sé go gér. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:63 ¶ Agus na dáoine do chuinnigh Iósa do rinneadar fonómhad fáoi, dá bhúaladh;
+Luke 22:64 Agus an tan do fholuigheadar é, do bhuáileadar a aghuidh, agus dfiafruidheadar dhe, ag rádh, Déana fáigheadóireachd, cía bhúail thú?
+Luke 22:65 Agus a dubhradar mórán do neithibh eile na aghaidh dhá mhaslughadh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 22:66 ¶ Agus mar déirigh an lá, do chrinnigheadar sinnsir an phobuil, agus na hárdsagairt, agus na sgríobuidhe a bhfochair a chéile, agus tugadar eision chum a gcomhairle <hi type="italic">féin</hi>,
+Luke 22:67 Ag rádh, An tusa Críosd? innis dúinne. Agus a dubhairt seision riu, Má innisim dháoibh, ní chreidfidhe <hi type="italic">mé:</hi>
+Luke 22:68 Agus fós ma fhiafruighim í dhíbh, <hi type="italic">ní thiobhartháoi</hi> freagra oram, agus ní léighfi uáibh <hi type="italic">mé.</hi>
+Luke 22:69 Sam aimsir aig teachd biáidh Mac an duine na shuighe ar deis chumhachd Dé.
+Luke 22:70 Agus a dubhradar uile ris, mar sin an túsa Mac Dé? Agus a dubhairt seision riú, A deirthisi gur ab mé.
+Luke 22:71 Achd a dubhradarsan, Créd é an riachdanus fiadhnuisi atá oruinn feasda? óir do chúalamar féin as a bhéul féin <hi type="italic">é.</hi> <lb type="x-end-paragraph"/>
+Luke 23:0 <lb type="x-begin-paragraph"/>
+Luke 23:1  Agus ar néirghe dá ccoimhthional uile, rugadar chum Pioláid é.
+Luke 23:2 Agus do thionnsgnadar cúis do chuir air, ag radh, Fúramar an <hi type="italic">fearsa</hi> ag iompódh ar gcinidh, agus ag toirmeasg cíosa do thabhairt do Shéasar, ag rádh gur ab é féin Críosd an Rí.
+Luke 23:3 Agus a dfíafruidh Pioláid dhe, ag rádh, An tusa Rí na Níudaighe? Agus ar bhfreagra dhósan a dubhairt sé ris, A deir tusa <hi type="italic">sin</hi>.
+Luke 23:4 Agus a dubhairt Píoláid ris na hárdsagartuibh agus ris an tslúagh, Ní fhaghaimsi cúis ar bith air a bhfearso.
+Luke 23:5 Achd do theannadarsan orrtham ag rádh, Buáidhridh sé an pobal, ag teagasg ar feadh thíre Iúdaighe uile, ag teasgasg ar feadh thíre Iúdaighe uile, ag tosughadh ón Ghalilé go soithe so.
+Luke 23:6 Agus mar do chúaluidh Píoláit teachd thar an Ngalilé, dfiarfruidh sé dhe nar Ghaliléeach é.
+Luke 23:7 Agus an tan daithin sé gur ab fá thumhachduibh Iornáth do bhí sé, do chuir sé ar ais é chum Iorúaidh, do bhí Níarusalém ann sna láethibh sin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:8 ¶ Agus ar bhfaicsin Iósa Díoruáidh, do ghabh lúathgháire mhór é: óir do bhí fonn air ré fada eision dfaicsin, do bhrigh go gcúaluidh sé mórán air; agus do bhí dóchas aige go bhfaicfeadh sé comhtharra éigin ar na dhéanamh leis.
+Luke 23:9 Agus dfíafruidh sé mórán do cheasdannuibh dhe; achd ní thug seision freagra ar bith air.
+Luke 23:10 Agus do sheasadar na hárdsagairt agus na sgrióbuidhe ag déanamh casáoide air go dithchiollach.
+Luke 23:11 Achd tug Ioruáidh maille ré na luchd coguidh tarcuisne air, agus do rinneadar fonómhad fáoi chúireadar chum Píoláid a rís é. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:12 ¶ Agus an lásin féin, do rinneadh Ioruaith agus Píoláid na gcáirdibh dhá cheile: óir do bhádar na naimhdibh agá chéile roimhe sin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:13 ¶ Agus ar ngairm na nárdsagart agus núachdarán, agus an phobuil do Phioláid,
+Luke 23:14 A dubhairt sé riu, Tugabhair chugamsa an duinesi, mar neach iompóidheas an pobal: agus, féuch, ar gceasdughadh ris damsha ann bhar bhfiadhnuisi <hi type="italic">féin</hi>, ní fhúair me coir ar bith ar an duine do na neithibh agá ndéantáoisi casáoid air:
+Luke 23:15 Agus fós, ní fhúair, Ioruáidh: óir do chuir mé chuige sibh; agus, féuch, ní dhearnuidh níar bith leis do thuillfeadh bás.
+Luke 23:16 Ar a nadhbharsin ar na smachdughadh, léighfidh mé uáim <hi type="italic">é.</hi>
+Luke 23:17 Oír dob éigean dí neach éigin do léigean amach dhóibh ann sa bhféasda.
+Luke 23:18 Achd do éigh an choimthionol uile, ag rádh, Beir uáinn an <hi type="italic">fearsa</hi>, agus sgáoil dúinne Barabbas:
+Luke 23:19 Do bhí ar na chur a bpriosún tré cheannairc áirighe, agus trí mharbhadh, do rinneadh ann sa chathraigh.
+Luke 23:20 Ar a nadhbharsin, do labhair Píoláid rín a rís, ar mbeith fonnmhar dhó ar Iósa léigean úadh.
+Luke 23:21 Achd do éimhgheadarsan, ag rádh, Croch é, croch é.
+Luke 23:22 Agus a dubhairt sé rín an treas uáir, Achd, créud é an tolc do rinne sé? ní fhuair mísi cúis bhais ar bith air: ar a nadhbharsin ar na smachdughadh, leigfidh mé amach é.
+Luke 23:23 Achd do sheasadarsan go cruáidh ná aghuidh lé gothannuibh móra, ag íarruidh eisiondo chrochadh. Agus do bhuaidheadar a ngóthasan agus <hi type="italic">gótha</hi> úachdarán na sagart.
+Luke 23:24 Agus rug Píoláid do bhreith an ní díarradarsan do dhéanamh.
+Luke 23:25 Agus do léig sé amach chuca an té do teilgeadh a bpriosún ar son cheannairce agus marbhtha, noch do íarradar; agus tug sé Iósa dhá dtoilsion. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:26 ¶ Agus an tan do rugadar léo é, ar mbreith ar Shiréanach áirighe, <hi type="italic">dar bhainm</hi> Simon, do bhí ag teachd ón túaith, do chuireadar an chroch air, <hi type="italic">dá</hi> hiomchara ndíaigh Iósa.
+Luke 23:27 Agus do lean cuideachda mhór don phobal, agus do na mnáibh é, do bhí fós ag gul agus dá cháoineadhsan.
+Luke 23:28 Agus ar bhfilleadh chuca a dubhairt Iósa, A ingheana Ierusaléim, ná guilidh ar mo shonsa, achd guilidh ar bhar son féin, agus ar son bhar gcloinne.
+Luke 23:29 Oír, féuch, tiochfuid na láethe, iona naibéoruid said, <hi type="italic">Is</hi> beannuighthe na <hi type="italic">mná</hi> seasga, agus na bronna nach ar thuismidh, agus na cíocha nach dtug bainne <hi type="italic">úatha</hi>.
+Luke 23:30 Ann sin thionnsganaid a rádh ris na sléibhtibh, Tuitigh oruinn; agus ris na cnocaibh, Folnighe sinn.
+Luke 23:31 Oír má níd síad na neithesi ris an crann úr, créd do dhéantar ris an ccríon?
+Luke 23:32 Agus fós tugadh días eile meirleach da ccur chum báis na fhochairsion.
+Luke 23:33 Agus an tan tanagadar do nionad dá ngoirthear Ait na cloigne, do chrochadar ann sin é <hi type="italic">féin</hi>, agus na meirligh, fear air a dheis, agus fear eile air a láimh chlé. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:34 ¶ Agus a dubhairt Iósa, A Athair, maith dhóibh; óir ní bhfuil a fhios aca créd do nid said. Agus an roinn a éaduighsion, do theilgeadar crannchar <hi type="italic">orthu</hi>. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:35 ¶ Agus do sheas an pobal ag fhéachain <hi type="italic">air</hi>. Agus do rinneadar na húachdaráin leis fonómhad fáoi maille ríusán, ag rádh, Dfóir sé ar dháoinibh eile; foireadh sé air féin, mas é so Criosd, do thogh Día.
+Luke 23:36 Agus fós do rinneadar na saighdiuirigh fonómhad fáoi, ag drud ris, agus ag tairgsin bhinéigre dhó,
+Luke 23:37 Agus ag rádh, Mas tusa rí na Níuduigheadh, fóir ort féin.
+Luke 23:38 Agus fós do bhí sgríbhneóireachd sgríobhtha ós a chionn do litreachabh Gréigis, agus Laidní, agus Eabhrias, A SE SO RI NA NIUDUIGHEADH. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:39 ¶ Achd do bhí áon do na meirleachaibh do crochadh dá mhaslughadh, ag rádh, Mas tú Críosd, fóir ort féin agus oruinne.
+Luke 23:40 Agus ar bhfreagra don fhear eile, do spreag sé é, ag rádh, A né nach bhfuil eagla Dé ort, agus tú fa áondhamnadh ris?
+Luke 23:41 Achd sinne go deimhin go ceart; (óir fúaramar na neithe do thuilleadar ar ngníomhartha): achd ní dhearna an tési olc ar bith.
+Luke 23:42 Agus a dubhairt sé ré Híosa, A Thighearna, cuimhnigh oransa an tan thiochas tú ad rioghachd <hi type="italic">féin</hi>.
+Luke 23:43 Agus a dubhairt Iósa ris, A deirim riot go firinneach, Go mbia tú am fhochair a niu a bpárrthas. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:44 ¶ Agus do bhí sé a dtimcheall an seiseadh húair, agus do rinneadh dorchadas ar an dtalamh uile gus a náomheadh húair.
+Luke 23:45 Agus do dhorchuigheadh an ghrían agus do briseadh brat roinnte an teampuill ann a lár. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:46 ¶ Agus ar néigheamh Díosa do ghúth mhór, a dubhairt sé, A Athair, táobham mo spiorad ann do lamhaibhsi: agus an tan a dubharit sé na neithesi, do chúaidh a spiorad ás. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:47 ¶ Agus an tráth do chunnaire an caiptíu an ni do rinneadh, tug sé glóir do Dhía, ag rádh, Go firinneach budh firéan an duinesi.
+Luke 23:48 Agus an pobal uile tháinic a náoinfheachd dá fhéachainsion, a núair do chunncadar na neithe do rinneadh ann, ag búaladh a nochda, do fhilleadar air a nais.
+Luke 23:49 Agus do sheasadar a dháoine aitheanta, a bhfád <hi type="italic">úadh</hi>, agus na mná do lean é ón Ghalilé, ag féachain ar na neithibhsi. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:50 ¶ Agus, féuch, tháinic fear dar bhainm Ióseph; <hi type="italic">do bhí</hi> na chomhairleach, na dhuine mhaith, agus na fhírean:
+Luke 23:51 Nach a áontaigh dhá gcomhairle ná dá ngníomh súd; ó Arimatéa cathair do thír Iúduighe: agá raibh suil fós ré rioghachd Dé.
+Luke 23:52 Ar ndul dó so chum Pioláid, díarr sé corp Iósa.
+Luke 23:53 Agus ar na bhúain a núas dó, do chuir sé linéadach na thimcheall, agus do chuir sé a dtúama do bhí ar na thochailt a gcarraic é, ann nach ar cuireadh áonduine roimhesion a ríamh.
+Luke 23:54 Agus do bé sin lá a nullmhuighthe, agus do bhí an tsabbóid ag druid ríu. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 23:55 ¶ Agus fós na mná, do lean é, agus tháinic leis ón Ghalilé, do chunncadar an túama, agus cionnas do bhí a chórpsan ar na chur.
+Luke 23:56 Agus ar bhfilleadh dhóibh dullmhuigheadar spíosruidhe deaghbhaluidh agus uinnímentighe; agus do chomhuuidheadar lá na sábhoide do réir na háithne. <lb type="x-end-paragraph"/>
+Luke 24:0 <lb type="x-begin-paragraph"/>
+Luke 24:1  Agus an céadlá don tseachdmhuin, tangadar go romhoch ar maidin, chum an túama, ag tabhairt léo na neitheadh deaghbhaluidh dullmhuigheadar, agus <hi type="italic">mná</hi> áirighe <hi type="italic">eile</hi> maille ríu.
+Luke 24:2 Agus fúaradar an chloch ar na hiomlat ón túama.
+Luke 24:3 Agus ar ndul a sdeach dhóibh, ní fhúaradar corp an Tighearna Iósa.
+Luke 24:4 Agus tárla, gur ghabh úathbhás íad fán ní sin, <hi type="italic">agus</hi> féuch, do sheasadar días fear na naice a néaduighibh dealruightheacha:
+Luke 24:5 Agus ar na ngabháil eagla dóibsion, agus ar gcromadh <hi type="italic">a</hi> naighthe chum na talmhan, a dubhradarsan ríu, Créud fa níartháoi eidir na marbhuibh an lé atá beo?
+Luke 24:6 Ní bhfuil sé ann so, achd déirigh sé: cuimhnighidh mar a dubhairt sé <hi type="italic">féin</hi> ribh an feadh do bhí sé fós ann sa Ghalilé
+Luke 24:7 Ag rádh, Is éigin Mac an duine do thabhairt a lámhuibh dháoine peacthach, agus a chrochadh, agus a eiséirghe an treas lá.
+Luke 24:8 Agus do chuimhnigheadarsan ar a bhriathraibhsion,
+Luke 24:9 Agus ar bhfilleadh ón túama, dfoillsigheadar na neithesi uile don éineasbal dég, agus do cach eile uile.
+Luke 24:10 Achd a si Muire Mhaghalén, agus Iónna, afus Muire <hi type="italic">mathair</hi> Shéumais, agus na <hi type="italic">mná</hi> eile do <hi type="italic">bhí</hi> maille ríu, dinnis na neithesi do na heasbuil.
+Luke 24:11 Agus do cheasadarsan a mbríathra mar éadruime cheille, agus nior chreideadar dhóibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:12 ¶ Agus ar néirghe do Pheadar, do rioth sé chum an túama; agus an tan a dféuch sé a sdeach, do chunnairc sé an linéadach na luighe leis féin, agus dimthigh sé, ag déanamh iongantais leis féin fán ngíomhsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:13 ¶ Agus, féuch, do chúadar días diobhsan an lásin féin go baile atá trí fithchid sdáide ó Iérusalém, dar ab ainm Emmáus.
+Luke 24:14 Agus do bhádar ag labhairt eatarra féin ar na neithibhsi uile tarla ann.
+Luke 24:15 Agus tárla, ar mbeith ag comhrádh dhóibh agus ag ceasdúghadh <hi type="italic">ré chéile,</hi> go dtáinic Iósa féin, agus gur shiubháil sé léo.
+Luke 24:16 Achd do cungmhadh a súilesion, ionnus nach aitheonchaidís é.
+Luke 24:17 Agus a dubhairt sé ríu, Créd íad na comhraitesi air a bhfuiltí ag teachd cadruibh féin, ag siobhal dibh, agus sibh go bronach?
+Luke 24:18 Agus ar bhfeagra do neach díobh, dar bhainm Cléophas, a dubhairt sé ris, An bhfuil tusa ad áonar ad choigcrigheach a Niarusalém, agus gan fios na neitheann do rinneadh innte ann sna láethibhsi agad?
+Luke 24:19 Agus a dubhairt seision ríu, Créd iad na neithe? Agus a dubhradarsan ris, Na neither tháobh Iósa Nasardha, do bhí na fhaigh chumhachdach a ngniómh agus a mbreithir a bfiadhnuisi Dé, agus an phobuil uile:
+Luke 24:20 Cionnas tugadar na hárdsagairt, agus ar núachdarainne é chum breithe bháis do bhreith air, agus do chrochadar é.
+Luke 24:21 Achd do bhí ar súilne gur bheision an té dfuaisgéoladh Isráel: agus leith amuich dhíobh so uile, a sé níu an treas lá ó rinneadh na neithesi.
+Luke 24:22 Agus mar an gcéadna, mná áirighe dhínn féin tháinic go moch chum a túama, do chuireadar úathbhás oruinn;
+Luke 24:23 Agus mar nach bhfuaradar a chorpsan, tangadar, ag rádh, go bhfacadar féin fós taidhbhsi aingeal, a deir go bhfuil sé na bheathaigh.
+Luke 24:24 Agus do chuadar dream áirighe dhá rabh maille rinne chum an túama, agus fuaradar mar a dubhradar na mná: achd ní fhacadar eision.
+Luke 24:25 Agus a dubhairt seision riu, O a dhaoine amadánach agus mallchroidhtheach chum creidmhe dá gach éinni dar labhradar na fáighe!
+Luke 24:26 A né nar bhéigin do Chríosd na neithesi dfulang, agus dul a sdeach ann a ghlóir féin?
+Luke 24:27 Agus ar dtionnsgnadh ó Mháoisi agus ó na faighibh uile, do eidirmhínigh sé dhoibh ann sna huile sgriopturaibh na neither bhi dhá tháobh féin.
+Luke 24:28 Agus do dhruideadar ris an mbaile, ann a rabhadar ag dul: agus do léig seision air go rachadh sé ní is faide.
+Luke 24:29 Achd do choimhéignigheadarsan é, ag rádh, Fan aguinne, óir atá sé na thrath nona, agus is deireadh láoi atá ann. Agus do chúaidh se a sdeach dfuireach aca.
+Luke 24:30 Agus tárla, an tan do chuidh sé chum bí na bhfochair, ar mbreith ar a narán; go rug sé buidheachas, agus ar na bhriseadh, tug sé dhóibhsion é.
+Luke 24:31 Agus so hosgladh a súilesion, agus daithnidheadar eision; agus do tóghbadh as a namharc é.
+Luke 24:32 Agus a dubhradarsan eatarra féin, A né nach rabhadar ar gcroidhthe ar lasadh ionnuinn, an feadh do bhí sé ag labhairt rinn ar a tslighe, agus an tan do osguil sé dhuinn na sgrioptúiridh?
+Luke 24:33 Agus ar néirghe dhoibh ar a núairsin féin, dfilleadar go Híarusalém, agus fúaradar an téinfhear deúg cruinn a bhfochair a chéile, agus an dream do bhí maille ríu,
+Luke 24:34 Ag rádh, Déirigh an Tighearna go firinneach, agus taisbéanadh do Shíomón é.
+Luke 24:35 Agus dinnisiodarsan na neither do <hi type="italic">rinneadh</hi> ar a tslighe, agus mar do aithnidheadar é a mbriseadh a naráin. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:36 ¶ Agus agá labhairt so dhóibhsion, do sheas Iósa féin ann a lár, agus a dubhairt sé ríu, Siocháin maille ribh.
+Luke 24:37 Achd ar mbeith dhóibhsion ar crith agus lán deagla, do sháoileadar gur spiorad do chunncadar.
+Luke 24:38 Agus a dubhairt seision ríu; Créd fá bhduilti ar bhar mbúaidhreadh, agus créd fá a néirghid smúaintighe ann bhar gcroidhthibh?
+Luke 24:39 Feuchaidh mó lámha agus mó chosa, óir is misi féin atá ann: glacaidh, agus féuchaidh <hi type="italic">mé</hi>; oír ní bhfuil féoil na cnámha ag spioruid, mar do chithi agamsa.
+Luke 24:40 Agus an tan a dubhairt sé na neithesi do thaisbéin sé dhóibh a lámha agus <hi type="italic">a</hi> chosa.
+Luke 24:41 Achd ar mbeith míchreidmheach dhóibhsion fós tré gháirdeachas, agus ag déanamh iongantais, a dubhairt seision ríu, An bhfuil bíadh ar bith agaibh ann so?
+Luke 24:42 Agus tugadarsan do cuid díasg rósduighe, agus cuid do chír mheala.
+Luke 24:43 Agus ar <hi type="italic">na</hi> nglacadh dhósan, dúaidh sé na bhfiafhnuisision <hi type="italic">íad</hi>.
+Luke 24:44 Agus a dubhairt sé ríu, Ag so na briathar do labhair mé ribh, a núair do bhí mé fós bhar bhfochair, gur ab éigin na huile neithe atá sgríobhtha a reachd Mháoisi, agus ann sna fáighibh, agus ann sna salmuibh, am thimcheallsa do choimhlíonadh.
+Luke 24:45 Ann sin dosguil sé a ttuisge, ionnus go dtuigfidís na sgrioptúir,
+Luke 24:46 Agus a dubhairt sé ríu, Gur mar so do bhi sé sgríobhtha, agus gur mar so dob éigin do Chríosd fulang, agus éiseirghe ó mharbhuibh an treas lá:
+Luke 24:47 Agus aithrighe agus maitheamhnas na bpeacadh do dheanmóir an ainm do na huile chinidheachuibh, ag tionnsguadh ó Iérusalém. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:48 ¶ Agus is sibhsi fiadhnuiseadha na neitheannsa. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:49 ¶ Agus, féuch, cuirfidh misi gallamhun Mathar féin chugaibh: achd fanoidh a gcathair Iárusalém, no go gcuirthear cumhachda a núas umuibh. <lb type="x-end-paragraph"/> <lb type="x-begin-paragraph"/>
+Luke 24:50 ¶ Agus rug sé amach go soithe Betánia íad, agus ar dtóghbháil a lámh, do bheannuigh sé íad.
+Luke 24:51 Agus tárla, ar mbeith dá mbeannughadh dho, gur sgaradh ríu é, agus gur tóghadh súas ar neamh é.
+Luke 24:52 Agus ar na onóruighadh dhóibhsean, dfilleadar go Híarusalém maille le gáirdeachus mór:
+Luke 24:53 Agus do bhídis do ghnáth ann sa teampoll, ag moladh agus ag beanughadh Dé. Amen. <lb type="x-end-paragraph"/>

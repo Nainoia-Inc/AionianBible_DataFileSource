@@ -1,0 +1,1089 @@
+## Aionian Bible
+## File Name: Holy-Bible---Basa-Gurmana---Basa-Gurmana-Bible---Source-Edition.VPL.txt
+## File Usage: Holy-Bible---Basa-Gurmana---Basa-Gurmana-Bible
+## File Created: 12/12/2025 22:48:03
+## File Purpose: Supporting resource for the Aionian Bible project
+## File Location: https://resources.AionianBible.org
+## Publisher Name: Nainoia Inc
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
+## Publisher Facebook: https://www.Facebook.com/AionianBible
+## Source URL: https://ebible.org/details.php?id=buj
+## Source File: https://ebible.org/Scriptures/buj_vpl.zip
+## Source Date: 12/12/2025 19:22:33
+## Source Copyright: Creative Commons Attribution ShareAlike 4.0
+## Source Text: unaltered below
+##
+
+MAT 1:1 Otakada na bikogu bi Yesu Kristi ba'a wo Dauda, ba'a wo Ibrahim:
+MAT 1:2 A Ibrahim go won den ashawa na Ishaku, a Ishaku wan den ashawa na Yakubu a Yakubu wan den ashawa na Yahuda natosuwa̱ nonwan,
+MAT 1:3 A Yahuda wan den Ashawa na Pereza, na Zera ananwan nanwan ka Tamar go Apereza wan den ashawa na Hezron, a Hezron wan den ashawa na Ram
+MAT 1:4 a Ram wan den ashawa na Aminadab, a Aminadab wan den ashawa na Nashon, a Nashon wan den ashawa na Salmon,
+MAT 1:5 a Salmon wan den ashawa na Bo'aza, awo ananwan nonwan a Rahab go, a Boaz ta'a wan den ashawa na Obida, ananwan nonwan ka a Rutu go, a Obida wan den ashawa na Yesse
+MAT 1:6 a Yesse ta'a wan den ashawa na Wogoma a Dauda. a Dauda wan den ashawa na Solomon, awo ananwan nonwan naanda wu'a̱ wo Uriya,
+MAT 1:7 Solomon go won den ashawa na Rehobowan, a Rehobowan wan den ashawa na Biya, Abiya wan den ashawa na Asa,
+MAT 1:8 Asa wan den ashawa na Yehoshapat, Ayehoshapat wan den ashawa na Yoram, Yoram wan den ashawa na Azariya,
+MAT 1:9 Azariya wan den ashawa na Yotan, a Yotan wan den ashawa na Ahaz, a Ahaz wan den ashawa na Hezekiya,
+MAT 1:10 a Hezekiya wan den ashawa na Manase, a Manase wan den ashawa na Amon, a Amon wan den ashawa na Yosiya,
+MAT 1:11 a Yosiya go won den ashawa na Yekoniya natosuwa̱ nonwan n beka̱ni be a̱ ta̱ri ga tu ture cegema n Babila
+MAT 1:12 Na a owane ga cegema n Babila a A Yekoniya wa̱ ma̱ci Sheyaltiyel, 13 Asheyaltiyal wa̱ ma̱ci Zarubabel,
+MAT 1:13 Zarubabel wan den ashawa na Abihudu, a Abihudu wan den ashawa na Eliyakim, a Eliyakim wan den ashawa na Azuro,
+MAT 1:14 a Azuro wan den ashawa na Saduki, a Saduki wan den ashawa na Akimu, a Akimu wan den ashawa na Aliyudu,
+MAT 1:15 a Aliyudu wan den ashawa na Eli'azara, a Eli'azara wan den ashawa na Matana, a Matana go won den ashawa na Yakubu,
+MAT 1:16 a Yakubu go won den ashawa na Isuhu wa̱ri wo Maryamu awu ma̱ci i Yesu, awo ata hecega a Kristi.
+MAT 1:17 Ba̱nba̱nu na sorya n kushi ku Ibrahim tu hure pi Dauda kushi ko opa n ko ku na̱shi go, n to ema ga n cenge tawa ture cegema n Babila tu hure pi Kristi ta'a kushi ko opa n ko ku na̱shi go.
+MAT 1:18 Anna rima̱ci ri Yesu Kristi re na na'an she a Isuhu wo tan cene'en to Maryamu she ata iyan cewo a̱ hendi wu na̱suwa̱ na sorya pa benhyan be Onhon.
+MAT 1:19 Naande a Isuhu wa̱ri wo Maryamu ka woto wo omange kaye pa Onhon go, wa̱ rubi ciwu a̱ pa̱ni i Maryamu n'en nanmen nato wa̱ rubi a̱ ta̱cigi wu rihinrihin.
+MAT 1:20 Ama she a Isuhu wo tan netama yan'on Wotoma wo a̱ba̱ye wo Ashawa wa rage pi Isuhu narawo wa hyen wo, <<A Isuhu ba'a wo Dauda, ga'a to hoga ryansan ri tu ume i Maryamu an den wu'a̱ wo, enaande ka enan nanmen suwa̱ nonwan nasorya pa benhyan be Onhon go.
+MAT 1:21 Won to mata ba'a a won to pa wo rira̱'i a Yesu enaande a̱ure won tu ringe ato nonwan nanmen ciri'i tawa.
+MAT 1:22 An den ma̱no go ca na an ma shintuma̱ monran Ashawa hici nuno na Wotoma wo Onhon nhyan:
+MAT 1:23 Ewana kego ke ta yan'cewo wa̱ri ken to mata ba'a, an to pa wo rira̱'i a Imanuwel, ma'anan ka <<Onhon un pa̱ka̱ n ga̱tu.>>
+MAT 1:24 Na Isuhu wo rengane ndawo wa rope nde Wotoma wo Ashawa hyen wo, wa̱ umi Maryamu wu'a̱ wo wa.
+MAT 1:25 Ama wa yan'cewo, hare wa̱ ma̱ci ba'a wo wa wa̱ pa̱ wu ta'a rira̱'i Ayesu.
+MAT 2:1 Na a̱ ma̱ci i Yesu n Baitalami ona Yahudiya, a̱bire she a Hiridus wogoma won togoma, a̱huwa̱ na sorya arowa a rage n Urshalima
+MAT 2:2 ta'a a̱ rushigi a hyen,<< Nca wogoma wo Yahudawa awo a̱ ma̱ci? enande to hyande benangare arowa go ato rage to pana wo ototo.
+MAT 2:3 Na wogoma a Hiridus wo hoge a̱nno, anmen nonwan a̱ kurki, a̱nde ta'a ca nato na Urshalima.
+MAT 2:4 Wogoma a Hiridus wa romano ato ca na ato ototo na Firistoci n shima̱la̱n she tubisa̱ga̱ to Mosa, wa̱ rushigi ga wa hyen, nca pa a̱ ma̱ci Ikristi.
+MAT 2:5 A hyen wo, <<N ceso na Baitalami ona Yahudiya go, nde Wotoma wo Onhon wo range to hyan:
+MAT 2:6 << Gawo Baitalami, n cenge to Yahudiya, gawo nce ba'a go nanmen nan awon nan togoma to Yahudiya. Enande nanmen gawo an to mata yan'on wogoma awon ton dan wuhuwa̱ wo ato na̱mi Israila.>>
+MAT 2:7 a Hiridus wa hecegane ato na yan'son nnangare rihinrihin na wan ma yan'son n beka̱ni be a̱ hendi benangare bire.
+MAT 2:8 Wa tomane ga tu hura̱n Baitalami wa hyen, <<Hura̱ ba ken kerkakya kya'o kire san. She i wuri wu, ke mokosha kin bishi, ga̱mi ta'a n hura̱ n pana wo ototo.>>
+MAT 2:9 Na a̱ hu to hoga monran ma wogoma a Hiridus, a kentane tohano tawa. Benangare be a̱ hendi ka arowa bya owangane ga onyan hare a̱ ci pa kya'o kire ke ne'en.
+MAT 2:10 Na a̱ hendi benangare bire a̱ shini na anmen cende cenmon.
+MAT 2:11 Na a̱ gegi n egewa wa̱re a̱ wuri kya'o kire na ananwan nonwan Amaryamu, a̱ kuki, a̱ pa̱ni wu ototo. A̱bire a̱ ka̱rigi aronga nanwan a̱ pa̱ni wu ezenare, n mananbe ma rotome usunsun, n Mur.
+MAT 2:12 Ama abe an mokosa a rope onyan na̱ba̱ tu hura̱ n cenge tawa, enaande Onhon u hundika̱no ga atobe narawo nhyen a̱re a mokosakan cewo pi Hiridus.
+MAT 2:13 Na ato na yan'son nnangare a̱ huri yan'on Wotoma wo a̱ba̱ye wo Ashawa wa rage pi A Isuhu narawo wa hyen i Isuhu, <<I kurika̱,>> ku umi kya'o kenna na nanwan ki ga̱ri tu hura̱ n cenge to Masar. Ke na'an pa̱re hare sheshe n be hyen ke mokosha, enaande wogoma a Hiridus won ta sara behono be kya'o kenna a kone wo.
+MAT 2:14 a Isuhu wa̱ kurki, wa̱ umi kya'o kire na nanwan n geta wa̱ hurin cenge to Masar,
+MAT 2:15 wa koreke pa̱re hare a Hiridus wa̱ u. An den ma̱no go na an ma shintuma̱na̱ monran ma Ashawa a̱ hici nuno na Wotoma wo Onhon ama hyan, <<Nasorya n Masar an hecegane Ba'a wu mi.>>
+MAT 2:16 Na a Hiridus wu ma̱pi n hyen ato na yan'son nnangare a getoge wo topano, anmen a̱ ba̱'i wu cenmon wa tomane a konage kobe ba'a wa̱ri awon nanmen Baitalami n peringo na owa, nari a'o nan n'yan dewu tu huren kida̱ na̱riye n beka̱ni be wa hoge monran ma̱re pa ato na yan'son nnangare.
+MAT 2:17 A̱bire be a̱ shintuma̱na̱ tu hita̱ to Wotoma wo Onhon a Irmiya ama hyan.
+MAT 2:18 <<A hoge yan'on bengoro be to'ogwa n Rama nanmen shiri ana ba̱'i, Arahila go won nan ngwan nan a'o nonwan, wa rawon to hogakana akaremana, enaande a rakau.>>
+MAT 2:19 Ama na a Hiridus wu u nanden a̱ hendi Wotoma wo a̱ba̱ye Ashawa wa soran Isuhu narawo n Masar wa hyen wo.
+MAT 2:20 I kurika̱ ku umi ba'a wonna na ananwan ki hurin n be'awo be cenge to Israila, enande ato nan saro behono be wa a o'gi.
+MAT 2:21 a Isuhu wa̱ kurki wa̱ umi ba'a na nanwan a ragen n be'awo be cenge to Israila.
+MAT 2:22 Na a Isuhu wo hoge nhyen a Arkilawus wu na̱da̱ni ka̱shiki ka ashawa nonwan a Hiridus wan togoma to Yahudiya, wa hoge ryansan ri tuta̱ pa̱re, ama na a woshe wo ogago narawo nanden wa̱ ma̱ga̱shi tu hura̱n cenge to Galili.
+MAT 2:23 Naande wa̱ huri wa koreke n yan'on oceso ona ata hyan Nazarat, na an ma shintuma̱na̱ tu hita̱ to Wotoma wo Onhon tohyan, an to hecegana Iyesu woto wo Nazarat.
+MAT 3:1 Nan n'yan mande gu Ayohana wo Baptisma wo rage, wan tobansan n shihira̱ she Yahudiya.
+MAT 3:2 Wa ange, ma̱shishingi ba, beka̱ni be Onhon on ton da togoma to tonran be ne'enyan keto.
+MAT 3:3 A̱ure wo Wotoma a Ishaya won monran ma wa tohyan, <<Bengoro ben hece n cenge tu ho'i, bya ange, enangana ba ashawa onyan, ki ka̱binga̱gi enyanyan nonwan.>>
+MAT 3:4 Ayohana ka wa̱ ma̱ta̱'a̱ni ewa na tunjira̱ to ura̱kumi, wa̱ ma̱ pa̱ra̱gi adamanran na̱nbi nonwan, irikorya nonwan ka shawaga shego n tuso'in
+MAT 3:5 Nande ato na Urshalima, nato na Yahudiya ca nato na cenge tu usuna̱ na ube na Urdun, an to ragage pi Yohana,
+MAT 3:6 Wan to dangaga obaptisma n ube na Urdun, an tu hita̱ga̱ ciri'i tawa.
+MAT 3:7 Na Yohana wu hendi Aparisiyawa na Sadukiyawa cenmon, a rage a dange ga o Baptisma, wa hyen ga, ga̱hin a korowa! A̱ure waye woshe ogago, ki ga̱nra̱ni ma̱gina̱ ma ne'enyan dewo?
+MAT 3:8 En dan ba otoma nan tu bisa̱ to hyen e ma̱shishinga̱, n mangasa ma̱hin.
+MAT 3:9 Ga'a ba to rwana nanmen na̱hin nhyen, a Ibrahim gu won den ashawa na̱hin, n ne'en bi bisa̱ga̱, Onhon omange a̱ta̱ra̱n a dange Ibrahim a'o na tare wanna.
+MAT 3:10 Uno na unga̱ta̱ri o no'an na̱bi na o'o, ca o'o na pa̱n ciwu ri'ori re reme an tu kire ogo a mashe nanmen nora.
+MAT 3:11 << Ga̱mi n ma̱ni gu nan be danganga o Baptisma, na an ma bisa̱ ma̱shishinga̱ ma̱hin, ama woto awo ne'enyan dewo na bo'o na̱mi wun huri uru, ko ataka nonwan n doga cewo n atana. A̱ure won be dangya o Baptisma in benhyan be Onhon pa̱ka̱ nora.
+MAT 3:12 Obara na to pesaga ken ka'ara kauwa, won to woshega pa̱ri pa to sauraga, a romano o alkama nonwan a rogane n kapanga, ama a̱kuku, won to dortoma ago n nora naca o'ga̱.
+MAT 3:13 A Yesu ta'a nasoryan cenge to Galili wa ragen n ube na Urdun Ayohana an den wo obaptisma.
+MAT 3:14 Ama Ayohana wa̱ rubin to gamanga wo, wa hyen Iyesu, ga̱mi woto wo nan saro kon men dange obaptisma, awo rage pimi?>>
+MAT 3:15 Ama Ayesu wa̱ ra̱'a̱n bu wa hyen, <<Ga'a ma na'an anna benanba, enande anna ma reme tu shintuma̱na̱ okaye.>> nande Ayohana wa̱ pa̱ni unbu wa dange Iyesu obaptisma.
+MAT 3:16 Na an dange Iyesu obaptisma, a̱bire n ba sorya n ma̱ni, nande tonran to ma̱'ucigi wa hendi benhyan be Onhon ben tugurga̱ni she ka̱rkutu, ka̱ ka̱ra̱ni n unbu nonwan.
+MAT 3:17 Naande a hoge yan'on bengoro pa̱re n tonran be hyan, awonna Ba'a wu mi go awon Rubi, awon ne'en nanmen cende nonwan.
+MAT 4:1 Nande benhyan be Onhon bya owane Yesu n cenge tu ho'i, kitunbul ki ma̱'in wu.
+MAT 4:2 Na wan den a̱hibi opa na̱shi nageta opa na̱shi, n re'ore wa hoge renmonron.
+MAT 4:3 Nande woto wo tomo'on wa rage pewa wa hyen, <<She gawo Ba'a wo Onhon go, hyen otare wanna o magiwuro irikorya.>>
+MAT 4:4 Ayesu wa̱ ra̱'a̱ni wa hyen, <<A range nhyen: nce niri korya bawa go woto won to na'an nehono, ama n monran ma sorya pa Onhon.>>
+MAT 4:5 Kitunbul ta'a kya uwanakane Iyesu n bikira̱n be egewa na Onhon n Urshalima pa ce'en.
+MAT 4:6 <<Kya hyen wo, she gawo Ba'a wo Onhon go,>> matacege unbu nanwon n kida̱. Enande a range nhyen: <<Won to hyen atoma na a̱ba̱ye nonwan awo sa̱ka̱ni, wo rawon to kenya ko kolage.>>
+MAT 4:7 Ayesu wa̱ ra̱'a̱n bu wa hyen, a range nhyen: Kure ma̱'a̱ni Ashawa Onhon nanwon.>>
+MAT 4:8 Kitunbul kya uwanakane Iyesu nudu rowa ke bisa̱gi wu ca togoma to kanniyan n uru na towa.
+MAT 4:9 <<Kitunbul kya hyen wo, nan bo pana iriri wanna ca she wu kuki awon men dange sojada.>>
+MAT 4:10 Ayesu wa hyen wo <<N pa̱gi pa̱ri, gawo kitunbul! a range n hyen Ashawa Onhon nanwon go won to dangya cegema n to hewaka obawa.>>
+MAT 4:11 A̱bire kitunbul ke ga̱'i Yesu, atoma na a̱ba̱ye a rage a̱ beni wu.
+MAT 4:12 Na Ayesu wo hoge nhyen a owane I yohana n kurkuku, wa mokoshen Galili.
+MAT 4:13 Wa̱ ga̱'i o Nazarat, wa̱ huri wa koreke n Kaparnahun n suna̱ na ube na uru, n ita̱nu na cenge to Zabaluna n Naptali,
+MAT 4:14 na an ma shintuma̱na̱ monran ma Wotoma wo Onhon a Ishaya ama hyan:
+MAT 4:15 <<Cenge to Zabaluna n cenge to Naptali, n be'awo be Baha, n kaca na Ube na Urdun, n Galili n be'awo be ato naande cewo a Yahudawa,
+MAT 4:16 Ato na yan'cewo Onhon A̱ hendi tohan'an to Onhon, ato na koreke keto nu'o, Tohan'an twa ragane ga.>>
+MAT 4:17 Nasorya n beka̱ni bire Ayesu wa̱ ri tobansan, wa ange <<ma̱shishingi ba, beka̱ni be Onhon ton dan togoma to tonran to ato nonwan o ne'enyan keto.>>
+MAT 4:18 a Yesu won tohano n be'awo be Ube na Galili go a̱nno wa̱ wuri yan'on ato suwa̱ rewu, a Saminu awo ata hecega i Bitrus n woto suwa̱ wo wa Andarawus. She an to masanga ika̱li nanwan nube na uru enaande awa ato na to kentaga nwa̱ gu.
+MAT 4:19 A Yesu wa hyen ga, n dope ba nan be giwuro ato na tokentagana ato to rage pimi.>>
+MAT 4:20 a̱birebire a̱ ga̱'i ika̱li nanwan a rope i Yesu.
+MAT 4:21 Na a maheketane, wa̱ wura̱ka̱ni ato rewu, awa ta'a ato suwa̱ go, Ayakubu ba'a wo Zabadi, n woto suwa̱ wo wa Ayohana, nanmen ohato pa̱ka̱ na ashawa nanwan Azabadi she an to nangana ika̱li nanwan. Ayesu wa hecegane ga.
+MAT 4:22 A̱birebire a̱ ga̱'i ohato nanwan nashawa nanwan a rope Iyesu.
+MAT 4:23 a Yesu wa̱ peringa̱na̱ Ogalili, wan tubisa̱ga̱ ga n sheworo she aduwa, wan tobansan monran ma rotome ma togoma to Onhon, ta'a wan to hogaka kobe shegoma she ato.
+MAT 4:24 Monran ma Yesu ma̱ gegi ba̱nba̱n cenge to Suriya, ato a uwangane ato na rumanga̱gi ba̱nta̱ba̱nta̱, nato nan ma̱supo nato na omange npera, nato na ma̱'uwa̱'uwa̱, nato na ma'inna a Yesu wa hogake ga.
+MAT 4:25 Ato na yemi cenmon a rope wo nasoryan Galili, nan awon nan cesonceson opa n Urshalima, n Yahudiya, ta'a n kaca na ube na Urdun.
+MAT 5:1 Na Yesu wu hendi ato a maromano cenmon, naande wa̱ na̱da̱ni undu. Na wa koreke, ato na moma'anga nonwan a rage pewa
+MAT 5:2 Naande wa̱ bisa̱gi ga wa hyen,
+MAT 5:3 Uno na reme on pa ato na yan'son okeno nanwan ona benhyan, naande togoma to tonran tawa togo
+MAT 5:4 Uno na reme on pa ato nan netama, naande an tu horpa̱ka̱ ga shenmen
+MAT 5:5 Uno na reme on pa ato na rawon, tosheka, nande an to paka kanniyan
+MAT 5:6 Uno na reme on pa ato nan ha̱nda̱ n kaye, nande an to topagya ga ena a̱ rubi.
+MAT 5:7 Uno na reme on pa ato na to hoga yanman, nande awa ta'a an to hoga yanman nanwan.
+MAT 5:8 Uno na reme on pa ato na shenmen she reme nande an to hyanda Onhon.
+MAT 5:9 Uno na reme on pa ato nata upa̱ ma̱ka̱ enande an to hyen ga a'o na Onhon
+MAT 5:10 Uno na reme on pa ato nan huwa̱gina̱ n ton danga ena reme, enande togoma to tonran tawa togo.
+MAT 5:11 <<Uno na reme un pihin sha ato aye twa'age aye pinrin aye ta̱gi kobe iri na kenoko
+MAT 5:12 En dan ba anmen cende ke hoge rato naande ocewa na̱hin ona uru go n tonran, a̱nde a̱ pinrin Atoma na Onhon na yi ciga̱no
+MAT 5:13 <<Ga̱hin she ma̱hota̱ go e ne'en n kanniyan, she ma̱hota̱ ma u niwa̱ gu an to naganaka mago, ma rakau yan'on olema an to tura̱ mago go ato ta'a a pondage
+MAT 5:14 <<Ga̱hin go tohan'an to kanniyan, oceso nan kogo owa ca ma̱so'a̱n
+MAT 5:15 A ca ta'a ta becella a masane n kuwongu, ama a tatanen bego n be'oro go apa ben to han'anka ba̱nba̱n ato nan negewa.
+MAT 5:16 Tohan'an tuhin to na'an han'anka a̱nde pa ato, naande a̱ hendi otoma na̱hin ona reme, a hewake Ashawa na̱hin anan nanmen tonran.
+MAT 5:17 << Ga'a ba to anga n dage n ciringa̱ tubisa̱ga̱ to Mosa n tubisa̱ga̱ to atoma na Onhon go, ama n dage go n shintuma̱nga̱.
+MAT 5:18 mahenda mago ma nan bi bisa̱ga̱, tonran n kinda̱ ton ta nanga, ama ko ika̱ n tubisa̱ga̱ to Mosa rawon to nanga, she sha a shintuma̱ ko'iwo
+MAT 5:19 Nadea̱nno, woto wu ta̱'i monran ko ma̱ka̱ ma yemi ciwu an to hyen wo woto wu yemi ciwu n togoma to tonran, ta'a woto wo rope mago ka, hare wa̱ hici mago an to hyan won woto wu yemi n togoma to tonran.
+MAT 5:20 Nan bi bisa̱ga̱, sha otoma na̱hin n kaye u huri ciwu ona shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa, e rawon tu gega̱ n togoma to tonran.
+MAT 5:21 <<E hoge na a̱ bishi atoma naye ciga̱no nhyen, a̱ ga̱'i to kona woto, woto kone woto wuba̱, karere kan to kentana wo.
+MAT 5:22 Ga̱mi ta'a n ne'en bi bisa̱ga̱, woto wu ma̱gini n woyan'on wo wa, karere kan to kentana wo, ko'eyawa ta'a awo hyen woto wuba̱ topano, Onhon to mansana wo n egewa na ora, ko'eyawa wo hyen gawo opera a̱nde ta'a wun tu gega̱ negewa na ora
+MAT 5:23 <<Nadea̱nno, sha won to pana osadaka n bekondo be Onhon, a̱bire ta'a awu ma̱ta̱ma̱ringi nhyen wo omange yan'on monran n woyan'on wo
+MAT 5:24 Ko esake o sadaka nanwon n egora na iwuki na Onhon, nande ku huri ke maropano n woyan'on wo nande ko rage ko cewane osadaka nanwon
+MAT 5:25 <<Ko den kushine ko maropan n woto wo owane pa woto wo shetara she etan tohano pa shetara, ma̱re woto wure awo ta̱ga̱nu n woto shetara, woto wo shetara ta'a awo owane pa a iya na wogoma, awo mansan n kurkuku.
+MAT 5:26 Mahenda mago ma nan bi bisa̱ga̱, wo rawon to sora pa̱re, she sha wo tope ba̱nba̱n, ukobo rawo nan tu cena̱.
+MAT 5:27 <<E hoge a hyan, ga̱'a ton dan ma̱ye'o.
+MAT 5:28 Ama ko'eyawa awo gotage wu'a̱ togotaga to turuwa̱ n anmen won dwa ma̱ye'o gu a̱nde n rekoko rewa.
+MAT 5:29 She rishe rewo re katoga re ta wo kuna̱ ton dan ciri'i, to koika rego ko mashe, in bu hura̱ ku ra̱shi be'awo binba̱ be to'oawa towo na an ma mansan to'oawa towo ka̱buri n egewa na ora.
+MAT 5:30 She ta'a ka'ara kawo ka katoga ka ta wo kuna̱ ton dan ciri'i, to kera kago ko mashe. in bu hura̱ ku ra̱shi be'awo binba̱ be to'oawa towo na an ma mansana togo ba̱nba̱n n egewa na ora.
+MAT 5:31 << Onhon ta'a o hyan n monran mowwa nhyen woto wo ta̱cigi wu'a̱ wowa a̱ pa̱ni wu otakada na tacegwa.>
+MAT 5:32 Ama ga̱mi n bi bishi nhyen woto wu ta̱cigi wu'a̱ wo wa shen ce nhyen wo kentan bo n ma̱ye'o gu, to wu kuwa̱n bu ma̱ye'o gu a̱nde woto wu ha̱ni wu ta'a wu kuwa̱n bu ma̱ye'o.
+MAT 5:33 <<Ta'a e hogwa a hyen ato na huro, ga'a ba ma̱shiwuro, ama ga̱mi n hyen shi'a̱ nshiwuron na me won den na Ashawa.
+MAT 5:34 Ama n bi bishi, ga'a ba mashiwuro: Ko n tonran, naande pa̱ri pa ane'en na Onhon go.
+MAT 5:35 ko ta'a n cenge, naande apa toponda tuwa pago, ko ta'a n Urshalima, naande oceso na uru na wogoma go.
+MAT 5:36 Ta'a ga'a ba ma̱shiwuron n unbu na̱hin, naande e rawon to yan'son tu shishinga̱ ko ka̱njinra̱ ka̱ka̱ ka na'an ka shiri ko ka na'an ka cende.
+MAT 5:37 <En> na̱hin on den <En>< A'a> na̱hin ta'a o na'an <A'a>, ena huri a̱nno e sorya pa woto wo kenoko go.
+MAT 5:38 <<E hoge a hyan, rishe rehawo ri rishe, rine rehawo ri rine.>
+MAT 5:39 Ama n bi bishi, ga'a ba to esa aye dangage. She woto wo kenoko wo komane tamashe n regawo re katoga getogagya wo re ka̱ngura̱.
+MAT 5:40 she ta'a woto wuba̱ wo owane apa shetara nhyen awu ra̱'i ewa nanwon, ga'agya wo ena ma̱'uta̱na̱ ma wo.
+MAT 5:41 She woto wuba̱ wu kuwa̱ni ken den tohano to tu'uniga̱ to woto tuka̱, ken den tohano to tu uniga̱ woto ma̱rewu.
+MAT 5:42 Pana woto wu rushigi, woto sa̱ri to'opa pewo kure ko gamangan cewo.
+MAT 5:43 <<E hoge a hyan, <Ruwa̱ ba ca ayan'on na̱hin ke eshe ato nayi rubi ciwu.>
+MAT 5:44 Ama ga̱mi n bi bishi nhyen: Ruwa̱ ba ato nayi rubi ciwu ko dange ato na wo pinrin aduwa,
+MAT 5:45 Na en ma dan a'o na Ashawa na̱hin anan tonran awo ton dan onhun o sorya n unbu na ato na kenoko nato na reme, a tomane na shira̱ pa ato na omange kaye nato na rawo kaye.
+MAT 5:46 She ato naye rubi abawa go i rubi ocewa na̱be go i cigi? nce a̱nde go ato na kenoko n ato na tora'aga ka̱gondo an nenwan?
+MAT 5:47 she ta'a ayan'on na̱hin go eta kuwa̱ abawa, yegu eta dan na huri na ato na̱ba̱? nce a̱nde ato na yan'cewo Onhon ata dan?
+MAT 5:48 Ke na'an kamon, she nde Ashawa na̱hin anan tonran a ne'en.
+MAT 6:1 <<En da ba suku, ma̱re ton da kaye na̱hin ton de tohyanda to a̱she, she en den a̱nde e rawon tu ciga̱ ocewa na̱hin pa Ashawa n tonran.
+MAT 6:2 <<She i pa̱ni ato na rawo osadaka ga'a ba to na'an tu hita̱ga̱ she nde ato na tuka̱ryo ata dan n pa̱ri pa aduwa nanwan nonyan ta'a na ato an ma hewaka ga, mahenda a̱ ra̱'o ocewa nanwan go a̱nde
+MAT 6:3 ama ga̱hin she en ton da osadaka ka'ara ka̱hin ka̱ ka̱ngura̱ ka̱re ka yan'cewo ena ka'ara ka katoga kan nenwan.
+MAT 6:4 Na osadaka nanwon ma na'an rinhinrinhin, Ashawa nanwon ka na hendi ca ena won nenwan rinhinrinhin won bo pana ocewa.
+MAT 6:5 << Ta'a she en ton dan aduwa kire ke rawon nenwan nshe ato na tuka̱ryo, ana ta ruwa̱ to na'an na aduwa be'eshe n pa̱ri pa aduwa nen yan'yan ta'a na ato an ma hyanda ga. Mahenda mago ma nan bi bisa̱, a̱ ra̱'o ocewa nanwan.
+MAT 6:6 Ama she won ton dan aduwa, ku gegi n ka̱woro ka anmen kawo, ku uta̱ni bewangano ko den aduwa pa Ashawa nanwon, awo a ca hyanda, Ashawa nanwon ka ana ta hyanda rinhinrinhin won bo pana ocewa nanwon.
+MAT 6:7 She ta'a en na aduwa kire ke rawon ni hita̱gihita̱gi na yemi nshe ato na yan'cewo Onhon, ana ta na'an netama nhyen she an den ihita̱gihita̱gi na yemi go an to hoga ga.
+MAT 6:8 Ki ga̱'i ton dan she awa, naande ashawa na̱hin a yan'swan nhyen en saro she eta rushigi ciwu.
+MAT 6:9 << Anna en ton dan aduwa: <<<Ashawa na̱tu anan dewa nanmen tonran, a̱ pa̱ni rira̱'i rewo ototo.
+MAT 6:10 Togoma towo to rage, ena wu rubi an den n kanniyan she nde eya ne'en n tonran.
+MAT 6:11 Ku tu pa̱ni iri korya na yara nena bekene.
+MAT 6:12 Ku tu ciringa̱gi ciri'i tutu, nde tota ciringa̱ge ato na ton dangage.
+MAT 6:13 kure ko to owan cewo pa tomo'on, ama ku tu a̱pa̱ni n woto wo kenoko.>
+MAT 6:14 Nande she i ciringa̱gi ato naye dangage, Ashawa na̱hin ta'a anan nanmen tonran an bi ciringa̱ge ta'a.
+MAT 6:15 Ama she i ciringa̱gi ciwu ato naye dangage, Ashawa na̱hin ta'a anan tonran a rawon be recengagya ciri'i tuhin.
+MAT 6:16 << She en re'ore, kire ki ha̱ciga̱ni ciwu a̱she nde ato na tuka̱ryo ata dan, naande ata hacegana a̱she na ko'eyawa wan ma hyanda nhyen an re'ore. Mahenda mago ma nan bi bisa̱ga̱ a̱ ra̱'o ocewa nanwan wono.
+MAT 6:17 Ama ga̱hin she en re'ore, ku ma̱shigici a̱she nanwon ku ma̱hopa̱ni mananbe n unbu,
+MAT 6:18 ma̱re ato ma̱pi nhyen en re'ore, ba̱nta̱ Nashawa nanwon abawa ana a ca hyanda, Ashawa nanwon ta'a awo gotage ca ena en nenwan rinhinrinhin won be pana ocewa
+MAT 6:19 << Kire ke romangage cewo unbu na̱hin toryan'on n kanniyan, apa renhyan n tuwo ton to hacegana, apa a̱nhin ta'a an to yan'son to koma a̱ gegi a̱ hin.
+MAT 6:20 Ama ke maromangya unbu na̱hin toryan'on n tonran, apa renhyan n tuwo rawon to hacegana, ta'a a̱nhin a rawon to yan'son tu hen.
+MAT 6:21 Nade apa toryan'on towo to ne'en a̱pa̱re pa anmen nanwon ata na'an.
+MAT 6:22 <<A̱she a̱wa̱re an den becella be to'oawa. She a̱she nanwon an kamon ca to'oawa towo tun tu shina̱ n tohan'an
+MAT 6:23 Ama she a̱she nanwon a rawo kamon, ca to'oawa towo to rawo to omanga toha'an, she tohan'an to to'oawa towo ton den cici, mahenda cici ture tun ta̱ yema̱!
+MAT 6:24 <<Woto wo rawo awon ton dan wogema nande a na'an toma pa ato na egewa rewu, ko a̱ rubi wuka̱ a eshe wuka̱, ko ta'a won to na'an ropa monran ma woto wuka̱ a̱re a rope cewo ma woto won hyan'on. Ma rawon man dan ke na'an ropa Ashawa Onhon naande ta'a ke na'an ropa nsara.
+MAT 6:25 << Nadea̱nno nen bi bisa̱ga̱ nhyen, kire ki ma̱ta̱ ciwu etama na ena en korya, ko ena en to swa, ko ta'a na en tu ciga̱ mewa na en mata'agana n to'oawa tuhin, behono bi huri ciwu irikorya, ta'a to'oawa tu huri ciwu aronga.?
+MAT 6:26 Ruka̱ ba n'na̱na̱na̱ nan tonran, myaca bera ta'a myaca guwa̱ myaca ta'a roga n kapanga, ca nande Ashawa na̱hin anan tonran ata ryaka ngo, i huri ciwu gwa?
+MAT 6:27 A̱ure nanmen ga̱hin awon to yan'son a̱ ka̱sa̱ni unbu nonwan ageta sa̱bo na etama nonwan.?
+MAT 6:28 Ta'a na go i ma̱ta̱ etama sa̱bo na mewa na mata'ana? Ruka̱ ba na tusuma̱ tu ka̱wo na twa ta na'an uru. myaca na'an toma ko ta'a rene'en.
+MAT 6:29 Ca nande nen bi bisa̱ga̱ ko Wogoma a Solomon ca n ototo nonwan wo ta den cewo makyaranga ma̱ci ma tusuma̱ ture.
+MAT 6:30 To hare she Onhon on to yan'son to kyanranga anben na̱ ka̱wo anna, ana ta na'an yara bi'i a masane togo nanmen n kuwa̱ngu ko ora a dortoma, balle ga̱hin? A̱ ga̱hin ato na rawo tomasana anmen tu yemi ciwu!
+MAT 6:31 Nadea̱nno ki ga̱'i mata etama nhyen, <Yegu ton korya.> ko ta'a <Yegu ton to swa> ko ta'a, <<Yegu ton mata'ana?>
+MAT 6:32 Nande ato na yan'cewo Onhon go ata na'an saro na iriri wono, Ashawa na̱hin ka anan tonran a yan'swan nhyen en saro iriri wono.
+MAT 6:33 Ena den na reme ena ka̱hin iwa̱re, ke cewane unbu na̱hin niriri na togoma to Onhon ke na'an danga ena omange kaye, an be pana hare niriri wono.
+MAT 6:34 Nadea̱nno ki ga̱'i mata etama sa̱bo na bi'i, naande bi'i omange ma̱supo ma mawa. Kobe uhibi omange ma̱supo ma owa.
+MAT 7:1 <<Ga'a ba to keragya ko'eyawa karere ma̱re ga̱hin ta'a aye kerage,
+MAT 7:2 nde e kerage woto wunba̱ karere a̱nde an be keregya nde i ma̱'a̱ngi woto wuba̱ a̱nde an be ma'angya.
+MAT 7:3 Nago won tu ruka̱ka̱ owanbe kin rishe re woto wuba̱ awo ga̱'i utubi nan rishe rewo?
+MAT 7:4 Nago won to hyen woyan'on wo, an bo recengagya owanbe n rishe rewo, ewana ka gawo utubi go un rishe rewo?
+MAT 7:5 Gawo wuka̱ryo, riye to recenga utubi nan rishe rewo, naande bire ku hendi pa̱ri oderai na won to recenga owanbe nan rishe re woyan'on wo.
+MAT 7:6 << Ga'a ba to pana shaa ena shigere ciwu. ga'a ba ta'a to masangya arere na egewa ulu'ulu'u na̱hin. ma̱re a pondange a magetogya aye ha̱nda̱ganu.
+MAT 7:7 <<Rushiga̱ ba an be pana, sara ba en tu ciga̱, emanga ba a̱no an be uciga̱ge.
+MAT 7:8 Naande woto wu rushigi ata pana wo, awo sa̱ri ta'a wuta̱ ciga̱, ta'a woto wo emani ta'a ata uciga̱ge wo a̱no.
+MAT 7:9 <<A̱ure, she ba'a wo wu rushigi wu apoen a̱ pa̱ni wu otare?
+MAT 7:10 ko ta'a she wu rushigi wu biwa̱, a pa̱ni wu ohwa'a?
+MAT 7:11 She ga̱hin, ato na omange etama na kenoko e yan'son na en to pana a'o na̱hin ena reme, naande Ashawa na̱hin anan tonran anan to pana iri na reme pa ato na sa̱ri pewa?
+MAT 7:12 Nadea̱nno ena en saro ato aye dange, ga̱hin ta'a ke dange ga, enande ewanna go den attaura n tubisa̱ga̱ to atoma.
+MAT 7:13 Gega̱ ba na̱no na suki, enande a̱no na hurin u'o ona ha̱nrin gu, on'yan na owa ta'a ona gome cewo tu huma̱ go, ato na tu huma̱ ogo a̱ yemi.
+MAT 7:14 Nadea̱nno na behono ka ona suki go, ato na tu ciga̱ ogo ryawo go.
+MAT 7:15 << Owana ba suku na atoma na tobya. anan to rage nan mewa na me a̱ta̱ka̱ na ita̱ma̱'in, ama nanmen nanwan a kerkece go.
+MAT 7:16 En to mapa ga n toma nanwan. An to yan'son to ceba oalkama nanmen na a̱sa̱pi ko ta'a riori re uka̱ma̱ma̱ nika̱rika̱ri?
+MAT 7:17 A̱nde ta'a kobe o'o na reme ota pana ri'ori re reme. O'o na reme cewo ta'a ota pana ri'ori re reme cewo.
+MAT 7:18 O'o na reme o rawon to yan'son to pana ri'ori reme cewo. A̱nde ta'a o'o na reme cewo o rawon to yan'son to pana ri'ori re reme.
+MAT 7:19 Ca o'o na pa̱ni ciwu ri'ori re reme an tu kire ogo a mashen nora.
+MAT 7:20 Nadea̱nno n toma nanwan go an to mapa ga.
+MAT 7:21 <<Nca ko'eyawa awo tan hyan Ashawa, Ashawa, go won tu gega̱ n togoma to tonran, sede woto won den iri na Ashawa nan tonran an saro.
+MAT 7:22 Ato cenmon an to hyan n hibi wa̱re, Ashawa, Ashawa, ashe ton den cewo anabci n rira̱'i rewo, n rira̱'i rewo ta'a to sortomange cewo npera a ton den iriri na yema̱gi?
+MAT 7:23 A̱bire nan tu bisa̱ ga nhyen nbe yan'cewo. Npa̱gi ba, ga̱hin ato na kenoko
+MAT 7:24 <<Nadea̱nno woto hoge monran ma̱mi wa̱ shi'i mago n rekoko rewa wo ne'en she woto wu ma̱ egewa nonwan nisupa̱ go.
+MAT 7:25 Na̱ a̱shira̱ a kenya, opera uwa̱ kurke uwa̱ hupurgi egewa ca nande eya ken cewo, enaande a̱ shi'i egewa wa̱re nisupa̱.
+MAT 7:26 Ama woto wo hoge monran ma̱mi wa̱ shi'i ciwu mago nanmen nonwan wo ne'en she topano tu ma̱ egewa nonwan n haro go.
+MAT 7:27 Na̱ a̱shira̱ kenyan myanron me shini, ta'a opera uwa̱ hupirge uwa̱ ripi egewa wa̱re, eya kenange.>>
+MAT 7:28 Na Yesu hu tu hita̱ ma̱no, ato an den mamake n tubisa̱ga̱ ture,
+MAT 7:29 Enaande wu bishi ga monran she woto awo omange a̱ta̱ra̱n, nshe ta'a shima̱la̱n she tubisa̱ga̱ to Mosa.
+MAT 8:1 Na Yesu ka̱ra̱ni nudu ato cenmon a rope wo
+MAT 8:2 yan'on woton koci wa rage pi Yesu wa̱ kuki bu wa hyen wo,<<Ashawa she wun ra̱'a̱ni kon hogake.>>
+MAT 8:3 Ayesu wa cewane ka'ara kauwa wa̱ a̱ta̱ni woton koci wure wa hyen <<N ra̱'a̱ni,>> <<Maremake.>>A̱birebire wa mahoge
+MAT 8:4 Nande Ayesu wa hyen wo, <<Benreka kure ku bishi ciwu ko'eyawa>> Ama hura̱ ku bishi unbu nanwon pa Firist ku pa̱ni iwuki nde tubisa̱ga̱ to Mosa to hyen. En da a̱nno na an ma bisa̱ ato nhyen wo mahoge.>>
+MAT 8:5 Na Yesu wu gegin Kaparnahun yan'on woto ototo wo ato na ma̱ka̱ri wo Roma wa rage pi Yesu wa̱ kuki wa̱ sa̱ri wa hyen wo.
+MAT 8:6 <<Ashawa>> Wogema wu mi wun pa̱re wu wa̱ci n egewa wu ruma̱gi ma'inna>>
+MAT 8:7 A Yesu wa hyen wo, << N ne'enyan dewo n hogaka wo.>>
+MAT 8:8 Nande woto ototo wo ato na ma̱ka̱ri wure wo Roma wa̱ ra̱'a̱ni wa hyen Iyesu, << Ashawa, N doga cewo ko rage negewa na̱mi. Ama en dan monran wogema wumi won mohoga.
+MAT 8:9 Ga̱mi n unbu na̱mi n ka'ara ka woto go n ne'en ta'a wogema n ka'ara ka̱mi. she n hyen woto na <Hura̱,> a̱ huri, she n hyen wo ta'a, <Rage,>a rage ta'a.>>
+MAT 8:10 Na Yesu wo hoge a̱nde naande wan de omamake, wa hyen ato nan toropa wo <<Mahenda mago ma nan bi bisa̱ga̱ ko nanmen Israila n ta̱ cigi ciwu woto wo tomasana anmen to otope she to woto wonna.
+MAT 8:11 N ne'en bi bisa̱ga̱, ato cenmon to rage arowa na kida̱ korya iri korya na Ibrahim na Ishaku na Yakubu n togoma to tonran
+MAT 8:12 Ato na togoma a mashegan pa̱ri pa ici. pa̱re pa an to twan ngwa n marya a̱ne
+MAT 8:13 nande Ayesu wa hyen woto ototo wo ato na ma̱ka̱ri ana ogesa ryaga en bon dan n to masana anmen towo.>> a̱ bire wogema wo wa, wa mohoge.
+MAT 8:14 Na Ayesu wo gegi n egewa na Bitrus wa̱ buri aniya na Bitrus wu wa̱ci n turu wa ange to'oawa.
+MAT 8:15 Wa̱ a̱ta̱ni ka'ara kauwa wa mohoge wa̱ kuriki wan dange wo ena korya
+MAT 8:16 Na marona man den a owongane ato na omange npera cenmon wa sortomanga npera monran wa hogake ato na ruma̱ga̱gi
+MAT 8:17 A̱ma̱re ka na an ma shintuma̱na̱ monran ma Wotoma Ishaya wu hici go tohyan: <<N unbu nonwan go wa recenge ohoge cewo rato na̱tu wa umi egome gome na̱tu.>>
+MAT 8:18 Na Ayesu wu hendi ato cenmon a peringa̱na̱ wo wa hyen ga a̱ ka̱ci hira̱ re nube
+MAT 8:19 Nande yan'on <<Ka̱ma̱la̱n ka tubisa̱ga̱ to Mosa ka rage ka hyen wo,<<Ka̱ma̱la̱n, nan bo ropa apa wun tu hura̱
+MAT 8:20 Ayesu wa hyen ga, shejewo un shira̱mu she shewa. Kina̱na̱ ke tonran ta'a en tugurgu to shewa. Ama ga̱mi Ba'a wo woto n dawo pa̱ri pa nan to masana unbu na̱mi
+MAT 8:21 Yan'on woto wo moma'anga wa hyen wo, <<Ashawa ga'a naande n hura̱ n mi ma̱ni ashawa na̱mi ana u.>>
+MAT 8:22 Ayesu ta'a wa hyen wo, <<N dope, ga'a ato na eshe man dopa ana rawo benhyan a̱ ma̱ni ayan'on nanwon na o'gi.
+MAT 8:23 Na Yesu wo gegi ohato ato na moma'anga nonwan a rope wo.
+MAT 8:24 She ata geshen cewo yan'on uriro na yemi uwa̱ kurke nube arasana na ma̱ni ma̱ ri tu gega̱ nanmen ohato ama Ayesu wan nan dawo
+MAT 8:25 Ato na moma'anga nonwan a̱ huri a retamaga wo a hyen, << Ashawa tu ringe tun tu uwa̱>>
+MAT 8:26 Wa hyen ga, << nago en ryansan?>> Ga̱hin ato na tomasana anmen tu yemi ciwu?>> nande wa kuriki wa̱ gusa̱ni opera n nube opera uwa̱ wa̱ci
+MAT 8:27 Ato an ualajibi, a̱ rushigi a hyen, <<Wobi iri na woto go wanna? awo opera n ma̱ni ma ube mata hoga wo ta'a?>>
+MAT 8:28 N ba ka̱ci be'awo be cenge to Garasinawa ato rewu na omange npera a sorya apa ata bisa̱ ato, a̱ wuri wu, an neperen na̱ci pa woto rawo awon to yan'son tu huma̱ onyan wa̱re.
+MAT 8:29 <<Yegu won sara n ga̱tu, wo rage ko to ce'entoma gwa? pana she beka̱ni bi tu beta den cewo
+MAT 8:30 Pa̱re ryawo ka yan'on ukutu na arere na egewa an dewa n rihuwo
+MAT 8:31 Nande npera mya roki wu nhyan, she wo to sortoma ko to masan nanmen ukutu na arere na egewa re
+MAT 8:32 Wa hyen ga ryaga ba, nande a sore a gegi na arere na egewa, naande banban narere a̱ ma̱'ici a kyenan nube a̱ u n ma̱ni.
+MAT 8:33 A̱huwa̱ na arere na egewa ama ici tu hura̱ n ceso nanmen an tu hita̱ga̱ ena a̱ hendi, n niri na̱ cigi ato na omange nperan nan uru.
+MAT 8:34 Nande ca ato nan ceso a sorage a̱ huri a wuri Iyesu. Na a̱ hendi wu, a hyen wo a ga'i be'awo byawa.
+MAT 9:1 Na a Yesu wo pece ohato, wa̱ ka̱ci tu hura̱n ceso nonwan.
+MAT 9:2 A̱bire a owangya Iyesu yan'on woto wu ruma̱ngi ma'inna wu wa̱ta̱ki n uturu. na Yesu hendi tomasana anmen twawa, wa hyen wo, <<ba'a wu mi ga'a to na'an netama en dan anmen cende, a wo ciringa̱gi ciri'i towo.
+MAT 9:3 Ta'a yan'on shima̱la̱n she tubisa̱ga̱ to Mosa, sha hyen n shenmen shawa, woto wonna, wu ma̱ngashi,
+MAT 9:4 Ayesu ka naande wo yan'son etama nanwan, wa hyen ga yegu naande ayen netama na kenoko n shenmen shihin?
+MAT 9:5 Nce ena huri orara goma: ato hyan,<Awo ciringa̱gi ciri'i towo,> ko ta'a awo hyan <Kurka̱ ku regi tohano towo>
+MAT 9:6 Ama nen saro ke yan'son nhyen Ba'a wo woto wo omange a̱ta̱ra̱n nata ciringa̱gi ciri'i to kanniyan, ta'a wa hyen woto wure wu ruma̱ngi,<< Ikurka̱, ku wa̱rigi etaro nanwon ku huri giye.
+MAT 9:7 Owa ka wa kurki wa̱ huri giye.
+MAT 9:8 Na ukutu u hendi a̱nde, ryansan rya kentane ga, a hewake Onhon, awo pa̱ni ato a̱ta̱ra̱n.
+MAT 9:9 Na Ayesu ga̱'i pa̱re, wa̱ hendi yan'on woto awo rira̱'i rewa Amatiyu wo koreke, owa a Matiyu ka woto wo tora'aga ka̱gondo go. A Yesu wa hyen wo, <<N dopya, wa̱ kurki ta'a wa rope wo.
+MAT 9:10 She Ayesu won korya iri korya n egewa na Matiyu ato na tora'aga ka̱gondo nato naande ciri'i a rage a korkake pa̱ka̱ nonwan nato na moma'anga nonwan.
+MAT 9:11 Na a Farisiyawa a̱ hendi a̱nde, a̱ rushigi ato na moma'anga na Yesu a hyen, <<Yegu naande woto ototo wuhin wan korya iri korya n woto wo tora'aga ka̱gondo pa̱ka̱ ta'a nato naande ciri'i
+MAT 9:12 Na Yesu hoge a̱nno wa hyen ga, e rawo na ta̱ganu ato na ruma̱ngi ciwu n woto wu unibu, sede ato na ruma̱ngi.
+MAT 9:13 Ryaga ba ki ma̱ma̱'a̱ngi ena ma ange, ga̱mi ka ane'en na yanman go nen saro pihin, ba iwuki ba. Naande n dage cewo ohece na ato na omange kaye, ama pa ato naande ciri'i go n dage.
+MAT 9:14 A̱bire ato na moma'anga na Yohana wo baptisma a rage pi Yesu a̱ rushigi wu a hyen, <<Yegu naande ga̱tu na Farisiyawa aton re'ore, ama ato na moma'anga nanwon a ca na'an rewa?>>
+MAT 9:15 Ayesu wa̱ ra̱'a̱ni ga wa hyen,<<Atoginto na u'a̱ngo a rawon ton da anmen shiri she u'a̱ngo u ta̱n pa̱ka̱ nanwan? Ai beka̱ni be ne'en na an tu umena̱ ga u'a̱ngo a̱bire be an ton da re'ore.
+MAT 9:16 <<Woto wo rawo awon tu ta̱ga̱nu ewa na goshe n yade na̱son a̱ ta̱gi, enande a na̱son an ta handa ana goshe, hare tu a̱ni to hando tu ka̱hin.
+MAT 9:17 Woto wo rawo ta'a awon tu kuga̱ ma̱ni ma ina̱bi ma̱son n shemo she goshe, she a̱ kuga̱ni, shemo shen to komatongo, ma̱ni ma ina̱bi ta'a ma turi, sede a̱ kuga̱ni n shemo she son. She an de a̱nno ma̱ni ina̱bi ma rawon tu tura̱ ko ta'a shemo she komantango.>>
+MAT 9:18 She Ayesu wo tan monran ma̱re nanwan go a̱nde yan'on woto ototo wa rage pi Yesu wa̱ cibi arungurungu wa hyen wo, benanba nanba ba'a wumi wa̱'a̱ wu u. Ama rage tun huri ku a̱ta̱n bo n ka'ara kawo won ta ronkya.
+MAT 9:19 Ayesu ta'a wa̱ kurki wa rope wo pa̱ka̱ n ato na moma'anga nonwan.
+MAT 9:20 A̱bire ta'a yan'on wu'a̱ awo den nyan opa na rewu n tu hure ma̱hen'en wa peringe na bo'o na Yesu wa̱ a̱ta̱ni ewa nonwan.
+MAT 9:21 Nande wu'a̱ wure wa hyen nanmen nonwan, ko she ewa nonwan e bawa go n a̱ta̱ni, nen mohoga.>>
+MAT 9:22 A̱bire Ayesu wa mangiyane wa hendi wu'a̱ wure wa hyen wo, <<ba'a wumi ga'a mata etama, tomasana anmen towo to hogake>> A̱bire ta'a be wa mohoge.
+MAT 9:23 Na Ayesu wuci egewa na woto ototo wure wa̱ hendi ato na rinhunrin pa̱ka̱ n kutu pa̱re a hwadane kwara.
+MAT 9:24 Wa hyen ga<< N pa̱gi ba pa̱ri ai ba'a wota wu u ciwu ndawon go me wa̱ wa̱ci>> a henge Yesu.
+MAT 9:25 Na a sortoma ukutu niji, a Yesu wa̱ gegi wa kentane ka'ara ka ba'a wure a̱bire ba'a ka ronkya.
+MAT 9:26 Monran ma̱re ka ma̱ ci kobe be'awo be cenge ture.
+MAT 9:27 Na Ayesu wo maheketane pa̱re ta'a yan'on a̱ruwa̱ rewu, a rope wo n tu'umena̱ bengoro a ange, <<Gawo Ba'a wo Dauda hoga yanman na̱tu.
+MAT 9:28 Na Ayesu gegi ne yan'on egewa, a̱ruwa̱ wa̱re a rage pi Yesu wa hyen ga, e masane anmen nhyen n omange a̱ta̱ra̱n na nen be hogaka?>> A̱ ra̱'a̱ni Yesu a hyen, <<En Ashawa>>
+MAT 9:29 A̱bire a Yesu wa̱ a̱ta̱nga̱ni shishe shawa wa hyen ga,<<Mande mahenda n to masana anmen tuhin.>>
+MAT 9:30 A̱bire shishe shawa she ma̱'ucigi. Ama Ayesu wa woshe ga ogago mahenda nhyen<<Nde n hoge cewo mago pa woto wuba̱.>>
+MAT 9:31 Na a̱ huri ka a̱ hita̱gi mago kobe be'awo be cenge ture.
+MAT 9:32 Ayesu a̱ kurki gu a̱nde an tu hura̱ a owangya wo yan'on wuka̱mu awo omange npera nan gamangan bo tu hita̱ga̱ ndoma.
+MAT 9:33 Na a sortoman gya wo npera, wuka̱mu wure wa̱ hita̱gi ndoma, a̱bire ukutu owa de mamake, a hyan,<< Tu ta̱ hen cewu anna n Israila.>>
+MAT 9:34 Ta'a ato ototo na Farisiyawa a hyan,<<Na ta̱ra̱n nan men pera go wan to sortomanga npera>>
+MAT 9:35 a Yesu wa peringina̱ n ceson ceson n shihira̱ wa ne'en tu bisa̱ga̱ n pa̱ri pa aduwa nanwan, wan to bansan monran ma rotome ma togoma to Onhon, wan ta'a to hogaka ka ga kobe shegoma n rara kamon nanwan.
+MAT 9:36 Na a Yesu wu hendi uru na ukutu wa hoge yanman nanwan n ma̱supo mawa, woto wo rawo ta'a wu beni ga a ne'en she ita̱ma̱'in na rawo wuhuwa̱.
+MAT 9:37 A̱bire a Yesu wa hyen ato na moma'anga non wan,<< Uguwa̱ u yemi, ta'a ato nan ton da Uguwa̱ a̱ yen ciwu.
+MAT 9:38 Rushiga̱ ba Ashawa na Uguwa̱, aye tomangya nato na Uguwa̱ nahwa.>>
+MAT 10:1 Ayesu wa hecegane ato na moma'anga nonwan opa na̱ rewu, wa̱ pa̱ni ga a̱ta̱ra̱n na to sortomanga ko'ebe nperan nan shiri, ta'a a hogake kobe shegoma n rara hoga rato.
+MAT 10:2 Ta'a a̱ra̱'i na atoma wa̱re moma'anga opa na rewu, woto wo ka̱hin saminu awo ata hecega Bitrus n wotosuwa̱ wo wa Andarawus, na Yakubu ba'a wo zabadi wotosuwa̱ wo Yohana.
+MAT 10:3 Na Filibus na Batalomi na Toma na Amatiyu woto wo tora'aga Ka̱gondo na Yakubu ba'a wo Halpa, na Tadiyos na Yahuda,
+MAT 10:4 Na Saminu Baka'ane na Yahuda Iskariyoti awun ka̱ci Iyesu
+MAT 10:5 Ato opa na ato rewu wa̱re go Ayesu wo tomane wa̱ pa̱ni ga uno wa hyen<<Kire ki gegi ciwu n cenge to ato nande cewo Ayahudawa, ko ta'a ko'ebe oceso na Samariyawa.
+MAT 10:6 Sede ki huri pa ato na Israila ana nangi.
+MAT 10:7 Ke na'an tohano ke na'an bansan ke anga togoma to tonran to ne'enyan keto.>
+MAT 10:8 Ki kurtuma̱ ato na o'gi ke ce'enyanke ato nkoci ke sortoma npera, nde i bicigi a̱nde en to pana
+MAT 10:9 Ki ga̱'i tu ume nsara ko ezenare ko azurpa ko otagulla na̱bi na̱hin
+MAT 10:10 Ki ga'i tu ume okwasha na tohano, ko ewa na̱hin rewu ko ataka ko a̱ngo, woto won toma wu ha̱'in a̱ pa̱ni wu ocewa nonwan
+MAT 10:11 <<Ko'ebe oceso ko a̱hira̱ ta'a na i gegi ki sa̱ri woto wo omange kaye ke na'an negewa nonwan hare ki ga̱'i pa̱re.
+MAT 10:12 She i gegi n egewa ke hyen ga ha̱nu ba dai.
+MAT 10:13 She a̱ ra̱'a̱ni nkuna̱n nan hin okamo na̱hin o nan'an pa̱re, she a̱ ra̱'a̱ni ciwu, okamo na̱hin o mokosha pihin.
+MAT 10:14 Ca egewa na eshe tohoga monran ma̱hin, she en to sora n oceso ki birka̱ki kurutu ko shewona shihin
+MAT 10:15 Mahenda mago man ne'en bi bisa̱ga̱ n hibi na shetara an ta hura̱ to hoga be'awo be cenge to Saduma n ta to Gomora n ceso wa̱re.
+MAT 10:16 Ewana n be tomane she ita̱ma̱'in nacenace na a̱kurwo. Naande a̱nno ke etange nshe ahwa'a, ta'a ke na'an nshe ato naca hacega nshe ka̱rkutu.
+MAT 10:17 Ke owane suku na ato, nande an be owana n pa̱ri pa shetara, aye owane ta'a n pa̱ri pa maromano mawa wa̱ta̱gi nwo'o
+MAT 10:18 Sa̱bo na̱mi ta'a an be owana nekogo na ato ototo nan goma,na en ma bisa̱ ga monran ma rotome nekogo nanwan pa ato nande cewo Ayahudawa.
+MAT 10:19 She aye kentane ki ga̱'i etama na monran ma in tu hita̱, beka̱ni bi ce an bi bisa̱ monran ma in tu hita̱.
+MAT 10:20 Enande nce ga̱hin gu monran ama benhyan be onhon Ashawa bihin gu won monran nanmen ga̱hin.
+MAT 10:21 Wotosuwa̱ won to pana wotosuwa̱ wowa a kone wo, ashawa ta'a an to pana ba'a, a'o ta'a an ma̱kurka̱nu nato na ma̱ci ga hare a̱ kuwa̱ni a kone ga.
+MAT 10:22 Ko'eyawa ta'an be esa sa̱bo na rira̱'i rimi, ama woto pa̱ri anmen hare wa eyake, an tu ringe wu.
+MAT 10:23 Sha ayi pinrin n ceso na ki ga̱ri tu hura̱n ceso na̱ba̱. Mahenda mago ma nen bisa̱ga̱, kahen ki hu tu peringa̱na̱ nceson ceso nan me Israila, Ba'a wo Woto won mokosha.
+MAT 10:24 woto wo moma'anga wo rawo awo huri ka̱ma̱la̱n kawa, ko ta'a wogema a̱ huri ashawa na egewa nonwan.
+MAT 10:25 Ma rogo woto wo moma'anga a na'an nshe ka̱ma̱la̱n kawa, wogema ta'a, a na'an nshe ashawa na egewa nonwan. She a hecegane ashawa na egewa Ba'alzabul to yegu ta'a an to hyan na ato na egewa wa̱re.
+MAT 10:26 Naandea̱nno ki ga̱'i to hoga ryansan ryawa, naande e rawo na uta̱ni ena a rawon tu uciga̱ ego, ta'a e rawo na ma̱so'in ena a rawon to yan'son.
+MAT 10:27 Enan bi bishi rihinrihin ki hici mago marara, ena ayi bishi natobe ta'a ki ba̱nshi mago n bikira̱n be egewa.
+MAT 10:28 Ki re ke hoge cewo ryansan re ato nan to yan'son to kona woto, ama a rawon to yan'son to kona behono. Ma huri ke hoge ryansan re woto won to yan'son to kona to'oawa pa̱ka̱ n behono n egewa na ora.
+MAT 10:29 Nce a tan ka̱ta̱ n'na̱na̱n dewu ukobo uka̱, to ke rawo aken to kena n kida̱ ke Ashawa a rawon to yan'son.
+MAT 10:30 Ai ko tunjira̱ tu unbu na̱hin ma a ronce togo.
+MAT 10:31 Naandea̱nno ki ga̱'i to hoga ryansan, ai huri nna̱na̱n ma̱nde.
+MAT 10:32 << Ca woto wu ra̱'a̱ni nhyan owa a̱wu mi go nan to ra'a ta'a nhyan owa a̱wumi go nekogo na Ashawa na̱mi awon tonran.
+MAT 10:33 Woto wo hyan ta'a won yan'cewo nekogo na ato, ga̱mi ta'a nan to hyan n yan'cewo nekogo na Ashawa na̱mi a nan tonran.
+MAT 10:34 <<Ga'a ba to anga nhyen n dage n owane okamo n kanniyan go. N owan cewo okamo n kanniyan, ama renbota rego ren owane.
+MAT 10:35 N dage go n kwantan <<< woto na shawa nonwan rebonta, ba,a wa̱'a̱ na nanwan, wu'a̱ wo ba,a ta'a na ananwan na wa̱ri.
+MAT 10:36 Ato nan nanmen negewa na woto go an to na'an rishiwu nonwan.>
+MAT 10:37 Ca woto wu huri tu ruwa̱ ashawa ko ananwan nonwan n ga̱mi, wu ha̱n'in ciwu an den woto wo moma'anga wumi, ta'a woto wu huri tu ruwa̱ ba'a wowa wa̱ri ko ba'a wowa wa̱'a̱, wu ha̱n'in ciwu an den woto wo moma'anga wumi.
+MAT 10:38 Ca ta'a woto wu umi ciwu kawo'o ka ton gyanran ka̱mi wan rope ba, wu ha̱n'in ciwu an den woto wo moma'anga wumi.
+MAT 10:39 Woto wu rubin tu ringe behono bewa, won to rasa bego, ca ta'a woto wu ra̱shi behono bewa sa̱bo na̱mi, wun tu biciga̱ bego.
+MAT 10:40 << Ca woto wuyi ra̱'i, wun ra̱'i gu a̱nde, ca ta'a woto wun ra̱'i, wu ra̱'i woto won tomane.
+MAT 10:41 Ca woto wu ra̱'i Wotoma wo Onhon naande owa Wotoma go, wun tu ciga̱ ocewa na Wotoma, ca ta'a woto wu ra̱'i woto wo kaye naande owa woto wo kaye go, won to ra'a ocewa na woto wo kaye.
+MAT 10:42 Ta'a she woto wuba̱ wu pa̱ni ko she keronkwa kika̱ ki ma̱ni ma horpi n woto wanna wo nennen enaande won de woto wo moma'anga wu mi gu, n bi bishi mahenda Onhon on topana wo ocewa nonwan.>>
+MAT 11:1 Na Ayesu wu hu ton dangya ato na moma'anga nonwan opa na rewu ogago wa̱ ga̱'i pa̱re wa̱ huri wan tu bisa̱ga̱ n to bansan nan ceson ceson nanmen n Galili.
+MAT 11:2 Na A yohana hoge ena Kristi won nenwan she won kurkuku, wa tomane ato na moma'anga nonwan
+MAT 11:3 A̱ rushige wo nhyen, <<Gawo go woto wo ne'enyan dewo a̱ka̱ tu shi'a̱ a̱she n woto wuba̱?>>
+MAT 11:4 Ayesu wa̱ ra̱'a̱ni ga wa hyen,<< Ryaga ba ki bishi yohana ena e hoge aye hendi ta'a:
+MAT 11:5 A̱ruwa̱ a̱ hendi pa̱ri, ato na ma'inna ta'a an tohano, ato na omange nkoci ta'a a mohoge, a̱ka̱mu a hoge monran an tu kurtuma̱ ato na o'gi, a na'ange na ota̱gi to bansan to monran ma rotome.
+MAT 11:6 Uno na reme on pa woto wo waca marocega sa̱bo na̱mi.>>
+MAT 11:7 Na ato na moma'anga na Yohana a̱ huri, Ayesu wa̱ rigi ukutu monran ma Yohana wo Baptisma wa hyen,<<Yegu e sore to hyande n cenge tu ho'i? E sore to hyande anben na gensangage ana operan tu wuka̱ gwa?
+MAT 11:8 She nce a̱nno gu, yegu e sore to hyande? En netama nhyan en to hyanda woto wo mata'ane aronga na reme gwa? Ai ato nan na ne'en n kapara ka wogoma go ta mata'ana menwan nan remange.
+MAT 11:9 To yegu e sore to hyande? Wotoma wo Onhon? En, n bi bishi, wu huri Wotoma wo Onhon.
+MAT 11:10 A̱ure wo an range monran muwa ama hyan: <<<Nen to tomane Wotoma wumi a̱ wu ciga̱ni, awon bo nangana onyan she wota rage cewo.>
+MAT 11:11 Mahenda mago ma nan bi bisa̱ga̱ nanmen nato ca ana a̱'a̱ a̱ ma̱ta̱ngi woto wo rawo awo sorya awo huri Iyohana wo baptisma uru, ama ca a̱nde, woto wu huri to na'an ryawo n togoma to tonran wu huri wu.
+MAT 11:12 Nasorya nan n'yan nan Yohana wo baptisma hare ta rage benna togoma to tonran ton dewan to swa tupira̱n n tu kurtuma̱ shenmen, ato na tu kurtuma̱ shenmen ta'a an saron to kapshega togoma ture to Onhon nan shita̱.
+MAT 11:13 Enande tubisa̱ga̱ to Mosa na takada na atoma na Onhon a̱ hito monran ma togoma ture she an Yohana wo baptisma wota rage cewo.
+MAT 11:14 She ta'a en to ra'a to tomane tawa, Ayohana go won de a Iliya awo an de monran ma orewo nonwan.
+MAT 11:15 Woto wo omange atobe na to hoga a hoge.
+MAT 11:16 To niwo gu an to ma'ana nyan manna? Nshe a'o go ana koreke apa tunka̱ci n to sanga, an hece na ayan'on nanwan na togaro go a ange,
+MAT 11:17 <<<Tuyi hunra̱ngi rihunrin, ai hebe cewo cehewa, a ton pa̱ku na u'o a̱yi ta̱ ciwu ngwa.>
+MAT 11:18 Ewana A yohana wo rage wa eshe korya e ryage ryage ni sogi sogi a hyan, <Wo omange npera.>
+MAT 11:19 Na Ba'a wo Woto wo rage wan korya wan toswa, aye hyan, <Hyanda ba woto wonna wu pici korya n to swa, wotoginto wo woto wo tora'aga ka̱gondo nato na <<Ciri'i>>> Ca a̱nde an to mapanga toyanson to Onhon n toma nonwan.>>
+MAT 11:20 Nande Ayesu wa̱ ri tu gusa̱ nceson ceson na men wan de otoma na tohyanda na wan den nanmen, enaande ka ato wa̱re a eshe a ma̱shishingi.
+MAT 11:21 <<Yana na̱hin, Korasin! yana na̱hin, Betsaida! Sha ana hyan otoma na tohyanda na an de pihin gu ana den n Taya pa̱ka̱ n Sidon, she ana ma̱shishingi hare a̱ mohopa̱ga̱ni mato a̱ ma̱pa̱ra̱gi shesoma n to'oawa tawa.
+MAT 11:22 Ama ni bisa̱ga̱ n hibi na shetara an tu hura̱ to hoga ato na Sidon na Taya n ga̱hin.
+MAT 11:23 Gawo ta'a Kaparnahun on netama na to hyan an bo hewaka tu hura̱ n tonran gwa? A'a, an bu wa̱ta̱ka̱ gu ato no esa go hare tu hura̱ apa ane'en na ato na o'gi. Otoma na tohyanda na an dange nanmen gawo sha ana hyan iwa̱re ana de n Sodom she o nan dewa hare yara.
+MAT 11:24 Ama ni bisa̱ga̱ n hibi na shetara an tu hura̱ to hoga yanman na ato be'awo bya Sodom n ga̱hin.>>
+MAT 11:25 Na uhibi wa̱re gu Ayesu wo hyen <<N bu kuni Ashawa, Ashawa naande tonran n kanniyan, enaande wu son'in iriri wanna pa ato na yan'son pa̱ka̱ nato na moma̱'a̱ngi, a̱ wu bishi a'o nan nennen.
+MAT 11:26 En, Ashawa, naande ena wu hura̱ni ore wa̱re.
+MAT 11:27 Ashawa na̱mi a̱ pa̱ni ca iriri. Woto wo rawo awo yan'son Ba'a wure ba̱nta̱ na Ashawa, ta'a n woto Ba'a wu ta̱ri a̱ bishi wu.
+MAT 11:28 << Rage ba pimi ca na̱hin ato nan ma̱supo ato na utumi n re'owana re aronga na monren, nen be pana ohorna.
+MAT 11:29 Pana shi'unbu shihin n monran ma̱mi nshe nde bena'an beta pana bengoro be bewa pa utubi na toma, ki ma̱ma̱'a̱ngi ta'a pimi, enande ga̱mi woto wo yanman go, woto wu ra̱uga̱gi unbu ta'a, ta'a in tu ciga̱ ohorna n shenmen shihin.
+MAT 11:30 Enande cegema tumi nca to gome togo, aronga na̱mi ta'a a manren cewo.>>
+MAT 12:1 N beka̱ni bire n hibi na a̱subi she Ayesu won to anyan shehwa she oalkama ato na moma'anga nonwan a hoge remonron a̱bire a̱ ri to harpaga resore re oalkama an korya
+MAT 12:2 Na Aparisiyawa a̱ hendi a̱nno a hyen Iyesu,<<Ruka̱ ato na moma'anga nanwon an ena reme cewo n hibi na a̱subi.>>
+MAT 12:3 Ayesu wa̱ ra̱'a̱ni ga wa hyen, <<E ta rotange cewo ena A dauda won den na wa hoge renmonron gwa, uwa natoginto na tohano tuwa.
+MAT 12:4 Na wa̱ gegi n egewa na Onhon, pa̱ka̱ na yan'on na tohano tuwa a re iri korya na a̱ shi'a̱gi Apristoci ena reme cewo awa a re.
+MAT 12:5 A̱ka̱ ta'a eta roncen cewo ena tubisa̱ga̱ to Mosa to hyen n uhibi na a̱subi gwa, Apristoci nanmen ka̱'uma̱na̱ ata anyan odoka na a̱subi, ba n yan'on mangasa ba.?
+MAT 12:6 N ne'en bi bisa̱ga̱, awo huri egewa na Onhon won pana.
+MAT 12:7 She ena yan'son ma'ana ma ewanna to hyan, <Ga̱mi ane'en na yanman go nen saro pihin nce iwuki go,> ena rawon to hyanda mangasa ma ato na rawo mangasa.
+MAT 12:8 Nade ba'a wo woto a̱ure Ashawa na A̱subi
+MAT 12:9 Na Ayesu wa maheketane pare wa̱ gegin ka̱woro ka aduwa.
+MAT 12:10 Ta'a yan'on woto won dewa pa̱re awo ma'inna n ka'ara Aparisiyawa a̱ rushigi Iyesu a hyen,<< Man man dan n tubisa̱ga̱ tu Mosa a hogake n uhibi na a̱subi? na an ma̱ ciga̱ ena an to awana kara kau wa go.>>
+MAT 12:11 Ayesu wa hyen ga, << She woto wuba̱ n nanmen ga̱hin wo omange bita̱ma̱'in bya kenan n hyanbe n uhibi na a̱subi wo rawon to gega̱ a sortome bego?
+MAT 12:12 Maa̱n ba na woto wu huri bita̱main odaraja! Nadea̱nno ma reme ato an de ena reme n uhibi na a̱subi.?>>
+MAT 12:13 <<Nande Ayesu wa hyen woto wure, n cewane ka'ara kawo.>> A̱nde wa cewane ka'ara kau wa ta'a ka mahoge, ka mokoshe she kayan'on.
+MAT 12:14 Ama A Farisiyawa a̱ huri niji a pare na an to kentana Iyesu a kone wo.
+MAT 12:15 Na Yesu ma̱pi a̱nno, wa maheketane wa̱ ga̱'i pa̱re, ta'a ato na yemi a rope wo wa hogake ga ca.
+MAT 12:16 wa washe ga ogago a ga̱'i tuhita̱ uwa awa go.
+MAT 12:17 Ama̱no na an ma shintuma̱ monran ma Wotoma wo Onhon a Ishaya wo hyen.
+MAT 12:18 Wogema wu mi wanna, awo n rubi, awo n nanmen cende nonwan, mahenda nan to masangya wo benhyan be onhon, won tu bisa̱ ato na yan'cewo Onhon onyan na mahenda
+MAT 12:19 Wo rawon to bonta ko ngwa, woto wo rawo awon to hoga bengoro be wa nonyan.
+MAT 12:20 Be'onto bi ma̱nguci wo rawon to kosaga bego, becella be no'an tu uwa̱ga̱ wo rawon to kona bego, onyan na mahenda mamande.
+MAT 12:21 N rira̱'i re wa go ca toroma kanniyan ton ta mansa anmen nonwan.
+MAT 12:22 Nade ato na̱ba̱ a owangya wo yan'on wuruwa̱ wuka̱mu awo nperan wa hogake wo wuka̱mu wa hita̱gi, wa̱ hendi pa̱ri.
+MAT 12:23 Ato ca an de omamake a hyen <<A̱ka̱ ba'a wo Dauda wonna?.>>
+MAT 12:24 Ama na Aparisiyawa a hoge a̱nno, a hyen, <<Na̱ ta̱ra̱n na ba'alzabul, wogoma wo npera, go woto wonna won to sortomanga npera.>>
+MAT 12:25 Enande Ayesu wo yan'son etama nanwan, naande wa hyen ga ca togoma to ma̱ra̱wanu, ton to hacega, Oceso ta'a n egewa na ma̱ra̱wa̱nu e rawon to esa.
+MAT 12:26 She kitunbul keta sortoma kitunbul, ke warano unbu na kewa go a̱nde. Nago togoma tu kewa ton to iyaka.?
+MAT 12:27 She na̱ta̱ra̱n na ba'alzabul go nta sortoma npera, na̱ ta̱ra̱n nanwan go ato na̱hin ata sortoma? Nadea̱nno na a̱nno, a̱wa̱re an be dangya shetara.
+MAT 12:28 Ga̱mi ta'a she na̱ta̱ra̱ na benhyan be Onhon go nta sortoma npera, togoma to Onhon toye ragane wa̱no.
+MAT 12:29 <<Ko ta'a, nago woto wuba̱ won tu gega̱ negewa na woto wo omange a̱ta̱ra̱n> a̱ shiga̱ni aronga nonwan, nca she sha wu cigi to kara woto wure wo omange a̱ta̱ra̱n? naande a gegi n egewa nonwan.
+MAT 12:30 <<Owa woto wo rawon pa̱ka̱ n ga̱mi, won rishiwu n ga̱mi, ta'a woto wo roman cewo n ga̱mi wota wasergaka.
+MAT 12:31 A̱nde ta'a n bi bishi, mahenda a ciringa̱gi ca ato ciri'i tawa n mangasa mawa, ama woto wo ma̱ga̱shi n benhyan be Onhon a rawon to recengagya wo
+MAT 12:32 Ko'ewa awo de monran ma reme cewo n ba'a wo Woto an tu ciringa̱ge wu, ama awo de monran ma reme cewo n benhyan be ce'en a rawon to ciringa̱ge wo, ko n kanniyan ko nan n'yan manna ko ona ne'enyan nonyan.
+MAT 12:33 <<She e remake o'o ri'ori re owa ren to rema, a̱nde ta'a she e remake cewo o'o ri'ori re owa ta'a re rawon to rema, ata mapa o'o n ri'ori re owa go.
+MAT 12:34 Ga̱hin a korowa, nago ga̱hin re de ato na kenoko en to yan'son tu hita̱ ena reme? enaande ena shemen shihin ri rubi go eta hita̱.
+MAT 12:35 Woto wo reme wota sortome monran ma reme n rekoko re wa, ta'a woto wo kenoko wota sortome ena kenoko n rekoko re kenoko wata sortomange iriri.
+MAT 12:36 Ama n bi bishi mahenda n uhibi na shetara ato an to hita̱ ca ena an de.
+MAT 12:37 N monran mawo mago man bo sortoma, ko ta'a ma wu ka̱ri.
+MAT 12:38 Nande yan'on shima̱la̱n she tubisa̱ga̱ to Mosa na Aparisiyawa sha hyen wo, <<Ka̱ma̱la̱n, ton saro to hyanda yan'on osheda na sorya pewo.>>
+MAT 12:39 Ayesu wa̱ ra̱'a̱ni ga wa hyen, ato an nyan manna ana kenoko anan ma̱ye'o go an saro to hyanda yan'on osheda! ama yan'on osheda o rawo na an tu bisa̱ ga ba̱nta̱ n osheda na Wotoma Yunusa.
+MAT 12:40 Sha nde Ayunusa won den a̱hibi atato na geta tato nanmen biwo bi uru, a̱nde ba'a wo woto won ton da ahibi atato na geta tato n cenge
+MAT 12:41 N hibi na shetara ato na Neneba an to esaga nato na nyan manna a̱ kiri ga na an magetoge n to bansan to Yunusa, ta'a awo huri Iyunusa won panna.
+MAT 12:42 N hibi na shetara Sarauniya na be'awo be kinda̱n won tu kurika̱ pa̱ka̱ nato na nyan manna a kiri ga, nande wo rage naswarya tuhuwa̱ to kanniyan a hoge to yan'son to Sulemanu, ta'a woto wu huri Isulemanu won pana.
+MAT 12:43 <<She nperan nan kenoko n sorya pa woto.
+MAT 12:44 A̱bire n ta hyen nen mokosa negewa na̱mi enan sorya a̱bire na wan mokosha, a wuri egewa ka woto wo rawo nanmen, i washigi e ma kyarange.
+MAT 12:45 A̱bire wa huri wa tarya nperan nan mibo nan shigere, ntuda̱re, nnan huri wu kenoko, n rage n gegi pa̱re a me koreka.Wato anene'en nonwan a̱n tu hura̱ ana ka̱hin to hacega, a̱nno man to na'an n kenoko ke nahon.
+MAT 12:46 Won monran wa̱nu nato ananwan na yan'on sha asage ninji an saro ton dan monran na Yesu.
+MAT 12:47 Yan'on woto wan hyen wo kamaca kawo na yan'on nanwon esage pare nindi an saro ton dan monran gawo.
+MAT 12:48 Ayesu wa̱ ra̱'a̱ni woto wure wo hyen wo, << A̱ure won den kamaca ka̱mi na yan'on na̱mi?.
+MAT 12:49 Nande Ayesu wa cewane ka'ara pa ato ma ma'anga nonwan wa hyen wo kamaca ka̱mi na yan'on na̱mi wana.
+MAT 12:50 Ai ko awa awon den ena Ashawa na ne'en nanmen tonran an saro a̱ure won den woto suwa̱ wumi a̱ure ta'a kamaca ka̱mi.
+MAT 13:1 N hibi wa̱re ta'a Ayesu wa sore n egewa wa̱re, wa̱ huri wa koreke n be'awo be ube.
+MAT 13:2 Ato na yemi cenmon a rage pewa, hare iye ci pa Yesu wu pece ohato wa kwarke, ca ato wa̱re a eshe n suna̱
+MAT 13:3 Nade wa̱ bisa̱gi ga iriri na yemi na akosa, wa hyen ga: <<Yan'on wohwanyan go wu re kobera.
+MAT 13:4 Na won to tara eyan'son eyan'on eya kenange nonyan, nna̱na̱ meya rage me ta̱ngi.
+MAT 13:5 Enyan'on ta'a eya kenange napaga apa rawo cengen abe eye pushe eye cigi ciwu cenge tu iri cenmon
+MAT 13:6 Na onhun o naande iye waini enaande i cigi ciwu ini'i cenmon iye ho'i
+MAT 13:7 Eyan'on ta'a eya kenange na sa̱pi, na a̱sa̱pi a̱ kurke a sonkan ego.
+MAT 13:8 eyan'on ta'a iya kenange n cenge to reme iye pa̱ni esargo, ina̱ba̱ tariya, ina̱ba̱ opa ta̱nihin, ina̱ba̱ opa tato.
+MAT 13:9 Nade aYesu wa kokane to hyan woto wo omange atobe, a hoge.>>
+MAT 13:10 Nade ato na moma'anga a a rage pi Yesu a̱ rushigi wu a hyen, <<Nago wota na'angya ato monran nakosa go.?
+MAT 13:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Ga̱hin aye ga̱'i ke yan'son tuso'a̱n to togoma to tonran, ama awa a ga̱'i ciwu ga.
+MAT 13:12 Enaande, woto awo omange iri go ata kasana wo hare i yemi, ama woto wo rawo ka ko ryawo re wa omange ata ra'a
+MAT 13:13 Iwa̱re naande an na'ange ga monran na kosa: <<Enaande ko she a̱ ruka̱ni a ca hyanda, ko she a̱ shi'i atobe a ca hoga, a ca ta'a mapa.
+MAT 13:14 An de a̱nno go na an ma̱ shintuma̱ monran ma Wotoma wo Onhon a Ishaya ama hyan: <<En to hoga ama e rawon to mapa, en to hyanda ama e rawon to mapa.
+MAT 13:15 Enaande shenmen she ato wanna she otope, a̱ ura̱ni shetobe shawa, a̱ uta̱ni ta'a shishe shawa na a rawon to hyanda na̱she nanwan, a hoge na tobe nanwan ta'a na a rawon to hoga n shenmen shawa a magetoge n hogaka ga.
+MAT 13:16 <<Ama uno na reme un na̱she na̱hin enaande ata hyanda, n shetobe shihin she tohoga.
+MAT 13:17 Mahenda mago ma nan bi bisa̱ga̱, atoma, nato na reme na yemi a̱ rubin to hyanda ena i hendi a̱ hen ciwu, a̱ rubin to hoga ena e hoge a hoge cewo.
+MAT 13:18 Nanba hoga ba ena akosa na wohwanyan a hyen.
+MAT 13:19 Woto hoge monran ma togoma wa̱ ma̱pi ciwu mago, woto wo kenoko wota rage ki ka̱pshigi ena a bere n shenmen she ato, a̱ure won de enyanson na kene nonyan.
+MAT 13:20 Enyanson na kene na paga na rawo cenge cenmon ta'a ato na hoge monran ma Onhon go a̱ ra̱'i na anmen cende.
+MAT 13:21 Ama naande a rawo ini'in na gegi n cenge eya ca eyaka, she yan'on ma̱supo ma ragan bo kan na monran ma onhon ma̱re a mokoshe na bo'o.
+MAT 13:22 Enyason na kenen na sa̱pi a̱wa̱re ato na hoge monran ma̱re ama rishe n toma'on to kanniyan n bicigo ota kakarga monran ma̱re, hare ma̱re ma rakau otoma.
+MAT 13:23 Enyanson na kenen n cenge to reme a̱wa̱re na hoge monran a̱ ma̱pi mago, mahenda a̱wa̱re a ton da esargo, hare an den, na̱ba̱ tariya, na̱ba̱ opa ta̱nihin, na̱ba̱ opa tato.>>
+MAT 13:24 Ta'a Ayesu wa owangya ga yan'on akosa wa hyen:<< An to man'anna togoma to tonran she woto awo ri enyanson nahwa nonwan.
+MAT 13:25 Ama she ato an nan dawo, woto wo rishiwu wo wa rage wa̱ ri eyan'son na anbe nanmen nahwa na alkama wa̱ huri iri nonwan.
+MAT 13:26 Na oalkama wa̱re u kurki a̱ ori, anbe a sorya.
+MAT 13:27 << Wogema wo woto wo egewa wa rage pewa wa hyen wo, woto wo egewa nca enyanson na reme na alkama go wu shin nahwa nanwon?, Nca pa anbe a sorya?
+MAT 13:28 <<<Woto wo egewa wa̱ ra̱'a̱ni ga, yan'on woto wo rishiwu go won den iri wanna, wogema wa̱ rushigi wu a hyen won saro tun huri tun kuba̱gi to romano gwa?>
+MAT 13:29 <<< wa hyen ga, ga'a ba ma̱re pa tukunba̱ga̱ anbe ki kubi ca na alkama.
+MAT 13:30 Ga'a ba anbe a na'an pa̱ka̱ she ohwa'a u ci, a̱bire nan tu bisa̱ ato na ohwa'a a cigi to hwa'a anbe wa̱re a romano a̱ pa̱pa̱rgi arowa arowa a dortoma, oalkama ka a romano a rogane n kapanga ka̱mi.>>
+MAT 13:31 aYesu wa̱ bisa̱ka̱ni yan'on akosa wa hyen, <<Togoma to tonran ton she byan'son be omostad go, ena yan'on woto huri wa bere nahwa nonwan.>>
+MAT 13:32 Ko na eyan de a̱bire ben de enyanson na huri to na'an ryawo nyanson, ama she bi yemi bi huri ca ana ceni awowa en de e'o hare nna̱na̱ n dage men den tugurgu n shira̱'i she owa.
+MAT 13:33 Ayesu ta'a wa̱ bisa̱ka̱ni ga yan'on akosa wa hyen, <<Togoma to tonran she uyist go twa ne'en, ona yan'on wu'a̱ wu umi wa̱ biron ta̱hi to oalkama toma'a to tato hare to kurki.
+MAT 13:34 A Yesu wa̱ bisa̱gi ato na yemi ca iriri nakosa. waca bisa̱ ga yen'unrin she wo masane cewo akosa
+MAT 13:35 An de ma̱re na an ma shintuma̱ tu hita̱ to Wotoma wo Onhon a Ishaya go ama hyen, nan ton da monran nakosa nan tu bisa̱ga enan ma̱soin n ma̱riye ma kanniyan.>>
+MAT 13:36 A Yesu wa̱ ga̱'i ukutu ma̱re wa̱ gegi negewa, ato na moma'anga nonwan a rage pewa a hyen wo, << Tu uciga̱gi akosa wanna na anbe na ahwa mana.>>
+MAT 13:37 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Woto wo ta̱ ra̱ enyanson wa̱re reme a̱ure Ba'a wo Woto.
+MAT 13:38 Ahwa ta'a kanniyan kago, enyanson wa̱re ka a'o na togoma to Onhon go anbe ka a̱wa̱re a'o na woto wo kenoko go.
+MAT 13:39 Woto wu ri enyanson na anbe wa̱re ka a̱ure kitunbul beka̱ni be ohwa'a ka tuhuwa̱ to kanniyan togo, ato na ohwa'a ka atoma na a̱ba̱ye na Onhon go
+MAT 13:40 << She nde a̱ kunbin anbe a romano abe a dortoma ago, a̱nde en to na'an n tuhuwa̱ to kanniyan.
+MAT 13:41 Ba'a wo woto won to tomane na atoma na a̱ba̱ye nonwan, an to romano ca ato na ton da a'eyawa a ma̱ga̱shi, ca nato na kenoko a sortoma ga n togoma towa.
+MAT 13:42 A masane ga nanmen nora na ba̱'i, a̱pa̱re pa an to na'an nan ngwa n marya a̱ne.
+MAT 13:43 Nade ato na reme an to ha'anka she onhun n togoma to Ashawa, woto omange atobe na to hoga a hoge.
+MAT 13:44 <<Togoma to tonran she ubicigo gu twa ne'en ona bisa̱ni nahwa, ona woto wuba̱ wu cigi wa̱ bisa̱ka̱ni, wan nanmen cende nonwan, naande wa̱ huri wa̱ ka̱ta̱ngi ba̱nba̱n ena wa omange wa̱ ahwa wa̱re.
+MAT 13:45 << Hare benanba togoma to tonran she woto wo omange ena ka'ara go twa ne'en, wan saro ulu'uluu ona omange odaraja.
+MAT 13:46 Na wa̱ cigi ulu'uluu uka̱ na reme cenmon, naande wa̱ huri wa̱n ka̱ci ba̱nba̱n ena wa omange wa shan ogo.
+MAT 13:47 <<Ta'a togoma to tonran she ka̱tuuwa̱ go twa ne'en ona a masane nube, uwa kentaganen kobe iri nan nwa̱
+MAT 13:48 Na uwa̱ shini a̱ hundika̱ni ogo n kogo a koreke a̱ ta̱ngi nwa̱ nan remange, a̱ kunin go nagora, nnan reme cewo a ka a̱ turin go.
+MAT 13:49 A̱nde man to na'an n tuhuwa̱ to kanniyan, atoma na a̱ba̱ye na Onhon an to sorya a̱ sa̱bi ato na kenoko nanmen nato na reme.
+MAT 13:50 A mashen ga nanmen nora nan tu hunda̱na̱, a̱pa̱re pa an to na'an nan ngwa n marya a̱ne.
+MAT 13:51 <<A Yesu wa̱ rushigi ga wa hyen, i ma̱pi ba̱nba̱n ewanna?>> a hyen <<En,>>
+MAT 13:52 A Yesu wa hyen ga,<< Ca ka̱ma̱la̱n ka tubisa̱ga̱ to Mosa ka made woto moma'anga n togoma to tonran, she ashawa na egewa go wa ne'en, awo tare ubicigo na̱son nona goshe n kapanga kawa.>>
+MAT 13:53 Na Yesu hu tu hita̱ akosa wa̱re wa̱ kurki pa̱re.
+MAT 13:54 Na wa ragen n ceso nanwan, wa̱ bisa̱gi ga n ka̱'uma̱na̱ kawa, hare an de mamake a hyen, <<Nca pa woto wonna wu cige toyanson anna, ta'a n muujizai anna?>>
+MAT 13:55 <<Nce ba'a wo wushebi wure go wanna, ananwan nonwan nce rira̱'i rewa a maryamu gwa, ayan'on nonwan ta'a nce a Yakubu na Isuhu na Saminu na Yahuza gwa.?
+MAT 13:56 Ayan'on nonwan a̱'a̱ nce pa̱ka̱ pa̱gu to na'ange nanwan han, nca pa woto wonna wu cige toyanson anna ba̱nba̱n?>>
+MAT 13:57 Nade a marocege sa̱bo nonwan, Ama a Yesu wa hyen ga, << Wotoma waca rasa ototo sai n ceso nonwan negewa nonwan.>>
+MAT 13:58 Ta'a a Yesu wan de cewo umuujizai na yemi pa̱re, enaande a̱ pa̱n ciwu shenmen n Nazarat.
+MAT 14:1 N beka̱ni be a Hiridus wogoma wo Galili wo hoge monran ma tosora to rira̱'i re Yesu,
+MAT 14:2 Wa hyen agema nonwan, <<Awonna a Yohana wo baptisima go, wu kurke nu'o iwore naande wa omange a̱ta̱nra̱n na ton danga iriri na na̱son anna.>>
+MAT 14:3 Enaande pa̱re a Hiridus wo kentano i Yohana wa̱ ka̱ri wu n kurkuku sa̱bo na a Hirudiya, wotosuwa̱ wo wa wu'a̱ wo Filibus,
+MAT 14:4 a Yohana wona hyan wogoma a Hiridus: <<E reme cewo wo na'anga nonwan.>>
+MAT 14:5 Kon eyande a Hiridus wogoma wona ruwa̱ to kona i Yohana, wa hoge ryansan re ato na Israila enaande a rwane wo Wotoma go.
+MAT 14:6 Na uhibi na rima̱ci re wogoma a Hiridus magetogya a Hirudiya ba'a wo wa wa̱'a̱ wa hebe cenmon
+MAT 14:7 hare wa̱ shi'a̱gi nonwan nan ma̱shiwuro wa hyen won to pana wo ena wa̱ rushigi.
+MAT 14:8 Ama na ananwan a̱ hurpa̱n bo atobe a hyen ashawa, n pa̱ni unbu na Yohana wo baptisima n katogwa kanna.>>
+MAT 14:9 Wogoma a Hiridus wan de usuwa̱ shiri, ama enaande wu ma̱shiwuro na wako nonwan, wa̱ kuwa̱ni a̱ pa̱ni wo ena wa̱ rushigi
+MAT 14:10 Wogoma a Hiridus wa tomane a epya unbu na Yohana n kurkuku.
+MAT 14:11 A owane unbu na Yohana n katogwa a̱ pa̱ni ba'a wo wa wa̱'a̱, wa uwange ananwan.
+MAT 14:12 Ato na moma'anga na Yohana a rage a̱ umi to'uwawa to Yohana a̱ ma̱n. Nade a̱ huri a̱ bishi i Yesu.
+MAT 14:13 Na a Yesu hoge a̱nno, wa pece ohato rihinrihin wa̱ huri pa rawo ko woto. nto hogana a̱nno, ato nasorya nan ceson ceson a rope wo n shewona.
+MAT 14:14 Na wa soren hato wa̱ hendi ato cenmon, wa hoge yanman nanwan wa hogake shegoma shawa.
+MAT 14:15 Na marauna ma ne'enyan keto, ato na moma'anga a rage pewa a hyen wo, <<Pa̱ri panna pa rawo ko woto, ewana ta'a onhun o no'an tu ira̱. Cepana ato a̱ huri, na an ma gega̱n shihira̱ a sange iri na korya.>>
+MAT 14:16 Ama a Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Nca shesha a̱ huri. Ga̱hin pana ga ba yen'unrin a re mana.>>
+MAT 14:17 Ato na moma'anga nonwan a̱ ra̱'a̱ni a hyen,<Kapoka ka tan nan nwa̱ n dewu gya go to omange.
+MAT 14:18 Wa hyen ga, <<N owangya ba pana,>>
+MAT 14:19 Nade wa̱ kuwa̱ni ato a korekaka na anbe. Wa̱ umi kapoka ka̱re ka tan nan nwa̱ dewu wa̱ umena̱n tonran wa̱ rogane Onhon. Wa kergano kapoka wa̱ pa̱ga̱ni ato na moma'anga nonwan awa ta'a a̱ ta̱ra̱ta̱gu ato.
+MAT 14:20 Ca nanwan a re ko'eyawa a̱ ciga̱gi, ato na moma'anga a̱ shiga̱ni ucencemu hare shakope she opa n sheshi rewu ena a̱ ga̱'i.
+MAT 14:21 Ato na re ka a̱ ci tariya opa anta na̱ a̱ na̱ ri na o.
+MAT 14:22 A̱birebire a Yesu wa̱ kuwa̱ni ato na moma'anga a̱ gegin ohato a̱ ciga̱n bu to kaca ube, na wa cepane ato.
+MAT 14:23 Na wa cepane ga, wa̱ na̱da̱ni ka̱'undu obawa an de aduwa. Na marauna man de, wa̱n pa̱re obawa,
+MAT 14:24 she ohato uta̱ ci ciwu, arasana na ma̱ni an turipa̱nga̱ ogo opera ta'a owan tu wuka̱ ogo.
+MAT 14:25 N tu'uma̱ to tato to ogeta a Yesu wan topodanga tu hura̱ pyawa n ma̱ni rowa.
+MAT 14:26 Na ato na moma'anga a̱ hyande won tohano n ma̱ni rowa, a hoge ryansan. A hyen <<Bewa bego,>> a̱ ta̱ to'ogwa maryansan ryansan.
+MAT 14:27 A̱birebire a Yesu wa hyen ga: <<Ga'a ba etama para ba shenmen ga̱mi go. Ga'a ba to hoga ryansan.>>
+MAT 14:28 A Bitrus wa̱ ra̱'a̱ni wa hyen, <<Ashawa, she gawo go n mahenda,>> <<Hyen n dage pewo n ma̱ni rowa.>>
+MAT 14:29 A Yesu wa̱ ra̱'a̱n bo wa hyen wo,<<Rage,>> A Bitrus wa sore n ohato, wa̱ regi n ma̱ni wa rage keto na Yesu.
+MAT 14:30 Ama na wa̱ hendi opera wa hoge ryansan wa̱ ri tu ira̱, wa̱ ta̱ be'ogwa wa ange, <<Ashawa, n ringe>>
+MAT 14:31 A̱birebire a Yesu wa cewane ka'ara wa kentan bo wa hyen wo. <<Gawo woto wo tomasana anmen tu yemi ciwu, yegu e won de oshakka>>
+MAT 14:32 Na a̱ gegin ohato, opera uwa̱ ga̱'i tu wuka̱.
+MAT 14:33 Ato anan nanmen ohato a dange i Yesu sojada, a ange, <<Mahenda gawo Ba'a wo Onhon go.>>
+MAT 14:34 Na a Yesu nato na moma'anga nonwan a̱ ka̱ci a̱ ka̱ra̱ni Janisarat.
+MAT 14:35 Na ato na pa̱ pa̱re a ma̱pi i Yesu, a tomangan ca cenge ton be'awo bire. Ato a uwangane ato na ruma̱ga̱gi pewa
+MAT 14:36 a̱ rushigi i Yesu a̱ a̱ta̱ni ko she ewa nonwan go, ca woto awo a̱ta̱ni ewa nonwan wa mohoge.
+MAT 15:1 Naande yan'on a Farisiyawa n shima̱la̱n she tubisa̱ga̱ to Mosa a rage pi Yesu nasoryan Urshalima a̱ rushigi wu a hyen,
+MAT 15:2 <<Yegu den ato na moma'anga nanwon a ta'a kosa oal'ada na ato ototo? a ca ma̱hita̱gu sha'ara naande a re iri korya!>>
+MAT 15:3 a Yesu wa̱ ra̱'a̱ni ga, wa hyen ga̱hin ta'a nago eta kosa monran ma Onhon sa̱bo na iwuki na̱hin
+MAT 15:4 Enaande Onhon wa hyen ku pa̱ni ashawa nanwon na ananwan nanwon ototo> ta'a <Ko'eyawa awo to'age ashawa ko ananwan an to kona wo.
+MAT 15:5 Ama aye ta bisa̱ga̱ nhyen she woto Omange iri na wan tu bena̱ ashawa nonwan ko ananwan nonwan nenwan ama wa hyan, <Ca, ena ina̱n tu biciga̱ pimi n shi'a̱gi Onhon.
+MAT 15:6 Wato sa̱bo na al'ada na̱hin aye gotage monran ma Onhon nce yen'unrin go aye rubi ciwu to pana ashawa na̱hin ototo.
+MAT 15:7 Ga̱hin ato na tuka̱ryo! Dede go na Wotoma wo Onhon a Ishaya won de uanabci n unbu na̱hin na wa hyen
+MAT 15:8 <<<Ato wanna nuno bawa go an man paga ototo. ama rekoko ryawa re magesangano n ga̱mi.
+MAT 15:9 Wusu go an na'ange n sojada, tubisa̱ga̱ tawa to ato go ama a ange to Onhon togo.>>>
+MAT 15:10 Nade a Yesu wa hecegane ukutu na ato wa hyen ga, <<Shi'a̱ ba atobe ki ma̱pi.
+MAT 15:11 N ce iri na ta̱ gega̱ n nuno na woto go ton da a <shigere> Ama ena ta sorya nuno na woto go e ton da woto a <shigere.>>>
+MAT 15:12 Nande ato na moma'anga a rage pi Yesu a hyen, <<Wo yan'son nhyen anmen na aParisiyawa a̱ ha̱ciga̱ni anmen n monran ma wu hici?>>
+MAT 15:13 A Yesu wa̱ ra̱'a̱ni ga wa hyen,<<Ca kobera ko den cewo ko Ashawa na̱mi anan tonran bere cewo an tu kunba̱ga̱ kogo.
+MAT 15:14 Garega ga ba awa a̱ruwa̱ go ana ta owangana a̱ruwa̱ onyan. She ka wuruwa̱ wo owangane wuruwa̱ onyan, ca nanwan an makoceka n ka̱nga̱rmu.>>
+MAT 15:15 Ama a Bitrus wa hyen i Yesu<< Tu uciga̱gi akosa wanna mana.>>
+MAT 15:16 aYesu wa̱ rushigi ga wa hyen, << Hare benanba eta ma̱pi ciwu gwa?>>
+MAT 15:17 <<Nan monran ma tohyan ena woto re n ma̱riye e ta gega̱ nuno nonwan go naande i huri n suwa̱ naande e sore n to'oawa towa?
+MAT 15:18 Ama iri na ta sorya nuno n rekoko, go eya ta sorya iwore ka ta dan woto a shigere nekogo na Onhon.>
+MAT 15:19 Naande n rekoko go etama na kenoko, eta sorya kamashe tokona woto n ma̱'a̱ pa̱ka̱n ma̱ye'o, n rihin n shaida na tobya n tohacegana rira̱'i.
+MAT 15:20 Iriri na ton da woto a <shigere> wono ama korya n ka'ara ka mahita̱gu ciwu kaca ca da woto a <shigere.>>>
+MAT 15:21 A Yesu wa̱ ga̱'i pa̱re gu a̱nde wa̱ hanrane be'awo be cenge to Taya n Sidon.
+MAT 15:22 Yan'on wu'a̱ wo Kan'ana wa rage pi Yesu wa̱ kurtuma̱ bengoro wa hyen wo, << Ashawa, Ba'a wo Dauda hoga yanman na̱mi! Yan'on nperan nan shiri n dipi ba'a wumi wa̱'a̱.>>
+MAT 15:23 Ama a Yesu wa̱ guringi ciwu. Nade ato na moma'anga nonwan a rage a̱ sa̱ri i Yesu a hyen wo, <<Ita̱ wu mana, enaande wo ne'en mato ropana wa̱ tu shintuma̱ atobe in to'ogwa.>>
+MAT 15:24 Ama a Yesu wa̱ ra̱'a̱ni ga,wa hyen,<< Ga̱mi pa ato na na̱gi na Israila go an tomane.>>
+MAT 15:25 Ama wu'a̱ wure wa rage wa̱ cibi a̱rungurungu nekogo na Yesu wa hyen, << Ashawa n beni.>>
+MAT 15:26 A Yesu wa̱ ra'an bu wa hyen,<<Ma rawon to rema a̱ umi iri korya na a'o a̱ pa̱ni sha.>>
+MAT 15:27 <<Nade wu'a̱ wure ta'a wa hyen,<<En, Ashawa ama ko sha she ta rya iri korya na kenange n tabur na ato na egewa.>>
+MAT 15:28 Nade a Yesu wa ra̱'a̱n bu wa hyen, <<Wu'a̱, wo omange to masana anmen to otope! Ena wu rubi e man de>>A̱birebire ba'a wowa wa̱'a̱ wa mohoge.
+MAT 15:29 A Yesu wa̱ ga̱'i pa̱re ta'a wa rope be'awo be ube na Galili. Naande wa̱ na̱da̱ni ki'undu wa koreke pa̱re
+MAT 15:30 Ukutu ato na yemi uwa rage pewa, a owangane ato na raga shewona na na̱ ruwa̱ na ka̱mu na ato ta'a cenmon a̱ shi'a̱gi ga nekogo na Yesu wa hogake ga.
+MAT 15:31 Hare ato an de omamake na a̱ hendi a̱ka̱mu an monran, ato na omange a̱dungu ta'a a n'on nan mewa mya ne'en toma, ato na ragawo shewona ta'a an tohano, a̱ruwa̱ ta'a a̱ hendi pa̱ri, a̱bire a hewake Onhon na Israila.
+MAT 15:32 A Yesu wa hecagane ato na moma'anga nonwan wa hyen ga, << Nan nen yanman na ato wanna naande yara ageta nanwan a tato she a̱n pa̱ka̱ n ga̱mi, a rawo ta'a ena an korya. A̱n rubi ciwu n capana ga n remonron, Ma̱re a'eyawa a na'an jinga̱na̱ nonyan na huri giye.>>
+MAT 15:33 Naande ato na moma'anga na Yesu a hyen wo, <<Nca pa ton tu bicige kapoka ka ton koryaka ato wanna n pa̱ri panna pa rawo ko yen'unrin?>>
+MAT 15:34 A Yesu wa̱ rushigi ga wa hyen,<<Kapoka ka hanba kago ka e omange, a hyen wo<<Kapoka ka tunda̱re kago ka to omange gya nan wa̱ ryawo.>>
+MAT 15:35 Naande a Yesu wa hyen ukutu na ato o koreka n kida̱.
+MAT 15:36 Naande wa a Yesu wa̱ umi kapoka ka̱re ka̱ tunda̱re nan wa̱ kuwa̱ni Onhon, wa kosagano wa̱ pa̱ga̱ni ato na moma'anga awa ta'a a̱ ta̱ra̱ta̱gu ato.
+MAT 15:37 Ko'eyawa wa re hare wa̱ cigi. Na a̱ hu ato na moma'anga na Yesu a romano ucencemu hare shakope shi tunda̱re.
+MAT 15:38 Ato na re ka a̱ri a̱ ci n'mo'on na̱shi, ba̱nta̱ na̱ a̱ na a'o
+MAT 15:39 Na Yesu wo cepane ukutu na ato, wa̱ pece ohato wa hanrane cenge to Magadan.
+MAT 16:1 Aparisiyawa na Sadukiyawa a rage pi Yesu a̱ ma̱'in wu, a̱ rushigi wu a hyen a bishi ga alama nasorya n tonran.
+MAT 16:2 Ayesu wa̱ ra̱'ani ga wa hyen,<< She marona man de aye hendi tonran to magetoge tu shende eta hyan ehen pa̱ri pan to rema bi'i, ama e rawon to yan'son to bisa̱ ato alama na beka̱ni.
+MAT 16:3 Ta'a n bongwa sha i hendi alama na pa̱ri pa ici eta hyan, <Yara a̱shira̱ an to kena, enande tonran tu wusu to magetoge tu shende.
+MAT 16:4 Ato na nyan manna ato na kenoko go ato na korya amana anan saro a̱ hendi yan'on alama ama a rawon yan'on alama na an to bisa̱ ga ba̱nta̱ nalama na Yunana.>> Nade a Yesu wa̱ ga̱'i ga wa huri.
+MAT 16:5 Na ato na moma'anga na Yesu a̱ ka̱ci hira̱ re nube, a̱ ma̱ga̱'isa̱ni tu ume kapoka.
+MAT 16:6 A Yesu wa hyen ato na moma'anga nonwan, <<Shi'a̱ ba a̱she,>><<Ke bereka n yist na Farisiyawa na Sadukiyawa.>>
+MAT 16:7 Ato na moma'anga na Yesu a̱ ri mahyango, <<A̱ka̱ nde to rage cewo n kapoka go?.>>
+MAT 16:8 Na Yesu wu ma̱pi an de naande wa̱ rushigi ga wa hyen, <<Ga̱hin ato na to masana anmen na yemi ciwu, yegu de aye ange e rawo kapoka?
+MAT 16:9 Hare benanba eta ma̱pi ciwu gwa? I ma̱ta̱ma̱ringi ciwu nan ryake ato n'mo'on mentan n kapoka ka tan, shakope she hanba shego she e romano?
+MAT 16:10 Ko ta'a nan ryake ato n'mo'on na̱shi n kapoka ka̱ tunda̱re shakope she hanba shego she e romano?
+MAT 16:11 Nago i ma̱pi ciwu nhyen nca monran ma kapoka mago man be na'ange mawa? Nhyen ke bereka unbu na̱hin n yist na Farisiyawa na Sadukiyawa.>>
+MAT 16:12 Nade ato na moma'anga na Yesu a̱ ma̱pi nhyen nce wo ange a bereka uyist na ata kuna̱ n kapoka go, ama n tubisa̱ga̱ to Sadukiyawa na Farisiyawa go wa ange.
+MAT 16:13 Na a Yesu wo rage n be'awo ba cenge to Kaisariya n Filibi a Yesu wa̱ rushigi ato na moma'anga wa hyen, <<A̱ure ato a ange nhyen Ba'a wo Woto wo ne'en?>>
+MAT 16:14 A hyen i Yesu,<<A'eyawa a ange a Yohana wo baptisma go, a'eyawa a ange a Iliya go, a'eyawa ta'a a ange a Irmiya go, ko ta'a woto wuka̱ nanmen na Wotoma.>>
+MAT 16:15 Ama a Yesu wa hyen ga <<Ga̱hin ta'a a̱ure en ange?>>
+MAT 16:16 Nade a Simon Bitrus wa̱ ra̱'a̱ni wa hyen, <<Gawo go a Kristi, Ba'a wo Onhon awo na'anan.>>
+MAT 16:17 Nade a Yesu wa̱ ra̱'a̱ni i Simon Bitrus wa hyen, << Gawo woto wo uno na reme go, Simon ba'a wo Yona, naande n ce woto shiri go wu bishi, ama na sorya pa Ashawa na̱mi anan pa̱re n tonran.
+MAT 16:18 Ne wo bisa̱ga̱ go gawo a Bitrus, n tare wanna rowa go nan to ma ato na toropa na̱mi, ana u'o o rawo a̱ta̱ra̱n nanwan.
+MAT 16:19 Nen bo pana ena tu uciga̱ togoma to tonran, ko'iwo na ika̱ ri n kanniyan en to na'an i ka̱ri n tonran, ena i ka̱rigi ta'a n kanniyan en to na'an i ka̱rigi n tonran.>>
+MAT 16:20 Naande a Yesu wa̱ hundika̱ni ato na moma'naga nonwan a̱re bishi ciwu ko'eyawa nhyen a̱ure a Kristi.
+MAT 16:21 Na̱ri bire a Yesu wa̱ ri tu bisa̱ atona moma'anga nonwan nhyen ma kentane a̱ hurin Urshalima a hengago ba̱nta̱ ba̱nta̱ n sha'ara she ato ototo na Firistoci n shima̱la̱n she tubisa̱ga̱ to Mosa, kone wo ta'a ama n hibi na hen tato a̱ kurtuma̱ wo.>>
+MAT 16:22 Naande a Bitrus wa̱ hundika̱ni i Yesu n be'awo wa̱ gusa̱ni bo wa hyen wo, <<Onhon rawon to ga'a ma na'an a̱nno Ashawa!>> <<A̱ma̱no ma rawon bu ciga̱!>>
+MAT 16:23 Ama a Yesu wa̱ mangiyane wa hyen i Bitrus,<<Ma̱ra̱wa̱nu n ga̱mi, gawo Kitunbul! Gawo woto won ma̱n kuwa̱ marocega go, won netama na woto go ama nce etama na Onhon go.>>
+MAT 16:24 Naande a Yesu wa hyen ato na moma'anga nonwan, <<Ca woto won saro nan dopa, she sha wo eshe unbu nonwan a̱ umi kawo'o ka tongera kawa an dope.
+MAT 16:25 Ca woto won saro behono bewa won ta rasa bego, ama ca woto wu ra̱shi behono bewa won tu biciga̱ bego.
+MAT 16:26 Yegu woto wun ta̱ ciga̱ she wu bicigi kanniyan, wa̱ ra̱shi behono biwa? ko ta'a yegu woto to pana ena huri behono biwa?
+MAT 16:27 Naande Ba'a wo Woto won to rage na atoma na a̱ba̱ye na Onhon nonwan na̱ta̱ra̱n na Ashawa, a̱bire be wan to to pana ko'eyawa ocewa na otoma nonwan.
+MAT 16:28 Mahenda mago ma nan bi bisa̱ga̱, a'eyawa an panna a esage ana rawon tu uwa̱ga̱ hare she sha a̱ hendi to rage to Ba'a wo Woto n togoma towa.>>
+MAT 17:1 Na ageta ta̱nihin a̱ huri naande a Yesu wa̱ umi i Bitrus na Yakubu, pa̱ka̱n wotosuwa̱ wo wa a Yohana wa owane ga n yan'on undu rowa ona gesange abawa.
+MAT 17:2 Naande maperano mawa ma̱ ma̱shishingi, a̱bire a̱she nonwan a magetoge ba̱ka̱ she tohan'an to onhun, aronga nonwan ta'a a magetoge ba̱ka̱ an to han'anga.
+MAT 17:3 Naande ato na moma'anga wa̱re a tato a̱ hendi atoma a Mosa na Iliya a rage an monran na Yesu.
+MAT 17:4 Nade a Bitrus wa hyen i Yesu, <<Ashawa, ma reme na ton panna. She wu ra̱'ani, n ciba̱ shipa̱ku she tato, uka̱ o nanwon, uka̱ ona Mosa, uka̱ ona Iliya.>>
+MAT 17:5 She a Bitrus wo tan monran, a̱ hendi yan'on kanran ka̱ she'in ka̱ uta̱ni ga, a hoge ta'a yan'on bengoro nasorya n kanran ka̱re be ange, <<Ba'a wumi go wota, awon rubi ta'a awon ne'en nanmen cende nonwan ki shi'a̱n bu atobe>>
+MAT 17:6 Na ato na moma'anga a hoge a̱nno, a kenen kida̱, ryansan rya kentane ga.
+MAT 17:7 Nade a Yesu wa rage wa̱ ta̱ta̱ga̱ni ga, wa hyen <<Ikurka̱ ba>> <<Ga'a ba to hoga ryansan.>>
+MAT 17:8 Na a̱ umena̱n shi'unbu, a̱ hen ciwu ko'eyawa ba̱nta̱ na Yesu obawa.
+MAT 17:9 Sha a ne'enyan guriga̱nu nudu a Yesu wa woshe ga ogago wa hyen, <<Kire ki bishi ciwu ko woto ena i hendi, she sha a kurtuma̱ Ba'a wo woto nu'o.>>
+MAT 17:10 Ato na moma'anga na Yesu a̱ rushigi a hyen, <<Yegu en de shima̱la̱n she tubisa̱ga̱ to Mosa a ange nhyen ma kentane a Iliya cigi to rage?>>
+MAT 17:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<A̱nno ma kentane a Iliya a̱ cigi to rage, a nanganane ko'iwo.
+MAT 17:12 Ama mahenda mago ma nan bi bisa̱ga̱, a Iliya wo ragwa a̱ ma̱pi ciwu hare an dange wo ena a̱ rubi. A̱nde ta'a Ba'a wo Woto won to hengago n sha'ara shawa.>>
+MAT 17:13 A̱bire be ato na moma'anga na Yesu a̱ ma̱pi nhyan monran ma Yohana wo baptisma mago ma Yesu wo na'ange ga n mawa.
+MAT 17:14 Na a Yesu nato na moma'anga re a tato a̱ ci apa ato a manronmano yan'on woto wa rage pewa wa̱ cibi a̱rungurungu nekogo Yesu.
+MAT 17:15 Wa hyen wo,<< Ashawa, hoga yanman na ba'a wumi,>> <<Awon shegoma she o'eyanbe won ma̱supo cenmon. Bekene wota kena nora, n ma̱ni ta'a.
+MAT 17:16 N owane wo pa ato na moma'anga nanwon ama a yan'cewo to hogaka wo.>>
+MAT 17:17 Nade a Yesu wa̱ ra̱'a̱ni wa hyen, <<A ga̱hin ato na tomasana anmen tu yemi ciwu>> ato na otopa unbu na nahon, <<Hare wahon go nen to na'an pa̱ka̱ n ga̱hin? hare wahon go ta'a nen to para anmen n ga̱hin? N owangya wo ba pana.>>
+MAT 17:18 Nade a Yesu wa̱ gusa̱ni, npera ma̱nde ta'a mya ma̱ra̱wa̱nu nonwan, a̱bire ba'a wo wa mohoge.
+MAT 17:19 Nade ato na moma'anga a rage pi Yesu rinhinrinhin a̱ rushigi a hyen, <<Yegu naande ato yan'cewo to sortoma nperan ma̱nde ?>>
+MAT 17:20 A a Yesu wa̱ ra̱'a̱ni ga wa hyen,<< Enaande to masana anmen tuhin tu yemi ciwu gu. Mahenda mago nan bi bisa̱ga̱ she ena omange to masana anmen tu ci byan'son bi bi'eni, en to yan'son to hyan undu na, <Ikurka̱ pana ko mokoshe pa̱re, ka̱ kurki ta'a. E rawo ta'a nan be garga.>>
+MAT 17:21 Iri wanna ca sora sai pa̱ka̱ naduwa n re'ore.
+MAT 17:22 Na ato moma'anga na Yesu a manronmano pa̱ka̱ n Galili, a Yesu wa hyen ga, <<An to cewa Ba'a wo Woto n sha'ara she ato.
+MAT 17:23 An ka to kona wo,ama n hibi na hen tato an tu kurtuma̱ wu.>> Nade ca ato moma'anga nonwan a̱ri shenmen shi shiri.
+MAT 17:24 Na a Yesu nato na moma'anga nonwan a rage n Kaparnahun, ato na to ra'aga ka̱gondo ka egewa na Onhon a rage pi Bitrus a̱ rushigi wu a hyen,<< Ka̱ma̱la̱n ka̱hin kata topa ka̱gondo? >>
+MAT 17:25 Wa̱ ra̱'a̱ni ga wa hyen, <<En,wota topa.>> Na Bitrus wu gegi negewa a Yesu wa̱ ri to dangya wo monran wa hyen wo, <<Yegu wu hendi a Simon?>> <<Pyawa pago pa ngoman nan kanniyan ata ra'aga nsaran nan rehatana nan ka̱gondo, pa a'o nanwan a̱ka̱ pa ato na̱ba̱?>>
+MAT 17:26 A Bitrus wa̱ ra̱'a̱ni wa hyen, <<Pa ato na̱ba̱,>> Naande a Yesu wa hyen i Bitrus, <<Eya de a'o nanwan a ca topa wono.>>
+MAT 17:27 <<Ama ma̱re to hacega ga shenmen, re manca nube, ko masan manca biwa̱ bi wu cigi to kentane ka a̱bire be won to ume. She wu ucigi uno na bewa wun tu wura̱ oshekel uka̱ nanmen, ku ume oshekel wa̱re ko owangya ga, on to rogo to topa ka̱gondo ka̱mi n gawo.>>
+MAT 18:1 N beka̱ni bire ato na moma'anga a rage pi Yesu a̱ rushigi wu a hyen, <<A̱ure wu huri uru n togoma to tonran?>>
+MAT 18:2 Naande a Yesu wa hecegane yan'on ba'a wo nennen, wa̱ shi'i wu nacenace nanwan.
+MAT 18:3 Wa hyen ga: << Mahenda mago man nan bi bisa̱ga̱, she i ma̱ shishingi ciwu, aye ne'en she a'o nan nennen e rawon tu gega̱ n togoma to tonran.
+MAT 18:4 Woto awo kentane unbu nonwan she ba'a wo nennen, owa woto uru go n togoma to tonran.
+MAT 18:5 <<Ta'a woto wu ra̱'i ba'a wo nennen she wonna n rira̱'i rimi wun da̱'i.
+MAT 18:6 Ama woto won de wuka̱ na'o nan nennen wan de ciri'i, in tu hura̱ wu a̱ ka̱ri wu onamon na uru n bengoro bewa a irtuma̱ wu ta'a nanmen nube na uru na iri.
+MAT 18:7 <<Yana kanniyan enaande eta dan ciri'i! ma kentane ena tu kuna̱ ciri'i e rage, yana na woto wu kuwa̱ni ton da ciri'i ture.
+MAT 18:8 She ka'ara kawo ko ta'a kawona kawo kata wu kuwa̱ ton da ciri'i, to kera kago ku ta̱'i. in bu hura̱ ku gegi n behono be rawo be'epo n ka'ara ka̱ka̱ ko kawona ka̱ka̱, na an bo masana nanmen n ora na ca uwa̱ga̱ n sha'ara shi rewu ko n shewona shi rewu.
+MAT 18:9 She ta'a rishe rewo re tawo kuwa̱ ton da ciri'i, koika rego ko mashe. In bu hura̱ ku gegin behono be rawo be'epo n rishe rika̱ na'an bo masana nora naca uwa̱ga̱ na̱she nanwon rewu.
+MAT 18:10 <<En da ba suku ma̱re i gina̱ ko wuka̱ na'o nan nennen. Nan bi bisa̱ga̱, atoma na a̱ba̱ye nanwan tonran bekene ata hyanda a̱she na Ashawa na̱mi a nan tonran.
+MAT 18:11 Ba'a wo Woto wo rage go a sortome ena na̱gi.
+MAT 18:12 <<Yegu en netama? she woto omange ita̱ma̱'in tariya, bika̱ be na̱gi, wo rawon to ga'a e opa cishi na̱ cishi a̱re saro na bika̱ bi na̱gi?
+MAT 18:13 Ta'a she wo hyande bego, n bi bisa̱ mahenda, won tu hura̱ ton da anmen cenden be bire bika̱ nena ceni.
+MAT 18:14 A̱nde ta'a Ashawa na̱hin anan tonran wu rubi ciwu woto wo ciri'i a̱ na̱gi.
+MAT 18:15 <<She woyan'on wo wo dange ena ren cewo, hura̱ ku bishi wu ena wa wo de, ga̱hin rewu nonwan. She wo rangatane, wo koshetomakan bo go a̱nde.
+MAT 18:16 Ama she wo ragatan cewo a hoge monran ma wo, ku hura̱ kan pewa n woto wuka̱ ko ato rewu na an to mapa kobe monran ama ri na shedu a tato.
+MAT 18:17 She wo eshe to hoga mawa, ku bishi ato ototo na ato na toropa, she wo eshe to hoga ga, ko rwane wo she woto wo yan'cewo Onhon ko ta'a woto wo tora'aga ka̱gondo awo rawo kaye.
+MAT 18:18 <<Mahenda mago ma nan bi bisa̱ga̱, ena i unpin n kanniyan, en to na'an i upo n tonran, ena i ka̱rigi ta'a n kanniyan a̱ ka̱rigo n tonran.
+MAT 18:19 <<Ta'a, n bi bishi pa ato rewu n kanniyan a̱ ra̱'a̱ni koiwo na i rushigi yen'unrin, Ashawa na̱mi anan tonran won be dangya ego.
+MAT 18:20 Apa ato rewu ko atato a ne'en n rira̱'i rimi nan pa̱ka̱ nanwan.>>
+MAT 18:21 Nade a Bitrus wa rage pi Yesu wa̱ rushigi wu wa hyen, <<Ashawa, mahanba mago ma woto won bo dangya iri ku ga̱'i wu ma tunda̱re?>>
+MAT 18:22 aYesu wa̱ ra̱'a̱n bu wa hyen wo, <<n bu bishi, nce ma tunda̱re ma bawa, ama hare ma opa tunda̱re n ma tunda̱re.
+MAT 18:23 <<Nadea̱nno, togoma to tonran to ne'en she wogoma won saro agema nonwan a̱ bishi wu na nsaran nan mewa n ne'en.
+MAT 18:24 Na wogoma wure wu ri tonrontan, a owangya wo yan'on woto wo omangan bo atalent na yemi.
+MAT 18:25 Na wa rawon to yan'son to topa, woto ototo wa hyen wo a̱ umi wu n wu'a̱ wowa na'o nonwan nena wa omange a̱n ka̱ci a tope wo otace wa̱re.
+MAT 18:26 <<Wogema wa̱ cibi a̱rungurungu nonwan n kida̱. wa̱ sa̱ri an dange wo ha̱kuri, won to topa koiwo>.
+MAT 18:27 Ashawa na egewa na wogema wure wa hoge yanman nonwan, wa̱ ga̱'a̱gi wu otace wa̱re wa̱ ga̱'i wu a̱ huri.
+MAT 18:28 << Ama na wogema wure wo sore niji, wa̱ buri woyan'on wo wa wogema awo omagan bo odinari tariya. wa kentan bo bengoro wa hyen wo, <N tope ca otace na̱mi na won omangane.
+MAT 18:29 woyan'on wure wo wa wogema wa̱ cibi a̱rungurungun nonwan n kida̱ wa hyen wo,<N men dange ha̱kuri, nan bo topa.>
+MAT 18:30 <<Ama wa eshe. Hare wa owane wo a̱ ka̱ri wu wan hyen she sha wo tope wo nsaran nan mewa.
+MAT 18:31 Na agema na̱ba̱ a̱ hendi na a̱nde, an de usuwa̱ shiri a̱ huri a̱ bishe woto ototo wa wa koiwo n monran ma̱re.
+MAT 18:32 Naande woto ototo wa wa wa hecegane wogema wure nanmen. Wa hyen wo,<Gawo wogema wo kenoko, n bu ga̱'a̱gi otace nanwon naande wun roki.
+MAT 18:33 Ma ha̱'in ciwu ta'a gawo ko hoge yanman na woyan'on wo wogema shen den hoge yanman nanwon?
+MAT 18:34 A̱bire wogoma wan de usuwa̱ shiri woto wa̱ kuwa̱ni a̱ ka̱ri wu a ce'entoma wo hare she sha wo tope otace wa̱re.
+MAT 18:35 << Nade a Yesu wa kokane to hyan anna Ashawa na̱mi anan tonran an to dangya ko'eyawa awo eshe to ga'agya woyan'on wo wa na anmen a̱ka̱.>>
+MAT 19:1 Na Yesu wu hu monran ma̱re, naande wa̱ ga̱'i cenge to Galili wa gegi n Yahudiya, onan hira̱ re n ube na Urdun.
+MAT 19:2 Ato cenmon a rope wo, naande wa hogake ato na ruma̱ga̱gi pa̱re.
+MAT 19:3 Naande yan'on a Farisiyawa a rage pewa a̱ ma̱'in wu, a hyen wo, <<Ma reme woto a̱ ta̱cigi wu'a̱ wo wa n kobe monran?>>
+MAT 19:4 a Yesu wa̱ ra̱'a̱ni ga wa hyen, <<E rontonge cewo monran ma Onhon gwa,>> <<Nhyen n ma̱riye Onhon won de ga wa̱ri n wu'a̱,>
+MAT 19:5 Ta'a a Yesu wa hyen ga, n ma̱ma̱no wa̱ri won to ga'a ashawa nonwan na ananwan nonwan a na'an pa̱ka̱ n wu'a̱ wo wa, awa rewu an de to'oawa tuka̱?
+MAT 19:6 A dankan cewo awa rewu ama a̱ka̱. N ma̱ma̱no ena Onhon u ga̱nta̱n woto rawo awo ra̱wanu.>>
+MAT 19:7 Naande a̱ rushigi i Yesu a hyen, yegu den a Mosa wa hyen woto a̱ pa̱ni wu'a̱ wo wa otakada na otacegwa a ita̱n bu?
+MAT 19:8 A Yesu wa̱ ra̱'ani ga wa hyen, <<Sa̱bo na otopa unbu na̱hin go o de a Mosa wa hyen ki ta̱cigi a̱'a̱ na̱hin, ama nce a̱nde ma ne'en ma̱riye.
+MAT 19:9 a Yesu wa hyen ga n ne'en bi bisa̱ga̱ woto wu ta̱cigi wu'a̱ wo wa, shen ce nhyen wo kentan bo n ma̱ye'o gu, ta'a wa̱ ha̱ni wuba̱ wun maye'o gu nande,>>
+MAT 19:10 A̱bire ato na moma'anga na Yesu a hyen wo, << She a̱nno ma ne'en n wu'a̱ n wa̱ri, ma huri woto a̱ ga̱'i ton da riheni wa̱no.>>
+MAT 19:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Nce ko'eyawa gon to ra'ana tubisa̱ga̱ tonna, sai ato na Onhon u pa̱ni.
+MAT 19:12 Ato an dewa na a̱ ma̱ci ana rawon ton da rihenni, an dewa ta'a na ato go an de ga, ato na̱ba̱ ta'a a̱ rubin rihenni sa̱bo na togoma to tonran. Woto won to yan'son to ra'a a̱ ra̱'i mago.>>
+MAT 19:13 A'eyawa a owangane a'o nan nennen pi Yesu a tatan ga ka'ara an dange ga aduwa. Ama ato na moma'anga a woshe ato na owane ga ogago.
+MAT 19:14 Ama a Yesu wa hyen ga, <<Ga'a ba a'o nan nennen a rage pimi, enaande ato na ne'en she a'o omange togoma to tonran.>>
+MAT 19:15 Na wa tatan ga ka'ara, wa̱ regi tohano towa.
+MAT 19:16 Yan'on woto wa rage pi Yesu wa̱ rushigi wu wa hyen, <<Ka̱ma̱la̱n, yegu nan ton da ena reme na nan ma̱ ciga̱ behonno be bekene?>>
+MAT 19:17 << A Yesu wa̱ ra̱'a̱ni wu wa hyen, yegu en de a̱ wun rushigi ena reme?>><<Woto wuka̱ wu go won de awo reme. She won saro tu ciga̱ behono bire, ko rope monran ma shi'i.>>
+MAT 19:18 Woto wure wa̱ rushigi i Yesu wa hyen<< Monran ma shi'i ma̱be?>> ma woto won to ropa. Ama a Yesu wa̱ ra̱'ani bo wa hyen, ga'a to kona woto, ku ga'i ton da maye'o, ku ga'i to na'an rihin, ku ga'i to pana osheda na tobya,
+MAT 19:19 Ko rope ashawa nanwon na ananwan nanwon, ku rubi ato nde wu rubi unbu nanwon.>>
+MAT 19:20 << wogama wa hyen, ca monran ma̱no n a̱no mago. Yegu nan ton da ena ta̱n cena̱n?>>
+MAT 19:21 A Yesu wa̱ ra̱'a̱ni wu wa hyen, <<She won sara tu shina̱, hura̱, kun ka̱ta̱ngi ca ena wo omange ku ta̱ra̱ta̱gu, a̱'uwa̱ta̱gi, won ton da ubicigo n tonran. Naande kon dopya.>>
+MAT 19:22 Na wogama wure wo hoge ena Yesu wu bishi wu wa̱ huri n suwa̱ shiri, enaande wo omange toryan'on.
+MAT 19:23 Naande a Yesu wa hyen ato na moma'anga nonwan, <<En to goma woto wo omange toryan'on a̱ gegi n togoma to tonran.
+MAT 19:24 Ta'a n bi bishi, en tu hura̱ orara goma ura̱kumi u gegin hyanbe na bejemanran na woto omange toryan'on ma̱ gega̱ n togoma to Onhon.>>
+MAT 19:25 Na ato na moma'anga na Yesu a hoge a̱nno, an de mamake cenmon a hyen, she a̱nno ma ne'en, <<A̱ure wun tu ciga̱ turinge ture?>>
+MAT 19:26 Ama a Yesu wa ginyanne ga wa hyen, << Ena rawon man da go pa ato, ama pa Onhon ko'iwa̱ ena ta man da.>>
+MAT 19:27 A Bitrus wa̱ ra̱'a̱ni i Yesu wa hyen, << Ewana tu ga̱'i ko'iwo ato wo rope, Yegu tun ta̱ ciga̱ wono ta'a?>>
+MAT 19:28 A Yesu wa hyen ga,<< N bi bishi mahenda, she a̱ shishingi ko'iwo, n beka̱ni be Ba'a wo Woto won to koreka n ka̱shiki kau wa ka togoma ka ototo, ga̱hin ato na moma'anga na̱mi nan rope ta'a en to koreka n shishiki she togoma she opa n sheshi rewu shire, ke dange toroma to opa n totu rewu re Israila shetara.
+MAT 19:29 Ta'a woto wu ga̱'i egewa nonwan na yan'on nonwan ko ashawa ko ananwan ko a'o ko shehwa sa̱bo na̱mi won to ra'a so ma tariya a̱ cigi ta'a behono be bekene.
+MAT 19:30 Ama ato cenmon na cigi an to haikana, n togoma to Onhon, ato cenmon na haika̱ni ta'a an ton dan ato na cigi n togoma to Onhon.
+MAT 20:1 <<Togoma to tonran ton sha yan'on ashawa na egewa go awo soren bongwa wa owane a hwanyan a hwange wo kaboga.
+MAT 20:2 Na won de tunka̱ci nanwan udinari uka̱ uhibi, wa̱ tucinga̱ni ga n kaboga ka̱re ka wa.
+MAT 20:3 <<Na wa de honran wa sore wa̱ hendi ato na̱ba̱ ana rawo yan'on otoma a esage pa tunka̱ci n tosanga.
+MAT 20:4 Wa hyen ga, <Ga̱hin ta'a hura̱ ba n kaboga ka̱mi ken de otoma n be topa ena ha̱n'in ta'a.>
+MAT 20:5 A̱ huri ta'a. <<Wa̱ hura̱ka̱ni niji abe marauna wa dankane monran ma̱re ma̱ka̱.
+MAT 20:6 Abe marauna ta'a wa sorakane wa̱ wuri ato na̱ba̱ ta'a she a esage a rawon n kobe otoma. Wa̱ rushigi ga wa hyen, <Yegu na de aye korkake uhibi koko she e rawon yen'unrin?
+MAT 20:7 <<A̱ ra̱'a̱n bo a hyen wo, woto wo rawo awo tu umi otoma.> <<Wa hyen ga, <Ga̱hin ta'a hura̱ ba n kaboga ka̱mi ke de otoma.>
+MAT 20:8 <<Na marauna man de, woto wo kaboga wa hyen woto wo wa ta tomana, hecegane atoma ko tope ga, ku riye nato re haika̱ni hare tu hure nato na ka̱hin.>
+MAT 20:9 <<Ato re a rwane otoma marauna a rage ko'eyawa wa̱ cigi udinari uka̱.
+MAT 20:10 A̱nde na ato re a rwane ka̱hin a rage an netama an to pana ga nan yemi. Ama awa ta'a ko'eyawa a̱ pa̱ni wu udinari uka̱.
+MAT 20:11 Na atoma re cigi a̱ ra̱'i a na'ange ashawa na egewa ihunrinhunrin.
+MAT 20:12 < A ange, ato na rage otoma nanbananba,>ta'a a tope ga ba̱kika̱ n ga̱tu re den otoma uhibi koko.>
+MAT 20:13 <<Ama ra'ani wutu ka̱, wa hyen wo, <Wotoginto wumi, ai n bo dangage cewo. Nce tu ma̱renu go nhyen nan bo topa udinari uka̱?
+MAT 20:14 To ra'a ena de nanwon ku huri ga̱mi gu hendi man men dan n topa ato na haikane to rage ba̱kika̱ n ga̱hin.
+MAT 20:15 N dawo a̱ta̱ra̱n na to da enan rubi nan saran nan mi? A̱ka̱ wu rishiwu go naande ga̱mi wo ko'eyawa go?>
+MAT 20:16 Nade a Yesu wa hyen ga,<< A̱nde ato na haika̱ni an ton da na ka̱hin, ato na ka̱hin ta'a an de na haika̱ni.>>
+MAT 20:17 Na a Yesu nato na moma'anga nonwan a hanrane Urshalima, wa hecegane n be'awo wa hyen ga,
+MAT 20:18 <<To ewana tun ta̱ hura̱n Urshalima an to pana Ba'a wo Woto n sha'ara she Firistoci na ototo n shima̱la̱n she tubisa̱ga̱ to Mosa. An to keragya wo karere ka u'o
+MAT 20:19 ta'a an to cewana wo n sha'ara she ato na de cewo a Yahudawa a henge wo a̱ pa̱ni wu nwo'o a gyanrane bo. N hibi na hen tato ta'a a̱ kurtuma̱ wo nu'o!>>
+MAT 20:20 A̱bire ananwan na a'o na Zabadi wa rage pi Yesu na'o nonwan, wa̱ cibi a̱rungurungu n kida̱ wa̱ sa̱ri yen'unrin pewa.
+MAT 20:21 A Yesu wa hyen wo, <<Yegu won saro?>>wa ra̱'a̱ni i Yesu wa hyen, <<Kuwa̱ a'o wanna a̱rewu a koreka wuka̱ n katoga kawo wuka̱ ta'a n ka̱ngura̱ kawo n togoma towo.>>
+MAT 20:22 Ama Ayesu wa̱ ra̱'a̱ni a'o wa̱re wa hyen ga, e yan'cewo ena i roki, << E yan'cewo ena en saro, <<En to yan'son to swa n karonkwa ka ma̱supo ma nen to swa?>> A hyen Iyesu,<< Ton ta yan'son.>>
+MAT 20:23 Ayesu wa hyen ga,<< mahenda en to yan'son to swa n karonkwa ka̱mi, ama monran ma to koreka n katoga ka̱mi ko ta'a ka̱gura̱ nce ga̱mi go omange a̱ta̱ra̱n na mawa, Ashawa na̱mi anan tonran a̱ure wo naganane sa̱bo na ato na wa̱ ta̱ri.
+MAT 20:24 Na ato moma'anga opa re a opa a hoge a̱nno, anmen a̱ ba̱'i ga nato re a̱rewu.
+MAT 20:25 Ama a Yesu wa hecegane ga wa hyen ga, << E yan'son na ngoma nan ato nade cewo a Yahudawa ata bisa̱ ato nanwan a̱ta̱ra̱n.
+MAT 20:26 Ama ma rawon to na'an a̱nde n ga̱hin. Na en ma na'an a̱nno ma huri woto won saro an de woto ototo n ga̱hin ma kentan bo a dange ato na ceni otoma,
+MAT 20:27 ta'a woto won saro an den woto ototo nanmen ga̱hin ma kentane an de wogema wu hin
+MAT 20:28 A̱nde ta'a Ba'a wo Woto wo rage cewo na an ma dangya wo egema ama na wan man dan wogema, ta'a a̱ pa̱ni unbu nonwan sa̱bo na turinge to ato cenmon.>>
+MAT 20:29 Na a Yesu nato na moma'anga nonwan an to ga'a Yeriko, ukutu na ato cenmon owa rope wo.
+MAT 20:30 Naande a̱ruwa̱ rewu an pa̱re a koreke nonyan, na a hoge a Yesu wun tu hura̱ a̱ ta̱ be'ogwa a hyen, <<Ashawa, Ba'a wo Dauda, hoga yanman na̱tu! >>
+MAT 20:31 Ukutu o gusa̱ni ga a hyen ga a̱ rika̱ka̱, ama a̱ ka̱sa̱ni tu kurtuma̱ ngoro a ange, Ashawa, Ba'a wo Dauda hoga yanman na̱tu!>>
+MAT 20:32 A Yesu wa eshe wa hecegane ga wa̱ rushigi ga wa hyen, <<Yegu en saro n be dangya?>>
+MAT 20:33 A̱ ra̱'a̱ni i Yesu a hyen wo, <<Ashawa,>> <<Ton saro to na'an hyanda pa̱ri.>>
+MAT 20:34 A Yesu wa hoge yanman nanwan wa̱ a̱ta̱nga̱ni shi she shawa. A̱birebire a̱ ri to hyanda pa̱ri a rope wo.
+MAT 21:1 Na a Yesu nato na moma'anga nonwan a ne'enyan keton Urshalima, a̱ ci Betapaji apa undun na o'o na Zaitun, naande aYesu wa tomane ato na moma'anga nonwan a̱rewu,
+MAT 21:2 wa hyen ga, <<Hura̱ ba na̱hira̱ re ne'enyan nekogo na̱hin, n tu gega̱na̱ tuhin en to hyanda yan'on ka̱renki ka̱ ka̱ri n ba'a wo kawa. Ke karege kago ken owangya.
+MAT 21:3 She woto wuba̱ wu yi rushigi ke hyen wo, Ashawa go a̱ rubin kawa she wu hu won to shego benanba.>>
+MAT 21:4 A̱ma̱no ma man den go na an ma shintuma̱na̱ monran ma Wotoma wu hici nhyen,
+MAT 21:5 Ke hyen anmen na̱mi Urshalima, hyanda ba wogoma wuhin awota wo ne'enyan dewo pihin, wo rawo otopa unbu wo sokane ka̱renki, n kirenki go wan tohano>>>
+MAT 21:6 Nade ato na moma'anga re a Yesu wo tomane a̱ huri an den nde a Yesu wo hyen ga an den.
+MAT 21:7 A owane ka̱renki ka̱re n ba'a wo kawa, a̱ wa̱ra̱gi shego menwan nan myawa a Yesu ka wa̱ na̱da̱ni wa koreke.
+MAT 21:8 Ato cenmon a̱ wa̱ra̱gi menwan nan myawa nonyan, a'eyawa ta'a a gasange awowa na e'o a̱ wa̱ra̱gi nonyan.
+MAT 21:9 Ato nan toropa i Yesu nabo'o nato na owangane onyan a̱ kurtuma̱ ngoro an hyen, Hossana pa Ba'a wo Dauda!>> Uno na reme on pa woto wo ne'enyan dewo nanmen rira̱'i re Ashawa! Hossana pa woto wu huri ototo!>>
+MAT 21:10 Na a Yesu wu gegi n Urshalima, ca oceso o shini n kwara, an tu rushiga̱na̱ a ange,<<A̱ure wonna>>
+MAT 21:11 Nade ato nan toropa i Yesu a̱ ra̱'a̱ni a hyen, <<a Yesu go Wotoma wo sorya n Nazarat n ceso na Galili.>>
+MAT 21:12 Nade a Yesu wa̱ gegi n ka̱'uma̱na̱ wa̱ ita̱ni ca ato nan tunka̱ci n tosanga nanmen, wa̱ ta̱rka̱ka̱ni a̱tebur na ato na tushinga̱ nsara, n shishiki she ato na tunka̱ta̱nga̱ a̱rinta̱ka̱.
+MAT 21:13 Wa hyen ga, <<An range n monran ma Onhon nhyen, <An to hecega egewa na̱mi egewa na aduwa,> ama aye rwane ego pa ma̱so'a̱n ma a̱nhin.>>
+MAT 21:14 Nade a̱ruwa̱ naton koci a rage pi Yesu nanmen egewa na Onhon, wa hogake ga.
+MAT 21:15 Ama na a Firistoci n shima̱la̱n she tubisa̱ga̱ to Mosa a̱ hendi otoma na ata hin ciwu ona Yesu won owa, hare a'o an to taga be'ogwa nanmen ka̱'uma̱na̱ a ange, <<Tohewaka ton pa Ba'a wo Dauda!>>
+MAT 21:16 A̱ rushigi i Yesu a hyen, <<Wo hoge ena a angya?>> a Yesu wa̱ ra̱'a̱ni ga wa hyen, <<En,>> <<Eta rontange cewo ena monran ma Onhon ma range ma hyan, <<<Nasorya nuno na Mya'o na'o, wo masane tohewaka towo?>>>
+MAT 21:17 Nade pa̱re pa a Yesu wu ga̱'i ga wa sore n ceso wa̱re wa̱ hurin Betani, wa̱ wa̱ci pa̱re.
+MAT 21:18 N kowongwa she a Yesu wo ne'enyan giye, wa hoge remonron.
+MAT 21:19 Na wa̱ hendi yan'on o'o na uka̱ma̱ma̱ n be'awo be onyan, wa̱ huri na wan ma ciga̱ ri'ori re owa a re, ama na wa̱ ci pa̱re wa̱ hen ciwu ko ri'ori rika̱ ba̱nta̱ na wowa. a̱pa̱re pa wa hyen o'o wa̱re, <<Wo rawon to orakana ta'a>> A̱birebire awowa na o'o wa̱re a̱ ho'a̱nan.
+MAT 21:20 Na ato na moma'anga na Yesu a̱ hendi a̱nno, an den mamake. An hyen, <<Yegu nan den o'o wanna uka̱ma̱ma̱ o ho'a̱na̱n anna?>>
+MAT 21:21 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Mahenda mago ma nen bi bisa̱ga̱, she e omange to masana anmen aye rawo oshakka ko ryawo, en to yan'son ton dan ena huri anna en men dange o'o wanna uka̱ma̱ma̱, hare ta'a en to yan'son to hyan undu wanna u kurki o makocekane nanmen nube na uru ma man den ta'a.
+MAT 21:22 She ta'a e omange tomasana anmen, ca ena i rushigi Onhon na aduwa won be pana.>>
+MAT 21:23 Na aYesu wo mokosha nanmen egewa na Onhon, she wo tan tu bisa̱ga̱ a̱nde, naande ato ototo na Firistoci nato ototo na ato a rage pewa a hyen wo, <<Na̱ta̱ra̱n na̱ye go won niriri wanna ta'a a̱ure wu pa̱ni a̱ta̱ra̱n wa̱re?>>
+MAT 21:24 naande a Yesu wa̱ ra̱'a̱ni ga wa hyen ga, << Ga̱mi ta'a nen bi rushiga̱. She in ra̱'a̱ni, ga̱mi ta'a nen bi bisa̱ ko she na̱ta̱ra̱n nanwan go nen niriri wanna.
+MAT 21:25 Nca pa a Yohana wo baptisma wu cige a̱ta̱ra̱n na ton danga obaptisma? Onhon gu pa̱ni wu a̱ka̱ woto shiri?>>
+MAT 21:26 A mahyango, she to hyen, <Pa woto pago> ton ryansan re iri na ato an mato dangya, naande ko'eyawa wo rwane a Yohana Wotoma wo Onhon go.>>
+MAT 21:27 Nade a̱ ra̱'a̱ni i Yesu a hyen wo, <<To yan'cewo.>> Nade a Yesu ta'a wa hyen ga, <<Ga̱mi ta'a n dawon bi bisa̱ ko she na̱ta̱ra̱n nanwan go n ne'en niriri wanna.
+MAT 21:28 To yegu i hendi? Yan'on woto go wo omange a'o rewu na̱ri. Wa̱ huri pa ba'a wo ka̱hin wa hyen wo, <a Ba'a wumi, hura̱ ta yara nahwa na inabi ko atane tuhura̱.>
+MAT 21:29 Nade ba'a wure wa hyen ashawa, <N dawon tu hura̱, ama na an den honran wa̱ shishingi etama nonwan wa̱ huri.
+MAT 21:30 Nade ashawa wa̱re wa̱ hura̱ka̱ni pa ba'a wowa wu hin rewu wa bishi wu nde wa̱ bishi wure wu ka̱hin. Owa ta'a wa̱ ra̱'a̱ni ashawa wa hyen, <Nen tu hura̱ ashawa,> ama wa̱ huri ciwu.
+MAT 21:31 A'o wa̱re rewu, a̱ure won den ena ashawa a̱ rubi?>> A̱ ra̱'a̱ni i Yesu a hyen wo, << Wure wu ka̱hin,>> a Yesu ka wa hyen ga, <<Mahenda mago ma nen bi bisa̱ga̱ ato na tora'aga ka̱gondo na̱'a̱ na to ropa a̱ri an bi ciga̱na̱ tu gega̱ n togoma to Onhon.
+MAT 21:32 Nade a Yohana wo baptisma wo rage wan bi bisa̱ga̱ onyan na kaye go ama aye pa̱n ciwu shenmen, ama ato na tora'aga ka̱gondo na̱'a̱ na toropa a̱ri a̱ pa̱ni shenmen nonwan, ca nande ne i hendi aye ma̱shishingi ciwu aye pa̱ni shenmen.
+MAT 21:33 To, yan'on akosa wana ta'a: Yan'on woto go won dewa awo omange ahwa na inabi wa̱ ka̱ringa̱na̱ pago n kawogo, wa̱ kini apa tu pinra̱n inabi nanmen, wa̱ ma̱ ta'a egora na eya, naande wa̱ pa̱ni a hwanyan na̱ba̱ koropa naande wa̱ re tohano n yan'on cenge.
+MAT 21:34 Na u beka̱ni be o rwano u ci, wa tomane na agema nonwan pa ato re wa̱ pa̱ni koropa a ra'agya wo ocewa nonwan ona esargo na ahwa wa̱re.
+MAT 21:35 Ato na koropa ko ahwa wa̱re ka a kentane agema wa̱re, a̱ kindi wuka̱, wuka̱ ta'a a kone wo a masange wo hen tato ta'a natare.
+MAT 21:36 Woto wure wo ahwa wa tomakane na agema na huri a̱re huri ka̱hin, ama ato wa̱re koropa ko ahwa a dange ga nde an dange agema re ka̱hin.
+MAT 21:37 Ma haika̱ni wa tomane ba'a wo wa pyawa wa hyen,< An to hoga monran ba'a wu mi.
+MAT 21:38 <<Ama na ato na koropa a hendi ba'a wure a mahyango, < Ai woto wo to gada a wonna, rage ba ton kone wo, ogado nonwan o de na̱tu.
+MAT 21:39 Nade a̱ umi wo a mashe wo n be'awo bire nahwa a kone wo.
+MAT 21:40 << To she woto wo kaboga wo rage, yegu won ton da nato na koropa kure?>>
+MAT 21:41 A̱ ra̱'a̱ni a hyen, <<won to dangya ato wa̱re to kona to kenoko, a̱ pa̱ni ato na̱ba̱ koropa ko kaboga, anan to na'an paga wo ocewa na esargo ka̱re be orano.>>
+MAT 21:42 Ayesu wa hyen ga, <<Eta rontange cewo gwa n monran ma Onhon ma range tohyan: <<Otare na amayan a eshe uwa̱re on den otare na reme, otoma na Ashawa go wanna, a pitu ta'a ena tota hin ciwu na̱she na̱tu go?
+MAT 21:43 Nadea̱nno n bi bishi an to ra'a togoma to Onhon pihin a̱ pa̱ni ato na anan to ora ri'ori re reme.
+MAT 21:44 Woto kenya n otare wa̱re won to komatongo, ama woto wo otare wa̱re o kyanan, won to nama wu go she ta̱hi.>>
+MAT 21:45 Na ato ototo na Firistoci na Farisiyawa a hoge akosa na Yesu, a̱ ma̱pi nhyen won monran nanwan go.
+MAT 21:46 A̱ sa̱ri on'yan na an to kentana i Yesu, ama an ryansan re ato enaande awa a rwane i Yesu Wotoma wo Onhon go.
+MAT 22:1 Ayesu wan dakane monran nato na akosa, wa hyen:
+MAT 22:2 << An toma'a togoma to tonran she yan'on wogoma go awon ma̱suta̱ni a dange ba'a wo wa riheni.
+MAT 22:3 Wa tomane agema nonwan a hecegane ato na wa cepe o'iya, ama ato wa̱re a cepe a eshe to rage.
+MAT 22:4 <<Nade wa tomakane agema na̱ba̱ wa hyen ga, <Ki bishi ato na a cepe nhyen ewana a̱ hita̱ki iri korya a shanrange ena'an na korage ca a nanganane ko'iwo rage ba.>
+MAT 22:5 << Ama ato wa̱re a cepe a eshe to hoga monran ma wa, a̱ huri iri nanwan woto wuba̱ wa̱ huri nahwa, woto wuba̱ ta'a wa̱ huri pa tunka̱ci tuwa.
+MAT 22:6 A'eyawa na ceni ta'a a kentane agema wa̱re wogoma a̱ kida̱gi ga hare a kone.
+MAT 22:7 Anmen na wogoma ka a̱ ha̱ciga̱ni niri wa̱re, wa̱ tucinga̱ni ato na ma̱ka̱ri nonwan a konange ca ato wa̱re ato re wa tomane, a dortoma oceso wa̱re ca.
+MAT 22:8 << A̱bire wa hyen agema nonwan, a̱ hu ma̱kima̱nga̱ ma o'iya ama ato na a cepe a̱ ha̱n'in ciwu.
+MAT 22:9 Nadea̱nno ropa ba enyanyan ca woto wu i hendi ke hyen wo a rage pa iya. >
+MAT 22:10 Agema wa̱re ka to a rope enyanyan a romane ca ato na a̱ cige, ato na reme nana rencewo hare pa̱ri pa iya pa̱ shini na kasanyan.
+MAT 22:11 << Ama na wogoma wo sorya a̱ hendi a kasane, wa̱ hendi yan'on woto wo mata'a̱ni ciwu ewa na o'iya.
+MAT 22:12 Wa hyen wo, <Wotoginto, <nago wu gegi pana ba wo mata'ane ewa na o'iya.? Woto wure wa̱ ra̱shi ma̱ tu hita̱.
+MAT 22:13 << Nade wogoma wa hyen agema nonwan,< Para wo ba sha'ara n shewona ke masan bo nanmen pa̱ri pa huri cici apa gome pare pa an to ta ngwa n marya a̱ne.>
+MAT 22:14 <<Nade ato cenmon go Onhon wo cepe, ama ryawa go wa̱ ta̱ri.>>
+MAT 22:15 Naande a Farisiyawa a̱ huri a̱ unpin na an to kentana wo n monran ma wa.
+MAT 22:16 A tomane ato na moma'anga nanwan pa̱ka̱ na ato na Hiridus a rage pi Yesu a hyen wo.<<Ka̱ma̱la̱n,>><<to yan'son nhyen gawo woto wo mahenda go awon ta'a tobansa monran ma Onhon n nonyan na reme awo rwane ta'a ato ca a̱ka̱ waca tara woto.
+MAT 22:17 Tu bishi, ena wu hendi? Ma reme to topa ka̱gondo pe Kaisar a̱ka̱ na.?>>
+MAT 22:18 A Yesu ka̱ enaande wu ma̱pi tuka̱ryo tawa wa hyen ga, <<Ga̱hin ato na kenoko, yegu en de eyen man ma'an?
+MAT 22:19 N bishi ba nsara nan ata topa ka̱gondo nan ba.>> A owangya wo udinari,
+MAT 22:20 a Yesu wa̱ rushigi ga wa hyen,<<Ka̱nye kawa kago kan nan saran manna ta'a n rira̱'i ryawa?>>
+MAT 22:21 << A̱ ra̱'a̱ni i Yesu a hyen wo, rira̱'i re Kaisar go n ka̱nye ka wa>> A̱bire a Yesu wa hyen ga, <<To enaande na Kaisar ki pa̱ni i Kaisar ena Onhon ta'a ki pa̱ni Onhon.>>
+MAT 22:22 Na a hoge a̱nno a kentagane uno an mamake. A̱ ga̱'i wu pa̱re a̱ huri.
+MAT 22:23 N hibi wa̱re uka̱ a Sadukiyawa na hyan ukuriko na u'o o rawo a rage pi Yesu a̱ rushigi a hyen.
+MAT 22:24 <<Ka̱ma̱la̱n.>> A Mosa wo hyan she woto wu u she wota rawo a'o, ma kentane wotosuwa̱ wo wa a̱ ha̱ni wu'a̱ wure wo wa̱ri wo wa wu u a̱ ma̱ta̱ngi wu a'o.
+MAT 22:25 To, an de yan'on atosuwa̱ a̱ tunda̱re. Awo ka̱hin wan de riheni na wa̱ u, naande wo ta rawo a'o wa̱ ga̱'a̱gi wotosuwa̱ wo wa wu'a̱.
+MAT 22:26 A̱nde ta'a ma ne'en n wotosuwa̱ wu hin rewu n wa wo hen tato hare tu hura̱ n wa wo hin tunda̱re.
+MAT 22:27 Naande n to kokana wu'a̱ wure ta'a wa̱ u.
+MAT 22:28 To n ukuriko na u'o a̱ure won ton da wa̱ri wo wu'a̱ wure? Nade ca nanwan awa tunda̱re a̱ ha̱ni wu?>>
+MAT 22:29 A Yesu wa̱ ra̱'a̱ni ga wa hyen, << I na̱ngi ca, enaande e yan'cewo a̱ta̱ra̱n na monran ma Onhon ma range.
+MAT 22:30 N kuriko na ato na o'gi ca ato a rawon to na'an hananga a̱'a̱ a rawon ta'a to na'an paga, an to na'an nshe atoma na a̱ba̱ye na Onhon a na omange a̱ba̱ye go n tonran.
+MAT 22:31 Ama monran ma ukuriko na ato na o'gi eta rotongage cewo ena Onhon uyi bishi gwa? Na wa hyen.
+MAT 22:32 < Ga̱mi Onhon na Ibrahim go, Onhon na Ishaku, n Onhon na Yakubu?> Nce Onhon na ato na o'gi gu ama Onhon na ato nan boma go.>>
+MAT 22:33 Na ukutu o hoge a̱nno a ne'en mamake ma tubisa̱ga̱ tu Yesu.
+MAT 22:34 Na a Farisiyawa a hoge na Yesu wu kure a Sadukiyawa a maromano pa̱ka̱.
+MAT 22:35 Woto wuka̱ nanmen nanwan awo huri to yan'son tubisa̱ga̱ to Mosa, wa̱ ma̱'in Yesu n turushiga̱ wa hyen wo:
+MAT 22:36 << A Ka̱ma̱la̱n, odoka na̱be gu u huri uru n tubisa̱ga̱ to Mosa>>?
+MAT 22:37 A Yesu wa̱ ra̱'a̱ni wa hyen wo,<<<Ku rubi ashawa Onhon nanwon n rekoko rewo nanmen nanwon netama nanwon ta'a.>
+MAT 22:38 Odoka na ka̱hin wono.
+MAT 22:39 Odoka na hin rewu ta'a u wa̱re: <Ku rubi ato na̱ba̱ nde wu rubi u unbu nanwon.>
+MAT 22:40 Ca tubisa̱ga̱ to Mosa n monran ma Atoma na Onhon ma esatane odoka wanna go.
+MAT 22:41 Na a Farisiyawa a maromano pa̱ka̱, a Yesu wa̱ rushigi ga wa hyen,
+MAT 22:42 << Yegu en de etama na̱hin na Kristi? Ba'a wawa go wan de?>> A̱ ra̱'a̱ni Yesu a hyen, <<Ba'a wo Dauda go.>>
+MAT 22:43 A Yesu wa hyen ga, nago de a Dauda, na̱ta̱ra̱n na benhyan go wa ange wo <Ashawa>? Nande wo hyan.
+MAT 22:44 Ashawa hyen Ashawa na̱mi <<E koreka n katoga ka̱mi hare she sha n masane ato nan rishiwu n gawo n kida̱ na shewona shewo.>>>
+MAT 22:45 She a Dauda ta hecega wo< Ashawa,> na go wan ton da ba'a wo wa?>>
+MAT 22:46 Woto wa rawo awo yansakan tu guringa̱ka̱na̱ i Yesu, ta'a na̱ri n hibi wa̱re woto wo rawo awo dankane iso anmen a̱ rushiga̱ka̱na̱ i Yesu.
+MAT 23:1 Nade a Yesu wa dange ato na moma'anga nonwan monran wa hyen ga,
+MAT 23:2 shima̱la̱n sha tubisa̱ga̱ to Mosa na Farisiyawa a koreke n ka̱shiki ka Mosa,
+MAT 23:3 Nadea̱nno ke rope ga ke de ta'a ena aye bishi, ama ba̱nta̱n nena an nenwan, naande ata hita̱ gu ama a ca da.
+MAT 23:4 Ata kara aronga na monren, ana gome mowa'an a dorongan ato n shitutu, ama awa a ca pata ko n bebwanba.
+MAT 23:5 << Kobe iri nanwan ata da go ona to hyanda to ato, ata da okanda nanwan ta̱ra̱ta̱ra̱, to koshega to ewa nanwan ta'a hare a̱rungurungu.
+MAT 23:6 Ata ruwa̱ pa ane'en na ato ototo apa iya pa̱ka̱ n shishiki shi ura̱gu negewa na aduwa.
+MAT 23:7 ata ruwa̱ a na'an nan kuna̱n na mewa pa tunka̱ci n tosanga a na'an hyen ga Shima̱la̱n.>
+MAT 23:8 << Ama ga̱hin a̱ ga̱'i be hyen Shima̱la̱n,> enaande Ka̱ma̱la̱n ka̱hin ka̱ka̱ ka̱gu, ga̱hin ca ka atosuwa̱ gu.
+MAT 23:9 Ki ga̱'i to hecega ko'eyawa Ashawa n kanniyan enaande Ashawa a̱ka̱ gu e omange awon nanmen tonran.
+MAT 23:10 A̱ ga̱'i ta'a ben hecega ato ototo, enaande woto ototo wuka̱ gu a̱ure a Kristi.
+MAT 23:11 Awo den woto ototo pihin, a̱uren tuhura̱ ton da wogema pihin.
+MAT 23:12 Ca woto awo umena̱n unbu nonwan n tonran, Onhon tu wa̱ta̱ka̱ wu n kida̱, woto awo wa̱ta̱ki unbu nonwan ta'a an tu umena̱ wu n tonran.
+MAT 23:13 <<Yana na̱hin shima̱la̱n sha tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! I wa̱nga̱ni ato a̱no na togoma to tonran na̱she na ato. Ga̱hin unbu na̱hin a̱yi gegi ciwu, ta'a aye gamangane ato na tu gega̱ a̱ gegi.
+MAT 23:14 Yana na̱hin Shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo, eta rya aronga na a̱'a̱ na a̱ri nanwan a̱ o'gi, eta na'an naduwa na gesange na en ma kona awona, enaande a̱nno an be kyaragya shetara she gome)
+MAT 23:15 << Yana na̱hin shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! Eta penriga̱na̱ nceson ceson nibe na uru nen ma̱ ciga̱ woto won be ropa wuka̱ gya, she i cigi ka eta da an de ba'a wo ora a wuyi huri cenmon.
+MAT 23:16 <<Yana na̱hin, a'onganaye na a̱ruwa̱! Ga̱hin ato na hyan woto awo ma̱shuro negewa na aduwa yen'unrin rawo, ama ca woto awo ma̱shuro ne zenare na egewa na aduwa nshuro men to kentana wo.>
+MAT 23:17 Ga̱hin a̱ruwa̱ atopano! Nca ena huri uru, ezenare go a̱ka̱ egewa na aduwa nata remaka ezenare?
+MAT 23:18 Eta hyan ta'a,<She woto ma̱shuro n bekondo yen'unrin rawo, ama woto awo ma̱shuro n topana ture to tatane n bekondo bire nshuron men to kentana wo.>
+MAT 23:19 Ga̱hin a̱ruwa̱! Nca na huri uru, topana ture a̱ka̱ bekondo bire be remanke topana ture?
+MAT 23:20 Nadea̱nno woto awo ma̱shuro n bekondo wu ma̱shuro n bekondo bire go niri nan rowa.
+MAT 23:21 Ta'a woto ma̱shuro negewa na aduwa wu ma̱shuro wono niri nan nanmen.
+MAT 23:22 Ko'eyawa wo ma̱shuro tonran wu, ma̱shuro n pa̱ri ane'en na Onhon pa wa koreke rowa wono
+MAT 23:23 << Yana na̱hin, shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! Eta recenga ozaka na lapsur, ama eta ga'a, ena reme ke de wato mahenda, yanman, n kaye, ena ha̱'in ke de wono ba she sha i ga̱'i ana ceni ba.
+MAT 23:24 Ga̱hin a'owanganaye na a̱ruwa̱! eta recenga ki kunba̱ ama ki tori ura̱kumi.
+MAT 23:25 Yana na̱hin shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! Eta para anbo'o na ketogwa n karonkwa, ama nanmen ta'a kamo go n toma na ren cewo n ruwa̱ unbu.
+MAT 23:26 Ga̱hin a Farisiyawa a̱ruwa̱! riye ba to para anmen na ketogwa n karonkwa na anbo'o ca an ma rema.
+MAT 23:27 << Yana na̱hin, shima̱la̱n she moma'anga na Mosa na Farisiyawa, ato na tuka̱ryo! N she shi'uye she a̱ hopa̱ni cenge to cende to reme to hyanda niji go e ne'en ama nanmen a̱upa̱ na ato na o'gi n ciri'i ba̱nta̱ ba̱nta̱ gu.
+MAT 23:28 A̱nde ta'a, na̱she na ato e ne'en she ato na omange kaye, ama nanmen ato na tuka̱ryo gu pa̱ka̱n toma na kenoko.
+MAT 23:29 Yana na̱hin, shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa, ato na tuka̱ryo! Eta manga shi'uye she atoma ke kyaragen shi'uye she ato na omange kaye.
+MAT 23:30 Aye ta hyan ta'a, She tona na'an n beka̱ni bya sheshawa she shehsawa shitu to nan ma bena̱ ga tu tura̱ ma̱hen'en ma atoma.
+MAT 23:31 A̱nde i hici nhyan ga̱hin a'o na ato na konagen atoma go.
+MAT 23:32 To ki shintuma̱ otoma na kenoko kya asheshawa na sheshawa shihin shen de!.
+MAT 23:33 << Ga̱hin ahwa'a! Ga̱hin a korowa! Nago en ton da ke sore negewa na ora?
+MAT 23:34 Nadea̱nno gu nan be tomangya na atoma nato na omange toyan'son n shima̱la̱n, en to kona ga a'eyawa nanwan ta'a ke soce a'eyawa ta'a ke gyanrane ga ato ki pa̱ga̱ni ato na̱ba̱n ta'a n'wo'o n ka̱'uma̱na̱ ka̱hin, ke na'an ropa ga nan ceson ceso ke na'an netama ga.
+MAT 23:35 Nan to tomane nato wanna sa̱bo na mahen'en ma ato na kaye ana e konange n kanniyan ma mokoshe n unbu na̱hin, na riyen ma̱hen'en ma Habila woto kaye, tu huren na Zakariya ba'a wo Berekiya, awo e kone n be'awo be pa̱ri pa rawo ciri'i wato bekondo be egewa na aduwa.
+MAT 23:36 Mahenda mago ma nan bi bisa̱ga̱, ca iriri wa̱no en to ragane ato na nyan manna.
+MAT 23:37 << O Urshalima, o Urshalima ato na to konaga atoma na na Onhon, ato na tomasa to ato na a tomane pewo, ma hanba mago man na rubi nbe ronmano nde karoma kata romano a'a na kawa nanmen na a̱ba̱ye, aye eshe.
+MAT 23:38 Ewana benanba, aye ga̱'a̱gi egewa na̱hin okopaye
+MAT 23:39 Nan bi bisa̱ga̱, e rawo man hyanda kana sai n uhibi na en to hyen, <Woto wo uno na reme go awo ne'enyan dewo n rira̱'i re Ashawa.>>>
+MAT 24:1 Na Ayesu wo sore n ka̱'uma̱na̱ ka Onhon, she wotan tohano ato na moma'anga nonwan a̱ bisa̱gi wu ima̱gima̱gi na egewa na aduwa.
+MAT 24:2 Ama a Yesu wa̱ ra̱'a̱ni ga wa hyen,<< I hendi ba̱nba̱n iriri wanna?>><< mahenda mago ma nan bi bisa̱ga̱, yan'on ka̱'undu ka rawo ka an to ga'a n kayan'on rowa, ka a rawon to gata kago.>>
+MAT 24:3 Na a Yesu wo koreke n undu na zaitun ato na moma'anga nonwan a rage pewa abawa a hyen wo,<< Tu bishi,>><< wahon go an ton da iri wono? ta'a yegun ton da to mapa to mokosha mawo n tuhuwa̱ to nahon?>>
+MAT 24:4 Nade a Yesu wa̱ ra̱'a̱ni ga wa hyen: << Shi'a̱ ba a̱she oderai ma̱re aye na̱ga̱tuma̱,
+MAT 24:5 Naande ato cenmon an to ragen rira̱'i rimi a hyen, <A̱wore an de a Kristi,> hare a̱ na̱ga̱tuma̱ ato na̱ba̱ cenmon.
+MAT 24:6 En ta'a to hoga monran ma ngesangesa kopiye, ama anmen na̱hin a̱re a̱ kurki ciwu. enaande ma kentane go an de iriri wono, ama tuhuwa̱ to kanniyan tota rage cewo naande.
+MAT 24:7 Ato ca na kanniyan an to na'an nan gesangesa, togoma tun ma̱kurika̱nu n renbota n toyan'on, renmonron ta'a ren to na'an n maringisa̱ ma cenge ta'a man to na'an kopiye n kanniyan.
+MAT 24:8 Ta'a ca iriri wono turiye to tohengago togo naande.
+MAT 24:9 << A̱bire ta'a be an be pinra̱n ai kone, ato an be esa sa̱bo na rira̱'i rimi.
+MAT 24:10 N beka̱ni bire ato cenmon an to kena a re amana na ayan'on a ma'esango.
+MAT 24:11 Atoma na tobya ta'a cenmon an to sorya a̱ na̱ga̱tuma̱ ato cenmon.
+MAT 24:12 Naande ta'a makasagane ma otoma na kenoko man to na'an, ma̱ruwa̱nu ma ato na̱ba̱ man ma ema.
+MAT 24:13 Ama woto awo pa̱ri anmen wa eyake an tu ringe wu.
+MAT 24:14 An to bansan monran ma togoma to tonran n kobe be'awo be kanniyan man de osheda na ato ca n cenge, naande tuhuwa̱ to kanniyan to rage.
+MAT 24:15 << She i hendi ta'a <otoma na shigere ona Wotoma wo Onhon a Daniel wu hici, woto wo toronta a̱ ma̱pi monran manna.
+MAT 24:16 Ato na ne'en cenge to Yahudiya a̱n ga̱ri a̱ gegi na baka.
+MAT 24:17 Woto ne'en ta'a n binkira̱n be ka̱woro a̱ ga̱'i tu gurga̱ni tohyan a̱ umi yen'unrin negewa.
+MAT 24:18 Woto won nahwa ta'a a̱ ga̱'i mokosa negewa tohyan a̱ ume ena ma̱'uta̱na̱ mawa.
+MAT 24:19 Yana a̱'a̱ na shisuwa̱ na̱'a̱ na omangage a'o n sha'ara a̱bire.
+MAT 24:20 En da ba aduwa ma̱re tosoma ture to rage n shiye, ko ta'a n uhibi na a̱subi.
+MAT 24:21 A̱bire be an ton da yan'on ma̱supo ma yemi ama ata den cewo n ma̱riye ma kanniyan tu huren benanba ta'a a rawon to dankana.
+MAT 24:22 Shen nce na a emen a̱hibi wa̱re, woto shiri rawo awon to sora ko wuka̱, ama sa̱bo na ato na a̱ ta̱ri an to ema ahibi wa̱re.
+MAT 24:23 A̱bire ko'eyawa awo hyen ruka̱ ba a Kristi awona pana, ko ta'a a̱ure pa̱re ki ga̱'i to ra'a.
+MAT 24:24 Naande a Kristi na atoma na tobya an to sorya a na'an niriri na yemi na̱son na an tu na̱ga̱tuma̱ ato, ko she ato na a̱ ta̱ri gu she ma man de.
+MAT 24:25 E hoge nan bi bishi ma'entan.
+MAT 24:26 << Nadea̱nno she aye hyen a̱ure pa̱re n cenge tu ho'i kire ke sore cewo, she ka aye hyen wun pa̱re nanmen ka̱kono, kire ki ra̱'ani ciwu.
+MAT 24:27 shen nde tuwa̱rgina̱ tota da wal na sorya arowa tu hura̱ a̱kida̱, a̱nde mokosha ma Ba'a wo Woto man to na'an.
+MAT 24:28 Apa ena u ne'en a̱pa̱re pa a̱rintun ata maromano.
+MAT 24:29 << She ma̱supo ma̱re ma hu gu, <<<onhun un tu uta̱, <<<opena ta'a o rawon to ha'anka pa̱ri, nnangare ta'a men to kenagen na sorya n tonran an tu rungusa̱na̱ ta'a iriri na ura̱gu nan tonran.>
+MAT 24:30 <<A̱bire be mapa ma Ba'a wo Woto man to sorya n tonran, ba̱nba̱n kushi ko kanniyan ta'a kon to tan ngwa, an to hyanda Ba'a wo Woto wo ne'enyan dewo n kanran na̱ta̱ra̱n n to hewaka tu uru.
+MAT 24:31 Won to tomane ta'a na atoma na a̱ba̱ye nonwan a̱ hunrin benhyan be omange be'ogwa, a romangano ato na wa̱ ta̱ri na sorya arowa na̱ kida̱, ana sorya n kawogo ka kanniyan kana tu hura̱n ka̱re.
+MAT 24:32 << Ki ma̱ma̱'a̱ngi n no'o na uka̱ma̱ma̱: She shira̱'i she owa shiri to soce awowa ke yan'son nhyen ushiye o ne'enyan keto go a̱nde.
+MAT 24:33 A̱nde ta'a she i hendi iriri wanna ca enen bi bishi ke yan'son nhyen beka̱ni bire be ne'enyan keto, bya no'an n peto.
+MAT 24:34 Mahenda mago ma nan bi bisa̱ga̱, nyan manna n dawon tu hura̱ she sha ca iriri wono e rage.
+MAT 24:35 Tonran n kida̱ tun tu huwa̱ ama monran ma̱mi ma rawon tu huwa̱.
+MAT 24:36 << Woto wo rawo awo yan'son uhibi, ko ta'a beka̱ni, ko atoma na a̱ba̱ye nan tonran, ko Ba'a wo Woto, sede Ashawa abawa.
+MAT 24:37 She nde ageta na Nuhu ana na'an, a̱nde mokosha ma Ba'a wo Woto man to na'an.
+MAT 24:38 Nshe na hibi na ma̱ni ma tupana she mata rage cewo, she ato an korya an toswa, n riheni n to iyaga, hare tu hura̱n hibi na Nuhu wu gegi n ohato,
+MAT 24:39 Sha ata yan'cewo ama an mawa hare ma̱ni ma Tupana ma rage ma̱ shiga̱ni ga. A̱nde orewo na Ba'a wo Woto man to na'an.
+MAT 24:40 A̱bire be an to hyanda ato rewu nahwa, a̱ umi wuka̱, a̱ ga̱'i wuka̱.
+MAT 24:41 An to hyanda a̱'a̱ rewu n ta̱hi, n namon a̱ umi wuka̱, a̱ ga̱'i wuka̱.
+MAT 24:42 << Nadea̱nno ke koreka ma̱suta̱ni, enaande e yan'cewo uhibi na orewo na Ashawa na̱hin.
+MAT 24:43 Ama ke yan'son, she ata hyan woto wo egewa wota yan'son beka̱ni n geta go wuhin won tu gegi negewa nonwan, wonan to koreka wo mashebe a gamangan wuhin tu gega̱n bu negewa.
+MAT 24:44 Nadea̱nno, ga̱hin ta'a ki ma̱suta̱ni, enaande Ba'a wo Woto won to rage n beka̱ni be e rawon netama.
+MAT 24:45 <<A̱ure won de wogema wo omange kaye awo omange o'enton, awo ashawa na egewa nonwan to pana wo to omanga egewa nonwan, a na'an pana ga iri korya ma'entan?
+MAT 24:46 Uno na reme on pa wogema awo ashawa na egewa nonwan tu giye a̱ wuri wu she won nena wa hyen wo an de.
+MAT 24:47 Mahenda mago ma nan bi bisa̱ga̱, she sha wo tatan bo n bicigo nonwan toren'on towa ca.
+MAT 24:48 Ama she wogema wure woto wo kenoko go, wa hyen ta'a ashawa na egewa na̱mi wu gi ciwu ma'entan,
+MAT 24:49 Naande wa̱ ri tu kinda̱na̱ ayan'on nonwan na cegema, wan korya wan toswa na swaya,
+MAT 24:50 ashawa na egewa na wogema wure wun tu giye n hibi na wa rawon netama, n beka̱ni be wa yan'cewo,
+MAT 24:51 Woto wo egewa won to komanga wo to'oawa n be'o, a̱ pa̱ni wu ocewa nonwan nato na tuka̱ryo. A̱pa̱re pa an to na'an nan ngwa n marya a̱ne.
+MAT 25:1 << N beka̱ni bire togoma to tonran ton to na'an she nbogo n opa n nan umi ncella nan myawa me huri pa a̱ngo.
+MAT 25:2 Ato atan nanmen nanwan a etange ato atan ta'a a etange cewo.
+MAT 25:3 Nbogon nan men de nan etange cewo a umi ncella na myawa nan rawo mananbe.
+MAT 25:4 Nbogon nan etange me umi mananbe mawa nanmen kendashe.
+MAT 25:5 Naande u'a̱ngo o rage cewo ma'enta a̱ri to kenanan ndawo ca nanwan hare ndawo me shiga̱ni ga.
+MAT 25:6 << Na ogeta u ka̱sa̱nu a hoge ohece nhyan u'a̱ngo owata! Sorya ba ke epan bo>.
+MAT 25:7 <<Ca nbogon ma̱nde mya rengage mya ta̱ ncellan na myawa.
+MAT 25:8 Nbogon de etange cewo mya hyen a̱re etange,< To takya ba mananbe ma̱hin ryawo ncella nan tun men tu o'ga̱.>
+MAT 25:9 << Ama nde n etange mya hyen ga, a'a ryaga ba pa tun ka̱ta̱ ke shan ma̱hin enaande ka mananbe ma̱tu ma rawon mato rogo to warano n ga̱hin.
+MAT 25:10 << Sha a ta̱ gi ciwu pa to shan mananbe u u'a̱ngo o ce, ato a ma̱suta̱no ka a̱ gegi o'iya a̱ wa̱nga̱ni opeto.
+MAT 25:11 <<Na an de honran nbogon den re shan mananbe a ce a hyen ashawa, Ashawa, tu ucigi opeto
+MAT 25:12 << Ama a̱ngo o ra̱'a̱ni ga wa hyen, n be yan'cewo.>
+MAT 25:13 << Naandea̱nno ke mashe naande e yan'cewo beka̱ni ko uhibi.
+MAT 25:14 <<Ta'a togoma tonran ton ta na'an nshe woto go awon tu re tohano wa hecegane agema nonwan wa̱ pa̱ni ga to omanga toryan'on towa.
+MAT 25:15 Woto wure wa̱ pa̱ni woto wu ka̱hin atalent antan a̱wu hin rewu ta'a atalent rewu awon hyen'on ta'a otalent uka̱ ko'ewa daidai a̱ta̱ra̱n nonwan a̱bire wa̱ huri.
+MAT 25:16 Wogema wure wu ra'i atalent antan re a̱birebire wa̱ huri wan to getogagagan go hare wa̱ ciga̱ka̱ni atalent antan.
+MAT 25:17 A̱nde ta'a wogema wure wu ra̱'i atalent rewu wa getoge ago a wa̱ ciga̱ka̱ni atalent a̱ rewu.
+MAT 25:18 Ama wure wu ra̱'i otalent uka̱ wa̱ huri wa̱ kini ohyanbe wa̱ so'in otalent re ashawa na egewa nonwan a̱ pa̱ni wu.
+MAT 25:19 << Na a koro ashawa na egewa na agema wa̱re wa̱ giye pa tohano a̱ ta̱ga̱nu atalent re wa̱ pa̱ni ga.
+MAT 25:20 Wogema wure wu ra'i atalent antan wa maheketane wa owane atalent antan wa hyan ashawa wun pa̱ni atalent antan ewana n bicigi orewa na antan.
+MAT 25:21 << Nande ashawa na egewa wa hyen,<< Madalla wogema wo reme, woto wo kaye won de mahenda niri nan nennen nan bo tata ni na uru, rage ke na'an nanmen cende pa̱ka̱n na ashawa na egewa nanwon!>
+MAT 25:22 << Awu ra̱'i atalent rewu ta'a wa maheketane wa hyen,< Ashawa,> wun pa̱ni atalent rewu ewana n bicigi orewa na atalent rewu ta'a.>
+MAT 25:23 << Naande ashawa wa hyen wo,< Madalla wogema wo reme awo kaye! won de mahenda ne nan nennen nen bo tata ne na yemi rage ke na'an nanmen cende na ashawa na egewa nanwon!>
+MAT 25:24 << Owa ta'a woto wu ra'i otalent uka̱ wa maheketane wa hyen, <Ashawa,> n yan'son gawo woto go awo gome, wota guwo apa wo bere cewo, wu rubi wusu.>
+MAT 25:25 Enaande wono an hoge ryan'san hare an huri an kini ohyanbe a̱n so'in, otalent nanwon, ra'a iri nanwon.>
+MAT 25:26 << Naande ashawa na egewa nonwan wa ra̱'a̱ni wu wa hyen, <<Gawo wogema wo kenoko worabya! Ashe wo yan'son nta guwo apan bere cewo, ga̱mi woto wu rubi ena wusu gu ta'a?
+MAT 25:27 Ma̱ ha̱'in kon masange nsara nanmen kininbu ke tushi'a̱ga̱ nan giye sha nna gubi iri na̱mi i rewa.
+MAT 25:28 <<< Naandea̱nno ra'a ba otalent re owa uka̱ ki pa̱ni woto wure wo omange opa.
+MAT 25:29 Naande woto wo omange a̱ure ata kasa, hare i yemi, woto wo rawo iri ka, ko enan ryawo na wa omange an to ra'i ego.
+MAT 25:30 Ta'a ke masan wogema wure wo kenoko nanmen cici tu yemi a̱pa̱re pa an to tan ngwa n marya a̱ne.
+MAT 25:31 << N beka̱ni be Ba'a wo Woto rage n to hewaka tuwa pa̱ka̱n na atoma na a̱ba̱ye ca a̱bire be wan to koreka n ka̱shiki ka uru, ka togoma tuwa.
+MAT 25:32 An to romano ca ato na kanniyan nekogo nonwan won to warano ga ba̱nta̱banta̱n nde wuhuwa̱ wota warano ita̱ma̱'in n shiye.
+MAT 25:33 Won to shi'a̱ ita̱ma̱'in n katoga, shiye ta'a n ka̱ngura̱ kauwa.
+MAT 25:34 << A̱bire be wogoma won to hyan ato nan katoga kauwa,<< Rage ba, ga̱hin na Ashawa na̱mi woye masange uno na reme, ra'a ba togoma to Onhon wuyi shi'a̱go n ma̱riye ma kanniyan.
+MAT 25:35 N na na'an remonron a yen ryake, n hoge re'ore, ayin pa̱ni ena to swa n men den wokasane a yin ra̱'i.
+MAT 25:36 Nin ka̱sundu ayin ta̱'a̱ni aronga, n ruma̱ngi aye na'ange n ga̱mi, nen kurkuku aye rage nkuna̱n nan mi.
+MAT 25:37 A̱bire be ato na omange kaye an to ra'ana wo a hyan,<<Ashawa, wahon go tu wu hendi n remonron a towo ryake? ko ta'a awon re'ore a tuwu pa̱ni ma̱ni ma to swa?>
+MAT 25:38 Ta'a wahon go ta'a wun ka̱sundu a tuwu ta̱'a̱ni aronga?
+MAT 25:39 Ko ta'a wahon go tuwu hendi wu ruma̱ngi ko awun kurkuku ato wo ragagya nkuna̱ ?
+MAT 25:40 << Naande wogoma wure won to ra'ana ga a hyen,< mahenda mago ma nan bi bisa̱ga̱, ca ena e dange woto wuka̱ nanmen na yan'on na̱mi awo huri to na'an wo nennen, ga̱mi gu en dange.>
+MAT 25:41 << A̱bire be wan to hyan ato nan ka̱ngura̱ kauwa, <Ma̱ra̱wa̱nu ba n ga̱mi ga̱hin ato na a̱ ta̱gi uno, gega̱ ba nora na ca o'ga̱ ona a tane kitunbul na atoma nonwan.
+MAT 25:42 Nan hoge remonron in pa̱ni ciwu iri korya, an hoge re'ore ayin pa̱ni ciwu ma̱ni ma to swa.
+MAT 25:43 N men den wokasane ayin ka̱ra̱tuma̱ ciwu a nin ka̱sundu ayin pa̱ni ciwu aronga na mata'a, n ruma̱ngi a nin kurkuku aye rage cewo nkuna̱n nan mi.>
+MAT 25:44 <<A̱bire ta'a be an to ra'ana a hyen <<Ashawa, nca pa tuwu hendi n renmonron ko ta'a n re'ore ko ta'a apa won de wokasane ko ka̱sundu ko sha wu ruma̱ngi ko she wun kurkuku a̱ towo bereka cewo?>
+MAT 25:45 << A̱bire be wan to ra'ana ga a hyen,< mahenda mago man ne'en bi bisa̱ga̱, na eyande e dange cewo woto wuka̱ wu huri to na'an wo nennen nanmen nato wanna, to ga̱mi go e dange cewo.>
+MAT 25:46 << Ato wa̱re wo an tu gega̱ n tohengago to rawo tuhuwa̱, ato na omange kaye ka an tu ciga̱ behono be rawo be'epo.>>
+MAT 26:1 Na Yesu hu tu hita̱ga̱ ca iri wa̱re, wa hyen ato na moma'anga nonwan,
+MAT 26:2 <<She nde e yan'son, iwuki i ceni ageta rewu go, an ta'a to cewa Ba'a wo woto a geran bo.>>
+MAT 26:3 U Firist na ototo nato ototo nato ama romano n sorato nonwan uPrist na uru, awo rira̱'i a Kayapas.
+MAT 26:4 A kere monran a kentane i Yesu rihinrihin a kone wo.
+MAT 26:5 <<Ama a hyen, nca beka̱ni be iwuki, ma̱re, ato a̱ kurtuma̱ rebonta.>>
+MAT 26:6 Na Yesu won betani negewa na simon, awona omange shegoma she uta̱ka̱ na to'uwawa go,
+MAT 26:7 Yan'on wu'a̱ wa rage pi Yesu n ke kolba ke wa ke an den tare na onis ki shinin mananbe ma omange usunsun na rotome na omange sara. Beka̱ni be wan korya iri korya, wa̱ kuwa̱n bu n unbu.
+MAT 26:8 ama na ato na moma'anga a hendi a̱nde, an den anmen shiri ama hyango, ai ewanna obanna go?>>
+MAT 26:9 << She a nan ka̱ci mago she a na̱ cigi nsaran nan yemi a ta̱ra̱ta̱gu a̱uwa̱ta̱gi.>>
+MAT 26:10 Ama na eyande wo yan'son ena an tu hita̱ga̱ wa hyen ga, <<Yegu naande aye netama n wu'a̱ wonna? ai ena reme go wan me dange.
+MAT 26:11 Ato nan ota̱gi an pa̱ka̱n ga̱hin kobe Uhibi, ama ga̱mi nce kobe uhibi go n na'angen ga̱hin.
+MAT 26:12 Mananbe manna ma wan kuni wun man suta̱ gu domi na tu bisa̱.
+MAT 26:13 Mahenda mago ma nan bi bisa̱ga̱, ba̱nba̱nu pa an ton da monran manna ma rotome, ca n kanniyan, an to na'an hita̱ga̱ ena wu'a̱ wonna won den a na'an matamarenganga nonwan,>>
+MAT 26:14 Naden Ayahuda woto wuka̱ nanmen nato na moma'anga opa na̱ rewu wa̱re awo ata hecega Yahuda Iskariyoti, wa̱ huri pa ato ototo na Firist,
+MAT 26:15 wa hyen ga,<< Yegu en man pana, she n bi ka̱ta̱nge Iyesu? > a̱ pa̱ni wu nsaran nanmen azurpa opa tato.
+MAT 26:16 Nari beka̱ni bire wa̱ ri to sara onyan na an to kenta Iyesu.
+MAT 26:17 Uhibi na ka̱hin na iwuki na kapoka na rawo yist, ato na moma'anga a rage pe Yesu a hyen wo, <<Nce pa wu rubi tu shi'a̱ge ko re iri korya na iwuki na okaca?>>
+MAT 26:18 Ayesu wa hyen ga, <<Hura̱ ba n ceso nanmen pa yan'on woto, ke hyen wo, ka̱ma̱la̱n ka hyen beka̱ni bewa be ne'enyan keto, won korya iri korya na iwuki na okaciya negewa nanwon pa̱ka̱ nato na moma'anga nonwan.>>
+MAT 26:19 Ato na moma'anga ka anden nde Ayesu wo hyen an de, a̱ cige ta'a iri korya na iwuki na to kaca.
+MAT 26:20 Na marauna ma rage, Ayesu wa koreke a re iri korya nato na moma'anga opa na̱ rewu.
+MAT 26:21 She an korya iri korya, wa hyen, <<Mahenda mago ma nan bi bisa̱ga̱, woto wuka̱ nanmen ga̱hin won man cewa pa ato nan eshe.>>
+MAT 26:22 A ma̱ta̱ etama a̱ ri to hyen ma̱ka̱ma̱ka̱, mahenda nce ga̱mi go, Ashawa?>>
+MAT 26:23 Ayesu wa̱ ra̱'a̱ni wa hyen ga, <<Woto won masane ka'ara n ketogwa kika̱ n ga̱mi a̱ wure won man cewa.
+MAT 26:24 Ba'a wo woto won tu hura̱ nde a rangen n monran ma Onhon ga̱mi nonwan. ama yana n woton to cewa Ba'a woto enan ma hura̱ wu she ana ma̱ci ciwu.>>
+MAT 26:25 Nande Ayahuda, awon to cewa wo, wa hyen, <<Mahenda nce ga̱mi go, Arabbi?>> Ayesu wa̱ ra̱'a̱ni wa hyen, <<En, gawo go>>
+MAT 26:26 She atan korya iri korya, Ayesu wa̱ umi kapoka, wa̱ kuni Onhon wa keragano ago, wa̱ pa̱ga̱ni ato na moma'anga nonwan, wa ange, ra'a ba ke re, to'oawa tumi togo tonna.>>
+MAT 26:27 Nande Ayesu wa̱ umi karonkwa, wa̱ kuwa̱ni Onhon wa̱ pa̱ni ga, wa ange, swa ba, ba̱nba̱n na̱hin.
+MAT 26:28 Ma̱hen'en ma̱ mi mago manna ama tushi'a̱ga̱, ama an to tura̱ na an ma shigita̱ ciri'i to ato cenmon.
+MAT 26:29 N bi bisa̱i, n dawon to swaka ma̱ni ma inabi na̱ri benanba hare uhibi na nan ta swaka n ga̱hin togoma to Ashawa.>>
+MAT 26:30 Ayesu nato na moma'anga nonwan a ronge oronga, a sore a̱ hurin nudu na omange e'o na Zaitun.
+MAT 26:31 Nande Yesu wa̱ bishi ga wa hyen, << N geta wanna ca na̱hin en to ganra kin ga̱'i panna, sa̱bo na iri nan ma̱n biciga̱, ena a rangwa go: <<Nan tu ripa̱ wuhuwa̱ wo ugarke na ita̱ma̱'in ta'a an to waserga.>>
+MAT 26:32 Ama she an kurtuma̱ n u'o, nan bi ciga̱ tu gega̱ n Galili.>>
+MAT 26:33 Abitrus wa̱ ra̱'a̱ni, <<Ko she ba̱nba̱n nanwan a̱n ga̱ri niri nan bu ciga̱, ga̱mi n dawon to gara ko ryawo.>>
+MAT 26:34 << Ayesu wa̱ ra̱'a̱n bu wa hyen, Mahenda mago man bu bishi,>> kahen uka̱rin uta̱ ka̱ka̱ra̱nko, won to hyen won yan'cewo ma tato.>>
+MAT 26:35 Abitrus wa hyen wo, <<ko she nan tu uwa̱, n dawon to hyen nbo yan'cewo.>>A̱nde ta'a ato na moma'anga na ceni a hyen.
+MAT 26:36 Nande Ayesu nato na moma'anga nonwan a̱ huri pa ata hyan Gesemani,< Apa ata pinra̱n ri'ori re Zaitun, wa hyen ga, koka ba pana nan tu hura̱ pa̱re n men dan aduwa.>>
+MAT 26:37 Wa̱ umi Ibitrus na'o rewu ana Zabadi pa̱ka̱ nonwan, wa̱ ri usuwa̱ shiri netama.
+MAT 26:38 Nande wa hyen ga, <<Usuwa̱ shiri nan pa̱ka̱n ga̱mi en to yan'son man kona. esa ba pana ke bereka n ga̱mi.>>
+MAT 26:39 Na wa maheketane ryawo, wa̱ cibi unbu nonwan n kida̱ wan den aduwa wa hyen, <<Ashawa na̱mi, she mamma dan, kun umena̱n karonkwa kanna. Ko nande nce enan rubi go an ton da ama ena wu rubi.>>
+MAT 26:40 Nande Ayesu wa mokoshe pa ato na moma'anga nonwan wa̱ buri she a̱ wa̱ta̱gi. Wa̱ rushigi Ibitrus ashe e rawon to yan'son to bereka n ga̱mi awa uka̱?>>
+MAT 26:41 << Bereka ba ke de aduwa ma̱re e kenan n tomo'on. Benhyan bi rubi ama to'uwawa to u>>
+MAT 26:42 Nande Ayesu wa̱ hura̱ka̱ni ma̱hin rewu wan den aduwa wa hyen, << Ashawa na̱mi, she ma rawon man dan kon recengage karonkwa kanna shesha n so mago, etama nanwon e man den
+MAT 26:43 Na wa mokosakane wa̱ wura̱ka̱ni ga nan dawo, nande a̱she nanwan a maryange.
+MAT 26:44 aYesu wa̱ ga̱'a̱ka̱ni ga wa̱ huri wa dankan aduwa mahen tato, wa hyankan iri ika̱.
+MAT 26:45 Nade Ayesu wa mokosakane pa ato na moma'anga wa hyen ga, <<Eta wa̱ta̱gi n horna? Ewana, Beka̱ni bici be an to cewa Ba'a Woto n sha'ara she ato na ciri'i.
+MAT 26:46 Renga ba, tun huri woto won man cewa wu ce!>>
+MAT 26:47 She wo tan monran, a Yahuda, wuka̱n opa na̱ rewu, wa̱ ce. pa̱ka̱ nato na ma̱ka̱ri cenmon na̱ sanka̱ri, n shigo, ana a tomane nasorya pe uprist wo ototo nato ototo.
+MAT 26:48 Nande woto wo to cewa wo wa̱na̱ biso ga alama tohyan:<<Woto wo nan to tu hura̱ pewa n suma̱nga wo a̱ure en to kentana.>>
+MAT 26:49 N to raganan wa harane pe Yesu, <<Nan kuna̱n wa hyen, ka̱ma̱la̱n>>
+MAT 26:50 Ayesu wa̱ ra̱'ani wu wa hyen, <<Wotoginto wumi, en dan na wo owane.>> Nande a maheketane, a̱ ka̱pshigi Iyesu a kentan bo.
+MAT 26:51 N to hyandana a̱nde wuka̱ nanmen nato na ne'en na Yesu, wa sortome usa̱nka̱ri nonwan, wa epi retobe re wogema wo a Firist na ototo.
+MAT 26:52 << Nande Ayesu wa hyen wo koshetoma usa̱nka̱ri nanwon n sutu na owa,>>Nade aYesu hyen wu woto umi usa̱nka̱ri, usa̱nka̱ri gon to kona wo.
+MAT 26:53 Won netama n dawo to yan'son to hecega Ashawa na̱mi gwa, a̱birebire an tomangyan na atoma na a̱ba̱ye? na yemi na huri ato na maka̱ri wanna hare son ma opa rewu gwa?>>
+MAT 26:54 Ama nago an tu shintuma̱ ena a range n monran ma Onhon ma hyen ma kentane go iri wa̱re made?>>
+MAT 26:55 A̱bire aYesu wa hyen ato wa̱re yemi, <<E sorya na sa̱nka̱ri n shigo ken kentane she woto to epa ato n nonyan gwa? kobe uhibi nta na'angan ga̱hin ayen kentan cewo.
+MAT 26:56 Ama anden a̱nno gu na an ma shintumo ena tonran to Wotoma to hyen.>>Nande ca ato na moma'anga nonwan a̱ ta̱'i wo ko'ewa wa huri.
+MAT 26:57 Ato na kentane Yesu a owane wo pe Kayapa, uprist na ototo, apa shima̱la̱n she tubisa̱ga̱ to Mosa nato ototo a maromano.
+MAT 26:58 Ama Abitrus wa̱ rope ga na bo'o hare tu hura̱ n peto na egewa na uprist na ototo. wa̱ gegi wa koreke nato na iya na wan ma hyanda na an to koka.
+MAT 26:59 Woto ototo na Firistoci na ototo nato nan nanmen kapara ca a̱ sa̱ri okasaneda na tobya na an to kentana Iyesu nenwan na an ma kona wo.
+MAT 26:60 Ama a̱ cigi ciwu, ashedu na tobya a rage. N tuhuwa̱ ato rewu a sorya
+MAT 26:61 Ta'a a hyen, <<woto wonna wo hyen, won to yan'son to komaga egewa na aduwa ka Onhon, a ma̱ka̱ni kago nahibi atato.>>>
+MAT 26:62 Nande uprist na ototo wa̱ kurki be'eshe wa hyen Iyesu, <<Wo rawon to ra'ana? oshaida wanna ato wanna a owane?>>
+MAT 26:63 Ama Ayesu wa̱ riki. Nande uprist na ototo wa hyen wo, <<Nbu ta̱ga̱nu n Onhon na behono: Tu bishi gawo go Almasihu, Ba'a wo Onhon.>>
+MAT 26:64 Ayesu wa̱ ra̱'a̱n bo wa hyen. <<En, nde wu hici,>> <<Ama n ne'en bi bisa̱ga̱ ca:, Nari nanba en to hyanda Ba'a wo Woto wo koreke n ka'ara ka katoga ka Woto wo a̱ta̱ra̱n, awo ne'enyan dewo ta'a nanmen kanran hare pare n tonran.>>
+MAT 26:65 Nande uprist na ototo wa ha̱nda̱gi ewa nonwan n usuwa̱ shiri wa hyen, <<Wo to'age Onhon oshaida na̱be go ta'a ton saro? E hoge na wa to'age Onhon.
+MAT 26:66 Yegu i hendi?>> A̱ ra̱'a̱ni a hyen, ma rogo to kona wo.>>
+MAT 26:67 Nande a̱ ci'a̱ngi wu tucemu na̱she a̱ koman bo tamashe, ato na̱ba̱ a̱ kindi wu
+MAT 26:68 a ange, <<To dange unabci, >> she gawo go a Kristi. A̱ure wu ripi?>>
+MAT 26:69 Beka̱ni bire she Abitrus wo koreke n sheraye she egewa wa̱re, yan'on ba'a wa̱'a̱ awon toma negewa wa̱re wa rage pewa. wa hyen wo, gawo nce pa̱ka̱ na Yesu woto wo oceso na Galili go wo ne'enyan,>>
+MAT 26:70 Nande Abitrus wa̱ ra̱'a̱n bo wa hyen, n hoge cewo ena wo ange.>>
+MAT 26:71 Nande Abitrus wa sore, yan'on ba'a wa̱'a̱ wa̱ hendi wu wa hyen ato nan pa̱re,<<Woto wonna wun pa̱ka̱ na Yesu awo oceso na Nazarat.>>
+MAT 26:72 Wa̱ ma̱shiwura̱ta̱gu wa hyen: <<N yan'cewo woto wonna!>>
+MAT 26:73 Na an de honran, ato na esage pa̱re a̱ huri pi Bitrus a hyen wo, <<Mahenda wun pa̱ka̱n woto wonna, na won monran tu bishi.>>
+MAT 26:74 Nande wa̱ ri to tagya unbu nonwan uno na reme cewo wa̱ mashiurogu wa ange, <<N yan'cewo woto wonna, A̱birebire uka̱rin uwa̱ ta̱ ka̱ka̱ra̱nko.
+MAT 26:75 Nande Abitrus wa̱ ma̱ta̱ma̱ringi n monran ma Yesu hici nhyan: <<She uka̱rin uta̱ ta̱ ciwu ka̱ka̱ra̱nko, won man esa ma tato.>> Ta'a wa sore ninji wa̱ ta̱n ngwan nan gome.
+MAT 27:1 N kowongwa, ato ototo na Firistoci na ototo nato ototo na ato a kere monran a kone Iyesu.
+MAT 27:2 Naande a kentane Iyesu a̱ ka̱ri wu a owane wo pe Bilatus ogona na Roma.
+MAT 27:3 Na Yahuda, wure awun ka̱ta̱n ga Iyesu wu hendi a̱nde naande wa den etama wa koshetomangya Apristoci na ototo nato ototo na ato nsaran mande me talenti opa tato wa̱re.
+MAT 27:4 Wa hyen, <<N men de ciri'i nan pa̱ni woto wu ma̱ga̱shi ciwu a kone wo.>> A̱ ra̱'a̱ni bo a hyen wo,<<Nce ena tu ta̱ga̱nu n monran mawo.?>> << A̱ma̱no amawo mago.>>
+MAT 27:5 Nande wa̱ tura̱gi ga nsaran mande nanmen negewa na Onhon, wa sore wa huri wa soce unbu nonwan.
+MAT 27:6 Ama ato ototo na Firistoci a̱ ta̱ngi nsaran ma̱nde a hyen, <<Ma rawon to rema tu ta̱ga̱nu ngo apa tushi'a̱ga̱, enaande nsaran nan ma̱hen'en go.>>
+MAT 27:7 Naande a kere monran a hyen, tun umi nsaran manna tun sa̱n pa̱ri pa ato amanyan nan ninibu nanba, pa den pa̱ri pa rima̱na̱ re a kasane.
+MAT 27:8 Iwore naande hare yara ata hecega pago pa̱ri pa ma̱hen'en.
+MAT 27:9 A̱bire be monran ma Wotoma wo Onhon Irmiya ma shini ama hyan:<< A̱ umi nsaran nanmen azurpa opa tato n'nan ato na Israila a̱ shi'i nhyan a tope n'nan woto wure,
+MAT 27:10 ta'a a̱ umi nsaran ma̱nde a̱ sa̱n pa̱ri pa amanyan nan ninibu nanba, nde Ashawa Onhon won hyen.>>
+MAT 27:11 Naande Ayesu wa eshe nekogo na wogoma, Ogona uwa̱ rushigi Iyesu wa hyen wo, <<Gawo go wogoma wo a Yahudawa?>> <<Ayesu wa̱ ra̱'a̱n bo wa hyen <<En, nde wu hici,>>
+MAT 27:12 Ama na woto ototo na Firistoci nato ototo na ato an de kara ka Yesu wa̱ guringi ciwu ga.
+MAT 27:13 Naande Abilatus wa hyen wo, <<Wo hoge cewo ena den a owane kara kawo nenwan?>>
+MAT 27:14 Ama Ayesu wa̱ ra̱'a̱ni ciwu wu, ko ma̱ka̱ iri wa̱re eya pa̱ni ogona omamake na yemi.
+MAT 27:15 Ta'a ogona wo ta dan kobe beka̱ni she an ton da o'iya nanwan ona ko'ebe oya wota tacegagya ato woto wo a̱ ka̱ri awo ukutu u ta̱ri.
+MAT 27:16 A̱bire ta'a yan'on woto won dewa pa̱re awo ata hecega Barabbas awu a̱ ka̱ri ta'a ko'eyawa wo yan'son ena wan de
+MAT 27:17 Na ukutu maromano, Naande wogoma Bilatus wa̱ rushigi ga wa hyen, <<A̱ure en saro n be tacigagya: Barabbas, a̱ka̱ Ayesu wo ata hecega Kristi?>>
+MAT 27:18 Enaande a Bilatus wo yan'son ato a̱ rubi Iyesu cenmon go ta'a an rishiwu nonwan iwa̱re den a owane Iyesu pewa.
+MAT 27:19 She Abilatus wogoma wota koreke n ka̱shiki ka shetara, wu'a̱ wo wa wa tomangya wo n toma nonwan wa hyen wogoma: <<Ga'a to dangya woto wota yen'unrin, awo den ce ena reme cewo.>> Enaande ogeta na huri n wa̱ta̱ga̱ni arawo nonwan nhyan n ma̱supo cenmon nonwan.>>
+MAT 27:20 Ama ato ototo na a Firistoci nato ototo na ato a̱ hurpa̱ni ato atobe a hyen wogoma a ta̱cigi Barabas ayi pa̱ni Iyesu.
+MAT 27:21 <<Naande Ogona o rushigi ga wa hyen, <<A̱ure en saro n be tacegagya nato wanna rewu?>>A̱ ra̱'a̱ni a hyen wo. <<Barabbas>>
+MAT 27:22 << Naande Abilatus wa hyen ga, nanba, yegu nan ton da na Yesu awo ata hyan wo Kristi?>> Ca nanwan a̱ ra̱'a̱ni a hyen, <<A gyanran bo!>>
+MAT 27:23 Naande Abilatus wa̱ rushigi ga wa hyen, yegu wan den.? Ama a̱ ka̱sa̱ni tu kurtuma̱ ngoro nan myawa ca a angen, <<A gyanrane bo!>>
+MAT 27:24 Na Abilatus wu hendi wo yan'cewo to kosaga ga, ma̱re a̱ kurtuma̱ renbontan nato na ma̱ka̱ri nonwan, wa̱ umi ma̱ni wa ma̱hita̱gu sha'ara sha wa nekogo na ukutu. Wa hyen, ka'ara ka̱mi ka rawon nu'o na woto wonna. A̱ma̱no ma̱hin mago>>
+MAT 27:25 Naande ukutu wa̱re ca uwa̱ ra̱'a̱ni owa hyen, <<En, ma̱hen'en ma wa ma to rope na'o na̱tu she ena ren cewo go to den! >>
+MAT 27:26 Naande wa̱ ta̱ciga̱gi ga Ibarabbas wa hyen a̱ kindi Iyesu, a̱ huri a gyanran bo.
+MAT 27:27 Naande ato na ma̱ka̱ri na wogoma a̱ umi Iyesu tu hura̱n peto na kapara ka wogoma, a romano ca ato na ma̱ka̱ri.
+MAT 27:28 Ta'a a̱ ta̱'igi Iyesu aronga nonwan a̱ ume yan'on ewa na shende a̱ ta̱'a̱n bo, she nde wogoma wota mata'a.
+MAT 27:29 An de yan'on a̱ra̱wa̱ni na asa̱pi, a tatage wo n unbu, a masange wo a̱ngo n ka'ara ka wa ka kantoga, a̱ kuka̱ki nekogo nonwan an to henga wo a ange, <<Behono bewo be geshen wogoma wo Yahudawa!>> ototo on pewo.
+MAT 27:30 Naande ato na ma̱ka̱ri a ci'a̱ngi wu tucemu a̱ umi a̱ngo a̱ kinda̱gi wu n unbu
+MAT 27:31 Na ato na ma̱ka̱ri a̱ hu to henga wo, a̱ umi ewa nonwan a̱ ta̱'a̱ka̱n bo. Naande a̱ umi wu tu hura̱ pa an to gyanran wo.
+MAT 27:32 Sha an nonyan na tuhura̱ n pa̱ri pa̱re a̱ wuri yan'on woto wo Sayirin awo ata hyan wo Asaminu, a̱ kuwa̱n bo wa̱ umi utubi na an to gyanran Yesu.
+MAT 27:33 Na a̱ ce yan'on pa̱ri pa ata hecega Golgota, (ma'ana ukoga̱ na unbu).
+MAT 27:34 A cewan bo ma̱ni ma inabi ma ta̱ga̱nu n yan'on iri na gamange a̱ so, ama na wa̱ a̱ta̱ni wa eshe to swa.
+MAT 27:35 Na a gyanran bo, a keratago menwan na mewa a masan nshega.
+MAT 27:36 A koreke pa̱re an iya nonwan.
+MAT 27:37 Keto unbu nonwan a cibi sanarwa na mangasa ma wa ma hyan,<<WOGOMA WO YAHUDAWA AWONA.>>
+MAT 27:38 Naande ta'a a gyanrane yan'on a̱hin na to epa onyan pa̱ka̱ na Yesu, woto wuka̱ n katoga, woto wuka̱ ta'a n ka̱ngura̱.
+MAT 27:39 Ato nan tu hura̱ga̱ a na'ange Iyesu n gina̱ an tu rugunsa̱nga̱ unbu
+MAT 27:40 a ange <<Gawo woto wo hyan won to komanga egewa na Onhon ku ma̱ka̱ni ego ta'a na geta tato! Ringe unbu nanwon mana she gawo Ba'a wo Onhon go ka̱ra̱ni pata n tubi na awo gyanran mana!>>
+MAT 27:41 A̱nno ta'a Apristoci na ototo n shima̱la̱n she tubisa̱ga̱ to Mosa nato ototo a na'ange Iyesu n oshe a ange.
+MAT 27:42 <<Wo yan'son tu ringe ato na̱ba̱, ama wa yan'cewo tu ringe unbu nonwan! She a̱ure won de wogoma wo Israila, a̱ ka̱ra̱ni n mangyara, naande to ra'ana wo.
+MAT 27:43 Wo esatane Onhon, wa hyen ta'a owa Ba'a wo Onhon go. Onhon u ringe wu benanba mana.>>>
+MAT 27:44 A̱nde ta'a a̱nhin na gyanran bo pa̱ri pa̱ka̱ nanwan, a̱ swa'e wo monran ma rotome cewo.
+MAT 27:45 She unhon u to unbu, cici to uta̱ni cenge ture ca, hare tu hura̱ n tu'uma̱ to tato to marawona.
+MAT 27:46 N tu'uma̱ ture to tato ta'a, Ayesu wa̱ umena̱n bengoro tonran nan shita̱ wa hyen, <<Eloi, Eloi, lamasa baktani?>> wato, <<Onhon na̱mi, onhon na̱mi, yegu en de a wun ta'i?>>
+MAT 27:47 Na yan'on ato na eshe pa̱re a hoge a̱nno, an hyan, <<Wo ne'en hece na Iliya Wotoma wo Onhon gwa.>>
+MAT 27:48 A̱birebire woto wuka̱ nanmen nanwan wa̱ gube tosoma wa rwane asoma wa̱ rewa̱ni ago n ma̱ni ma ri'ori re o'o ma̱ sa̱nbi, wa cewane Iyesu n bengopa a̱ so.
+MAT 27:49 Ama ato na ceni a hyen <<Ga'a wo ba tunta̱ hyanda sha a Iliya won ta rage a ringe wu.>>
+MAT 27:50 Naande Ayesu wa̱ ta̱ka̱ni be'ogwa wa̱ ta̱'i behono.
+MAT 27:51 Naande bire a labule nan nanmen n ka̱'uma̱na̱ a hando ma̱rewu, nasorya n tonran hare ukinda̱. Cenge to ma̱rungusa̱ni, atare ta'a a komatango.
+MAT 27:52 A̱ uciga̱gi shi'uye ato na ce'en na yemi na wa̱ta̱gi ta'a a rengage
+MAT 27:53 A sorage n shi'uye shawa, na Yesu wu kuriki nu'o gegi n ceso na ce'en ato cenmon ta'a a̱ hendi ga.
+MAT 27:54 Na woto ototo wo ato na ma̱ka̱ri na Roma nato na ceni a nan iya na Yesu a̱ hendi ma̱rungusa̱ ma cenge niri na mande a hoge ryansan cenmon, a hyen,<<Mahenda Ba'a wo Onhon go wonna!>>
+MAT 27:55 Yan'on a̱'a̱ ta'a ana ropya Iyesu nasorya n Galili ana na'ange Iyesu niri korya a esha pa genshe a gotage ena rage.
+MAT 27:56 Nanmen na̱'a̱ wa̱re, Amaryamu na sorya n cenge to Magadala won dewa na Maryamu ananwan na Yakubu na Isuhu na nanwan na a'o na zabadi.
+MAT 27:57 Na marowona man de, a̱bire yan'on woto Armatiya wo omange toryan'on awo ata hyan wo Isuhu wa rage, owa ta'a woto wo moma'anga wu Yesu go.
+MAT 27:58 Wa̱ huri pi Bilatus wa̱ sa̱ri a̱ pa̱ni wu ri'o ri Yesu. Abilatus ka wa̱ pa̱ni uno a̱ pa̱ni wu.
+MAT 27:59 A̱bire A Isuhu wa rwane ri'o ri Yesu, wa̱ pipa̱gi n sukunba̱ na rawo ciri'i.
+MAT 27:60 Wa masan bo n yan'on uye na̱son ona wana ma̱shi'a̱gi ona wa̱ kini n tare naande wa̱ gurtuma̱ yan'on otare na uru nuno na uye wa̱ huri.
+MAT 27:61 Amaryamu wo cenge to Magadala pa̱ka̱ na Maryamu wure won hen'on an dewa korekake n be'awo be uye wa̱re.
+MAT 27:62 N hibi na ropya, she uhibi na ma̱suta̱na̱ huro, naande A Firistoci na ototo na Farisiyawa a maromano nekogo na Bilatus.
+MAT 27:63 a hyen, <<Behono bewo be genshe>><< Tu ma̱ta̱ma̱ringi nena woto wonna wu tu na̱ga̱tuma̱ ato she wuta̱ u ciwu nhyen, <Na geta tato nu'o nonwan wun tu kurika̱ ka̱na̱.>
+MAT 27:64 Naanden a̱nno pana uno an de o'iya na uye wa̱re hare a̱hibi a tato wa̱re a̱ shini. She an de a̱nno,ato na moma'anga nonwan an to yan'son to rage a̱ bishigi uye wa̱re a̱ hin wu a hyan ato wu kurki nu'o. ma̱re tuna̱ga̱tuma̱ tu ha̱ika̱ni tu huri tu ka̱hin.>>
+MAT 27:65 <<A̱bire Abilatus wa hyen ga,<< Tara ba a iya,>> <<Ki huri ki a̱pa̱ni uye wa̱re nan shita̱n nan hin.>>
+MAT 27:66 Naande ato na ma̱ka̱ri a̱ huri a̱ a̱pa̱ni uye wa̱re Yesu, a̱ ripi uhatimi wogoma n tare wa̱re rowa a̱ shi'a̱gi ato na̱ ma̱ka̱ri pa̱re a na'an iya.
+MAT 28:1 Na uhibi na A̱subi u huri gu, n bongwa na uhibi na ka̱hin na ageta tunda̱re magetogya, a maryamu Magadaliya na Maryamu wonhen'on a sore n kowongwa a̱ re tu ruka̱ni uye na a̱ ma̱ni i Yesu.
+MAT 28:2 She eta kora cewo maringisa̱ ma cenge! naanden Wotoma wo a̱ba̱ye wa rage na sorya tonran wa̱n gurtuma̱ ka̱'undu, wa koreke n kawa rowa.
+MAT 28:3 Ituna̱ na̱she nonwan a ha̱n'in nshe tu wargina̱, naande aronga nonwan ta'a a ne'en ba̱ka̱ nshe n'orere.
+MAT 28:4 Na a iya a̱ hendi wu ryansan ri yemi rya kentane ga a̱ jinga̱ni nshe ato na o'gi.
+MAT 28:5 Wotoma wo a̱ba̱ye wa hyen a̱'a̱ wa̱re, <<Ga'a ba to hoga ryansan, n yan'son e rage saro na Yesu awo a gyanran go.
+MAT 28:6 Wo rarewa pana, wu kurki nu'o, nde wana̱ hito. rage ba ki hendi apa na wa̱ta̱ki ri'o riwa.
+MAT 28:7 Nanba hura̱n ba kushine ki bishi ato na moma'anga nonwan nhyen <Wu kurki nu'o ewana wun bi ciga̱ tu hura̱n Galili. A̱ pa̱re pa en to hyanda wo.> Enan n rage n bi bisa̱ wono.>>
+MAT 28:8 A̱'a̱ wa̱re a̱ ma̱hupirgi n tosoma nasoren uye wa̱re kushine a̱ shini n ryansan, n anmen cende na yemi. a hwadan tosoma tu hura̱ a̱ bishi ato na moma'anga na Yesu ena Wotoma wu a̱ba̱ye bishi ga.
+MAT 28:9 Na a̱ huri, a Yesu wa rage wa kuwa̱n ga. A rage piwa n tosoma a̱ kuki a̱ pa̱ta̱n bu n shawona,a hewake wo.
+MAT 28:10 Naande a Yesu wa hyen ga <<Ga'a ba to hoga ryansan. Hura̱ ba ki bishi ayan'on na̱mi a̱ hurin Galili, a̱ pa̱re pa an man hyanda.>>
+MAT 28:11 She a̱'a̱ wa̱re a tan tohano, a iya na uye a̱ gegin oceso nanmen, a̱ bishi woto ototo wo Firistoci ena cigi ga.
+MAT 28:12 Nande a Firistoci na ato ototo a maromano a̱ shi'a̱gi monran, a̱ pa̱ni ato ototo na ato na ma̱ka̱ri nsaran nan yemi,
+MAT 28:13 A hyen, <<Ke hyen ato, <Ato na moma'anga nonwan go rage n geta a̱ umi wu she ton nan dawo.>
+MAT 28:14 She monran manna ma̱ci pa Ogona, ton to dangya wo monran, e rawon tu gega̱n ma̱supo>>
+MAT 28:15 Nade ato na ma̱ ka̱ra̱gi a den nde a hyen ga an de. Monran manna hare yara a Yahudawa an tu hita̱ga̱ mago.
+MAT 28:16 Nade ato na moma'anga opan woto wuka̱ a̱ hurin Galili, a̱ huri n kogo na gesange re a̱ Yesu hyen an to rogako.
+MAT 28:17 Na a̱ hendi wu, a̱ kuki, ama ato na̱ba̱ an de oshaka.
+MAT 28:18 Naande a Yesu wa rage pyawa wa hyen ga, <<Onhon un pa̱ni ca a̱ta̱ra̱n na tonran n cenge.
+MAT 28:19 Nadea̱nno hura̱ ba ki bishi ato na kanniyan ca an dope, ke de an de ga ato na moma'anga na̱mi, ke na'an dangaga ga o baptisma n rira̱'i re Ashawa n rira̱'i re Ba'a wo Onhon n rya re benhyan be Onhon.
+MAT 28:20 Ki bisa̱gi ato a rope ca enan bi bisa̱gi ewana nan pa̱ka̱n ga̱hin ko bekene hare tu huwa̱ to kanniyan.>>
