@@ -1,0 +1,1195 @@
+## Aionian Bible
+## File Name: Holy-Bible---Calo---Calo-Bible---Source-Edition.SWORD.txt
+## File Usage: Holy-Bible---Calo---Calo-Bible
+## File Created: 08/23/2024 00:14:44
+## File Purpose: Supporting resource for the Aionian Bible project
+## File Location: https://resources.AionianBible.org
+## Publisher Name: Nainoia Inc
+## Publisher Contact: https://www.AionianBible.org/Publisher
+## Publisher Mission: https://www.AionianBible.org/Preface
+## Publisher Website: https://NAINOIA-INC.signedon.net
+## Publisher Facebook: https://www.Facebook.com/AionianBible
+## Source URL: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Calo
+## Source File: https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Calo.zip
+## Source Date: 07/17/2013 22:25:59
+## Source Copyright: Public Domain
+## Source Text: unaltered below
+##
+
+[ Testament 2 Heading ] <milestone type="x-importer" subType="x-osis2mod" n="$Rev: 2502 $"/>
+Luke 0:0 <div osisID="Luke" sID="gen1" type="book"/>
+Luke 1:0 <chapter osisID="Luke.1" sID="gen2"/>
+Luke 1:1 Á cána que sares han penchabado chibar de pacuaró a narracion es buchías que andré amángue han sinado quereladas.
+Luke 1:2 Sásta junos as penáron á amángue sos desde o principio as diqueláron sa’ desquerias aquías, y sináron ministres e varda.
+Luke 1:3 Pre o matéjo ha parecido lachó á mángue, despues de orotar mistós sasta se las quereláron desde o principio, libanartelas de pacuaró, ó baro Theophilo.
+Luke 1:4 Somia que pincharéles a chachipen de ocolas buchías andré que has sinado instruido.
+Luke 1:5 Sinaba andré os chibéses de Herodes, Crállis de Judea; yeque erajai, sos se hetó Zacharias, e baji de Abías, y desqueri romi es dugidas de Aaron, y o nao de ocóna Elisabeth.
+Luke 1:6 Y sinaban os dui lachés anglal de Debél, pirando bi grecos andré os sares mandamientos y eschastras e Erañoró.
+Luke 1:7 Y na terelaban chaboro, presas Elisabeth sinaba estéril, y os dui chalados dur andré sus chibéses.
+Luke 1:8 Y anacó que querelando Zacharias desquero ministerio anglal de Debél andré o orden de desqueri begai,
+Luke 1:9 Segun o costumbre es erajais, sicabó por desquerí baji á chibar o incienso, chalando andré a cangri e Erañoró.
+Luke 1:10 Y os hambés catanés sinaban abrí manguelando á Un-debél á la ocana e incienso.
+Luke 1:11 Y dicó al Manfariel e Erañoró, sinando en pindré á la bastarí e altar e incienso.
+Luke 1:12 Y Zacharias al dicarle cangueló, y peró dal opré ó.
+Luke 1:13 Tami o Manfariel le penó: Na darañeles Zacharias, presas tirias ocanagimias han sinado juneladas: y tiri romi Elisabeth chindará á tucue yeque chaboro, y araquelarás desquero nao Juan.
+Luke 1:14 Y terelarás pesquital y alegría, y se asaselarán baribustres manuces andré desquero nacimiento.
+Luke 1:15 Presas sinará haro anglal o Erañoró; y na piyará mol ni peñacoró, y sinará perelaló e Peniche desde as poriás de sun dai.
+Luke 1:16 Y á baribústres es chabores de Israel querelará limbidiar al Erañó, o Debél de junós.
+Luke 1:17 Presas ó chalará anglal de ó sa’ la suncai y sila de Elias, somia querelar limbidiar os carlochines es batuces á os chabores, y os sos na pachibélan al drun es majarés, somia preparar al Erañó una sueti perfecta.
+Luke 1:18 Y penó Zacharias al Manfariel: ¿en que pincharé ocóno? presas menda sinelo puró, y minri romí sinela dur andré desqueres chibéses.
+Luke 1:19 Y rudeló o Manfariel y penó: sinelo Gabriel, sos asisto anglal de Debél: y sinelo bichabado á penarte, y á lanarte ocóna nueva lachi.
+Luke 1:20 Y tucue sinarás musilé, y no astisararás chamuliar disde o chibés andré sos ocóno sinará querelado, presas na pachibelaste á minrias vardas, sos se cumplirán á sun chiros.
+Luke 1:21 Y os manuces sinaban ujarando á Zacharias: y os sares zibaban de que tasiabase ó andré a cangri.
+Luke 1:22 Y pur se sicobó abrí, na les astisaraba chamuliar; y chaneláron que habia dicado buchí andré a cangri, y ó lo penó por simaches, y sinaba musilé.
+Luke 1:23 Y pur sináron cumplidos os chibéses de desquero ministerio, se chaló á su quer.
+Luke 1:24 Y á la anda de ocónos chibéses se dicó cambri Elisabeth a romi de ó, y sinaba escondida pansch chonos, penando:
+Luke 1:25 Presas o Erañó me ha querelado ocono andré os chibéses, en que penchabó á nicabar minrio oprobio de enré os manuces.
+Luke 1:26 Y al zobio chonos o Manfariel Gabriel sinaba bichabado de Debél á yeque foros de Galiléa, sos se hetó Nazareth,
+Luke 1:27 A yeque bedori romandiñada sat manu, sos se hetó Joseph, e quer de David, y o nao e bedori sinaba Maria.
+Luke 1:28 Y pur chaló o Manfariel andré, anduque sinaba, penó: Un-debél te diñele golipén, perelali de gracia: O Erañó con tucue: Majari tucue enré as cadchiás.
+Luke 1:29 Y pur siró juneló ocono, se darañó sat as vardas de ó, y penchababa, que salutacion sinaba ocola.
+Luke 1:30 Y o Manfariel le penó: na cangueles Maria, presas has alachado gracia anglal de Debél.
+Luke 1:31 He acoi concebirás andré tiro chepo, y chindarás chaboro, y araquerarás desquero nao Jesus.
+Luke 1:32 Ocóla sinará baro, y sinará araquerado chaboro e Udscho, y le diñará Un-debél Erañó o throno de David desquero batu; y sinará Crallis deltó andré o quer de Jacob.
+Luke 1:33 Y desquero chim na terelará anda.
+Luke 1:34 Y penó Maria al Manfariel: ¿Sasta sinará, ocono? y menda na pincharelo manu.
+Luke 1:35 Y rudelando o Manfariel, penó: se bestelará opré tucue, y te querelará sombra a sila e Udscho.  Y por ocono o Majaro, sos se chindará de tucue, sinará araquerado Chaboro de Debél.
+Luke 1:36 Y Elisabeth tiri cachicálli siró tambien sinela cambri de yeque chaboro, sinando puri: y ocono sinela o zobio chonos de siró, sos sinela araquerada a esteril.
+Luke 1:37 Presas na sinela chi n’astis para Un-debél.
+Luke 1:38 Y penó Maria: Menda a lacrí e Erañoró, querelese andré mangue segun tiri varda.  Y se chaló o Manfariel.
+Luke 1:39 Y andré ocolas chibéses se ardiñó Maria y chaló al bur, á yeque foros e chim de Judá.
+Luke 1:40 Y chaló andré o quer de Zacharias, y saludisaró á Elisabeth.
+Luke 1:41 Y pur Elisabeth juneló a salutacion de Maria, o chinoró diñó saltos andré desquero trupo: y sinaba Elisabeth perelalí e Peniche.
+Luke 1:42 Y diñó yeque gole y penó: Majari tucue andré as cadchiás, y majaró o mibao e tiro trupo.
+Luke 1:43 De duque sinela ocono á mangue, que a Dai e minrio Erañó abillela á mangue?
+Luke 1:44 Presas yescotria que bigoreó a varda de tiri salutacion á minres canés, o chinoró diñó saltos de pesquital andré minrio trupo.
+Luke 1:45 Y majaró ma andré tun men, presas sinará querelado o saro ma fué penado á tucue de parte e Erañoró.
+Luke 1:46 Y penó Maria: Minri ochi engrandece al Erañó:
+Luke 1:47 Y minri suncai se asaseló andré Debél minrío Salvador.
+Luke 1:48 Presás ha dicado a chinoría de desqueri lacrí: pues ya desde acana as sarias generaciones araquelarán mangue majari.
+Luke 1:49 Ha querdi buchías bariás á mangue ó sos terela sila, y majaró o nao de ó.
+Luke 1:50 Su canrea sinela de generacion andré generacion opré os sares que le darañelan.
+Luke 1:51 Queró sila sat su murcia: queró najar á os superbios sat as imaginaciones de sus carlochines.
+Luke 1:52 Queró á os silares perar sus besti, y ardiñó á os humildes.
+Luke 1:53 Hinchió de buchias lachias á os que terelaban bóquis; y á os balbales mecó chichi.
+Luke 1:54 Ustiló andré sun chepó á Israel sun lacró, enjallandose de sun canrea.
+Luke 1:55 Andiar sasta penó á amáres batuces, á Abraham y á sus chaborés deltó.
+Luke 1:56 Y Maria sinaba sat siró sasta trin chonos: y se limbidió á desquero quer.
+Luke 1:57 Tami Elisabeth se le chaló o chiros de chindar, y chindó yeque chaboro.
+Luke 1:58 Y juneláron os quiribés y os cachicállis de siró que o Erañó habia querelado canrea bari sat siró, y se alendáron sat siró.
+Luke 1:59 Y sinaba que al otoró chibés abilláron á chinar o postin e quilén al chaboró, y le araqueráron del nao de desquero batu, Zacharias.
+Luke 1:60 Y rudelando desqueri dai, penó: nanai, sino Juan sinará araquerado.
+Luke 1:61 Y le penáron: cayque sinela andré tiri ráti, sos se heta sat ocola nao.
+Luke 1:62 Y pucháron por simaches al batu e chaboro, como camelaba que se le araquerase.
+Luke 1:63 Y mangando li, libanó, penando: Juan sinela su nao: y os sares se zibáron.
+Luke 1:64 Y yescotria sinaba pendrabado desquero mui, y su chipe, y chamuliaba majarificando á Debél.
+Luke 1:65 Y peró dal opré os sares sunparales: y se penáron de sarias oconas buchias por os sares bures de Judéa.
+Luke 1:66 Y os sares que as junelaban, as ujaraban andré sus carlochines, penando: ¿coin penchabais, que sinará ocona chaboro?  Presas a baste e Erañoró sinaba sat ó.
+Luke 1:67 Y Zacharias sun batu sinaba perelalo e Peniche, y garló baji, penando.
+Luke 1:68 Majaró o Eraño Debél de Israel, presas abilló y diñó mestepé á sun sueti.
+Luke 1:69 Y ardiñó á amangue o rogos de golipen andré o quer de David sun lacró.
+Luke 1:70 Como penó por mui de sus majarés Prophetas, andré os sarés gresés.
+Luke 1:71 Mestepé de amáres daschmanuces, y de la baste de os sares que na camelan amangue.
+Luke 1:72 Somia querelar canrea sat amáres batuces, y ojararse de su majarí varda.
+Luke 1:73 O juramento sos juró á amaro batu Abraham, que ó diñaria á amangue;
+Luke 1:74 Somia que listrabados de las bastes de amáres daschmanuces, le querelemos servicio bi dal,
+Luke 1:75 André majaridad, y andré justicia anglal de ó, os sares chibeses de amári chipén.
+Luke 1:76 Y tucue, chaboro, sinarás araquerado Propheta e muy Udscho, presas chalarás anglal la chiché e Erañoró, somia aparejar desqueres drunés:
+Luke 1:77 Somia diñar conocimiento de golipen á sun sueti para a remision de desqueres grecos.
+Luke 1:78 Por as porias de canrea de amaro Debél con qué visitó amangue del Udscho e Oriente:
+Luke 1:79 Somia diñar dut a junós sos bestelélan andré a rachi, y andré o butron de meripen: somia enseelar amáres pindrés á drun de paz.
+Luke 1:80 Y o chaboro se querelaba baro, y sinaba querdi silnó andré suncai; y sinaba andré os desiertos, disde o chibes pur nichobeló á Israel. <chapter eID="gen2" osisID="Luke.1"/>
+Luke 2:0 <chapter osisID="Luke.2" sID="gen83"/>
+Luke 2:1 André ocolas chibeses anacó, que chaló abrí yeque edicto de Cæsar Augusto, somia que sari a sueti sinara jinada.
+Luke 2:2 Ocola brotoboro jinamiento sinaba querdi por Cyrino, Chino-baro de Syria.
+Luke 2:3 Y chalaban os sares á libanarse os naos cata yeque á desquero foros.
+Luke 2:4 Y ardiñó tambien Joseph del foros de Nazareth, á Judea, al foros de David, sos se heta Bethlehém: presas sinaba del quer y de la rati de David,
+Luke 2:5 Somia libanarse o nao sat desqueri romi Maria, sos sinaba cambri.
+Luke 2:6 Y sinando oté, anacó, que se pereláron os chibeses andré que terelaba de chindar.
+Luke 2:7 Y minchabó a desquero Chaboro broto-chindado, y lo chibó andré diclés, y lo chitó andré yeque olibar: presas na sinaba lugar por junos andré a mesuna.
+Luke 2:8 Y sinaba yeques durotunes andré ocola comarca, sos sinaban velando, y nacando as ocanas e rachí opré desquerias brajias.
+Luke 2:9 Y he acoi se childó sunparal á junos yeque Manfariel e Erañoró, y a dut de Debél os cercó de yacque, y tereláron baro dal.
+Luke 2:10 Y les penó o Manfariel: nacangueleis: presas he acoi anuncio á sangue gosuncho baro, sos sinará á sari a sueti.
+Luke 2:11 Que sejonia sinela chindado a sangue o Salvador, sos sinela o Christo Erañó, andré o foros de David.
+Luke 2:12 Y ocona sinará á sangue o simache: Alachareis o Chaboro chibado andré dicles; y chitado andré yeque olibar.
+Luke 2:13 Y yescotria se mecó dicar sat o Manfariel butrés manuces es jundunares e Tarpe, sos majarificaban a Debél, y penaban:
+Luke 2:14 Chimusolano á Debél andré o Tárpe, y andré a phu paz á os sares de lachi suncái.
+Luke 2:15 Y anacó, que yescotria que os Manfarieles chaláron de junos al Tarpe, os durotunés penaban os yeques a os averes: Chalemos disde Bethlehém, y diquelemos ma ha anacado, ma o Erañó, ha diado á amangue.
+Luke 2:16 Y chaláron singó, y alacháron á Maria, y á Joseph, y al chaboro chitado andré o olibar.
+Luke 2:17 Y pur ocono dicáron, jabilláron ma se les habia penado acerca de ocola Chaboró.
+Luke 2:18 Y os sares sos lo juneláron, se zibáron: y tambien de ma os durotunés les habian penado.
+Luke 2:19 Tami Maria aracateaba sarias ocolas buchias, estongerandolas andré desquero carló.
+Luke 2:20 Y se limbidiáron os durotunés chimusolanificando y majarificando á Debél por sarias as buchias, ma habian junelado y dicado, andiar sasta les habia sinado penado.
+Luke 2:21 Y despues que sináron nacados os otor chibeses somia chinar o postin e quilen al Chaboro, araqueráron desquero nao Jesus, sasta le habia araquerado o Manfariel, gres que sinaba concebido andré o trupo.
+Luke 2:22 Y pur sináron nacados os chibeses e purificacion de Maria, segun la eschastra de Moyses, lo lligueráron á Jerusalém somia presentarlo al Erañoró,
+Luke 2:23 Sasta sinela randado andré la Eschastra e Erañoró: que o saro manu sos despandase beo, sinará majarificado al Erañó.
+Luke 2:24 Y somia diñar a ofrenda sasta sinela penado andré a Eschastra e Erañoró, yeque par de gobareyes, o dui custañias.
+Luke 2:25 Y sinaba al chiros andré Jerusalém gachó sos se hetó Simeón, y ocola manu lacho y daraño de Debél, ujarando a consolacion de Israel, y o Peniche sinaba andré ó.
+Luke 2:26 Y chanelaba del Peniche, que ó na dicaria meripen, bi dicar grés al Christo e Erañoró.
+Luke 2:27 Y abilló por ochi á la cangri, y lanelando os batuces al Chaboro Jesus, somia querelar segun la beda e Eschastra sat ó:
+Luke 2:28 Entonces lo ustiló andré sus murcias, y majarificó á Debél, y penó:
+Luke 2:29 Acana, Erañó, mequeles á tun lacró chalar en paz, segun tiri varda:
+Luke 2:30 Presas han dicado minrias aquias tun golipen,
+Luke 2:31 Sos has aparejado antela chiché de sari la sueti;
+Luke 2:32 Dut somia sinar revelada á os Busnés, y somia chimusolano de Israel tiri sueti.
+Luke 2:33 Y desquero batu y dai sinaban maravillados de ocolas buchías que se penelaban de ó.
+Luke 2:34 Y os majarificó Simeón, y penó á Maria desqueri dai: He acoi que ocona Chaboro sinela sinchitó somia querelar perar, y somia ardiñar á baribustres andré Israel; y somia simáche á os sares sos contrapenarán:
+Luke 2:35 Y un estuche velará tiro bucos de tun mateja, somia que sinelen chanelados os pensamientos de sares carlochines
+Luke 2:36 Y sinaba yeque chuan jañí, araquerada Ana, dugida de Phanuel, e tribu de Aser: ocona ya terelaba butrés chibeses, y habia socabado eñia berjis sat desquero rom desde su pachi.
+Luke 2:37 Y siró sinaba piulí, sasta de otorenta y star berjis; y na chalaba abrí de la cangri, sirviendo chibes y rachí andré ayunos y ocanagimias.
+Luke 2:38 Y sasta siró bigorease andré a mateja ocana, majarificaba al Eraño: y penaba de ó á os sares sos ujaraban la mestepé de Israel.
+Luke 2:39 Y pur tereláron querdi o saro, conforme a lá Eschastra e Erañoró, se limbidiáron a Galiléa á desquero foros de Nazareth.
+Luke 2:40 Y o chaboro se queró baro y silno, sinando perelalo de chanelería, y a gracia de Debél sinaba andré ó.
+Luke 2:41 Y desqueres batuces chaláron sarias as berjis á Jerusalém andré o chibes de la Ciria.
+Luke 2:42 Y pur tereló duideque berjis, ardiñaron á Jerusalém, segun a beda e chibes baro.
+Luke 2:43 Y acabados os chibeses, pur se limbidiaban, se quedisaró o chaboro Jesus andré Jerusalém, bi que desqueres batuces lo chanelasen.
+Luke 2:44 Y penchabando que sinaba sat os averes de la plastañí, chaláron drun de yeque chibes, y le orotáron enré os parientes, y os monres.
+Luke 2:45 Y pur na le rachelasen, se limbidiáron á Jerusalém, orotándole.
+Luke 2:46 Y anacó que trin chibeses despues le alacháron andré á cangrí, bestelando en medio es Chandés, junandolos, y puchabandolos.
+Luke 2:47 Y os sares sos le junelaban, se pasmaban, de desqueri chaneleria y de las respuestas de ó.
+Luke 2:48 Y pur le dicáron, se zibáron, y le penó desqueri dai: chaboro presas has querdi andiar sat amangue? dicá sasta tun batu y menda emposunó te orotabamos,
+Luke 2:49 Y les rudeló: ¿Para qué orotabais mangue?  ¿Na chanelabais, que me jomte sinar andré as buchias que sinelan de minrio Dadá?
+Luke 2:50 Tami junos na jabilláron a varda, que les penó.
+Luke 2:51 Y se guilló ostely sat junos, y abilló á Nasareth: y sinaba sugeto á junos.  Y sun dai aracateaba sarias ocolas buchias andré su carló.
+Luke 2:52 Y Jesus se queró baro andré chaneleria, y andré berjis, y andré furuné anglal de Debél y es manuces. <chapter eID="gen83" osisID="Luke.2"/>
+Luke 3:0 <chapter osisID="Luke.3" sID="gen136"/>
+Luke 3:1 Y andré a berji pansch-decima e imperio de Tiberio Cæsar, sinando Poncio Pilato Chino baro de Judea, y Herodes Tetrarchâ de Galiléa, y desquero plano Philipo Tetrarchâ de Ituréa, y e chim de Trachônite, y Lysanias Tetrarchâ de Abilina,
+Luke 3:2 Sinando Manclayes es erajais Annás y Caiphas, abilló a varda e Erañoró opré Juan, chaboro de Zacharias, andré o desierto.
+Luke 3:3 Y abilló por saro o chim de Jordan garlando o muchobelar de penitencia somia mecos de grecos,
+Luke 3:4 Sasta sinela randado andré o embéo de las vardas de Isaias Propheta: Gole de yeque garlando andré ó desierto: Aparejad o drun e Erañoró, Querelad bustarias as sendas de ó.
+Luke 3:5 Saro butron se perelará; y saro bur y plai se pejerá: y o torcido sinará enderezado: y os drunes fragosos allanados:
+Luke 3:6 Y dicará sari maas a golipen de Debél.
+Luke 3:7 Y penó á os manuces, que abillaban somia que los muchobelase: ¿Rati de birbirechas, coin penó á sangue á najar de la ira que ha de abillar?
+Luke 3:8 Querelad pues mibao cabalico de penitencia, y na os chitelais penar: Terelamos por batu á Abraham.  Porque sangue penelo, que astisarela Debél de oconas barendañías ardiñar chabores á Abraham.
+Luke 3:9 Presas acana sinela chibada a tescharí á la raiz es carschtas, pues sari carschta, sos na diñele mibao lacho, sinará velada, y chibada andré a yacque.
+Luke 3:10 Y le puchababan os manuces, y penaban!  ¿Pues qué querelaremos?
+Luke 3:11 Y rudelando les penaba: O manu sos terela duis coneles, díñele al manu sos na terela: y o sos terela que jamar, querele o matejo.
+Luke 3:12 Y abilláron tambien á ó os Publicanes, somia que os muchobelase, y le penáron: ¿Duquendio, qué querelaremos?
+Luke 3:13 Y ó les penó: Na ustileis butér de ma os sinela penado.
+Luke 3:14 Le puchababan tambien os jundunares, penando: ¿Y mu qué querelaremos?  Y les penó: Na queraleis choro á cayque, ni le mareleis, y sineleis lacho sat jiré jayere.
+Luke 3:15 Y sasta os manuces creyesen, y os sares penchabasen andré desqueres carlochines, si por ventura Juan sinaba o Christo:
+Luke 3:16 Rudeló Juan, y penó á os sares: Menda aromali muchobelo sangue andré paní: Tami abillará avér butér silnó que menda, de coin na sinelo cabalico de despandar a correa de desqueres tirajais: ocola muchobelará sangue andré Peniche, y yaque:
+Luke 3:17 De coin o bieldo sinela andré su baste; y alimpiará desquero era, y chibará ó gi andré su malabai, y la pus jachará sat yaque, que na se bedela.
+Luke 3:18 Y andiar anunciaba averias baribustrias buchias á la sueti andré sus exhortaciones.
+Luke 3:19 Tami Herodes ó Tetrarchâ; sinando reprehendido por ó á causa de Herodias romi de sun planó, y de sarias as buchias chorias que Herodes habia querdi,
+Luke 3:20 Anadio á sares tambien ocona de querelar pandar a Juan andré la estaripel.
+Luke 3:21 Y anacó, que sasta sari a sueti ustilase o muchobelar, tambien sinaba muchobelado Jesus; y sinando ó manguelando á Debél, se despandó o Tarpe:
+Luke 3:22 Y pejó ostely opre ó el Peniche andré trupo, sasta gobaró: y se juneló ocono gole del Tarpe: Tucue sinelas minrió Chaboro camelado; andré tucue menda me alendelo.
+Luke 3:23 Y o Jesus comenzaba a terelar sasta de sinebo berjis, chaboro y segun se penelaba, de Joseph, chaboro de Heli, chaboro de Mathat,
+Luke 3:24 Chaboro de Leví, chaboro de Melchi, chaboro de Janne, chaboro de Joseph,
+Luke 3:25 Chaboro de Mathathias, chaboro de Amos, chaboro de Nahum, chaboro de Hesli, chaboro de Nagge,
+Luke 3:26 Chaboro de Mahath, chaboro de Mathathias, chaboro de Semei, chaboro de Joseph, chaboro de Judá,
+Luke 3:27 Chaboro de Joanna, chaboro de Resa, chaboro de Zorobabél, chaboro de Salathiel, chaboro de Neri,
+Luke 3:28 Chaboro de Melchi, chaboro de Addí, chaboro de Cosán, chaboro de Helmadan, chaboro de Her,
+Luke 3:29 Chaboro de Jesus, chaboro de Eliezer, chaboro de Jorim, chaboro de Mathat, chaboro de Levi,
+Luke 3:30 Chaboro de Simeón, chaboro de Júdas, chaboro de Joseph, chaboro de Jonás, chaboro de Eliakim,
+Luke 3:31 Chaboro de Melea, chaboro de Menna, chaboro de Mathatha, chaboro de Nathán, chaboro de David,
+Luke 3:32 Chaboro de Jessé, chaboro de Obed, chaboro de Booz, chaboro de Salmon, chaboro de Naasson,
+Luke 3:33 Chaboro de Aminadab, chaboro de Arám, chaboro de Esron, chaboro de Pharé, chaboro de Judas,
+Luke 3:34 Chaboro de Jacob, chaboro de Isaac, chaboro de Abraham, chaboro de Thares, chaboro de Nachor,
+Luke 3:35 Chaboro de Sarug, chaboro de Regau, chaboro de Phaleg, chaboro de Heber, chaboro de Salé,
+Luke 3:36 Chaboro de Cainán, chaboro de Arphaxad, chaboro de Sem, chaboro de Noé, chaboro de Lamech,
+Luke 3:37 Chaboro de Mathusalé, chaboro de Henoch, chaboro de Jared, chaboro de Malaleel, chaboro de Cainan,
+Luke 3:38 Chaboro de Henos, chaboro de Seth, chaboro de Adám, sos fué chaboro de Un-debél. <chapter eID="gen136" osisID="Luke.3"/>
+Luke 4:0 <chapter osisID="Luke.4" sID="gen175"/>
+Luke 4:1 Tami Jesus perelaló e Peniche, se limbidió del Jordan, y sinaba lliguerado por la suncai al desierto.
+Luke 4:2 Y sinaba oté quarenta chibeses, y le tentaba o Bengui, y na jamó chi andré ocolas chibeses; y anacados oconas terelaba bóquis.
+Luke 4:3 Y le penó o Bengui: Si chaboro de Debél sinelas, pen á ocona bar, que se querele manro.
+Luke 4:4 Y Jesus le rudeló: Libanado sinela: Que na vivisarela o manu de manro colcoro, tami de sari varda de Debél.
+Luke 4:5 Y le lligueró o Bengui á yeque bur udscho, y le queró dicar sares os chimes de la pu andré yeque frimita de chiros,
+Luke 4:6 Y le penó: Diñaré a tucue sari ocana sila, y o chimusolano de junos: presas se me han diñado á mangué, y á coin camelo los diñelo
+Luke 4:7 Por tanto, si chibandote á minres pindres, majarificares mangue, os sares sinarán tirés.
+Luke 4:8 Y rudelando Jesus, le penó: Libanado sinela: A tiro Erañoró Debél majarificarás, y a ó colcoro servirás.
+Luke 4:9 Y le lligeró á Jerusalém, y lo chibó opré o jeró de la cangri, y le penó: Si sinelas Chaboro de Debél, chibelate de acoi á la chiquen.
+Luke 4:10 Presas sinela libanado que penó de tucue a desquerés Manfarieles, que te aracaten:
+Luke 4:11 Y que te ardiñelen andré sus bastes, somia que na cureles tun pindré andré yeque bar.
+Luke 4:12 Y rudelando Jesus, le chamulió: Penado sinela: Na tentarás al Erañó tun Debél.
+Luke 4:13 Y nacada sari tentacion, se chaló de ó el Bengui disde o chiros.
+Luke 4:14 Y limbidió Jesus andré la sila e suncai á Galiléa: y o chimusolano de ó se chibó por saro o chim.
+Luke 4:15 Y ó chamuliaba andré as synagogas de junós, y sinaba aclamado de sares.
+Luke 4:16 Y chaló á Nazareth, anduque se habia parbarado, y se guilló segun su beda o chibes del Canché andré a synagoga, y se ardinó á lirenar.
+Luke 4:17 Y le diñáron o embéo de Isaias o Propheta.  Y pur despandó o embéo racheló o lugar anduque sinela libanado.
+Luke 4:18 A Suncai e Erañoró opré mangue, por lo que ha ampiado mangue somia diñar lachias nuevas a os chorores ha bichabado mangue, somia chibar lacho a os asparabados de carlochin,
+Luke 4:19 Somia penar a os estardes mestepé, y á os chindés diquelar, somia chibar en mestepé á os asparabados, somia pucanar a berji lachi e Erañoró, y o chibes e galardon.
+Luke 4:20 Y habiendo pandado o embéo, se lo diñó al erajai, y se besteló: y os sarés andré a synagoga terelaban as aquías chibadas andré ó.
+Luke 4:21 Y se chibó á penar: Achibes se ha perelado ocona Libaneria andré jirés canes.
+Luke 4:22 Y os sares le diñaban machiria, y se zibaban de las vardas de gracia, sos chaláron abri de desquero mui, y penáron: ¿Na sinela ocona o chaboro de Joseph?
+Luke 4:23 Y les penó: Bi duda penareis á mangue ocona varda: Salamito chibelate lacho á tun matejo: sarias ocolas buchias barias, que junelamos penar que queraste andré Capharnaúm, querlas tambien acoi andré tun chim.
+Luke 4:24 Y chamulió: Aromali os penelo, que necaute Propheta sinela pachibelado andré desquero chim.
+Luke 4:25 Aromali os penelo, que baribustrias piulias sinaban andré Israel os chibeses de Elias, pur sinaba pandado o Charos por trin berjis y por zoi chonos: pur sinaba yeque bóquis bari por sari la chiquen.
+Luke 4:26 Tami á necaute de ocolas sinaba bichabado Elias, sino á yeque cadchi piuli andré Sarepta de Sidonia.
+Luke 4:27 Y baribustres zarapiados sinaban andré Israel andré o chiros de Eliséo Propheta, tami cayque de ocolas sinaba chibado lacho, sino Naaman de Syria.
+Luke 4:28 Y os sares andré a synagoga sináron perelales de sana junelando ocono.
+Luke 4:29 Y se costunáron, y lo bucharáron abrí del foros: y lo lligueráron disde ó jero e bur, opré sos sinaba querdi o foros, somia buchararle ostely.
+Luke 4:30 Tami ó, nacando por medio de junos, se chaló.
+Luke 4:31 Y chaló abajines á Capharnaúm foros de la Galiléa, y oté os bedaba andré os Canchés.
+Luke 4:32 Y se zibaban de desqueri beda, presas as vardas de ó sinaban silniás.
+Luke 4:33 Y sinaba andré a synagoga manu sos terelaba bengui prachindó, y garló sat gole baro,
+Luke 4:34 Penando: Mequelanos, ¿qué terelas tucue con amangue Jesus de Nazareth? ¿abillelas á mararnos?  Pincharelo mistos, coin sinelas, o Majaro de Debél.
+Luke 4:35 Y Jesus le chingaró, y penó: Sonsibela, y chatucue abrí de ó.  Y o bengui chibandolo al chiquen, en medio, chaló abrí de ó, y na le queró daño.
+Luke 4:36 Y sináron os sares perelales de dal, y garlaban os yeques á os averes, penando: ¿Que buchi sinela ocona, presas sat sila y sat virtud penela á os bengues jindes, y chalan abrí.
+Luke 4:37 Y voltisaraba o chimusolano de ó por sares os gaues e chim.
+Luke 4:38 Y chalando Jesus abrí e synagoga, chaló andré o quer de Simeón.  Y a suegra de Simeón sinaba nasali de tatias barias, y le mangáron por siró.
+Luke 4:39 Y chibandose ostely acia siro, penó á la tati: y la tati le mecó.  Y siró se costunó yescotria, y les servia.
+Luke 4:40 Y pur o cam se besteló, os sares sos terelaban merdés de varios merdipénes, se los lanelaban.  Y ó chibando as baste emperso cada yeque de junos, os chibaba lacho.
+Luke 4:41 Y chalaban os bengues abrí de butres, garlando, y penando: Tucue sinelas o chaboro de Debél: y os chingaraba, y na os mequelaba penar, que chanelaban que sinaba ó el Christo.
+Luke 4:42 Y pur sinaba de chibes, chaló abrí somia guillarse á yeque stano desierto; y a sueti le orotaban, y chaláron disde anduque ó sinaba: y le deterelaban, somia que na se chalase de junos.
+Luke 4:43 Y les penó: A os averes fores jomte tambien que menda penelo o chim de Debél: pues somia ocono he sinado bichabado.
+Luke 4:44 Y chamuliaba andré as Synagogas de la Galiléa. <chapter eID="gen175" osisID="Luke.4"/>
+Luke 5:0 <chapter osisID="Luke.5" sID="gen220"/>
+Luke 5:1 Y anacó que abillando a sueti en plastañías somia junelar a varda de Debél, sinaba ó á la cunara de la pani de Genesareth.
+Luke 5:2 Y dicó dui berdés, sos sinaban á la cunara de la pani: y os machadores habian ardiñado en chiquen, y muchobelaban desqueres redes.
+Luke 5:3 Y chalando andré yeque de oconas berdés, sos sinaba de Simon, le mangó, que le guillase yeque fremi de la chiquen.  Y sinando bestelado, bedaba á la sueti desde o berdo.
+Luke 5:4 Y yescotria que acabó de chamuliar, penó á Simon: Chala butér andré, y chibela jires redes somia machorar.
+Luke 5:5 Y rudelando Simon, le penó: Duquendio, sari a rachi hemos sinado machorando, bi ustilar chichi: tami en tiri varda chibaré a red.
+Luke 5:6 Y pur tereláron querdi ocolo, ustiláron tan baró numero de maches, que se asparababa a red de junos.
+Luke 5:7 Y quereláron simaches á os averes manuces sos sinaban andré o aver berdo, somia que abillasen á ayudarlos.  Ocolas abilláron, y de tal beda pereláron os dui berdes, que casi chalaban abajines.
+Luke 5:8 Y pur dicó Simon Pedro ocolo, se chibó á os pindrés de Jesus, penando: Erañó, chatucue de mangue, que sinelo manu choro.
+Luke 5:9 Presas ó, y os sares sos sat ó sinaban, sináron atonitos de os butres maches, que terelaban ustilado:
+Luke 5:10 Yandiar matejo Santiago, y Juan, chabores del Zebedéo, sos sinaban candones de Simon: Y penó Jesus á Simon: Na darañeles: desde ocona chiros sinarás machador de manuces.
+Luke 5:11 Y lliguerando os berdes á chiquen, mequeláron o saro, y le plastañáron.
+Luke 5:12 Y anacó, que sinando andré yeque de ocolas fores, abilló manu perelalo de zarapia, y pur dicó á Jesus, se chibó mui por chiquen, y le mangó, penando: Erañó, si camelas, astisarelas chibarme lacho.
+Luke 5:13 Y ó bucharando la baste le pajabó, penando: Camelo: sinele limpio.  Y yescotria chaló de ó a zarapia.
+Luke 5:14 Y le penó, que na lo penase á cayque: Tami chatucue, le penó, y muestrate al erajai, y díñela por tiri limpieza ma mandó Moyses, en machiria á junos.
+Luke 5:15 Y trincho butér se voltisaraba desquero chimusolano: y abillaba en plastañias a sueti somia junelarle, y somia que nicobelase de junos desqueres merdipénes.
+Luke 5:16 Tami ó se chaló al desierto á manguelar á Un-debél.
+Luke 5:17 Y anacó, que yeque chibes ó sinaba bestelado bedando.  Y sinaban tambien bestelados oté yeques Phariseyes, y Chandés de la Eschastra, sos abilláron de sares os gaues e Galiléa, y de Judéa, y de Jerusalém: y a sila e Erañoro sinaba randiñando somia chibarlos lacho.
+Luke 5:18 Y abilláron yeques manuces sos ligueraban opré cheripen yeque manu, sos sinaba paralitico, y le camelaban sinchitar andré, y chibarle anglal de ó.
+Luke 5:19 Tami na rachelando por anduque astisar sinchitarlo por la plastañi e sueti, costunáron opré o techo y pre ó tejado le deschindaron sat a cheripen, sinchitandolo en medio anglal de Jesus.
+Luke 5:20 Y pur dicó a fé de junos, penó: Manu, ertinados á tucue sinelan os grecos.
+Luke 5:21 Y os Libanes, y Phariseyes se chibaron á penchabar, y penar: ¿Coin sinela ocona sos chamulia solajais: Coin astisarela ertinar grecos, sino Un-debél colcoro?
+Luke 5:22 Y Jesus, sasta jabilló as suncais de junos, les rudeló, y penó: ¿Qué penchabais andré jirés carlochines?
+Luke 5:23 ¿Qué sinela mas astis, penar: Ertinados á tucue sinelan os grecos; o penar: Costunate y pirela?
+Luke 5:24 Pues somia que chaneleis, que o Chaboro e manu terela sila opré la pu de ertinar grecos, penó al Paralitico: A tucue penelo, costunatucue, ustila tun cheripen, y chatucue á tun quer.
+Luke 5:25 Y se costunó yescotria anglal de as aquias de junos, y ustiló a cheripen, andré que sinaba: y se chaló a desquero quer, diñando chimusolano á Debél.
+Luke 5:26 Y sináron os sares pasmados, y majarificaban á Debél: y perelales de dal, penaban: Achibes hemos dicado zibos.
+Luke 5:27 Y despues de ocono chaló abrí, y dicó a yeque Publicano araquerado Levi, sos sinaba bestelado á la quejeña, y le penó: Plastañamangue.
+Luke 5:28 Y ardiñelandose mecó sarias desquerias buchias: y le plastañó.
+Luke 5:29 Y le queró Levi yeque jachipen bari andré desquero quer, y abilló oté yeque plastañi bari de Publicanes, y de averes, sos sinaban bestelados sat junos á la mensalle.
+Luke 5:30 Tami os Phariseyes, y os Libanes sinaban ululés, y penaban á os discipules de Jesus: ¿Presás jamais, y piyais sat os Publicanes y chores?
+Luke 5:31 Y Jesus les rudeló, y penó: A ocolas sos sinelan mistos, salamito no les sinela necesario, sino á ocolas sos sinelan merdés.
+Luke 5:32 Na he abillado á araquerar á os laches á penitencia, sino á os chores.
+Luke 5:33 Y ocolas le penáron: ¿Presas os discipules de Juan ayunan tanto, y manguelan, y tambien os es Phariseyes, y os de tucue jamelan y piyelan?
+Luke 5:34 O penó á junos: ¿Por baji astisarelas querelar, que os chabores e Rom ayunen, o chiros que o Rom sinela sat junos?
+Luke 5:35 Tami abillarán chibeses, andré que o Rom les sinará nicabado, y ayunarán andré ocolas chibeses.
+Luke 5:36 Y les penó yeque semejanza: Na chibela cayque remiendo de chan nebó andré plata puri: presas de aver beda o nebó parabela al puro: y ademas na nichobela mistos remiendo nebó sat o puro.
+Luke 5:37 Y cayque chibela mol nebó andré pigotes purés, presas de aver beda o mol nebó parabelará á os pigotes, o mol se butanará, y se chibelarán a najabar os pigotes.
+Luke 5:38 Tami jomte chibar o mol nebó andré pigotes nebés, y o yeque y o aver se conserva.
+Luke 5:39 Y cayque sos piyela o puro camela yescotria o nebó, presas penela: fetér sinela o puro. <chapter eID="gen220" osisID="Luke.5"/>
+Luke 6:0 <chapter osisID="Luke.6" sID="gen260"/>
+Luke 6:1 Y anacó que yeque Canché duisquero brotobo, o chiros que nacase por os ortalames, desqueres discipules velaban prosapias, y estregandolas andré as bastes, las jamaban.
+Luke 6:2 Y yeques es Phariseyes les penaban: ¿Presas querelais ma na sinela lacho andré os Canchés?
+Luke 6:3 Y Jesus ustilando a varda, les rudeló: ¿Ni aun terelais lirenado ocolo ma queró David, pur tereló bóquis ó, y ocolas sos sat ó sinaban?
+Luke 6:4 ¿Como chaló andré o quer de Debél, y ustiló os manres e proposicion, y jamó, y diñó á ocolas sos sat ó sinaban: aunque n’astisirelaban jamar de junos, sino os erajais colcores?
+Luke 6:5 Y les penó: O Chaboro e manu sinela Erañó tambien e Canché.
+Luke 6:6 Y anacó, que aver Canché chaló tambien andré a Synagoga, y bedaba.  Y sinaba oté manu sos terelaba seca a baste bustari.
+Luke 6:7 Y os Libanes, y os Phariseyes le sinaban acechando, somia dicar, si chibaria lacho andré Canché: somia alachar de que acusarlo.
+Luke 6:8 Tami ó pincharaba as suncais de junos, y penó al manu, sos terelaba a baste seca: Costunatucue, y sinchitatucue andré medio.  Y ó costunandose, se sinchitó en pindré.
+Luke 6:9 Y Jesus les penó: Sangue puchabelo: ¿Sinela licito querelar mistos andré Canchés, ó querelar choro, diñar mestipen o nicobarla?
+Luke 6:10 Y dicando á os sares al crugos, penó al manu: Buchara tun baste, ó la bucharó, y sinaba chibado lacho a baste.
+Luke 6:11 Y junos se pereláron de furor, y chamuliaban os yeques sat os averes que querelarian sat Jesus.
+Luke 6:12 Y anacó andré ocolas chibeses, que chaló abrí al bur á manguelar, y nacó sari a rachi manguelando á Debél.
+Luke 6:13 Y pur sinaba de chibes, araqueró á os discipules de ó, y escogiseró duideque de junos, sos araqueró Apostoles.
+Luke 6:14 A Simon, á coin diño o sobre-nao de Pedro, y á Andres desquero plal, á Santiago, y á Juan, á Phelipe, y á Bartholomé.
+Luke 6:15 A Mathéo, y á Thomas, á Santiago de Alphéo, y á Simon araquerado o Zelador.
+Luke 6:16 A Judas plal de Santiago, y á Judas Iscariotes, sos sinaba o Sungalo.
+Luke 6:17 Y chalando bajines sat junos, entrisaró andré yeque llano, sat la plastañi de desqueres discipules, y de yeque sueti bari de sari a Judéa, y de Jerusalém, y de la cunara, y de Tyro, y de Sydon,
+Luke 6:18 Sos habian abillado á junelarle, y somia que los chibase lacho de desqueres merdipénes.  Y junos sos sinaban atormentados de Bengues prachindes sinaban chibados lacho.
+Luke 6:19 Y sari a sueti camelaba pajabarle: presas abrí de ó chaló sila, y os chibaba lacho á sares.
+Luke 6:20 Y ó ardiñando as aquias ácía desqueres discipules, penaba: Majarados os chorores, presas á sangue sinela o chim de Debél.
+Luke 6:21 Majarados sangue sos acana terelais bóquis: presas perelalés sinareis: Majarados sangue sos acana orobais; presas girelareis.
+Luke 6:22 Majarados sinareis, pur sangue aborrecieren os manuces, y sangue buchararen de junos, y sangue curararen, y chibaren abrí o nao de sangue, como choro, por o Chaboro e manu.
+Luke 6:23 Asaselaos andré ocola chibes, y alendaos; presas o manchin de sangue sinela baro andré o Tarpe; presas de ocona beda trataban á os Prophetas os batuces de junos.
+Luke 6:24 ¡Tami ysna de sangue os balbalés, presas terelais jiré consuelo!
+Luke 6:25 ¡Ysna de sangue, os sos sinelais perelalés; presas terelareis bóquis!  Ysna de sangue os, sos acana girelais; presas golareis y orobareis.
+Luke 6:26 ¡Ysna de sangue, pur majarificaren sangue os manuces; presas andiar querelaban á os Prophetas calabeosos os batuces de junos!
+Luke 6:27 ¡Tami penelo á sangue sos lo junelais: Camelad á jires daschmanuces, querelad mistos á junos sos camelan sangue choro.
+Luke 6:28 ¡Majarad á junos sos zermánelan á sangue, y manguelad á Debél por junos sos araquerelan sangue choro!
+Luke 6:29 Y á ó sos curáre tucue andré yeque mejilla, dinle tambien a aver.  Y á ó sos nicobeláre tucue o uchardo, na ó impidas lliguerar tambien a furi.
+Luke 6:30 Din á os sares ma tucue manguelaren: y á ó sos ustiláre ma sinela de tucue, na se lo pida.
+Luke 6:31 Y ma camelais que querelen á sangue os manuces, ocolo matejo querelad sangue á junos.
+Luke 6:32 Y si camelais á junos sos camelan á sangue, ¿qué merito terelareis?  Presas os chores tambien camelan á junos sos os camelan.
+Luke 6:33 Y si querelais mistos á junos sos querelan mistos á sangue, ¿qué merito terelareis?  Presas os chores tambien querelan ocono.
+Luke 6:34 Y si prestisareis á ocolas, de coines ujarais ustilar, ¿qué merito terelareis?  Presas tambien os chores prestisaran yeques á averes, somia ustilar aver tanto.
+Luke 6:35 Camelad pues á jirés daschmanuces: querelad mistos, y diñad prestado, bi ujarar por ocono chichi; y jire manchin sinará baro, y sinareis chabores e Udscho, presas o sinela gacho aun para os sungalés y chores.
+Luke 6:36 Sinelad pues canreosos, sasta tambien jiré Dada sinela canreoso.
+Luke 6:37 Na juzgueis, y na sinareis juzgados; na sapleis, y na sinareis saplados.  Ertinad, y sinareis ertinados.
+Luke 6:38 Diñad, y á sangue se diñará: melalo lacho, perelalo, y baro, y costunado diñarán andré jiré chepo: presas sat o matejo melalo con que melalareis, á sangue se volverá á melalar.
+Luke 6:39 Y les penaba tambien yeque semejanza: ¿Acaso astisará yeque chindó guiar á aver chindó?  ¿Na perarán os dui andré o butron?
+Luke 6:40 No sinela o discipulo opré desquero Duquendio, tami sinará perfecto saro ocola sos sinare sasta desquero Duquendio.
+Luke 6:41 ¿Y presas diquelas a chiriria andré a aqui de tun plal, y na diquelas a condari, sos terelas andré tun aqui?
+Luke 6:42 ¿O sasta astisarelas penar á tun plal: Mequelamangue, plal, sicobar á tucue a chiriria, sos sinela andré tun aqui, no dicando tucue a condari, sos sinela andré tun aqui?  Sungalo, sicobela brotoboro a condari de tun aqui, y despues dicarás, somia sicobar a chiriria de tun plal.
+Luke 6:43 Presas na sinela carschta lachi, sos parbarela mibaes chorés: ni carschta chori, sos terela mibaes laches.
+Luke 6:44 Pues sari carschta sinela pincherada por o mibao.  Presas na ustilelan beous de espinos, ni ustilelan traquias de jarres.
+Luke 6:45 O manu lacho del manchin lacho de desquero carlo sicobela lacho: y o manu choro del manchin choro sicobela choro; presas dela baribustria e carlo penela a mui.
+Luke 6:46 ¿Por qué pues araquerais mangue Erañó, Erañó, y na querelais ma penelo?
+Luke 6:47 O saro sos abillela á mangue, y junela minrias vardas, y as querela, diaré sangue a coin sinela semejante.
+Luke 6:48 Sinela semejante á yeque manu, sos querela quer, ma cavó y ahondó, y queró silno sat pardi opré yeque bar, y pur peró a pani bari, diñó sat sila o len contra ocola quer, y n’astisaró chalabearlo, presas sinaba chitado opré bar.
+Luke 6:49 Tami o sos junela, y na querela bajin, semejante sinela á yeque manu, sos chitela desquero quer opré chiquen bi pardi, y contra que diñó sat sila o len, y yescotria peró: y sinaba bari la ruina de ocola quer. <chapter eID="gen260" osisID="Luke.6"/>
+Luke 7:0 <chapter osisID="Luke.7" sID="gen310"/>
+Luke 7:1 Y pur acabó de penar sarias oconas vardas á la sueti, sos junelaba, se chaló andré Capharnaúm.
+Luke 7:2 Y sinaba oté baribu merdo y casi á la meripen yeque lacró de yeque Centurion; sos sinaba baribu pachibelado de ó.
+Luke 7:3 Y pur juneló penar de Jesus, bichabó á ó yeques pures es Chuti, manguelandole, que abillase á chibar lacho á desquero lacró.
+Luke 7:4 Y junos, yescotria que abilláron á Jesus, le querelaban barias instancias, penando: Merece que le otorguisareles ocono.
+Luke 7:5 Presas camela á amari rati: y ó amangue ha querdi yeque cangri.
+Luke 7:6 Y Jesus chalaba sat junos.  Y pur sinaba sunparal é quer, bichabó á ó el Centurion desqueres monres, penando: Erañó, na ustileles ocona trabajo, que menda na sinelo cabalico de que chales andré de minrio guer.
+Luke 7:7 Por ocono ni aun he penchabado mangue cabalico de nichobelar á orotarte: Tami penlo sat yeque varda, y sinará chibado lacho minrio lacró.
+Luke 7:8 Presas menda tambien sinelo manu chitado ostely de las vardas de averes, y terelo jundunares ostely de mangue; y penelo á ocona: Cha, y chala; y al aver; Abillel, y abillela; y al lacro de mangue: Querel ocono, y querela.
+Luke 7:9 Pur Jesus junelo ocono, se zibó: y dicando palal á la sueti, que o plastañaba, penó: Aromali sangue penelo, que ni andré Israel he alachado fé tan bari.
+Luke 7:10 Y pur junos limbidiáron al quer sos habian sinado bichabados, alacháron sasto al lacró, sos habia sinado merdo.
+Luke 7:11 Y anacó despues, que chalaba á yeque foros araquerado Naim: y desqueres discipules chalaban sat ó, y yeque bari plastañi de sueti.
+Luke 7:12 Y pur abilló sunparal de la bundal e foros, he acoi que sicobaban abrí á yeque mulo, chaboro colcoro de sun dai, sos sinaba piuli, y abillaba sat siró baribustri sueti e foros.
+Luke 7:13 Yescotria que la dicó o Erañó, perelalo de canrea por siró, le penó: Na orobeles.
+Luke 7:14 Y chaló sunparal, y pajabó á la jestarí e muló.  Y junos sos lo lligueraban, se sustiláron.  Y penó: Bédoro, á tucue penelo, costunatucue.
+Luke 7:15 Y se bejeló ó sos habia sinado muló, y se chibó á chamuliar, y le diñó á sun dai.
+Luke 7:16 Y tereláron os sares dal baro, y majarificaban á Debél, penando; Propheta baro se ha ardiñado andré amangue; y Debél ha abillado á sun sueti.
+Luke 7:17 Y o chimusolano de ocona zibo voltisaró por sari Judéa, y por sari a pu.
+Luke 7:18 Y penáron á Juan desqueres discipules sarias oconas buchias.
+Luke 7:19 Y Juan araqueró dui es discipules de ó, y os bichabó á Jesus, penando: ¿Sinelas tucue ó sos ha de abillar, ó ujaramos á aver?
+Luke 7:20 Y sasta abillasen á ó oconas manuces, le penáron; Juan o Bautista ha bichabado amangue á tucue, y penela; ¿Sinelas tucue ó sos ha de abillar, ó ujaramos á aver.
+Luke 7:21 Y Jesus andré ocola matejo chiros chibó lacho á baribustrés de merdipénes, y de llagas, y de bengues chores, y diñó vista á butrés perpentas.
+Luke 7:22 Y despues os rudeló, penando: Chalad, y penad á Juan, ma habeis junelado y dicado: Que os perpentas diquelan, os langues pirelan, os zarapiosos sinelan chibados lacho, os cajuques junelan, os mules ardiñelan, á os chorores sinela pucanado o Evangelio.
+Luke 7:23 Y majaró sinela ó, sos na sinare escandalizado andré mangue.
+Luke 7:24 Y pur hubieron chalado os discipules de Juan, se chibó á penar á la sueti de Juan: ¿Qué chalasteis á dicar andré o desierto? ¿salchuyo chalabeado del bear?
+Luke 7:25 ¿Tami qué chalasteis abrí á dicar?  ¿Manu chito de coneles laches?  Aromali junos sos chibelan coneles laches, y se parbarelan andré delicias, andré os querés es Crallises sinelan.
+Luke 7:26 Tami qué chalasteis abrí á dicar?  Propheta?  Aromali sangue penelo, y fetér que Propheta:
+Luke 7:27 Ocona sinela, del que sinela randado: He acoi bichabelo minrio Manfariel anglal de tun chiche, sos julabará tun drun anglal de tucue.
+Luke 7:28 Presas menda penelo sangue, que andré os chindados de romias, na sinela fetér Propheta, que Juan o Bautista; tami o mendesquero andré o chim de Debél, sinela fetér que ó.
+Luke 7:29 Y sari a sueti, y os Publicanes, sos le juneláron, diñáron chimusolano á Debél, junos sos habian sinado muchobelados sal o bautismo de Juan.
+Luke 7:30 Tami os Phariseyes, y os Chandes de la Eschastra gireláron o consejo de Debél andré sí matejos, ocolas sos na habian sinado muchobelados por ó.
+Luke 7:31 Y penó o Erañó: Pues á coin penaré, que se semejan os manuces de ocona rati, y á coin se nichobelan?
+Luke 7:32 Semejantes sinelan á os chabores, sos sinelan bejelados andré ó masquero chamuliando andré sí, y penando: A sangue hemos giyabelado sat pajandias, y na quelasteis: á sangue hemos endechado, y na orobasteis.
+Luke 7:33 Presas abilló Juan o Bautista, sos na jamaba manro, ni piyaba mol, y penelais: Bengui terela.
+Luke 7:34 Abilló o Chaboro e manu, sos jamela, y piyela, y penelais: He acoi manu jamador, y matogaro, monro de Publicanes y chorés.
+Luke 7:35 Tami a chaneleria ha sinado justificada por sares desqueres chabores.
+Luke 7:36 Y le mangaba yeque Phariséo, que chalase á jamar sat ó: y habiendo chalado andré o quer e Phariséo, se bejeló á la mensalle.
+Luke 7:37 Y yeque cadchi chumasconá, sos sinaba andré o foros, chanelando que sinaba á la mensalle andré o quer e Phariséo, lligueró yeque pigote de alabastro, perelalo de ampio lacho:
+Luke 7:38 Y sinchitandose á desqueres pindrés palal de ó, se chibó á muchobelarle sat la pani de sus aquias os pindrés, y os enjugaba sat o bal de desquero jeró, y le chupendiaba os pindrés, y os ampiaba sat o ampio.
+Luke 7:39 Y pur ocono dicó o Phariséo, sos le terelaba convidado, penó andré sí matejo: Si ocona manu sinaba Propheta, chanelaria mistos ma, y coin sinela a cadchi, sos le pajabela; presas sinela chori.
+Luke 7:40 Y Jesus le rudeló, penando: Simón, camelo penar á tucue yeque buchi.  Y ó rudeló: Duquendio, pen.
+Luke 7:41 Dui debisaráron jayere á yeque manu: o yeque le debisaró pansch cientos calés, y o aver cincuenta.
+Luke 7:42 Tami sasta na terelasen chichi de que plasararle, se los estomó á os dui.  ¿Pues cual es dui le camela fetér?
+Luke 7:43 Rudeló Simón, y penó: Penchabelo, que ocola, á coin estomó butér.  Y Jesus le penó: Mistos has penchabado.
+Luke 7:44 Y voltañandose acia a cadchi, penó á Simón: ¿Diquelas ocona cadchi?  Menda me chalé andré tun quer, na diñaste mangue pani somia os pindrés: tami ocona sat a pani de desquerias aquias ha muchobelado minrés pindrés, y os ha enjugado sat desqueres bales.
+Luke 7:45 Na diñaste mangue chupendi: tami ocona, desde que abilló andré, na ha mucado de chupendarme os pindrés.
+Luke 7:46 Na ampiaste minrio jeró sat ampio; tami ocona sat ampio lacho ha ampiado minres pindrés.
+Luke 7:47 Pre o matejo penelo; que estomados le sinelan os baribustres grecos de siró, presas cameló baribu.  Tami al que mendesquero se estoma, mendesquero camela.
+Luke 7:48 Y penó á siró: Estomados á tucue sinelan os grecos.
+Luke 7:49 Y ocolas sos jamelaban oté, se chibáron á penar enré si: ¿Coin sinela ocona, sos aun os grecos estoma?
+Luke 7:50 Y penó á la cadchi: Tun fé ha chibado tucue sasti: Chatucue andré paz. <chapter eID="gen310" osisID="Luke.7"/>
+Luke 8:0 <chapter osisID="Luke.8" sID="gen361"/>
+Luke 8:1 Y anacó despues, que Jesus chalaba por foros y gau, garlando y chamuliando o chim de Debél; y os duideque sat ó.
+Luke 8:2 Y tambien yeques cadchias, sos ó terelaba chibado lacho de bengues chorés, y de merdipénes: Maria sos se heta Magdalena, de coin terelaba bucharado abrí efta bengues,
+Luke 8:3 Y Juana romi de Chûsa, Queresquero de Herodes, y Susanna, y averes butrés, sos le asistian de desqueres jayeres.
+Luke 8:4 Y sasta se hubiese catanado sueti baribustri, y abillasen solictos á ó de los fores, os penó por parabola:
+Luke 8:5 Manu chaló abrí á chibar desqueri simiente: y al chibarle, yeque aricata peró sunparal al drun, y sinaba hollada, y la jamáron as patrias e Charos.
+Luke 8:6 Y aver peró opré bar: y pur se ardiñó, se secó presas na terelaba humedad.
+Luke 8:7 Y aver peró andré jarres, y as jarres, sos ardiñáron sat siró, la mulabáron.
+Luke 8:8 Y aver peró andré pu lachi: y ardiñó, y diñó mibao á ciento por yeque.  Penado ocono, se chibó á penar á goles: Coin terela canes de junelar, junele.
+Luke 8:9 Os discipules de ó le puchababan, que parabola sinaba ocona.
+Luke 8:10 O les penó: A sangue sinela diñado chanelar o mysterio e chim de Debél, tami á os averes por parabolas: somia que dicando na diquelen, y junelando na jabillelen.
+Luke 8:11 A parabola sinela ocona: A simiente sinela a varda de Debél.
+Luke 8:12 Y junos sunparal al drun, sinelan ocolas sos la junelan, unga; tami yescotria abillela o Bengui, y nicobela a varda del carlochin de junos, somia que na se chibelen sastos pachibelando.
+Luke 8:13 Tami junos opré la bar; sinelan ocolas sos ustilelan sat pesquital a varda, pur la junelan; y oconas na terelan raices, presas á chiros pachibelan, y andré o chiros e tentacion limbidian palal.
+Luke 8:14 Y ma peró andré jarres: oconas sinelan junos, sos la junelan, y se mequelan mulobar de las duas, y de la bestipen, as buchias lachias de ocona chipen, y na diñelan mibao.
+Luke 8:15 Tami ma peró andré pu lachi: oconas sinelan junos, sos junelando a varda sat carlochin lacho y sasto, a reterelan, y diñelan mibao andré orpachirima.
+Luke 8:16 Cayque urdiflela yeque antorcha, y a ucharela sat yeque melalo, ó a chitarela ostely de la cheripen: tami a chitarela opré o candelero, somia que diquelen a dut junos sos chalan andré.
+Luke 8:17 Presas na sinela buchi pandada, sos na terele de sinar despandada: ni escondida, sos na terele de sinar pincherada, y andré dut abillar.
+Luke 8:18 Diquelad pues, sasta junelais, presas a ocola sos terela, le sinará diñado: y á ó sos na terela, aun ocolo, sos penchabela terelar, le sinará nicobado.
+Luke 8:19 Y abilláron á ó sun dai, y desqueres plalores, y na astisaraban bigorear á ó por a baribustri sueti.
+Luke 8:20 Y le penáron: Tiri dai y tires plalores sinelan abrí, sos te camelan dicar.
+Luke 8:21 Tami ó rudeló y les penó: Minri dai y minres plalores sinelan ocolas, sos junelan a varda de Debél, y a ujarelan.
+Luke 8:22 Y anacó, que yeque chibes chaló ó, y desqueres discipules andré yeque berdo; y les penó: Naquelemos á la aver cunara de la pani, y se chibáron á nacar.
+Luke 8:23 Y o chiros que junos navegaban, ó quereló o sobindoi, y se costunó buros de bear andré a pani, y se perelaban de pani, y sinaban en paripen.
+Luke 8:24 Y bigoreandose á ó, le ostináron, penando: Duquendio, que meramos: Y ó costunandose chamulió al bear, y al buros de la pani, y cesó: y sinaba querdi bonanza.
+Luke 8:25 Y les penó: ¿Anduque sinela jiré fé?  Y junos perelales de dal se zibáron, y penaban os yeques á os averes: ¿Coin penchabelais sinela ocona, sos andiar penela á os beares, y al moros, y o obedecen?
+Luke 8:26 Y chaláron á la pu es Gerasenos, sos sinela de mamui de la Galiléa.
+Luke 8:27 Y yescotria que ardiñó andré chiquen, chaló á ó yeque manu, sos terelaba bengui, baribu chiros, y na chibaba conel, ni socababa andré quer, sino andré os sepulchres.
+Luke 8:28 Ocona, yescotria que dicó á Jesus, se bucharó ostely anglal de ó, y diñando un gole, penó: ¿Quéterelas que dicar con-a-mangue, Jesus, Chaboro e Debél Udscho?  Manguelote, que na atormentes mangue.
+Luke 8:29 Presas penaba al bengui jindo, que chalase abrí del manu; presas sinaba baribu chiros que le ustilaba: y aunque le terelaban estardo, y pandado sat berigas y saces, asparaba as saces, y acosado del bengui najaba á os desiertos.
+Luke 8:30 Y Jesus le puchabó, y penó: ¿Qué nao terelas tucue?  Y ó rudeló!  Legion: presas habian chalado andré ó baribustres bengues.
+Luke 8:31 Y le manguelaban, que na os bichabase al butron.
+Luke 8:32 Piraba oté yeque bari plastañi de baliches jamando andré o bur: y le manguelaban, que os mequelase chibarse andré junos.  Y se lo mecó.
+Luke 8:33 Chaláron pues os bengues abrí e manu, y chaláron andré os baliches: y yescotria os baliches se chibáron por yeque luchipen sat sila andré a pani, y se amuláron.
+Luke 8:34 Pur ocono dicáron os durotunés, najáron, y lo penáron andré o foros, y por os gaues.
+Luke 8:35 Y chaláron abrí somia dicar que habia anacado, y abilláron á Jesus: y alacháron bestelado al manu, de coin habia chalado abrí os bengues, sos sinaba acana vestido, y andré desquero bardon, á ós pindrés de ó, y tereláron dal baro.
+Luke 8:36 Y les penáron junos sos lo habian dicado, sasta habia sinado listrabado de la legion.
+Luke 8:37 Y le mangueló sari a sueti del chim es Gerasenes, que se chalase de junos: presas terelaban dal baribu.  Y ó costunó andré o berdo, y se limbidió.
+Luke 8:38 Y o manu, de coin habian chalado abrí os bengues, le manguelaba somia sinar sat ó.  Tami Jesus le bichabó, y penó:
+Luke 8:39 Limbidiatucue á tun quer, y pen quan bari furune Debél ha querdi con-a-sangue.  Y chaló penando por saro o foros, quanto mistos le habia querdi Jesus.
+Luke 8:40 Y anacó, que habiendo limbidiado Jesus, le ustiláron a sueti: pues sares le sinaban ujarando.
+Luke 8:41 Y abilló manu araquerado Jayro, sos sinaba Mancloy e Synagoga: y chibandose a os pindrés de Jesus, le manguelaba, que chalase andré desquero quer.
+Luke 8:42 Presas terelaba chabori colcori sasta de dui deque berjis, y ocona sinaba merando.  Y o chiros que ó chalaba, a sueti o apretaba.
+Luke 8:43 Y yeque cadchi sos terelaba len de rati dui-deque berjis, y habia plasarado o saro que terelaba andré salamites, y de cayque n’astisaraba sinar chibada mistos:
+Luke 8:44 Abilló á ó por palal, y pajabó a orla de desqueri talorori: y andré o matejo chiros cesó o len de desqueri rati.
+Luke 8:45 Y penó Jesus: ¿Coin ha pajabado mangue?  Y negandolo sares, penó Pedro, y junos sos sat ó sinaban: Duquendio, a sueti aprieta tucue, y pandela, y penelas: ¿Coin mangue pajabela?
+Luke 8:46 Y penó Jesus: Yeque ha pajabado mangue: presas he pincherado, que ha chalado sila abrí de mangue.
+Luke 8:47 Pur a cadchi se dicó andiar pincherada, abilló sat dal, y se chibó á desqueres pindrés: y penó anglal sari a sueti a causa, presas le habia pajabado; y sasta yescotria habia sinado chibada mistos.
+Luke 8:48 Y ó le penó: Dugida, tun fé ha chibado tucue mistos: Chatucue andré paz.
+Luke 8:49 Sinando ó aun chamuliando, abilló yeque al Mancloy e Synagoga, y le penó: Muli sinela tun chabori: na molestes al Duquendio.
+Luke 8:50 Tami Jesus pur ocono juneló, penó al batu de la bedori: Na darañeles, pachibel colcoramente, y sinará mistos.
+Luke 8:51 Y pur bigoreó al quer: na mecó chalar andré á cayque, sino á Pedro, y á Santiago, y á Juan, y al batu, y á la dai de la bedori.
+Luke 8:52 Y os sares orobaban, y a plañian.  Y ó penó: Na orobeleis, na sinela muli a bedori, sino que sobela.
+Luke 8:53 Y se le girelaban, chanelando que sinaba muli.
+Luke 8:54 Tami ó la ustiló pre a bas, y penó á gole baro: Bedori, Costunatucue.
+Luke 8:55 Y limbidió a ochi á siró, y se costunó yescotria.  Y ó penó, que le diñesen de jamar.
+Luke 8:56 Y os batuces de siró sináron canguelados, y ó les penó, que á cayque penasen ma habia sinado querdi. <chapter eID="gen361" osisID="Luke.8"/>
+Luke 9:0 <chapter osisID="Luke.9" sID="gen418"/>
+Luke 9:1 Y araquerando a os duideque Apostoles, les diñó silo y potestad, opré sares os bengues, y que chibelasen lacho merdipénes.
+Luke 9:2 Y os bichabó á garlar o chim de Debél, y á chibar lacho os merdes.
+Luke 9:3 Y les penó: Na lliguereles chichi para o drun, ni cáste, ni manroña, ni manro, ni jayere, ni tereleis dui coneles.
+Luke 9:4 Y saro quer andré que chalareis oté permaneced, y na chaleis abrí de oté.
+Luke 9:5 Y sares junos sos na ustilasen sangue: al chalar abrí de ocola foros, bucharelad o pracos de jires pindrés andré machiria contra junos.
+Luke 9:6 Y chalando abrí, guillaban de gau andré gau, garlando ó Evangelio, y chibando lacho por sarias aricatas.
+Luke 9:7 Y bigoreó á as canes de Herodes o Tetrarcha o saro sos querelaba Jesus, y peró andré zibó, presas penaban
+Luke 9:8 Yeques: Que Juan ha ardiñado de enrun os mules: y averes: Que Elias habia abillado: y averes: Que yeque propheta es pures habia ardiñado.
+Luke 9:9 Y penó Herodes: Menda amulé á Juan: ¿Coin pues sinela ocona, de coin junelo tales buchias?  Y camelaba dicarlo.
+Luke 9:10 Y limbiados os Apostoles, le penáron o saro sos terelaban querdi: y ustilandolos sat o aparte, se chaló á yeque stano desierto, sos sinela del chim de Bethsaidá.
+Luke 9:11 Y pur os manuces lo chaneláron, lo plastañáron: Y Jesus os ustiló, y les chamuliaba del chim de Debél, y chibaba mistos á junos sos lo terelaban menester.
+Luke 9:12 Y o chibes se habia chibado á bejelarse: pur bigoreandose á ó os duideque, le penáron: Bichaba á ocona sueti, somia que chalen á os gaues, y sosias sunparal, se chibelen á sobelar, y alachalen que jamar: presas acoi sinamos andré yeque desierto.
+Luke 9:13 Y les penó: Diñadles sangue de jamar: y junos penáron: Na terelamos butér de pansch manres y dui maches: á no sinar que mu chalamos á quinar jachipen para sari ocona sueti.
+Luke 9:14 Presas sinaban sasta yeques pansch jazare manuces.  Y ó penó á desqueres discipules: Quereladlos bestelar andré plastañias de cincuenta en cincuenta.
+Luke 9:15 Y andiar lo quereláron: y os sares se besteláron.
+Luke 9:16 Y ustilando os pansch manres, y os dui maches, ardiñó as aquias al Tarpé, os majarificó, y asparabó: y diñó á desqueres discipules, somia que os childasen anglal de la sueti.
+Luke 9:17 Y jamáron os sares, y se pereláron.  Y ustiláron ma les sobró, duideque cornichas de cotores.
+Luke 9:18 Y anacó, que sinando ó colcoro bedando, se alachaban sat ó desqueres discipules: y os puchabó, y penó: ¿Coin penela a sueti que sinela menda?
+Luke 9:19 Y junos rudeláron, y penáron: Juan o Bautista, y averes Elias, y averes que se ardiñó yeque es purés Prophetas.
+Luke 9:20 Y les penó: ¿Y sangue coin penelais, que sinelo menda?  Rudelando Simon Pedro, penó: O Christo de Debél.
+Luke 9:21 O yescotria os amenazó, y penó, que na lo penasen á cayque,
+Luke 9:22 Penandoles: Jomte, que o Chaboro e Manu padezca baribustrias buchias, y que sinele desechado de los purés, y de los Manclayes es erajais, y de los libanés: y que sinele diñado á la meripen, y que ardiñele al trino chibes.
+Luke 9:23 Y penaba á sares: O sos palal de mangue camela abillar, nieguese á sí matejo, y ustile desquero trijul saro chibes, y plastañe mangue.
+Luke 9:24 Presas ó sos camelare salvar, desqueri ochi, a najará: y o manu sos najare desqueri ochi por camelar mangue la alachará.
+Luke 9:25 ¿Presas que aprovechasarela á yeque manu, si ustilare sari a chiquen, y si najela ó á sí matejo, y se caquerela á sí matejo?
+Luke 9:26 Presas ó sos se afrentare de mangue, y de minrias vardas, se afrentará de ó o Chaboro e Manu, pur abillará sat desquero chimusolano, y sat o del Dada, y es majarés Manfarieles.
+Luke 9:27 Tami penelo sangue en chachipen: que yeques sinelan acoi, sos na penchararán meripen, disde que diquelen o chim de Debél.
+Luke 9:28 Y anacó sasta otor chibases despues de oconas vardas, que ustiló sat ó á Pedro, y á Santiago, y á Juan, y costunó á yeque bur á manguelar á Un-debél.
+Luke 9:29 Y o chiros que manguelaba, a figura de desqueri chiché se quereló aver: y os talarores de ó se tornáron parnes, y resplandecientes.
+Luke 9:30 Y he acoi que chamuliaban sat ó dui gaches.  Y oconas sinaban Moysés y Elias,
+Luke 9:31 Que se mequeláron dicar andré chimusolano: y chamuliaban de la meripen de ó, sos terelaba de cumplir andré Jerusalém.
+Luke 9:32 Tami Pedro, y junos sos sat ó sinaban, se alachaban cargados de sobindoi; y ostinando dicáron o chimusolano de Jesus, y á os dui gaches, sos sinaban sat ó.
+Luke 9:33 Y pur se chaláron de ó, penó Pedro á Jesus: Duquendio, mistos sinela que mu sinelemos acoi: y querelemos trin estañas, yeque para tucue, y yeque para Moysés, y aver para Elias, na chanelando, ma se penelaba.
+Luke 9:34 Y pur sinaba ó penando ocono, abilló yeque paros, y os ucharó: y tereláron dal, sinando junos andré o paros.
+Luke 9:35 Y abilló gole baro abrí e paros, penando: Ocona sinela minrio Chaboro camelado; junelad á ó.
+Luke 9:36 Y al chalar abrí ocona gole, alacháron colcoro á Jesus; y junos se sonsibeláron, y á cayque penáron andré ocolas chibeses chichi, de o saro que terelaban dicado.
+Luke 9:37 Y aver chibes pejando junos del bur, les abilló á rachelar plastañi bari de sueti.
+Luke 9:38 Y he acoi yeque manu de la plastañi garló, penando: Duquendio, manguelo tucue, que diqueles a minrio chaboro, presas menda na terelo aver.
+Luke 9:39 Y he acoi que yeque bengui le ustilela, y yescotria díñela goles; y le bucharela por chiquen, y le asparabela querelandole chibar abrí espuma, y na camela chalar de ó, lliguerandole.
+Luke 9:40 Y manguelé á tires discipules, que ó bucharasen abrí, y na astisáron.
+Luke 9:41 Y rudelando Jesus, penó: O rati infiel y chori! ¿disde pur sinará con-a-sangue, y sangue urjiyaré?  Lanela acoi tun chaboro.
+Luke 9:42 Y pur abilló sunparal, le bucharó o bengui en chiquen, y le caqueró.
+Luke 9:43 Tami Jesus chamulió al bengui chindó, y chibó lacho al bedoro, y se le diñó á desquero batu.
+Luke 9:44 Y se darañelaban sares de la sila bari de Debél: y zibandose sares de sarias as buchias sos querelaba, penó á desqueres discipules: Chibelad andré jires carlés oconas vardas: Jomte que o Chaboro e manu sinele chibado andré bastes es manuces.
+Luke 9:45 Tami junos na jabilláron ocona varda, y les sinaba tan oruni, que na le chanelaban: y darañelaban de puchararle acerca de siró.
+Luke 9:46 Y les abilló tambien a jestia, coin de junos sinaria o fetér.
+Luke 9:47 Tami Jesus dicando ma penchababan andré desqueres carlés, ustiló yeque chaboro, y lo childó sunparal á sí,
+Luke 9:48 Y les penó: O sos ustilare á ocona chaboro andré minrio nao, á mangue ustilela: y o saro sos á mangue ustilare, ustilela á ocola, sos mangue bichabó: presas ó sos sinela mendesquero andré sangue sares, ocona sinela o mas baro.
+Luke 9:49 Entonces Juan ustilando a varda, penó: Duquendio, hemos dicado a yeque bucharando abrí os bengues andré tiro nao, y se lo nicobelamos: presas na te plastañela con amangue.
+Luke 9:50 Y Jesus le penó: Na se lo nicobeleis, presas ó sos na sinela contra sangue, por sangue sinela.
+Luke 9:51 Y sasta se abillase sunparal o chiros de desquero Asuncion, quereló silno semblante de chalar á Jerusalém.
+Luke 9:52 Y bichabó anglal de ó manuces: junos nacáron, y chaláron andré yeque gau es Samaritanes, somia orotarle mesuna.
+Luke 9:53 Y na le ustiláron, presas quereló semblante de chalar á Jerusalém.
+Luke 9:54 Y pur lo dicáron Santiago, y Juan discipules de ó, penáron: Erañó: camelas que penelemos, que perele yaque del Charos, y los marele.
+Luke 9:55 Tami ó, boltañandose acia junos, os chingaró, penando: Na chanelais de que suncai sinelais.
+Luke 9:56 O chaboro e manu na ha abillado á marelar ochias, sino á listrabarlas.  Y se nacáron á aver gau.
+Luke 9:57 Y anacó que chalando junos por o drun, penó yeque á Jesus: Menda plastañaré tucue aduque que chalares.
+Luke 9:58 Jesus le penó: Os rubasunches terelan turnias, y as pulias e Charos nidos: tami o chaboro e manu na terela duque chibelar o jero.
+Luke 9:59 Y á aver penó: Plastañamangue.  Y ó rudeló: Erañó, mejelamangue chalar antes á garabar á minrio batu.
+Luke 9:60 Y Jesus le penó: Mequela que os mules garaben á desqueres mulés: tami tucue abillel, y pucana o chim de Debél.
+Luke 9:61 Y aver le penó: Plastañaré tucue Erañó: tami brotobo mequelamangue chalar á chitar mistos ma terelo andré minrio quer.
+Luke 9:62 Jesus le penó: Cayque, sos chibela baste andré o caste randiñador, y diquela palal, sinela lacho somia o chim de Debél. <chapter eID="gen418" osisID="Luke.9"/>
+Luke 10:0 <chapter osisID="Luke.10" sID="gen481"/>
+Luke 10:1 Y despues de ocono araqueró o Erañó tambien averes setenta y dui; y os bichabó de dui en dui anglal de ó á saro foros y gau, aduque ó terelaba de abillar.
+Luke 10:2 Y les penaba!  Aromali a mies sinela baribustri, tami os randiñadores frimés.  Manguelelad pues al Erañó e mies, que bichabele randiñadores á desqueri mies.
+Luke 10:3 Chalad: He acoi menda bichabelo sangue, sasta brajias en medio de lueyes.
+Luke 10:4 Na lliguereleis quisóbu, ni manrañea, ni calcos, ni aspasareis á cayque por o drun.
+Luke 10:5 André o saro quer que chalareis, brotobo penelad: paz sinele á ocona quer.
+Luke 10:6 Y si sinare oté chaboro de paz, se chibará opré ó jiré paz; y si nanai, se limbidiará á sangue.
+Luke 10:7 Y socabelad andré o matejo quer, jamando y piyando ma junos terelen, presas o randiñador digno sinela de desquero jayere.  Na naqueleis de quer andré quer.
+Luke 10:8 Y andré o saro foros andré coin chalareis, y sangue ustilaren, jamelad ma sangue childaren anglal.
+Luke 10:9 Y chibelad mistos á os merdés, sos andré ó terelare, y penadles: Se ha abillado sunparál á sangue o chim de Debél.
+Luke 10:10 Tami si andré o foros andré que chalareis, na ustilaren sangue, abillando por desqueres maasqueres, penelad:
+Luke 10:11 Aun o pracos, sos se ha pegado á amangue de jiré foros, chibelamos contra sangue: Chanelad no obstante, que ha abillado sunparal o chim de Debél.
+Luke 10:12 Sangue penelo, que andré ocola chibes sinará fetér a baji de Sodoma que de ocola foros.
+Luke 10:13 ¡Ysna de tucue, Corozain!  ¡Ysna de tucue Bethsaida!  Que si andré Tyro, y andré Sydón se hubiéran querdi as buchias, sos se han querdi andré sangue, chiros há que bestelados andré conel de gono y andré jaquestaro, hubieran querdi penitencia.
+Luke 10:14 Aromali para Tyro, y Sydón, sinará andré o juicio fetér baji, que para sangue.
+Luke 10:15 Y tucue, Capharnaúm, ardiñado disde o Charos, disde o butrón sinarás chibado ostely.
+Luke 10:16 O sos junela á sangue, junela á mangue.  Y ó sos girela á mangue, girela á ocola, sos mangue bichabó.
+Luke 10:17 Y limbidiáron os setenta y dui sat pesquital, penando: Erañó, aun os bengues se nos sujetan andré tiro nao.
+Luke 10:18 Y les penó: Dicaba á Satanas sasta yeque maluno, sos peraba del Charos.
+Luke 10:19 Diquelais: que sangue he diñado sila de pirar opré gulistrabas, y birberechas, y opré saro o ezor e daschmanu: y chichi sangue dañará.
+Luke 10:20 Tami andré ocono na asaseleis sangue: que os bengues os sinelen sujetos, antes asaselaos de que jires naues sinelan randados andré o Charos.
+Luke 10:21 André ocola mateja ocana se asaseló andré o Peniche, y penó; Díñelo á tucue chimusolano, Dada Erañó e Tarpe y de la pu, presas ucharaste oconas buchias, á os Chandes y peruiques, y as has chibado en dut a os chinores.  Andiar sinela, Dada: presas andiar ha sinado de tun pesquital.
+Luke 10:22 Sarias as buchias a mangue sinelan diñadas de minrio Dada.  Y cayque chanela, coin sinela o Chaboro, sino o Dada, ni coin sinela o Dada, sino o Chaboro, y ocola, á sos lo camelare penar o Chaboro.
+Luke 10:23 Y limbidiándose hacia os discipules, penó: Majares as aquias, sos diquelan ma sangue diquelais.
+Luke 10:24 Presas á sangue penelo, que baribustres Prophetas, y Crallises camelaron dicar ma sangue diquelais, y na lo dicáron; y junelar ma junelais, y na lo juneláron.
+Luke 10:25 Y se ardiñó yeque Chande de la Eschastra, y le penó somia pesquilarle: ¿Duquendio, que quereláre somia terelar chipen deltó?
+Luke 10:26 Y ó le penó: ¿André á Eschastra qué sinela randado? ¿sasta lirenas?
+Luke 10:27 O rudelando penó: Camelarás al Erañó tun Debél de saro tun carlochin, y de sari tun ochi, y de sari tun sila, y de sari tun chaneleria: y á tun proximo sasta á tun matejo.
+Luke 10:28 Y le penó: Mistos has rudelado: Querelad ocono, y vivisarás.
+Luke 10:29 O camelandose justificar á desquero matejo, penó a Jesus: ¿Y coin sinela minrio proximo?
+Luke 10:30 Y Jesus ustilando a varda, penó: Elabel chalaba ostely de Jerusalém á Jerichó, y diñó andré bastes de yeques randes, sos le randáron; y despues de terelarle curado, le mequeláron pas-mulo, y se chapescáron.
+Luke 10:31 Anacó pues, que nacaba por o matejo drun yeque erajai: y pur o dicó, nacó de muy dur.
+Luke 10:32 Y andiar matejo yeque Levita, bigoreando sunparal de ocola stano, y dicandole, nacó de dur.
+Luke 10:33 Tami yeque Samaritano, sos chalaba desquero drun, se bigoreó sunparal de ó: y pur le dicó, se lo diñó canrea.
+Luke 10:34 Y bigoreandose, le pandó as merdes, chibelando andré siras ampio y mol: y chibandolo opré desquero gra, lo lligueró a yeque mesuna, y tereló cuidado de ó.
+Luke 10:35 Y aver chibes sicobó dui calés, y os diñó al julai, y le penó: Garabelamanguele: y o saro sos gastisareles de butér, menda á tucue lo diñare pur limbidie.
+Luke 10:36 ¿Coin de ocolas trin penchabelas que sinaba o proximo de ocola, sos diñó andré bastes es randes?
+Luke 10:37 Ocola, rudeló o Chandé, sos tereló canrea sat ó: Pues cha, le penó, y querela tucue o matejo.
+Luke 10:38 Y anacó, que sasta sinasen andré drun, chaló Jesus andré yeque gau: y yeque cadchi, sos se hetó Martha, lo ustiló andré o quer de siró.
+Luke 10:39 Y ocona terelaba yeque plañi, araquerada Maria, sos bejelada á os pindres e Erañoró, junelaba su varda.
+Luke 10:40 Tami Martha sinaba ocupada gajere andré as haciendas e quer: y siró se abilló y penó: ¿Erañó, na diqueles, sasta minri plañi, mangue ha mequelado colcori somia querelar? penle pues, que mangue ayude.
+Luke 10:41 Y o Erañó le rudeló, y penó: Martha, Martha, baribu cuidadosa sinelas, y andré baribustrias buchias te trajatelas.
+Luke 10:42 Aromali jomte solamente yeque buchi.  Maria ha ustilado a aricata fetér, sos na le sinará nicobelada. <chapter eID="gen481" osisID="Luke.10"/>
+Luke 11:0 <chapter osisID="Luke.11" sID="gen524"/>
+Luke 11:1 Y anacó, que sinando beqelando andré yeque stano, pur achinóse a mui, penó á ó yeque es discipules de ó.  Erañó, bedela amangue a manguelar á Un-debél, sasta tambien Juan bedó á desqueres discipules.
+Luke 11:2 Y les penó: Pur manguelareis, penelad: Amaro Dada, oté andré o Tarpe, majarificable sinele tun nao.  Abillele tun chim.  Sinele querdi tun pesquital andré a jolili, sasta andré o Tarpe.
+Luke 11:3 Diñamangue achibes amaro manro de cada chibes.
+Luke 11:4 Y amangue ertina amarias visabas, andiar sasta mu ertinamos á os sares, sos debisarelen amangue buchi.  Y na enseeles amangue andré o chungalo y choro.
+Luke 11:5 Les penó tambien: Coin de sangue terela yeque monro, y chalará á ó á pas-rachi, y le penará: Monro, prestelamangue trin manres,
+Luke 11:6 Presas monro de mangue ha bigoreado del drun, y na terelo buchi que chitar anglal de ó.
+Luke 11:7 Y o aver rudelase de enrun, penando: Na sinele á mangue trajatoso, ya sinela pandada a bundal, y minres lacrés sinelan tambien sasta menda andré a cheripen, n’astis que menda me costunase somia diñartelos.
+Luke 11:8 Y si o aver perseverase araquerando á la bundal, penelo á sangue, que ya que na se costunase á diñarselos por sinelar desquero quiribo; aromali por desqueres goles se costunaria, y le diñaria sares os manres hubiese menester.
+Luke 11:9 Y menda penelo á sangue: Manguelad, y se os diñará: orotelad, y alachalareis: araquelad, y se os pendrabará.
+Luke 11:10 Presas o saro sos manguela, ustilela: y ó sos orotela, alachela: y al sos araquela, se le despandará.
+Luke 11:11 ¿Y si yeque de sangue manguelare manro á desquero batu, le diñara ó yeque bar? ¿ó si yeque macho, por baji le diñará yeque julistraba en lugar e macho?
+Luke 11:12 ¿O si le manguelare yeque anro, por baji le bucharará yeque escorpion?
+Luke 11:13 Pues si sangue, sinando chorés, chanelais diñar lachias diñipenes á jires chabores ¿cuanto butér jire Dada del Tarpe diñara suncai lachi á junos sos se lo manguelaren?
+Luke 11:14 Y sinaba Jesus bucharando abri yeque bengue: y ocona sinaba musilé, y pur hubó bucharado al bengue, chamulió o musilé, y sares se zibáron.
+Luke 11:15 Tami yeques de junos penáron: André sila de Beelzebub Manclay es bengues, bucharela os bengues.
+Luke 11:16 Y averes somia pesquibarle, le manguelaban simache del Tarpe.
+Luke 11:17 Y pur dicó os carlochines de junos, les penó: Saro chim chingarando contra sí matejo, sinará chibado andré najipen; y perará quer opré quer.
+Luke 11:18 Pues si Satanas sinele tambien en billa contra sí matejo, ¿como sinará en pindré o chim de ó? presas penelais que menda bucharelo abrí bengues por sila de Beelzebub.
+Luke 11:19 Pues si menda por sila de Beelzebub bucharelo os bengues, ¿jirés chabores por coin os bucharelan?  Por ocono sinarán junos jueces de sangue.
+Luke 11:20 Tami si sat l’angusti de Debél bucharelo os bengues, aromalí o chim de Debél ha bigoreado á sangue.
+Luke 11:21 Pur o manusalo ujarela desquero quer, andré trifusco sinelan sarias as buchias que terela.
+Luke 11:22 Tami si abillando aver butér manusalo que ó, le venciere, le nicobará sarias as armas de ó, andré que pachibelaba, y sicobará desquero jayere.
+Luke 11:23 O sos na sinela con-a-mangue, contra mangue sinela: O sos na ustilela con-a-mangue, najibela.
+Luke 11:24 Pur o bengue jindo ha chalado abrí de yeque manu, pirela por stanes bipaniosos orotando paratuté: y pur no lo alachela, penela: Mangue limbidiare á minrio quer, d’uque chalé abrí.
+Luke 11:25 Y pur limbidiela, lo alachela julabado y chito.
+Luke 11:26 Entonces chala, y ustilela sat ó averes efta bengues, butér chores que ó, y chalan andré, y socabelan oté.  Y lo segriton de ocola manu sinela butér choro que lo brotobo.
+Luke 11:27 Y anacó, que penando ó ocono, yeque cadchi de enré a sueti ardiñó a voz, y le garló: Majari a poria sos te chindó, y as chuchais sos mamaste.
+Luke 11:28 Y ó rudeló: Nanai! antes majares junos sos junelan a varda de Debél y l’ujarelan.
+Luke 11:29 Y sasta a sueti abillase de sarias aricatas, se chibó a penar: Ocona rati, rati sungali sinela, simache manguela, y simache na le sinará diñada, sino a simache e Propheta Jonás.
+Luke 11:30 Presas sasta Jonás sinaba simache a junos de Ninive; andiar tambien o Chaboro e manu la sinará á ocona rati.
+Luke 11:31 La Crallisa e Pas-chibe se ardiñará andré juicio contra os manuces de ocona rati, y os saplará, presas abílló de os fines de la pu á junelar a chaneleria de Salomon; y he acoi butér que Salomon andré ocona stano.
+Luke 11:32 Os manuces de Ninive se ardiñarán contra ocona rati andré juicio, y la saplarán: presas quereláron penitencia á los goles de Jonás; y he acoi buter que Jonás andré ocona stano.
+Luke 11:33 Cayque urdiflela á yeque mermellin, y la chitela andré yeque stano escondido, ni ostely de yeque melalo; sino opré yeque dendesquero, somia que junos sos abillelan andré diquelen a dut.
+Luke 11:34 A mermellin de tun trupos sinela tun aqui.  Si tun aqui sinare lachi, saro tun trupos sinará dutoso: tami si sinare chori, tambien tun trupos sinará bi dut.
+Luke 11:35 Diquela pues, que a dut andré tucue, na sinela rachi.
+Luke 11:36 Y andiar si saro tun trupos sinare dutoso, bi terelar yeque aricata de rachi, o saro sinará dutoso, y te diñará dut sasta yeque mermellin de dut.
+Luke 11:37 Y pur sinaba chamuliando, le mangó yeque Phariséo, que chalase á jamar sat ó, y habiendo chalado andré, se besteló á la mensalle.
+Luke 11:38 Y o Phariséo se chitó á penchabar, y penar andré de sí, presas na se había chobelado antes de jamar.
+Luke 11:39 Y o Eraño penó: Acana sangue os Phariseyes chobelais lo de abrí e gote, y e plato; tami sangue de enrun sinelais perelalés de randipen y de choripen.
+Luke 11:40 Dineles, ¿O sos quereló ma sinela de abrí, na quereló tambien ma sinela de enrun?
+Luke 11:41 Ocono no obstante, diñelad limosna: y sarias as buchias os sinelan limpias.
+Luke 11:42 ¡Tami ysna de sangue, Phariseyes, sos chibelais andré deque aricatas a cha-lachi, y a Romani cha, y sari hortaliza, y na querelaís bajin e lachiria, y e amor de Debél!  Pues sinaba mistos querelar oconas buchias, y na mequelar ocolas.
+Luke 11:43 ¡Ysna de sangue Phariseyes, sos camelais as brotoborias bestés andré as Synagogas, y sinelar saludados andré os maasqueres!
+Luke 11:44 ¡Ysna de sangue, sos sinelais sasta os sepulchres, sos na se diquela, y na lo chanelan os manuces, que pirelan por opré!
+Luke 11:45 Y rudelando yeque es Chandés e Eschastra, le penó: Duquendio, chamuliando oconas buchias, tucue afrentas tambien á amangue.
+Luke 11:46 Y ó penó: Y ysna de sangue Chandes e Eschastra: sos cargais os manuces de cargas, sos n’astis lliguerar, y sangue ni aun sat yeque de jiresias angustias pajabelais as cargas!
+Luke 11:47 ¡Ysna de sangue, sos querelais os sepulchres es Prophetas: y jires batuces os maráron!
+Luke 11:48 Aromali diñelais á chanelar, que camelais ma quereláron jires batuces: ocolas os maráron, chachipén; tami sangue querelais desqueres sepulchres.
+Luke 11:49 Por ocono penó tambien a chaneleria de Debél: Les bichabaré Prophetas y Apóstoles, y de junos mararán, y plastañarán para marar:
+Luke 11:50 Somia que sinele pedida á ocona sueti a rati de sares os Prophetas, que sinaba chibada desde o principio de chiros.
+Luke 11:51 Desde a rati de Abel, disde a rati de Zacharias, sos meró entre o altar, y a cangri.  Andiar os penelo, que pedida sinará á ocona sueti.
+Luke 11:52 ¡Ysna de sangue, Chandés e Eschastra, sos ardiñasteis sat a clichi de chaneleria! sangue na chalasteis andré, y na mequelasteis á ocolas sos chalaban andré.
+Luke 11:53 Y penando oconas buchias, os Phariseyes, y os Chandés e Eschastra se chibáron á chingarar con ó sat sila, y á trajatarle sat baribustrias preguntas,
+Luke 11:54 Chibandole lazos, y orotando de sicobar de desquero sonsi yeque buchi somia astisar saplarle. <chapter eID="gen524" osisID="Luke.11"/>
+Luke 12:0 <chapter osisID="Luke.12" sID="gen579"/>
+Luke 12:1 Y sasta se terelasen catanado al crugos de Jesus baribustri sueti, de modo que yeques á averes bucharelaban ostely, se chitó á penar á desqueres discipules: Garabelaos de la levadura es Phariseyes, que sinela jujana.
+Luke 12:2 Na sinela buchi ucharada, sos na se haya de dicar: ni buchi escondida, sos na se haya de chanelar.
+Luke 12:3 Presas as buchias, que penasteis andré a rachi, á la dut sinarán chamuliadas: y ma chamulasteis á la cani andré os queres, sinará pucanado opré os tejados.
+Luke 12:4 A sangue pues plalores de mangue os penelo: Que na tereleis dal de ocolas, sos marelan o trupos, y despues de ocono, na terelan butér que querelar.
+Luke 12:5 Tami menda penaré sangue á coin jomte terelar dal: Terelad dal á ocola, sos despues de nicobar a chipen, terela ezor de bucharar al butron: andiar sangue penelo, a ocona terelad dal.
+Luke 12:6 ¿Na se binelan pansch ujarres por dui calés, y yeque de ocolas na sinela olvidado anglal de Debél?
+Luke 12:7 Y aun as balas de jire jero sarias sinelan jinadas.  Pues na darañeleis: presas amolelais baribu butér, que ujarres baribustres.
+Luke 12:8 Y tambien sangue penelo, Que o saro manu sos veáre mangue anglal es manuces, o Chaboro e manu lo veará tambien á ó anglal es Manfarieles de Debél.
+Luke 12:9 Tami ó sos me negisáre anglal es manuces, negado sinará anglal es Manfarieles de Debél.
+Luke 12:10 Y o saro manu sos chibare abrí yeque varda contra o Chaboro e manu, ertinado le sinará: Tami á ocola sos penáre zermañas contra o Peniche, na le sinará ertinado, nanai.
+Luke 12:11 Y pur sangue lligueraren á as Synagogas, y á os Chineles, y a os Solares, na piraleis penchabando, sasta, ó qué terelais de rudelar, o penar.
+Luke 12:12 Presas o Ducos Majaro sangue penará andré ocola ocana ma sangue jomte penar.
+Luke 12:13 Y yeque de la sueti le penó: Duquendio, pen á minrio plal que partisarele con-a-mangue la jayere.
+Luke 12:14 Tami ó le rudeló: ¿Manu, coin ha childo mangue por Barander o repartidor enré sangue?
+Luke 12:15 Y les penó: Diquelad, y garabelaos de sari cascañia: presas a chipen de saro yeque no sinela andré la baribustri es buchias sos terela.
+Luke 12:16 Y les penó yeque parabola, penando: La pu de yeque manu balbalo habia diñado mibao baribu.
+Luke 12:17 Y ó penchababa enré sí matejo, y penaba: ¿Qué querelaré, presas na terelo anduque pandisarar minrio mibao?
+Luke 12:18 Y penó: Ocono querelaré: Buchararé abajines minres malabayes, y os querelaré mas bares: y oté chibaré saro minrio mibao, y minres balbalipenes.
+Luke 12:19 Y penaré á minri ochi: Ochi, baribustres balbalipenes terelas chités para baribustres berjis: Sobela, jama, piya, din jachipenes.
+Luke 12:20 Tami Debél le penó: Dinelo, ocona rachi te vuelven á ustilar a ochi, ¿Ma has chitó, para coin sinará?
+Luke 12:21 Andiar sinela ó sos chitela manchin para sí; y na sinela balbalo andré Debél.
+Luke 12:22 Y penó á os discipules de ó: Pre ocono sangue penelo: na pireleis solicitos para jiré ochi, ma jamareis, ni para o trupos, que coneles chibareís.
+Luke 12:23 Butér sinela a ochi, que o jamar, y o trupos que os coneles.
+Luke 12:24 Diquelad os cuerves, sos na chinelan, ni terelan dispensa, ni malabai, y Debél os parbarela.  ¿Pues quanto butér amolelais sangue que junos?
+Luke 12:25 Y coin de sangue, por baribu que lo penchabele, astisarela chibar a sun estatura yeque codo butér?
+Luke 12:26 Pues si na astisarelais ma sinela mendesquero: ¿por qué pireleis penchabando por as avérias buchias?
+Luke 12:27 Diquelad os lirios sasta se querelan baro; sos ni randiñelan ni hilan: pues sangue penelo, que ni Salomon andré saro desquero chimusolano, na sinaba tan chitó sasta yeque de oconas.
+Luke 12:28 Pues si al cha, sos achibes sinela andré o lugos, y tasata se bucharela andré o sosimbo, Debél vistió andiar lacho; ¿quanto butér á sangue de frima fé?
+Luke 12:29 Na pireleis pues penchabando andré ma terelais de jamar, o piyar, y na pireleis ardiñelados.
+Luke 12:30 Presas sarias oconas sinelan buchias, en que pirelan penchabando os busnes de la sueti.  Y jire Dada chanela, que de oconas terelais necesidad.
+Luke 12:31 Pre ocono orotelad brotobo o chim de Debél, y su lachoria; y sarias oconas buchias á sangue sinarán jinadas.
+Luke 12:32 Na darañeleis, ne-bari plastañi; presas jire Dada ha camelado diñaros o chim.
+Luke 12:33 Binelad ma terelais y diñad limosna.  Querelaos quisobes, sos na se chitelan purés, manchin andré o Charos, sos jamas faltisarela: anduque o rande na bigorela, y na jamela a polilla.
+Luke 12:34 Presas duque sinela jire manchin, oté tambien sinará jire carlochin.
+Luke 12:35 Terelad ceñidos jires dumes, y mermellines encendidas andré jires bastes.
+Luke 12:36 Y sinelad sangue semejantes á os manuces, sos ujarelan á o Erañó de junos, pur limbidiela de las romandiñipenes: somia que pur abilláre, y araqueráre á la bundal, yescotria le pindrabelen.
+Luke 12:37 Majarés ocolas lacrés, sos alacháre velando o Erañó pur abilláre: Aromali sangue penelo, que se chibará la sustigui; y os querelará bestelar á la mensalle, y nacando os servirá.
+Luke 12:38 Y si abilláre andré la duisquera vela, y si abilláre andré la trinchera vela, y andiar alacháre á junos, majarés sinelan oconas lacrés.
+Luke 12:39 Tami chanelad ocono, que si o julai e quer chanelase a ocana en que abillaria o randé, na querelaria o sobindoi, y na mequelaria enquerar su quer.
+Luke 12:40 Sangue pues sinelad emposunés: presas á la ocana, que na penchabelais, abillará o Chaboro e manu.
+Luke 12:41 Y Pedro le penó: Erañó, penelas ocona parabola á amangue, ó tambien á os sares.
+Luke 12:42 Y penó o Erañó, ¿Coin, penchabelais que sinela o baro-lacró lacho y cabalico, sos chitó o Erañó opré su sueti, somia que les díñele o melalo de gi andré chiros?
+Luke 12:43 Majaro ocola lacró, sos pur abilláre o Erañó, le alacháre andiar querelando.
+Luke 12:44 Aromali sangue penelo, que lo chitará opré saro que terela.
+Luke 12:45 Tami si penáre ocola lacro andré su carló: Se tasalela minrio Erañó de abillar, y se chibáre á querelar choro á os lacrés, y á as lacrias, y á jamar, y á pijar, y diñarse á curdá:
+Luke 12:46 Abillará o Erañó de ocola lacró o chibes, que na penchabela, y á la ocana que na chanela, y le chibará abrí, y chitará su aricata sat junos de dabrocos.
+Luke 12:47 Presas ocola lacró sos chanó ma camelaba desquero Erañó, y na queró bajin, y na queró ma camelaba, sinará muy mistos curado.
+Luke 12:48 Tami ó sos na chanó, y queró buchias dignas e saniséo, frima sinará curado: presas á saro manu, á coin baribu sinaba diñado; baribu le sinará manguelado: y al que baribu encomendáron, butér le ustilarán.
+Luke 12:49 Yaque he abillado á chitar andré la pu: ¿y que camelo, sino que jacharele?
+Luke 12:50 Me jomte sinelar chobelado sat bautismo: ¿y cómo me trajatelo, disde que se lo querele?
+Luke 12:51 ¿Penchabelais, que sinelo abillado á chitar paz andré la pu?  Sangue penelo que nanai, sino chingaripen.
+Luke 12:52 Presas de acoi anglal sinarán pansch andré yeque quer en chingaripen, os trin sinarán contra os dui, y os dui contra os trin.
+Luke 12:53 Sinarán en chingaripen o batu sat o chaboro; la dai sa’ la chabori, y la chabori sa’ la dai, la dai e rom sa’ la romi, y la romi sa’ la dai e rom.
+Luke 12:54 Y penaba tambien á la sueti: pur diquelais ardiñelar o paros del aracata e poniente, yescotria penelais: Buros abillela: y andiar anaquela.
+Luke 12:55 Y pur chumasquerela o Austro, penelais: jar querelará: y chachipen sinela.
+Luke 12:56 Sungalés, chanelais distinguir as chichias e charos y de la pu: ¿pues como na chanelais pincherar o chiros presente?
+Luke 12:57 ¿Y por qué na pincherelais por sangue matejos: ma sinela lacho?
+Luke 12:58 Pur chalas sa’ tun daschmanu al Manclay, querela ma astis somia listrabarte de ó andré o drun, somia que na te lliguerele al Barander, y o Barander te díñele al chinel, y o chinel te chitele andré l’estaripel.
+Luke 12:59 Te penelo, que na chalarás abrí de acoi, disde que poquineles o segriton cale. <chapter eID="gen579" osisID="Luke.12"/>
+Luke 13:0 <chapter osisID="Luke.13" sID="gen639"/>
+Luke 13:1 Y andré ocona matejo chiros sinaban oté yeques, sos le penaban nuevas es Galileyes, cuya rati habia bucharado Pilato andré la es sacrificios de junos.
+Luke 13:2 Y Jesus les rudeló, penando: ¿Penchabelais, que ocolas Galileyes sináron chorés butér que sares os averes, por terelar padecido buchias oconas?
+Luke 13:3 Sangue penelo, que nanai: Tami si na querelareis penitencia, os sares merareis andré a mateja beda.
+Luke 13:4 Andiar sasta tambien ocolas deque y otor manuces, opré coines peró o quer baro andré Siloé, y los maró: ¿penchabelais, que junos debisáron butér qus os sares manuces sos socabelaban andré Jerusalém?
+Luke 13:5 Sangue penelo, que nanai: tami si na querelareis penitencia, os sares merareis andré a mateja beda.
+Luke 13:6 Y penelaba tambien ocona parabola: Manu terelaba carschta chabéra chitalada andré sun resis, y chaló á orotar mibao andré siró, y na le alachó.
+Luke 13:7 Y penó al paillo sos randiñó a resis: Diquela; trin berjis sinela que abillelo a orotar mibao andré ocona carschta chabera, y na lo alachó: velala pues: ¿para qué terela de ucharar aun a chiquen?
+Luke 13:8 Tami ocola rudeló y le penó: Erañó: mequelela aun ocona berji, y la cavaré al crugos, y le chibaré groñi:
+Luke 13:9 Astis sat ocono diñare mibao: y si nanai, la velarás despues.
+Luke 13:10 Y sinaba bedando andré a Synagoga de junos as Canchés.
+Luke 13:11 Y he acoi yeque cadchi, sos terelaba bengui de merdipen deque y otor berjis habia: y sinaba encorbada que na le astis dicar acia opré.
+Luke 13:12 Pur la dicó Jesus, la araqueró á siró, y la penó: Cadchi, libre sinelas de tun merdipén.
+Luke 13:13 Y chibó opré siró as bastes, y yescotria se ardiñó, y diñaba chimusolano á Debél.
+Luke 13:14 Y ustilando a varda o Manclay e Synagoga, ululé presas Jesus habia chibado lacho andré la Canché, penó á la sueti: Zoi chibeses terelais, andré que astis randiñar: andré oconas pues abillad, y que chibele sangue lacho, y andré la Canché nanai.
+Luke 13:15 Y rudelando o Erañó penó: Sungales, saro yeque de sangue na despandela andré la Canché desquero goruy, ó desquero gel del olibal y lo lliguerela á piyar.
+Luke 13:16 ¿Y ocona chai de Abraham, á coin terelaba pandisarado Satanás deque y otor berjis, na sinela mistos despandarla de ocona trajata andré chibes de Canché?
+Luke 13:17 Y penando oconas buchias se pachibelaban sares os daschmanuces de ó: tami se alendaba sari a sueti de sarias as buchias, que ó querelaba chimusolanamente.
+Luke 13:18 Penelaba pues: ¿A qué buchi sinela semejante o chim de Debél, y á que buchi lo compararé?
+Luke 13:19 Semejante sinela al grano e mostaza, sos lo ustiló yeque manu y lo chitó andré desquero vea, y se queró baro, y se queró carschta udschi; y as ujarres e charos sobeláron opré desqueres senques.
+Luke 13:20 Y penó aver chiros: A qué penelaré, que o chim de Debél sinela semejante?
+Luke 13:21 Semejante sinela á la levadura, sos ustiló yeque cadchi, y la chibó andré trin melales de roi, disde que o saro se querase fermentado.
+Luke 13:22 Y chalaba por foros y gau, bedando y querelando drun ácia Jerusalém.
+Luke 13:23 Y le penó yeque manu: ¿Eraño, sinelan frimes junos sos se salvan?  Y ó les penó:
+Luke 13:24 Querelad ezor á sicobaros andré por a bundal chinori: presas sangue penelo, que baribustres camelarán chalar andré, y na les astis.
+Luke 13:25 Y pur o batu e quer terelare chalado andré, y pandado a bundal, sangue sinareis abrí, y os chitareis á araquerar á la bundal, penando: Erañó, pendrabanos: y ó os rudelará, penando: Na chanelo duque sinelais sangue:
+Luke 13:26 Entonces os chibareis á penar: Anglal de tucue jamemos y piyemos, y andré amares masqueres bedaste.
+Luke 13:27 Y os penará: Na chanelo duque sangue sinelais: Chalaos de mangue sares os curadores e choripen.
+Luke 13:28 Oté sinará o orabar, y o nacicar de danias, pur dicareis á Abraham, y á Isaac, y á Jacob, y á sares os Prophetas andré o chim de Debél, y sangue sinelais bucharados abrí.
+Luke 13:29 Y abillarán de Boctaro, y de Occidente, y de Aquilón, y de Austro, y se bestelarán á la mensalle andré o chim de Debél.
+Luke 13:30 Y he acoi que sinelan segritones, junos sos sinarán brotobores, y que brotobores, junos sos sinarán segritones.
+Luke 13:31 Ocona matejo chibes se bigoreáron á ó yeques Phariseyes, y le penáron: Sicobelatucue de acoi, y chatucue, presas Herodes te camela marar.
+Luke 13:32 Y les penó: Chalad, y penad á ocola rubasuncha, que menda bucharelo bengues, y chibelo lacho achibes y tasáta, y al trincho chibes sinelo chichi.
+Luke 13:33 Tami jomte, que menda pirele achibes, y tasáta, y aver chibes: Presas n’astis que yeque Propheta merele abrí de Jerusalém.
+Luke 13:34 Jerusalém, Jerusalém, sos marelas á os Prophetas, y bucharélas barias á junos sos sinelan bichabados á tucue, ¿quantas begais camelé catanar tires chabores, sasta a cañi desqueres chiricles ostely desquerias alas, y na camelaste.
+Luke 13:35 He acoi que á tucue sinará mequelada bi sueti tiro quer.  Y á tucue penelo que na diquelarás mangue butér, disde que abilleli o chiros, pur penelais: Majarificable sinele ó sos abillele andré o nao e Erañoró. <chapter eID="gen639" osisID="Luke.13"/>
+Luke 14:0 <chapter osisID="Luke.14" sID="gen675"/>
+Luke 14:1 Y anacó que chalando Jesus yeque Canché andré o quer de yeque es Phariseyes bares á jamar manro, junos le sinaban dicando.
+Luke 14:2 Y he acoi manu nasalo de la pani-salipen sinaba anglal de ó.
+Luke 14:3 Y Jesus chamuliando a os Chandés e Eschastra, y os Phariseyes, les penó: ¿Astis chibar lacho andré Canché?
+Luke 14:4 Tami junos sonsi beláron: O entonces le ustiló, le chibó lacho, y le bichabó.
+Luke 14:5 Y les rudeló y penó: ¿Coin de sangue, sos dicando desquero gel, ó desquero buru perado andré fufu, na le sicobele yescotria andré chibes de Canché?
+Luke 14:6 Y na les astis rudelar á oconas buchias.
+Luke 14:7 Y dicando tambien sasta os araquerados á os jachipenes orotaban as brotoborias bestes á la mensalle, les chamulió yeque parabola, y penó:
+Luke 14:8 Pur sináres araquerado á romandiñapenes, na besteles tucue andré la brotobori beste, que na sinele que oté haya yeque pachibelado butér que tucue.
+Luke 14:9 Y que abillele ó sos araqueró á tucue, y á ó, y penele: Din a beste á ocona, y que entonces tereles á ustilar a segritona beste sat verguenza.
+Luke 14:10 Tami pur sinares araquerado, chal, y bestelatucue andré a beste segritona; somia que pur abillele ó sos tucue araqueró, penele: monro, costuna opré butér.  Andiar sinarás pachibelado anglal de os sares sos sinaren sa’ tucue á la mensalle.
+Luke 14:11 Presas saro ó, sos se ardiñela, sinará bucharado ostely: y ó sos se chibela ostely, sinará ardiñado.
+Luke 14:12 Y penaba tambien á ó sos le habia araquerado: Pur díñelas jachipen, ó cena, na araqueles á tires monres, na á tires plalores, ni á tiri rati, ni á tires vecines balbales, que na sinele que junos araquelen á tucue, andré desqueri begai, y poquinelen á tucue.
+Luke 14:13 Tami pur querelas jachipen, araquera á os chorores, lisiados, langues y perpentes.
+Luke 14:14 Y sinarás majarado, presas na terelan con que poquinar tucue: Tami tucue se poquinará pur se costunarán os laches de meripen.
+Luke 14:15 Pur yeque de junos sos jamelaban á la mensalle juneló ocono, le penó: Majarado ó sos jamará manro andré o chim de Debél.
+Luke 14:16 Y ó peno: Elabel queró jachipen bari, y araqueró á baribustres.
+Luke 14:17 Y pur bigoreó a ocana e jachipen, bichabó yeque de desqueres lacrés á penar á os araquerados, que abillasen, presas saro sinaba aparejado.
+Luke 14:18 Y os sares, sasta yeque, se chibáron á excusarse; O brotobo le penó: He quinado sosi, y mangue jomte chalar dicarla: tucue manguelo, que mangue tereles excusado.
+Luke 14:19 Y penó aver: He quinado pansch yuntas de gorués, y camelo chalar a probarlas: tucue manguelo que mangue tereles excusado.
+Luke 14:20 Y penó aver: He romandiñado romi, y andiar menda n’astis chalar aotar.
+Luke 14:21 Y limbidiando o lacró, diñó floja á desquero Erañó de ocono saro.  Entonces ululé o batico e quer, penó al lacró: Sicobelatucue yescotria á os masquerés, y a las ulichas e foros, y lanelamangue acoi os sares chororés, y lisiados, y chindes, y langues alachares.
+Luke 14:22 Y penó o lacró: Erañó, sinela querdi, sasta lo penaste, y aun lugar sinela.
+Luke 14:23 Y penó o Erañó al lacró: Chal á os drunes, y á os cercanes, y querelalos con sila abillar, somia que se perele minrio quer.
+Luke 14:24 Penelo á tucue, que cayque de ocolas manuces, sos sináron araquerados, jamará minrio jachipen.
+Luke 14:25 Y baribustri sueti chalaba con ó, y limbidiandose, les penó:
+Luke 14:26 Si yeque abillela á mangue, y camela desquero batu, y dai, y romi, y chabores, y plalores, y péndchias, y aun tambien desqueri chipen, n’astis que sinele discipulo de mangue.
+Luke 14:27 Y ó sos na lliguerela desqueri trijul opré as varandias, y abillela palal de mangue, n’astis que sinele discipulo minrio.
+Luke 14:28 ¿Presas coin de sangue camelando querelar yeque quer baro, brotoboro bestelandose, na jinela a jayere necesaria, chanelando que jomte acabarla?
+Luke 14:29 Que na sinele que despues de chitar a bar brotobori, y na asilando acabar, os sares sos lo diquelen, se chibelen á girelarse de ó,
+Luke 14:30 Penando: Ocona manu se chibó á querelar, y na le astis acabar.
+Luke 14:31 ¿O que Crallis camelando chalar á chingarar contra Crallis aver, gres, bestelandose na penchabela, si le astis sat deque mil manuces querelar jero contra ó sos abillela sat bisch mil?
+Luke 14:32 De aver beda, pur o aver aun sinela dur, bichabela desqueri embajada, manguelandole lias de paz.
+Luke 14:33 Pues andiar saro yeque de sangue, sos na bucharela de ó sari buchi que terela, n’astis le sinelar minrio discipulo.
+Luke 14:34 Lachi sinela la lon.  Tami si á la lon nicobelan desquero sabor, ¿con qué sinará alonada?
+Luke 14:35 Na sinela lachi, ni somia a jolili, ni somia a groñi: Tami la chibáron abrí.  Coin terela canes de junelar, que junele. <chapter eID="gen675" osisID="Luke.14"/>
+Luke 15:0 <chapter osisID="Luke.15" sID="gen711"/>
+Luke 15:1 Y abilláron a ó os Publicanes y os chores somia junelar.
+Luke 15:2 Y os Phariseyes, y os Libanés chumasquerelaron, penando: Ocona paillo ustilela á os chores, y jalela sat junos.
+Luke 15:3 Y les chamulió yeque parabola, penando;
+Luke 15:4 ¿Coin enré sangue sinela o manu, sos terela cien brajias, y si se najabela yeque braji, na mequela as noventa y nu averes andré os bures, y chala orotar a braji sos se habia najabado, disde alacharlá?
+Luke 15:5 Y despues de alacharla, l’ustilela opré desquerias varandias, y se alendela.
+Luke 15:6 Y abillando al quer araquerela á desqueres panáles, y sunparáles, penando: Diñeladmangue o parabien, presas he alachado a brají, sos se habia najabado.
+Luke 15:7 Sangue penelo, que andiar sinará butér plazer andré o Charos opré yeque chor sos quereláre penitencia, que opré noventa y nu laches, sos na terelan menester penitencia.
+Luke 15:8 ¿O que romi sos terela deque chulís, si se najabela yeque chuli, na urdiflela o dendesquero, y julabela o quer, y orotela a chuli emposunó disde alacharla.
+Luke 15:9 Y despues de alacharla, catanela as monrias, y sunparálas, y penela: Diñeladmangue o parabien, presas he alachado a chulí, sos se habia najabado.
+Luke 15:10 Andiar sangue penelo, que sinará plazer anglal es majares de Un-debél por yeque chor sos querela penitencia.
+Luke 15:11 Y penó: Manu tereló dui chabores:
+Luke 15:12 Y o mas chinoro penó á desquero batu: Batico, dinme a aricata e baji, sos ha de sinar minri, y le diño sun baji.
+Luke 15:13 Y frimes chibeses despues, catanando o mas chinoro saro desquero parné, se chaló á aver chim baribustrias millas, y oté najabó saro o parne, vivisarando sasta dinelo.
+Luke 15:14 Y pur terelaba bucharado o saro, abilló boquis bari andré ocola chim, y ya na tereló que jalar.
+Luke 15:15 Y chaló, y se binó lacró de yeque busno de ocola chim, sos le bichabó a desquero posuno á guardiserar balichés.
+Luke 15:16 Y camelaba perelarse o trupos de los bobes que os baliches jamelaban; y cayque se los diñaba.
+Luke 15:17 Tami limbidiando al lacho e jeró, penó: ¡Quantos curadores sinelan andré o quer de minrio batusch, sos terelan manro de sobrauncho, tami menda acoi sinelo merando de boquis.
+Luke 15:18 Mangue ardiñelaré, y chalaré al batusch, y le penaré: Batu, he querdi grecos contra o Tarpe y anglal de tucue;
+Luke 15:19 Ya na sinelo cabalico de sinar araquerado tun chaboro: querelame lacró, sasta sinelan os paillés.
+Luke 15:20 Y se ardiñeló, y se chaló orotar sun batu.  Y sasta aun sinaba dur baribu, sun batu le dicó, y le tereló canrea, y chaló najando, y l’ustiló al querlo, y le diñó chumendi.
+Luke 15:21 Y o chabo penó: Batu, he querdi grecos contra Un-debél y anglal de tucue: ya na sinelo cabalico de sinar araquerado tun chabo.
+Luke 15:22 Tami o batu penó a desqueres lacrés: Lanelad acoi os coneles mas laches, y chiteladle, y le chibelad l’angustro andré a bas, y tirajaisch en os pindrés:
+Luke 15:23 Y lanelad goruy chinoro chudcho, y tasabeladlo, y jalemos, y querelemos jachipen.
+Luke 15:24 Presas se meró minrio chabo, y terela chipen de nuevo: sinaba najabado, y acana sinela alachado.  Y se chibáron querelar a jachipen.
+Luke 15:25 Y o chabo mas baro sínaba abrí, y pur abilló sunparal al quer, juneló as singas y o giyabar:
+Luke 15:26 Y araqueró á yeque es lacrés: y le puchabó qué sinaba ocolo.
+Luke 15:27 Y o lacró le penó: Ha abillado tiro plal, y tiro batu ha tasabado goruy chinoro chudcho, presas en chipen ha abillado.
+Luke 15:28 Tami ó sinaba ululé, y na camelaba chalar andré; tami sicobandose o batu, se chibó á mangarle.
+Luke 15:29 Y rudeló á desquero batusch, y penó: He acoi tantas berjis he sinado randiñando para tucue, y nunca he querdi contra tirias vardas, y nunca me has diñado yeque bruñita somia jalarla féteménte sat minres panales.
+Luke 15:30 Tami pur abilló ocona tun chabo, sos terela gastisarado desquero parné sat lumiacas, le has tasabado goruy chinoro chudcho.
+Luke 15:31 Entonces le penó desquero batusch: Chaboro, deltó sinelas con-a-mangue, y o saro sos terelo sinela tiro.
+Luke 15:32 Tami sinaba mistos querelar jachipen, y alendarnos, presas se meró tun plal, y terela chipen de nuevo; sinaba najabado, y acana sinela alachado. <chapter eID="gen711" osisID="Luke.15"/>
+Luke 16:0 <chapter osisID="Luke.16" sID="gen744"/>
+Luke 16:1 Y penaba tambien á desqueres discipules: Sinaba manu balbalo, sos terelaba queresquero; y ocona sinaba acusado anglal de ó, de haber nicobado desquero parné.
+Luke 16:2 Y le araqueró, y le penó: ¿Que sinela ma junelo penar de tucue? din pista de tiri queresqueria: presas acana n’astis que sineles queresquero de mangue butér.
+Luke 16:3 Entonces penó o queresquero andré sí: ¿Que querelaré, presas minrio Erañó ustilela de mangue a queresqueria?  Cavar na terelo silas, mangar terelo verguenza.
+Luke 16:4 Chanelo ma me jomte querelar, somia que pur sinare nicobada a queresqueria, ustilelen mangue andré desqueres queres.
+Luke 16:5 Araqueró pues á cata yeque es deudores de desquero erañoró, y penó al brotoro: ¿Quanto debisarelas á minrio Erañoró?
+Luke 16:6 Y ocona le rudeló: Cien pigotes de ampio: y le penó: Ustilela tiro por: y bestelate yescotria, y libana cinquenta.
+Luke 16:7 Despues penó á aver: ¿Y tucue quanto debisarelas?  Y ó rudeló: Cien melales de gi.  Penó: Ustilela tiri papiri, y libana ochenta.
+Luke 16:8 Y loó ó erañó al queresquero choro, presas queró saro cuerdamente: presas os chai de ocona gré chanelan butér andré su beda, que os chai e dut.
+Luke 16:9 Menda sangue penelo: Que quereleis monres es manchines e choripen; somia que pur perareis, ustilelen sangue andré eternos querés.
+Luke 16:10 O sos sinelo lacho andré o mendesquero, lo sinela tambien andré o mas baro; o sos sinela choro andré frimi, tambien sinela choro andré baribu.
+Luke 16:11 Pues si andré manchines chores na sinasteis fieles: ¿coin á sangue fiará ma sinelo chirdino.
+Luke 16:12 Y si na sinasteis fieles andré ma de aver: ¿ma sinela jire coin á sangue lo diñará.
+Luke 16:13 Ningun lacró astisarela servir á dui erañés: presas el ó na camelará á yeque, y camelará al aver: ó a ocona bigorelará, y al aver despreciará: n’astis servir á Debél, y al jayere.
+Luke 16:14 Tami os Phariseyes, sos sinaban cascañés, junelando sarias oconas buchias, girelaban.
+Luke 16:15 Y les penó: Sangue sinelais junos sos os binelais por laches anglal es manuces: Tami Debél: pincharela jires carles: presas ma os manuces terelan por udscho, sinela choro anglal de Debél.
+Luke 16:16 A Eschastra, y os Prophetas disde Juan: desde entonces sinela pucanado o chim de Debél: y os sares querelan sila contra ó.
+Luke 16:17 Buchi facil butér najarse o Charos y a pu, que perar yeque buchi e Eschastra.
+Luke 16:18 Saro manu sos mequela desqueri romi, y ustilela aver, querela adulterio, y tambien ó sos se romandiñela con la sos bucharó o rom, querela adulterio.
+Luke 16:19 Sinaba manu balbalo, sos se vistió de lalané y de bostan lacho, lacho: y cata chibes terelaba jachipenes jucales.
+Luke 16:20 Y sinaba oté yeque choro hetó Lazaro, sos yacia al bundal e balbalo; perdo de merdés.
+Luke 16:21 Camelando marar sun boquis de las bedoras, que peraban de la mensalle e balbalo, y cayque se las diñaba, tami abillaban os chuqueles, y le lamian as merdés.
+Luke 16:22 Y anacó que pur meró ocola chororo lo lligueráron os Manfarieles al chepo de Abraham.  Y meró tambien o balbalo, y sinaba bucharado andré benguistano.
+Luke 16:23 Y ardiñelando as aquias, pur sinaba andré os jacháres, diqueló de muy dur á Abraham, y á Lazaro andré desquero chepo:
+Luke 16:24 Y ó, á gole, gole, penó: Batico Abraham, terela canrea de mangue: y bichabela á Lazaro, que mojisarele o vuque de sun angusti en pani, somia jilar á minri chipe, presas sinelo jurepenado andré ocona yaque.
+Luke 16:25 Y Abraham le penó: Chaboro: terela en fácho, que ustilaste o lacho andré tun chipen, y Lazaro bastardo: pues acana terela ó acoi paratató, y tucue jurepénes.
+Luke 16:26 Fuera de que sinela butron baro entré amangue y sangue; de manera que junos sos camelaren nacar de acoi á sangue, n’astisarelan, ni de oté nacar acoi.
+Luke 16:27 Y penó: Pues te manguelo, batu, que lo bichobeles al quer de minrio batu.
+Luke 16:28 Presas terelo pansch plalores, somia que les díñele machiria, que na sinele que abillelen junos tambien a ocona sosimbo de jurepénes.
+Luke 16:29 Y Abraham le rudeló: Terelan á Moyses y á os Prophetas: junelenlos.
+Luke 16:30 Tami o aver penó: Nanai, Dada Abraham; tami si yeque es mules chalare á junos, querelarán penitencia.
+Luke 16:31 Y Abraham le penó: Si na junelan á Moyses y á os Prophetas: tampoco pachibelarán á yeque, aun pur se ardiñelare de enré os mulés. <chapter eID="gen744" osisID="Luke.16"/>
+Luke 17:0 <chapter osisID="Luke.17" sID="gen776"/>
+Luke 17:1 Y penó á desqueres discipules: N’astis, que na abillelen escandales: ¡Tami ysna de ocola, por coin abillelén!
+Luke 17:2 Fetér le sinaria, que le chibasen al querlo bar de asia y le bucharasen andré o moros, que querelar escandalo á yeque de oconas chinores.
+Luke 17:3 Diquelad por sangue: si querelare grecos tiro plal contra tucue, corrigele: y si querelare penitencia, ertinale.
+Luke 17:4 Y si querelare grecos contra tucue efta begais al chibes, y efta begais al chibes se limbidiare á tucue, penando: He querdi choro, ertinale.
+Luke 17:5 Y penáron os Apostoles al Erañó: Din amangue fé butér.
+Luke 17:6 Y penó o Érañó: Si terelareis fé, sasta yeque grano de mostaza, y penelareis á ocona moral: Despandate de raiz, y chibelate oté andré o moros: lo querelará.
+Luke 17:7 ¿Y coin de sangue terelando yeque lacró, sos randiñela, ó garabela as brajias, pur limbidiela del bur, le penela: Chatucue yescotria, y bestelate á la mensalle?
+Luke 17:8 Y na le penela gres: Chitelame de jamar, y chitelate á servirme, o chiros que jamelo y piyelo; que despues jamarás y piyarás?
+Luke 17:9 ¿Pre baji se debisarelan garapatias á ocola lacró presas ocona querela ma le penó?
+Luke 17:10 Penchabelo que nanai.  Andiar tambien sangue, pur querelareis sarias as buchias que á sangue sinelan penadas, penad: Lacrés sinamos inutiles: Ma debisaramos querelar, querelemos.
+Luke 17:11 Y anacó que chalando ó á Jerusalém, nacó por medio de Samaria, y de Galiléa.
+Luke 17:12 Y chalando andré yeque gau, chaláron abrí á ó deque manuces zarapiosos, sos se paráron de dur.
+Luke 17:13 Y diñaron goles, penando: Jesus duquendio, terela canrea de amangue.
+Luke 17:14 O pur dicó junos, penó: Chalad, somia diquelen sangue os erajais.  Y anacó, que o chiros que chalaban, sináron chibados lacho.
+Luke 17:15 Y yeque de junos, pur dicó que habia sinado chibado lacho, limbidió diñando chimusolano á Debél á goles bares.
+Luke 17:16 Y se bucharó en chiquen, á os pindrés de Jesus, diñando garapatias: y ocona sinaba Samaritano.
+Luke 17:17 Y rudeló Jesus, y penó: ¿Pre baji na sinelan deque junos sos sináron chibados lacho?  ¿Y os nu averes duque sinelan?
+Luke 17:18 ¿Na sinaba yeque sos limbidiase, y diñase chimusolano á Debél, sino ocana gringó?
+Luke 17:19 Y le penó: Costunatucue, chatucue, que tiri fé te ha chibado lacho.
+Luke 17:20 Y puchabandole os Phariseyes: ¿Pur abillará o chim de Debél? les rudeló, y penó: O chim de Debél na abillará sat simache de abrí;
+Luke 17:21 Ni penelarán: helo acoi, o helo oté: presas o chim de Debél sinela andré de sangue.
+Luke 17:22 Y penó á desqueres discipules: Abillarán chibeses, pur camelareis dicar yeque chibes e Chaboro e Manu, y na lo dicareis.
+Luke 17:23 Y sangue penarán: Diqueladle acoi, y diqueladle oté.  Na cameleis chalar, ni le plastañeis.
+Luke 17:24 Presas sasta o maluno, sos diñelando dut andré a region ostely e Charos, voltisarela desde la yeque disde la aver aricata; andiar tambien sinará o Chaboro e manu andré desquero chibes.
+Luke 17:25 Tami jomte brotoboro que ó padezca baribu, y que sinele reprobado de ocona sueti.
+Luke 17:26 Y sasta sinaba andré os chibeses de Noé, andiar tambien sinará andré os chibeses e Chaboro e manu.
+Luke 17:27 Jamaban, y piyaban: os manuces ustilaban romias, y as cadchias romes disde o chibes pur Noé chaló andré á Jestari; y abilló a pani bari, y mulabó á sares.
+Luke 17:28 Andiarmatejo sasta sinaba andré os chibeses de Lot; jamaban, y piyaban; quinaban, y binaban; chitaban carschtas, y querelaban querés.
+Luke 17:29 Y o chibes, que chaló Lot abrí de Sodoma, peró yaque y azufre de o Charos, y os marabó á sares.
+Luke 17:30 Andiar sinará o chibes, pur se mequelará dicar o Chaboro e manu.
+Luke 17:31 André ocola ocana o sos sinare opré o tejado, y terelare desqueres coneles andré o quer, na chale ostely á ustilarlos, y ó sos sinare andré o ortalame, andiar matejo na limbidiele palal.
+Luke 17:32 Terelad en fácho a romi de Lot.
+Luke 17:33 O saro sos camelare salvar sun chipen, la najabará; y ó sos la najabará, la alachará.
+Luke 17:34 Sangue penelo, que andré ocola rachi dui sinarán andré yeque cheripen, yéque sinará ustilado, y o aver mequelado.
+Luke 17:35 Dui cadchias sinarán nacicando andré a asia catanias; yeque sinará ustilada, a aver mequelada: dui andré l’ortalame; yeque sinará ustilado, y o aver mequelado.
+Luke 17:36 Rudeláron, y le penáron: ¿Anduque Erañó?
+Luke 17:37 Y ó les penó: Duque sináre o trupos, oté tambien se catanaran as aguilas. <chapter eID="gen776" osisID="Luke.17"/>
+Luke 18:0 <chapter osisID="Luke.18" sID="gen814"/>
+Luke 18:1 Y les penaba tambien ocona parabola: que jomte manguelar gayere, y na desfalecer,
+Luke 18:2 Penando: Sinaba yeque Barander andré foros, sos na darañaba á Un-debél, ni querelaba bajin á manu yeque;
+Luke 18:3 Y sinaba andré o matejo foros piuli, sos abillaba á ó y le penaba: Querelame justicia de minrio daschmanu.
+Luke 18:4 Y ó pre baribu chiros na camelaba.  Tami despues de ocono penó andré sí: Aunque ni darañelo á Debél, ni á manu querelo bajin;
+Luke 18:5 Todavia, presas ocona piuli sinela importuna á mangue, le querelaré justicia, que na abillele tantas begais, que al fin mangue trajatela.
+Luke 18:6 Y penó o Erañó: Junelad ma penela o Barander choro.
+Luke 18:7 ¿Pues Un-debél na querelará bajin de desqueres chabores, sos araquerelan á ó á gole chibes y rachi, y terelará orpachirima andré junos?
+Luke 18:8 Sangue penelo, que sigo os listrabará.  Tami pur abillará o chaboro e manu, ¿penchabelais que alachará fé andré a sueti?
+Luke 18:9 Y penó tambien ocona parabola á yeques, sos pachibelaban á sí matejos, sasta si sinaban laches, y despreciaban á os averes:
+Luke 18:10 Dui manuces ardiñeláron á la cangri á manguelar á Un-debél: o yeque Phariséo y o aver Publicano.
+Luke 18:11 O Phariséo sinando en pindré, manguelaba andré sun suncai de ocona beda: Un-debél, chimusolano te díñelo, presas na sinelo sasta os averes manuces, randes, chores, pirandes; andiar sasta sinela ocona Publicano.
+Luke 18:12 Ayunisarelo dui begais sari semana: diñelo diezmos de o saro que terelo.
+Luke 18:13 Tami o Publicano, sinando muy dur, darañaba aun costunar as aquias al Tarpe: sino que curaba sun chepo, penando: Un-debél, terela canrea de mangue choro!
+Luke 18:14 Sangue penelo, que ocono, y ocola nanai, chaló justificado á sun quer: presas saro manu, sos se ardiñela, sinará bucharado ostely: y ó sos se chibele ostely, sinará ardiñelado.
+Luke 18:15 Y le lanelaban tambien chabores, somia que os pajabase.  Y pur lo dicáron os discipules, os chingaraban.
+Luke 18:16 Tami Jesus os araqueró, y penó: Mequelad, que abillelen á mangue os chabores, y na os impidais; presas de oconas sinela o chim de Debél.
+Luke 18:17 Aromali sangue penelo, que ó sos na ustilase o chim de Debél, sasta chaboro, na chalará andré ó.
+Luke 18:18 Y le puchabó yeque tintin baro, penando: Duquendio lacho, ¿qué querelaré somia alachar a chipen que na marela?
+Luke 18:19 Y Jesus le penó: ¿Por qué araquerelas mangue lacho?  Cayque sinela lacho, sino Un-debél colcoro.
+Luke 18:20 Chanelas os Mandamientos: Na marelarás: Na pirabarás: Na randelarás: Na penelarás jujana: Pachibela á tiro batu, y á tiri dai?
+Luke 18:21 O penó: Saro ocono he querdi desde que sinaba chinoro.
+Luke 18:22 Pur juneló Jesus ocono, le penó: Aun á tucue faltisarela yeque buchi: binela saro que terelas, y dinlo á os chorores, y terelarás manchin andré o Tarpe: y abillel, y plastañamangue.
+Luke 18:23 Pur ó juneló ocono, se chito charabaro: presas sinaba baribu balbalo.
+Luke 18:24 Y Jesus le penó, pur le dicó charabaro: ¡Quan dificultosamente chalarán andré o chim de Debél junos sos terelan jayere!
+Luke 18:25 Presas buchi butér facil sinela nacar brote pre la aqui de yeque jutia, que chalar manu balbalo andré o chim de Debél.
+Luke 18:26 Y penáron junos sos juneláron ocolo: ¿Pues coin astisarela salvarse?
+Luke 18:27 Les penó: Ma n’astis para os manuces, astis para Un-debél.
+Luke 18:28 Y penó Pedro: Mistos diquelas, que mu terelamos mequelado sarias buchias, y terelamos plastañado tucue.
+Luke 18:29 O les penó: Aromali sangue penelo, que cayque sinela, sos terele mequelado quer, ó batuces, ó planes, ó romi, ó chabores pre o chim de Debél,
+Luke 18:30 Sos na terele de alachar baribu butér andré ocona chiros; y andré o chim que abillele a chipen que na marela.
+Luke 18:31 Y ustiló Jesus aparte á os duideque: y os penó: Diquelad, chalamos á Jerusalém, y sinarán querdas sarias as buchias, que randáron os Prophetas del Chaboro e manu.
+Luke 18:32 Presas sinará entreguisarado á os Busnés, y sinará caquerado, y curado, y chotiado.
+Luke 18:33 Y despues que le curaren, le nicabarán a chipen, y ostinará al trincho chibes.
+Luke 18:34 Tami junos na jabilláron chichi de ocono: y ocona varda sinaba pandada á junos; y na jabillaban ma les penaba.
+Luke 18:35 Y anacó, que bigoreando sunparal á Jericho, sinaba yeque perpenta bestelado aligatas del drun, mangando limosna.
+Luke 18:36 Y pur juneló a chumas e sueti sos nacaba puchabó, qué sinaba ocono.
+Luke 18:37 Y le penáron, que nacaba Jesus Nazareno.
+Luke 18:38 Y penó á gole gole: Jesus, Chaboro de David, terela canrea de mangue.
+Luke 18:39 Y junos sos chalaban anglal le chingaraban, somia que mequelase.  Tami ó garlaba baribu butér: Chaboro de David, terela canrea de mangue:
+Luke 18:40 Y Jesus parándose, penó que se le lanelasen.  Y pur sinaba sunparal, le puchabó,
+Luke 18:41 Penando: ¿Qué camelas que te querele?  Y ó rudeló: Erañó, que diquele.
+Luke 18:42 Y Jesus le penó: Diquela, tun fé te ha chibado lacho.
+Luke 18:43 Y yescotria dicó, y le plastañaba chimusolanificando á Debél.  Y pur dicó ocono sari a sueti, dinó loor á Debél. <chapter eID="gen814" osisID="Luke.18"/>
+Luke 19:0 <chapter osisID="Luke.19" sID="gen858"/>
+Luke 19:1 Y Jesus terelando chalado andré, nacaba por Jericho.
+Luke 19:2 Y he acoi manu araquerado Zachéo: y ocona sinaba yeque es mas bares enré os Publícanes, y balbalo:
+Luke 19:3 Y orotaba dicar á Jesus, coin sinase: y na le astis pre la baribu sueti, presas sinaba chinoro de trupo.
+Luke 19:4 Y chalando anglal, se costunó andré carschta bruñi heila somia dicarle, presas por oté terelaba de nacar.
+Luke 19:5 Y pur bigoreó Jesus á ocona stano, ardiñelando as aquias, le dicó, y le penó: abillel ostely yescotria, presas jomte ustilarme achibes andré tun quer.
+Luke 19:6 Y ó chaló ostely yescotría, y le ustiló asaselándose.
+Luke 19:7 Y dicando ocono sares, chumasquereláron, penando, que terelaba chalado á sinar andré quer de yeque choro.
+Luke 19:8 Tami Zachéo, chibandose anglal e Erañoró, le penó: Eraño, a paque de ma terelo diñelo á os chorores: y si andré buchi terelo jonganado á manu, le voltisarelo star tanto butér.
+Luke 19:9 Y Jesus le penó: Achibes ha abillado golipen á ocona quer: presas ó tambien sinela chaboro de Abraham.
+Luke 19:10 Presas o Chaboro e manu abilló á orotar, y á salvar ma sinaba chibado á najabar.
+Luke 19:11 Junelando junos ocono, plastañó penandoles yeque parabola, sat ocasion de sinar sunparal de Jerusalem: y presas penchababan que yescotria se mequelaria dicar o chim de Debél:
+Luke 19:12 Penó pues: Manu tintin chaló a chim dur, somia ustilar yeque lume oté, y despues limbidiarse.
+Luke 19:13 Y araquerando á deque de desqueres lacrés, les diñó deque estongrias, y les penó: paruguelad entretanto que abillelo.
+Luke 19:14 Tami os de desquero foros na le camelaban, y bichobando palal de ó yeque plastañí, le penáron: Na camelamos que reyne ocona opré de amangue.
+Luke 19:15 Y pur limbidió, despues de ustilar o lume, penó araquerar á ocolas lacrés, á coines terelaba diñado o jayere, somia chanelar ma cata yeque terelaba paruguelado.
+Luke 19:16 Bigoreó pues o brotobo y penó: Erañó; tiri estongri ha ganisarado deque estongrias.
+Luke 19:17 Y le penó: Sinela mistos, lacho lacró.  Presas andré a fremita has sinado cabalico, terelarás ezor opré deque fores.
+Luke 19:18 Y abilló aver, y penó: Erañó: Tiri estongri ha ganisarado pansch estongrias.
+Luke 19:19 Y penó á ocona: Tucue terelalo opré pansch fores.
+Luke 19:20 Y abilló o trincho, y penó: Erañó, acoi terelas tiri estongri, sos he terelado ujarada andré yeque diclo.
+Luke 19:21 Presas terelaba dal de tucue, sos sinelas manu recio de suncai; Ustilelas ma na chitaste, y chinelas ma na chibelaste.
+Luke 19:22 Entonces ó le penó: Choro lacró, abrí tiro mui condenelo tucue: Chanelabas que menda sinaba manu recio de suncai, que ustilelo ma na chité, y chinelo ma na chibele.
+Luke 19:23 ¿Pues presas na diñaste minrio jayere al banco, somia que pur limbidiase lo ustilára sat ganancia?
+Luke 19:24 Y penó á junos sos sinaban oté: Nicabeladle a estongri, y diñadsela al lacró sos terela deque estongrias.
+Luke 19:25 Y junos le penáron: Eraño, que terela deque estongrias.
+Luke 19:26 Pues menda sangue penelo, que á saro ocola sos terelará, se le diñará, y terelará butér: tami al sos na terela, se le nicobará aun ma terele.
+Luke 19:27 Y en quanto á ocolas minres daschmanuces, sos na cameláron que menda reynase opré junos, laneladmelos acoi, y mareladlos anglal de mangue.
+Luke 19:28 Y penado ocono guillaba anglal costunando á Jerusalém.
+Luke 19:29 Y anacó, que pur bigoreó sunparal de Bethphage, y de Bethania, al bur, sos se araquerela e Urucal, bichabó dui es desqueres discipules,
+Luke 19:30 Penando: Chalad á ocona gau, sos sinela de mamui: y yescotria que chalareis andré, alachareis ternoro de gel pandado, y opré coin nunca se besteló cayque: despandadlo, y laneladlo.
+Luke 19:31 Y si manu puchabelare sangue: ¿Por qué lo despandais?  A ó rudelareis andiar: Porque o Erañó terela menester de ó.
+Luke 19:32 Chaláron pues junos sos habian sinado bichabados, y alacháron o ternoro, sos sinaba sasta les habia penado.
+Luke 19:33 Y pur despandaban al ternoro, les penáron os julais: ¿Por qué despandais al ternoro?
+Luke 19:34 Y junos rudeláron: Porque o Erañó terela menester de ó.
+Luke 19:35 Y lo laneláron á Jesus.  Y chibando opré o ternoro desqueres talalores: chitáron á Jesus opré.
+Luke 19:36 Y chalando ó andiar, bucharáron desqueres coneles andré a feda.
+Luke 19:37 Y pur bigoreó sunparal al luchipen e bur e Urucal, sares os discipules en plastañias, perelales de pesquital se chibáron á majarificar á Un-debél á goles bares pre sarias as buchias, sos habian dicado,
+Luke 19:38 Penando: Majarificado o Crallis, sos abillela andré o nao e Erañoró, paz andré o Charos, y chimusolano andré o Tarpe.
+Luke 19:39 Y yeques es Phariseyes sos sinaban enré á sueti, le penáron: Duquendio, reprehende á tires discipules.
+Luke 19:40 O les rudeló: Sangue penelo, que si oconas mequelaren, as baras diñarán goles.
+Luke 19:41 Y pur bigoreó sunparal, al dicar o Foros, orobó opré ó, penando:
+Luke 19:42 ¡Ysna! si pincharases buchi andré ocona tun chibes, ma astisarela lanelartucue a paz!  Tami acana sinela ucharado de tirias aquias.
+Luke 19:43 Presas abillarán chibeses contra tucue, pur tires daschmanuces te chibarán al crugos trincheras, y te chibarán cerco, y te pandarán pre sarias aricatas.
+Luke 19:44 Y chibarán tucue ostely, y á tires chabores, sos sinelan andré tucue, y na mequelarán andré tucue bar opré bar; presas na pincharaste o chiros de tiri visitacion.
+Luke 19:45 Y chalando andré a cangri se chitó á bucharar abrí á sares junos sos quinaban y binaban andré siró,
+Luke 19:46 Penandoles: Libanado sinela: Minrio quer, quer de beda sinela.  Tami sangue lo terelais querdi tunia de randes.
+Luke 19:47 Y cata chibes bedaba andré a cangri.  Tami os Manclayes es erajais, y os Libanes, y os tintines e sueti le camelaban marar.
+Luke 19:48 Y na chanelaban que querelarse sat ó.  Presas sari a sueti sinaba moscabis pur le junelaba. <chapter eID="gen858" osisID="Luke.19"/>
+Luke 20:0 <chapter osisID="Luke.20" sID="gen907"/>
+Luke 20:1 Y anacó yeque chibes, que sinando ó andré a cangri bedando á la sueti, y evangelizando, se catanáron os Manclayes es erajais sat os pures,
+Luke 20:2 Y le penáron de ocona manera: Penamangue sa’ que solar querelas oconas buchias; ó coin sinela ó sos te diñó ocona sila.
+Luke 20:3 Y Jesus rudeló, y les penó: Tambien menda querelaré sangue yeque pucha.  Rudeladmangue:
+Luke 20:4 ¿O bautismo de Juan sinaba del Tarpe, ó de los manuces?
+Luke 20:5 Junos, penchababan andré de sí, penando: Si penaremos, que del Tarpe, penará: ¿pues presas na le pachibelasteis?
+Luke 20:6 Y si penaremos: De los manuces, a sueti sari marelarános sat baras, pues terela por chachipe, que Juan sinaba Propheta.
+Luke 20:7 Y rudeláron que na chanelaban de duque sinaba.
+Luke 20:8 Y les penó Jesus: Pues na penelo sangue, sa’ que solar querelo oconas buchias.
+Luke 20:9 Y se chibó á penar á la sueti ocona parabola: Manu chitó yeque resis, y la diñó a rentiserar á yeques randiñadores: y ó sinaba ausente pre baribu chiros.
+Luke 20:10 Y yeque chibes bichabó yeque de desqueres lacrés á os randiñadores, somia que le diñasen del mibao e resis.  Tami junos curáron á ocona, y le bichabáron vacío.
+Luke 20:11 Y aver begai bichabó aver lacró.  Tami junos curáron tambien á ocona, y ultrajisarandole, lo bichabáron vacío.
+Luke 20:12 Y limbidió á bichabar á aver trincho: á coin junos de la mateja beda curáron, y le bucharáron abrí.
+Luke 20:13 Y penó o Erañó e resis: ¿Qué querelaré?  Bichabaré á minrio camelado chaboro: Astis sinar, que pur le diquelen, le terelen bajin.
+Luke 20:14 Pur le diqueláron os randiñadores, penchabáron andré sí, y penáron: Ocona sinela o heredero; marelemosle, somia que sinele amari a heredad.
+Luke 20:15 Y sicobandole abrí e resis, le mareláron.  ¿Que querelará pues sat junos o julai e resis?
+Luke 20:16 Abillará, y marelará á oconas randiñadores, y diñará sun resis á averes.  Y sasta junos lo juneláron, le penáron: Na sinele andiar.
+Luke 20:17 Y ó dicandolos, penó: ¿Pues que sinela ocono, sos sinela randado: A bar, sos bucharáron junos sos edificaban, ocona abilló á sinar a mas udschi e esquina?
+Luke 20:18 Saro ocola, sos perare opré ocola bar, quebrantado sinará: y opré coin siro peráre, le nacicará.
+Luke 20:19 Y os Manclayes es erajais, y os Libanes le camelaban chibar baste andré ocola ocana, tami cangueláron á la sueti: presas jabilláron, que contra junos terelaba penado ocona varda.
+Luke 20:20 Y acechandole bichabáron juntunes, sos se fingiesen laches, somia ustilarle andré alguna varda, y lliguerarle á la jurisdicion, y solar e Poresquero.
+Luke 20:21 Oconas pues le puchabáron, penando: Duquendio, chanelamos que penelas y bedelas mistos; y que na querelas bajin á cayque, sino que bedelas en chachipen o drun de Debél.
+Luke 20:22 ¿A amangue sinela mistos poquinar costiñi á Cæsar, ó nanai?
+Luke 20:23 Y ó, jabillando a choripen de junos, les penó: ¿Presas tentisarais mangue?
+Luke 20:24 Mequelame dicar yeque calé.  ¿De coin sinela a chichi, y o letrero, sos terela?  De Cæsar; le rudeláron junos.
+Luke 20:25 Y les penó: Pues diñelad á Cæsar ma sinela de Cæsar: y á Debél ma sinela de Debél.
+Luke 20:26 Y na astisáron reprehender desquerias vardas anglal e sueti: tami daránelados de sun respuesta sonsibeláron.
+Luke 20:27 Tambien se bigoreáron yeques os Sadduceyes, sos nieguisarelan a resurreccion, y le puchabáron.
+Luke 20:28 Penando: Duquendio: Moyses ha libanado andré sun embéo: Si merare o plal de manu terelando romi, bi mequelar chabores, que se romandiñase sat siró o plal, y ardiñele linage á desquero plal.
+Luke 20:29 Pues sinaban efta plalores, y ustiló romi o mas baro, y meró bi chabores.
+Luke 20:30 Y la ustiló o duincho, y meró tambien bi chaboro.
+Luke 20:31 Y la ustiló o trincho.  Y andiar en begai sares os efta, sos meráron bi mequelar sucesion.
+Luke 20:32 Segritona es sares meró tambien a romi.
+Luke 20:33 ¿Pues andré a resurreccion, de coin de junos sinará romi?  Presas sares os efta la tereláron por romi.
+Luke 20:34 Y Jesus les penó: Os chabores de ocona sueti se romandiñelan, y sinelan diñados en romandiñipen:
+Luke 20:35 Tami junos sos sinarán juzgados cabalicos de ocola sueti, y e resurreccion es mulés, na se romandiñarán, ni sinarán diñados en romandiñipen.
+Luke 20:36 Presas n’astis que merelen butér: presas sunelan iguales á os Manfarieles, y chabores sinelan de Debél, pur sinelan chabores e resurreccion.
+Luke 20:37 Y que os mules terelan de ardiñar, lo dialó tambien Moyses, pur sunparal á la beldolaya araqueró al Erañó, o Debél de Abraham, y o Debél de Isaac, y o Debél de Jacob.
+Luke 20:38 Y na sinela Debél es mules, sino es vivos: presas sares vivisarelan á ó.
+Luke 20:39 Y rudelando yeques es Libanés, le penáron: Duquendio, mistos terelas penado.
+Luke 20:40 Y darañeláron á puchabarle butér.
+Luke 20:41 Y ó les penó: ¿Sasta penelan, que o Christo sinela Chaboro e David?
+Luke 20:42 Y o matejo David penela andré o embéo es Psalmes: Penó o Erañó á minrio Erañoró: bestelatucue á minri bastari,
+Luke 20:43 Disde que bucharele á tires daschmanuces bajines de tires pindrés.
+Luke 20:44 Si David o araquerela Erañó: ¿Pues sasta sinela chaboro de ó?
+Luke 20:45 Y junelando sari a sueti, penó á desqueres discipules:
+Luke 20:46 Garabelaos de os Libanes, sos se alendelan á pirelar sat nubés bares, y les pesquibela sinar saludados andré os masqueres, y camelan as brotoborias bestis andré as synagogas, y os brotobores asientos andré as jachipenes;
+Luke 20:47 Sos jamelan os queres es piulias, querelando barias ocanagimias.  Oconas terelarán condenacion mas bari. <chapter eID="gen907" osisID="Luke.20"/>
+Luke 21:0 <chapter osisID="Luke.21" sID="gen955"/>
+Luke 21:1 Y sinando diando, dicó os balbales sos bucharaban desquerias ofrendas andré a jestari e manchin.
+Luke 21:2 Y dicó tambien yeque piuli chorori, sos chibelaba dui cales chinores.
+Luke 21:3 Y penó: Aromali sangue penelo, que ocona chorori piuli ha chibado butér que sares os avéres.
+Luke 21:4 Presas sares ocolas terelan bucharado somía ofrendas de Debél, de ma les sobresarela: Tami ocona de desqueri erdicha terela chibado saro o jayere sos terelaba.
+Luke 21:5 Y rudeló á yeques, sos penaban de la cangri, que sinaba chiti de barias pacuarias, y de diñipenes:
+Luke 21:6 Oconas buchias sos diquelais, abillarán chibeses, pur na sinará mequelada bar opré bar, sos na sinará demolida.
+Luke 21:7 Y le puchabáron, y penáron: ¿Duquendio, pur sinará ocono? y que simache sinará, pur ocono comenzáre á sinar?
+Luke 21:8 O penó: Diquelad, que na sineleis jongabados: presas baribustres abillarán andré minrio nao, penando: Menda sinelo, y o chiros sinela sunparal: garabelaos pues de chalar palal de junos.
+Luke 21:9 Y pur junelareis chingaripenes y jestias, sangue na cangueleis: presas jomte que ocono anaquele brotoboro, tami na sinará yescotria a anda.
+Luke 21:10 Entonces les penaba: Se ardiñará sueti contra sueti, y chim contra chim.
+Luke 21:11 Y sinará bares jolili-motos por os gaues, y salipénes, y boquises y sinará buchias espantosas, y barias simaches e Charos.
+Luke 21:12 Tami anglal de saro ocono sangue ustilarán, y plastañarán, entregisarando sangue á as Synagogas, y á os estaripeles, y lliguerarán sangue á os Crallises, y á os Poresqueres, por minrio nao:
+Luke 21:13 Y ocono sinará sasta machiria á sangue.
+Luke 21:14 Terelad yeque buchi silni andré jires carlés, o na penchabar anglal ma terelais de rudelar.
+Luke 21:15 Presas menda diñaré sangue mui y chaneleria, al que n’astisarelarán resistir, ni contrapenar sares jires daschmanuces:
+Luke 21:16 Y sinareis entregados de jires batuces, y plalores, y rati, y monrés, y querelarán merar a yéques de sangue.
+Luke 21:17 Y sares aborrecerán á sangue pre minrio nao.
+Luke 21:18 Tami na se najabará yeque bal de jires jerés.
+Luke 21:19 Sat jiri paciencia listrabareis jirias ochias.
+Luke 21:20 Pues pur dicáreis á Jerusalém pandada al crugos de jundunares, entonces chanelad que sun najipen sinela sunparal.
+Luke 21:21 Entonces junos sos sinelan andré la Judéa, najalelen á os bures: y junos en medio de siró se sicobelen abrí; y junos andré os bures na chalen andré de siró.
+Luke 21:22 Presas oconas sinelan chibeses de venganza, somia se perelalen sarias as buchias, sos sinelan libanadas.
+Luke 21:23 Tami ysna de las cambrias, y de ocolas sos diñelan de mamisarar andré ocolas chibeses!  Presas sinará bari apretura opré a pu, y ira para ocona sueti.
+Luke 21:24 Y perarán á filo e estuche: y sinarán lliguerados utildes á sares os chimes, y Jerusalém sinará hollada de los Busnés: disde que se perele o chiros es Busnes.
+Luke 21:25 Y terelará simáches Cam, y andré a Chimutra, y andré as cherdillas; y andré la pu tráqui es manuces pre a confusion sos querelara a chumas e moros, y de sus panias.
+Luke 21:26 Sinando os manuces yertos por o dal y canguelo es buchias, sos opre abillaran á sari a sueti: presas as silas e Tarpe sinarán conmovidas:
+Luke 21:27 Entonces diquelarán al Chaboro e manu abíllar opré yeque paros sat ezor baro y chimusolano.
+Luke 21:28 Pur comenzaren pues á perelarse oconas buchias, diquelad, y ardiñelad jires jeres; presas sunparal sinela jire mestepé.
+Luke 21:29 Y les penó yeque semejanza: Diquelad a carschta-heila, y sarias as carschtas.
+Luke 21:30 Pur bucharelan ya abrí de sí o mibao, jabillais que sunparal sinela o canriano.
+Luke 21:31 Andiar tambien sangue, pur dicalareis querelarse oconas buchias, chanelad que sunparal sinela o chim de Debél.
+Luke 21:32 Aromali sangue penelo, que na nacará ocona generacion, disde que sarias oconas buchias sinarán quereladas.
+Luke 21:33 O Charos y la pu nacabarán: tami minrias vardas na nacarán.
+Luke 21:34 Diquelad pues por sangue, na sinele que jires carlés se carguisarelen de glotoneria y de matipen, y de las gramias de ocona chipen: y que abillele de repente opré sangue ocola chibes.
+Luke 21:35 Presas andiar sasta yeque maluno abillará opré sares sos sinelan opré a chichi de sari a jolili.
+Luke 21:36 Pues sinelad de vela manguelando á Un-debél andré saro chiros, somia que sineleis cabalicos de najar sarias oconas buchias, sos jomte sinar, y de sinar andre pindré, anglal e Chaboro e manu.
+Luke 21:37 Y sinaba bedando andré a cangri: ta arachis chalaba abrí, y lo nacaba andré o bur, araquerado e Urucal.
+Luke 21:38 Y sari a sueti se ardiñeló de clarico, somia abillar, a junarle andré a cangri. <chapter eID="gen955" osisID="Luke.21"/>
+Luke 22:0 <chapter osisID="Luke.22" sID="gen994"/>
+Luke 22:1 Y sinaba sunparal a fiesta es Azymos, sos sinela araquerada Ciria:
+Luke 22:2 Y os Manclayes es Erajais, y os Libanes orotaban sasta querelarian merar á Jesus: tami canguelaban á la sueti.
+Luke 22:3 Y Satanas chaló andré Judas, sos terelaba por aver nao Iscariotes, yeque es duideque.
+Luke 22:4 Y chaló, y trató sat os Manclayes es Erajais, y sat os Baraderes de sasta se le entreguisaria.
+Luke 22:5 Y se alendáron, y concertáron de diñarle jayere.
+Luke 22:6 Y sinaba sat junos de acuerdo.  Y orotaban chiros, somia entreguisarlo bi concurso de sueti.
+Luke 22:7 Y abilló pues o chibes es azymos; pur jomte merar a Ciria.
+Luke 22:8 Y bichabó á Pedro, y á Juan, penando: Chalad á chitarnos a Ciria somia que jamelemos.
+Luke 22:9 Y junos penáron: ¿Anduque camelas que la querelemos?
+Luke 22:10 Y les penó: Yescotria que chaleis andré o foros, rachelareis yeque manu, sos lliguerela coro de pani: chalad le palal disde o quer, anduque chalará andré.
+Luke 22:11 Y penelad al julai e quer: O duquendio tucue penela: ¿Anduque sinela a cumorra, duque terelo que jamar a Ciria sat minrés discipules?
+Luke 22:12 Y ó diará sangue yeque cumorra bari, chiteladla oté.
+Luke 22:13 Y junos chaláron, y lo alacháron andiar sasta les terelaba penado, y childáron a Ciria.
+Luke 22:14 Y pur sinaba chiros, se bejeló á la mensalle, y os duideque Apóstoles sat ó.
+Luke 22:15 Y les penó: Sat pesquital he camelado jamar con-a-sangue ocona Ciria, anglal de merar.
+Luke 22:16 Presas sangue penelo, que na jamaré buter de siró disde que sinele perelada andré o chim de Debél.
+Luke 22:17 Y ustilando a bada, diñó garapatias, y penó: Ustilad, y distribuidlo enré sangue.
+Luke 22:18 Presas sangue penelo, que na piyaré butér e mibao e resis, disde que abillele o chim de Debél.
+Luke 22:19 Y terelando ustilado o manro, diñó garapatias, y o asparabó, y se lo diñó, penando: Ocona sinela minrio trupos, sos sinela diñado por sangue: ocona querelad en fácho de mangue.
+Luke 22:20 Y andiar matejo a bada, palal de terelar jamado, penando: Ocona bada sinela o Nebo Testamento en minri rati, sos sinará butanada por sangue.
+Luke 22:21 Tami diquelad acoi, que la baste de ó sos mangue entreguisarela, con-a-mangue sinela á la mensalle.
+Luke 22:22 Aromali o Chaboro e manu chala, sasta ma sinela decretado: ¡Tami ysna de ocola manu por coin sinará entreguisarado!
+Luke 22:23 Y junos se chibáron á puchabarse yeques á averes, coin de junos sinaria ó, sos terelaba que querelar ocono.
+Luke 22:24 Y se ardiñó tambien enré junos jestia, coin de junos bichotaba sinar mas baro.
+Luke 22:25 Tami ó les penó: Os Crallises es Busnés se erañorean de junos, y junos sos terelan sila opré de junos sinelan araquerados quereladores de mistos.
+Luke 22:26 Tami sangue no andiar: antes ó sos sinela mas baro enré sangue, querelese sasta o mendesquero, y o sos broto sinela, sasta o sos sirvisarela.
+Luke 22:27 Presas ¿coin sinela mas baro, el sos sinela bejalado á la mensalle, ó el sos servisarela?  ¿Na sinela mas baro el sos sinela bejalado á la mensalle?  Pues menda sinelo en medio de sangue, andiar sasta o sos sirvisarela.
+Luke 22:28 Tami sangue sinelais junos sos terelais permanecido con-a-mangue andré minrio tremendo.
+Luke 22:29 Y por ocono chitelo menda o chim para sangue, sasta minrio Dada lo chitó para mangue,
+Luke 22:30 Somia que jameleis y piyaleis á minri mensalli andré minrio chim, y sangue bejeleis opré thronos somia juzgar á las duideque tribus de Israel.
+Luke 22:31 Y penó ó Erañoró buter: Simon, Simon, diquela que Satanas ha mangado tucue somia zarandear tucue sasta gi.
+Luke 22:32 Tami menda he manguelado por tucue, que na faltisarele tíri fé: y tucue yeque begai convertido, confirma a tires plalores.
+Luke 22:33 O le penó: Erañó, sarmuñé sinelo chalar sa’tucue aun á estaripel, y á meripen.
+Luke 22:34 Tami Jesus le penó: Te penelo, Pedro, que na giyabelará sejonia o basnó, sin que trin begais has penado que na pincharelas mangue.  Y les penó:
+Luke 22:35 Pur sangue bichabé bi quisobu, y bi manronea, y bi tirajais, ¿por baji sangue faltisaró yeque buchi?
+Luke 22:36 Y junos rudeláron: Chi.  Yescotria les penó: Pues acana coin terela quisobu, ustilelo; y tambien manronea: y ó sos na lo terela, binele desquero gate y quinele janro.
+Luke 22:37 Presas sangue penelo que jomte que se diquele perelado andré mangue aun ocono sos sinela libanado; Y sinaba jinado sat os chorés.  Presas as buchias sos pajabelan á mangue, terelan desquero cumplimiento.
+Luke 22:38 Tami junos rudeláron: Eraño, he acoi dui janres.  Y ó les penó: Barsamia.
+Luke 22:39 Y chalando abrí, se guilló, sasta solia, al bur es zetallas.  Y lé sinaban tambien plastañando desqueres discipules.
+Luke 22:40 Y pur bigoreó al stano, les penó: Manguelad á Un-debél? somia que na chaleis andré chungalo.
+Luke 22:41 Y se chaló de junos dur, sasta astis bucharar yeque bar: Y chitado de chanelis, manguelaba,
+Luke 22:42 Penando: Dada, si camelas, naquele de mangue ocona bada: Tami na se querele minri pesquital, sino tiri.
+Luke 22:43 Y le bichotó yeque Manfariel e Charos, sos le confortaba.  Y chibado en dua, manguelaba sat sila butér.
+Luke 22:44 Y sinaba desquero sudor, sasta gotas de rati, sos peraba disde la chiquen.
+Luke 22:45 Y sasta se ardiñó de manguelar, abilló á desquerés discipules, y los alachó sornando de charabury.
+Luke 22:46 Y les penó: ¿Presas querelais sobindoy? ardiñaos, y manguelad, somia que na chaleis andré o chungalo.
+Luke 22:47 Y sasta sinaba ó aun penando, se dicó yeque plastañi de manuces: y ó sos hetó Judas, yeque es duideque, chalaba anglal de junos: y bigoreó á Jesus somia chupendarle.
+Luke 22:48 Tami Jesus le penó: ¿Judas, sat chupendi entreguisarélas al Chaboro e manu?
+Luke 22:49 Y pur dicáron junos sos sinaban sat ó, ma chalaba á anacar, le penáron: Erañó, ¿curaremos sat o janro?
+Luke 22:50 Y yeque de junos curó á yeque lacró e Manclay es erajais, y chinó de ó o can bastaró.
+Luke 22:51 Tami Jesus, ustilando a varda, penó: Mequelad disde acoi.  Y pajabó de ó o can, y le chibó lacho.
+Luke 22:52 Y penó Jesus á os Manclayes es Erajais, y á os Baranderes e cangri, y á os Purés, sos habian abillado oté: ¿Presas sasta á randé terelais chalado abrí sat janrés y catés?
+Luke 22:53 Habiendo sinado cata chibés con-a-sangue andré á cangri, na bucharasteis as baste contra mangue: tami ocona sinela jire ocana, y a sila es bengues.
+Luke 22:54 Y bucharando baste opré ó, le lligueráron al quer e Pontesqueró: y Pedro le plastañaba muy dur.
+Luke 22:55 Y terelando urdiflado yaque en medio e atrio, y bestelandose junos al crugos, sinaba tambien Pedro en medio de junos.
+Luke 22:56 Yeque lacrí, pur le dicó bestelado á la yaque, lo dió emposunó, y penó: Y ocona sat ó sinaba.
+Luke 22:57 Tami ó lo neguisaró, penando: Cadchi, na lo pincharelo.
+Luke 22:58 Y una fremita palal, dicandolo aver, penó: Y tucue de junos sinelas, Y penó Pedro: Manu, na sinelo.
+Luke 22:59 Y nacada sasta yesque ocana, chamuliaba aver y penaba: Aromali ocona sat ó sinaba: Presas sinela tambien Galiléo.
+Luke 22:60 Y penó Pedro: Manu na chanelo ma penelas.  Y andré ó matejo chiros, pur o sinaba aun chamuliando, giyabeló o basno.
+Luke 22:61 Y voltisarandose o Erañó, dió á Pedro.  Y Pedro se pareló e varda e Erañoró sasta le habia penado: Anglal que o basnó giyabele; mangue neguisarerás trin begais:
+Luke 22:62 Y chalando Pedro abrí, orobó baribu.
+Luke 22:63 Y ocolas sos terelaban á Jesus, o caqueraban, curandole.
+Luke 22:64 Y le ucharáron as aquias, y le curáron en la chichi, y le puchababan, y chamuliaban: Penamangue, coin sinela ó sos curó tucue:
+Luke 22:65 Y penaban averes baribustrias buchias zermañando contra ó.
+Luke 22:66 Y pur sinába de chibes se catanáron os purés e sueti, y os Manclayes es Erajais, y os Libanes, y o lligueráron á desqueri beia, y le penáron: Si tucue sinelas o Christo, pen.
+Luke 22:67 Y les penó: Si sangue lo penáre, na pachibelareis mangue.
+Luke 22:68 Tambien si sangue puchabáre, na rudelareis mangue, ni chitareis en mestepen.
+Luke 22:69 Tami desde acana o Chaboro e manu sinará bejelado á la bastari e sila de Debél.
+Luke 22:70 Penáron averes: ¿Andiar, tucue sinelas o Chaboro de Debél?  O penó: Sangue penelais que menda lo sinelo.
+Luke 22:71 Y junos penáron: ¿Qué butér machiria jomte? pues mu matejos lo habemos junelado de la mui de ó. <chapter eID="gen994" osisID="Luke.22"/>
+Luke 23:0 <chapter osisID="Luke.23" sID="gen1066"/>
+Luke 23:1 Y se ardiñó sari ocola sueti, y lo lligueráron á Pilato.
+Luke 23:2 Y se chitáron á acusarle, penando: A ocona terelamos alachado pervirtiendo á amari sueti, y vedando platisarar jayere á Cæsar, y penando que ó sinela Christo Crallis.
+Luke 23:3 Y Pilato le puchabó, y penó: ¿Sinelas tucue o Crallis es Chuti?  Y ó le rudeló penando: Tucue lo penelas.
+Luke 23:4 Penó Pilato á os Manclayes es Erajais, y á la sueti: Chichi, sos sinela choro alachelo andré ocona manu.
+Luke 23:5 Tami junos insistian, penando: Terela alborotado a sueti sat la beda, sos chibela por sari la Judéa, comenzando desde o chim de Galiléa, disde acoi.
+Luke 23:6 Pilato, sos juneló penar Galiléa, puchabó si sinaba de Galiléa.
+Luke 23:7 Y pur chaneló, que sinaba e jurisdicion de Herodes, lo bichabó á Herodes: sos al chiros socababa tambien andré Jerusalém.
+Luke 23:8 Y Herodes pur dicó á Jesus, se alendó baribu.  Presas de baribu chiros le terelaba camelado dicar, presas habia junelado penar de ó barias buchias, y fronsaperaba dicarle querelar alguno zibo.
+Luke 23:9 Le quereló pues baribustrias preguntas: Tami ó le rudelaba chichi.
+Luke 23:10 Y sinaban os Manclayes es erajais, y os Libanes acusandole silamente.
+Luke 23:11 Y Herodes sat desqueres jundunáres ó despreció: y caquerandole le quereló chitar yeque conel parno, y aver begai o limbidió á Pilato.
+Luke 23:12 Y ocola chibes se quereláron monres Herodes y Pilato; presas palal sinaban daschmanuces entre sí.
+Luke 23:13 Pilato pues araqueró á os Manclayes es erajais, y á os Barandéres, y á la sueti.
+Luke 23:14 Y les penó: Terelais lanelado á mangue ocona manu, sasta pervertidor e sueti; y diquelad que puchabándole menda anglal de sangue, na alaché andré ocona manu yeque de ocolas buchias chorias de que o acusais.
+Luke 23:15 Ni Herodes Crallis: presas sangue bichabé á ó, y he acoi que se ha probisarado chichi, sos merezca meripen.
+Luke 23:16 Y andiar le despandaré despues de terelar curado.
+Luke 23:17 Y debisaraba despandarles yeque estardo andré o chibes e fiesta.
+Luke 23:18 Y sari a sueti diñó goles catanés, penando: Querelad merar a ocona, y despandanos á Barrabás.
+Luke 23:19 Ocona habia sinado bucharado andré l’estaripel por yeque sedicion ardiñada andré o foros, y por yeque mordipen.
+Luke 23:20 Y Pilato les chamulió de nuevo, camelando despandar á Jesus.
+Luke 23:21 Tami junos limbidiaban á diñar goles, penando: A la trijul con ó, A la trijul con ó.
+Luke 23:22 Y ó a trincha begai les penó: ¿Pues qué choro ha querdi ocona?  Menda na alachelo andré ó necautia causa de meripen: le curelaré pues y le despandaré.
+Luke 23:23 Tami junos insistian mangando á goles bares, que sinase trijulado, y ardiñaban butér sus goles.
+Luke 23:24 Y Pilato penchabó, que se querelara ma junos mangaban.
+Luke 23:25 Y les despandó á ó sos por sedicion, y mordipen habia sinado bucharado andré l’estaripel, al sos habian mangado: y entregisaró á Jesus á las bastes de junos.
+Luke 23:26 Y pur lo lligueráron, ustiláron yeque manu de Cyrene, sos se hetó Simón, sos abillaba de yeque cosque: y le carguisaráron la trijul, somia que la lliguerase palal de Jesus.
+Luke 23:27 Y le plastañaban yeque plastañi bari de sueti, y de cadchias, sos le plañian y orobaban.
+Luke 23:28 Tami Jesus? límbidiandose hacia siras, les penó: Dugidas de Jerusalém, na orobeis opré mangue; antes orobad opré jirias matejas, ta opré jires chaborés.
+Luke 23:29 Presas abillarán chibeses andré que penarán: Majaradas as estériles, y as porias, sos na concibiéron, y as chuchai sos na diñáron de mamisarar.
+Luke 23:30 Entonces se chibarán á penar á as playas: Perad opré amangue: y á os bures: Ucharadnos.
+Luke 23:31 Presas si andré carschta bardry querelan ocono, ¿andré a seca, que se querelará?
+Luke 23:32 Y lligueraban tambien sat ó dui averes, sos sinaban chores, somia mulabarlos.
+Luke 23:33 Y pur bigoreáron á o stano, sos se heta de la Calavéra, le trijuláron oté; y os dui randés, yeque á la bastari, y aver á la can.
+Luke 23:34 Tami Jesus penaba: Dada, ojabesalos: presas na chanelan, ma querelan.  Y dividiendo desqueres talalorés, bucháron sustirias.
+Luke 23:35 Y a sueti sinaba dicando, y os Manclayes catanamente sat junos o denostabelaban, y penaban: A averes chibó lacho, listrabese á sí matejo, si ocona sinela o Christo, o camelado de Debél.
+Luke 23:36 Le caqueraban tambien os jundunares, chalando sunparal á ó, y chitandole anglal vinagre.
+Luke 23:37 Y penando: Si tucue sinelas o Crallis es Chuti, listrabelate á tun matejo.
+Luke 23:38 Y sinaba opré ó yeque titulo libanado andré letras Griegas, Latinas y Ybuchias: Ocona sinela o Crallis es Chuti.
+Luke 23:39 Y yeque de ocolas randes, sos sinaban luanados, o injuriaba, penando: Si tucue sinelas o Christo, listrabela á tun matejo, y á amangue.
+Luke 23:40 Tami o aver rudelando, le chingaró, penando: Ni aun tucue canguelas á Debél, sinando andré a mateja corypény?
+Luke 23:41 Aromali amangue urgiyamos por amaro grecos, presas ustilamos ma merecen amarias obras: tami ocona chichi choro ha querdi.
+Luke 23:42 Y penába á Jesus: Erañó, enjallate de mangue pur abillares á tun chim.
+Luke 23:43 Y Jesus le penó; Aromali te penelo, que achibes sinarás con-a-mangue andré o Paraiso.
+Luke 23:44 Y sinaba ya casi a ocana zobia, y sari a chiquen se ucharó de tinieblas disde a ocana nubia.
+Luke 23:45 Y se chitó oruné o Cam: y o velo e cangri se asparabó pré medio.
+Luke 23:46 Y Jesus diñando yeque gole baro, penó: Dada: andré tirias bastes encomiendo minrio ylo: y penando ocono, espiró.
+Luke 23:47 Y pur dicó o Centurion ma habia anacado, diñó chimusolano á Debél, penando: Aromali, ocona manu sinaba lacho.
+Luke 23:48 Y sari a sueti sos sunparal sinaba, pur dicaba ma anacaba, se limbidiaba curandose andré os chepés.
+Luke 23:49 Y sares os pincherados de Jesus, y as cadchias sos le habian plastañado de Galiléa, sinaban dicando oconas buchias de dur.
+Luke 23:50 Y he acoi yeque gacho araquerado Joseph, sos sinaba Barander, gacho lachó ta justo:
+Luke 23:51 Sos na habia consentido andré o consejo, ni andré os hechos de junos, de Arimathéa, foros e Judéa, sos ujaraba o chim de Debél.
+Luke 23:52 Ocona bigoreó á Pilato, y le mangó o trupos de Jesus.
+Luke 23:53 Y habiendole nicabado, lo involvisaró andré yeque sabana parni, y lo childó andré yeque sepulchro querdi andré un bur, anduque cayque disde entonces habia sinado childado.
+Luke 23:54 Y sinaba o chibes de Parasceve, y sunparal sinaba a Canché.
+Luke 23:55 Y abillando tambien as cadchias sos habian plastañado á Jesus desde Galiléa, dicáron o sepulchro, y a beda en que sinaba childado desquero trupos.
+Luke 23:56 Y limbidiandose, quináron bus ta unguentes; y reposáron a Canché sasta mandisarela a Eschastra. <chapter eID="gen1066" osisID="Luke.23"/>
+Luke 24:0 <chapter osisID="Luke.24" sID="gen1123"/>
+Luke 24:1 Y o brotoboro e dramia chaláron muy de clarico al sepulchro, lliguerando o bue, sos terelaban quinado.
+Luke 24:2 Y alacháron a bar revueltisarada del sepulchro.
+Luke 24:3 Y chalando enrún, na alacháron o trupos e Erañoró Jesus,
+Luke 24:4 Y anacó, que sinando perelales de dal por ocono, he acoi dui gachés, sos se mequeláron dicar sunparal á siras sat coneles resplandecientes.
+Luke 24:5 Y sasta sinaban medrosas, y voltisaraban a chiche ostely al chiquen, les penáron: ¿Presas orotais enrun os mules al que vivisarela?
+Luke 24:6 Na sinela acoi, presas se ha ardiñado: ojaraos de ma penó á sangue, sinando aun andré Galiléa,
+Luke 24:7 Penando: Jomte que o Chaboro e manu sinele entreguisarado andré bastes es manuces chores, y que sinele trijulado, y ardiñele al trincho chibes.
+Luke 24:8 Entonces se ojaráron de las vardas de ó.
+Luke 24:9 Y chalando abrí del sepulchro, se guilláron á penar saro ocono á os once, y á sares os averes.
+Luke 24:10 Y siras sos laneláron á os Apóstoles oconas buchias sinaban Maria Magdalena, y Juana, y Maria Dai de Santiago, y as averes sos sinaban sat siras.
+Luke 24:11 Y junos tereláron por chichi oconas vardas, y na las pachibeláron.
+Luke 24:12 Tami Pedro ardiñandose, se guilló al sepulchro, y bajandose, dicó solo á os dicles, sos sinaban chibados oté, y se chaló zibando enré sí ma habia anacado.
+Luke 24:13 Y dui de janos ocola matejo chibes, chalaban á yeque gau araquerado Emmaus, dur de Jerusalém sasta de zoi millas.
+Luke 24:14 Y junos chalában chamuliando enré si de sarias oconas buchias sos habian anacado.
+Luke 24:15 Y sasta sinaban penando y chamuliando o yeque sat o aver, bigoreó á junos o matejo Jesus, y piraba sat junos.
+Luke 24:16 Tami as aquias de junos sinaban ucharadas, somia que na le pincharasen.
+Luke 24:17 Y les penó: ¿Qué vardas sinelan oconas, sos chamulais enré sangue pirando?  Y presas sinelais charavares?
+Luke 24:18 Y rudelando yeque de junos, arquerado Cleóphas, le penó: ¿Tucue gringó andré Jerusalém: y na chanelas ma ha anacado oté oconas chibéses.
+Luke 24:19 O les penó: ¿Que buchí?  Y rudeláron: De Jesus Nazareno, sos sinaba yeque gacho Propheta, silnó andré obras y andré vardas anglal de Debél y de sari a sueti;
+Luke 24:20 Y sasta le entreguisaráron os Pontesquerés y amáres Manclayes á condenacion de meripen, y o trijuláron:
+Luke 24:21 Tami mu fronsaperabamos, que ó sinaba sos terelaba de diñar mestepé á Israel; o mas choro sinela, que sejonia sinela o trincho chibés, que oconas buchias han anacado.
+Luke 24:22 Aunque yeques cadchias de amarias nos han querelado darañar; siras anglal e clarico chaláron al sepulchro.
+Luke 24:23 Y na terelando alachado desquero trupo, limbidiáron, penando que habian dicado oté vision de Manfarieles, sos penelan que ó vivisarela.
+Luke 24:24 Y yeques de amares plalores chaláron al sepulchro, y lo alacháron andiar sasta as cadchias lo habian penado; tami á ó na lo alacháron.
+Luke 24:25 Y Jesus penó á junos: ¡O dinelés y tardos de carlochin, para pachibelar o saro sos os Prophetas han penado!
+Luke 24:26 ¿Na jomte, que o Christo urjiyase oconas buchias, y que andiar chalase enré desquero chimusolano?
+Luke 24:27 Y se chitó á penar desde Moysés y de sarés os Prophetas, chibando en dundun as randiñipenes sos chamulian de ó.
+Luke 24:28 Y bigoreáron al gau, á duque chalaban: Y ó diñó simaches de chalar mas dur.
+Luke 24:29 Tami o detereláron sat sila, penando: Queda tucue sat amangue, presas tasata sinela, y o cam ha chalado ostely.  Y chaló andré sat junós.
+Luke 24:30 Y sinando bejelado sat junos á la mensalli, ustiló o tato, y o majarificó: y terelando asparabado, se lo diñaba.
+Luke 24:31 Y sináron despandadas as aquias de junós, y lo pincharáron; y ó entonces se najó de desquerias aquias.
+Luke 24:32 Y penáron yeque á aver: ¿Pre baji na bucharaba amaro carlochin enrún amangue, pur andré o drun chamuliaba sat amangue, chibando en dundun as randiñipenes?
+Luke 24:33 Y ardiñandose andré a mateja ocána, limbidiáron á Jerusalém: y alacháron catanés á os once, y á junos sos sinaban sat junós,
+Luke 24:34 Sos penáron; Chachipen, ha ardiñado o Erañó, y se ha diado á Simón.
+Luke 24:35 Y junos penáron ma les terelaba anacado andré o drun y sasta le habian pincherado al asparabar o tato.
+Luke 24:36 Y sinando chamuliando oconas buchias, se chitó Jesus en medio de junos, y les penó: Paz á sangue: menda sinelo, na darañeleis.
+Luke 24:37 Presas junos perelales de dal, y canguelo, penchababan que diquelaban yeque barbalé.
+Luke 24:38 Y les penó: ¿Presás terelais dal, y costunelan pensamientos á jirés carlochines?
+Luke 24:39 Diquelad minrias bastes y minrés pindrés, que menda matejo sinelo: pajabelad y diquelad, presas yeque barbalé na terela brinza ta cocális, sasta diquelais que terelo menda.
+Luke 24:40 Y penado ocono, les dió as bastes y os pindrés.
+Luke 24:41 Tami sasta aun na astisirasen creer, sinando maravillados de pesquital, les penó: ¿Terelais acoi buchi que jamar?
+Luke 24:42 Y junos le laneláron yeque arecata de macho querabado, y yeque frimita de anguin.
+Luke 24:43 Y habiendo jamado anglal de junos, ustiló as sobras, y se les diñó.
+Luke 24:44 Y les penó: Oconas sinelan as vardas sos pené á sangue, sinando aun con-a-sangue, que jomte que se perele o saro ma sinela libanado de mangue andré a Eschastra de Moysés, y andré os Prophetas, y andré os Psalmes.
+Luke 24:45 Entonces les despandó a suncai, somia que jabillasen as randiñapenes.
+Luke 24:46 Y les penó: Andiar sinela libanado, y andiar jomte que o Christo urjiyaráse, y ardiñáse al trincho chibes de enrún os mulés:
+Luke 24:47 Y que se chamuliase andré desquero nao penitencia y mecos de grecos á sari a sueti, y brotoboro á Jerusalém.
+Luke 24:48 Y sangue marchirés sinelais de ocónas buchias.
+Luke 24:49 Y menda bichabelo opré sangue á la buchi prometida de minrio Dada: Tami sangue permaneced acoi andré o foros, disde que sinelais perelalés de la sila e udscho.
+Luke 24:50 Y os sicabó abrí disde Bethania: y ardiñando desqueres hastes os majarificó.
+Luke 24:51 Y anacó, que o chiros que os majarificaba, se najó de junos, y sinaba lliguerado al Tarpe.
+Luke 24:52 Y junos despues de buchararse al chiquen y querelarle adoracion, se limbidiáron á Jerusalém sat bari pesquital.
+Luke 24:53 Y sinaban deltó andré a cangrí loando ta majarificando á Debél.  Unga. <div type="x-milestone" subType="x-preverse" sID="pv1"/><div sID="gen1177" type="paragraph"/>Saboca Enrecar Debel Ererio.<div eID="gen1177" type="paragraph"/> <div sID="gen1178" type="paragraph"/>Chachipè.<div eID="gen1178" type="paragraph"/> <chapter eID="gen1123" osisID="Luke.24"/> <div eID="gen1" osisID="Luke" type="book"/>
